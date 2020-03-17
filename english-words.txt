@@ -137,7 +137,7 @@ sovereign	<div>[sάv(ə)rən]</div>（名）主権者、君主<div>（形）主�
 pier	埠頭	
 contemplate	熟考する	
 frantic	熱狂した、狂乱した	
-arid	乾燥した、不毛の、（話などが）つまらない	
+arid	<div>[ˈærɪd]</div>（形）乾燥した、不毛の、（話などが）つまらない	
 combustible	（形）可燃性の、燃えやすい<div>（名）（通例〜s）可燃物</div>	
 estuary	河口	
 vent	（液体や気体が抜ける）穴、通気孔	
@@ -405,7 +405,7 @@ epoch	（歴史・人生上の）新時代、新時期、エポック
 endow	（通例受身形で）授けられている、（基金として）寄付する	
 thrust	（ある状態に）追いやる、押し付ける、突出する、突き進む	
 wholesale	卸売り	
-utility	公用、（通例 -ties で）公益事業	
+utility	公用、（通例 -ties で）公益事業、水道光熱費	
 refrain	慎む、断つ、やめる	
 probe	（動）探査する、精査する<div>（名）探査衛星</div>	
 feeble	（体が）弱い、（光・音などが）かすかな	
@@ -485,7 +485,7 @@ detergent	洗剤
 prestigious	権威のある、誉れ高い、一流の、社会的地位の高い	
 misplace	紛失する、置き忘れる	
 subsidiary	子会社	
-disruption	混乱、妨げ	
+disruption	混乱、妨げ、途絶、遮断	
 incur	（損失や罰金などを）受ける、被る、負担する	
 tentative	仮の	
 apprentice	見習い、実習生	
@@ -676,7 +676,7 @@ deductive	演繹的な
 abide by	（法律などを）遵守する	
 repeal	（法律などを）無効にする、取り消す	
 abolish	廃止する、根絶する	
-confiscate	<div>[confiscate]</div>押収する、没収する	
+confiscate	<div>[kάnfɪskèɪt]</div>押収する、没収する	
 appropriate（動詞の意味は？）	（動）着服する、私物化する<div>（形）適当な</div>	
 take effect	発効する	
 flatter	お世辞を言う、おだてる	
@@ -776,7 +776,7 @@ impeccably	（副）申し分なく
 unparalleled	無比の、前代未聞の	
 municipality	地方自治体	
 myriad	無数の、おびただしい	
-antagonistic	<div>[ænt`ægənístɪk]</div>対立する、敵対する	
+antagonistic	<div>[ænt`ægənístɪk]</div>（形）対立する、敵対する	
 averse	反対して、嫌って	
 bustling	活気のある、にぎわいのある、忙しそうな	
 hectic	猛烈に忙しい	
@@ -952,7 +952,7 @@ reiterate	反復する、繰り返して言う
 spark（動詞の意味は？）	（他）刺激する、鼓舞する<div>（自）火花を出す<br><div>（名）火花</div></div>	
 unleash	（想像力・技術などを）解き放つ	
 inventive	（形）創意に富んだ、発明の才のある	
-procure	調達する	
+procure	<div>[prəkjˈʊɚ]</div>調達する	
 subcontract	（名）下請け<div>（自）下請契約する</div>	
 royalty	[rˈɔɪ(ə)lti]<div>特許権使用料、著作権使用料</div><div>loyalty（忠誠心）と違うので注意</div>	
 infringe	（特許権などを）侵害する	
@@ -1034,3 +1034,149 @@ privatization	[prὰɪvəṭɪzéɪʃən]<div>民営化</div>
 bail out	（資金を提供して）救済する	
 hollowing-out	[ˈhɑloɪŋ]<div>（産業の）空洞化</div>	
 liquidity	流動性、資金供給量	
+sublet	（名）転貸（賃貸で借りている物件をさらに第三者に貸し出すこと）	
+down payment	頭金	
+mortgage	<div>[mˈɔɚgɪdʒ]</div>住宅ローン、担保	
+residence	住宅、住宅地、居住地	
+studio（スタジオ以外の意味）	<div>[st(j)úːdiòʊ]</div>（キッチン・バス・トイレ付きの）ワンルームマンション	
+floor plan	間取り	
+subdivision	<div>[ˈsʌbdɪˌvɪʒʌn]</div>分譲地、分譲計画	
+land lord	大家、地主	
+collateral	<div>[kəlˈæṭərəl]<br></div>担保（物件）	
+earnest money	手付金	
+mint condition	新品同様の状態	
+foreclosure	抵当権執行、差し押さえ	
+basement	地下室	
+penthouse	ビルの最上階の部屋、ペントハウス	
+skylight	天窓	
+screen（名詞でスクリーン以外の意味は？）	（名）網戸、（目隠し用の）ついたて、（映画・スライドの）スクリーン<div>（動）さえぎる、仕切る、網戸を取り付ける、上映する</div>	
+porch	玄関	
+exquisite	[ekskwízɪt]<div>優美な、精妙な</div>	
+vanity area	バニティエリア（女性の化粧室のこと）	
+sewer（[súːɚ]の発音の場合）	<div>下水道、下水</div><div>※[sóʊɚ] だと、縫う人</div>	
+petroleum	[pətróʊliəm]<div>石油、原油</div>	
+semiconductor	半導体	
+distiller	[dɪˈstɪlɝ]<div>醸造業者</div>	
+fishery	[fíʃ(ə)ri]<div>水産業</div>	
+forestry	林業	
+agro-industry	農産業	
+come to terms	合意に達する、交渉がまとまる	
+concede	<div>[kənsíːd]</div>譲歩する	
+counteroffer	[ˈkaʊntɝˌɔfɝ]<div>対案、逆提案</div>	
+reciprocate	（自）等価値のものを相手に返す、返礼する<div>（他）報いる</div>	
+walk away（立ち去る以外）	交渉をやめる	
+impasse	<div>[ímpæs]</div>（名）手詰まり、行き詰まり	
+land a deal	交渉をまとめる	
+pursuant to	[pɚsúːənt]<div>〜に従って</div>	
+default（動詞の意味は？）	<div>[dɪfˈɔːlt]</div>（動）（義務などを）履行しない、果たさない<div>（名）デフォルト、怠ること、欠席</div>	
+breach	（名）違反<div>（他）違反する</div>	
+seal	（他）調印する、密封する<div>（名）印鑑、押印、アザラシ</div>	
+notary public	<div>[nóʊṭəri]</div>公証人	
+deem	〜とみなす	
+provision（名詞の意味は？）	（名）条項、規定、供給、用意<div>（動）供給する</div>	
+onslaught	<div>[ˈɔˌnslɔt]</div>猛攻撃	
+flick	（自）（他）（指先で）はじく、さっと払う	
+justify（正当化する以外の意味）	字間を調節する	
+blink	点滅する	
+garbled	<div>[ˈgɑrbʌld]</div>文字化けしている	
+dot-com	インターネット関連企業、ドットコム企業	
+electronic settlement	電子決済	
+fiber optics	光ファイバー	
+ringtone	着信音	
+pager	ポケベル	
+hook up	（インターネットなどに）接続する	
+tap into	接続する、侵入する	
+padlock symbol	南京錠のアイコン	
+censorship	検閲	
+janitor	<div>[dʒˈænəṭɚ]</div>用務員、清掃作業員	
+stint	（一定期間に割り当てられた）仕事、任務	
+run errands	[ˈɛrʌndz]<div>お使いに出かける</div>	
+punch in	出社のタイムカードを押す<div>punch out だと退社のタイムカードを押す</div>	
+recess	<div>[ríːses]<br></div>休憩	
+answering machine	留守番電話	
+letter pads	便箋	
+stationery	文房具、便箋	
+pantry	食器室	
+paper jam	（コピー機の）紙詰まり	
+water dispenser	ウォーターサーバー	
+correction fluid	修正液	
+gluestick	スティックのり	
+sticky notes	付箋	
+adhesive	[ædhíːsɪv]<div>接着剤</div>	
+thumbtack	画鋲	
+registered（登録した以外の）	（形）書留の、登録した	
+salutation	挨拶（言葉）	
+moisten	<div>[mˈɔɪsn]</div>（切手を貼り付ける時に裏面を）濡らす	
+collate	[kəléɪt]<div>丁合いする、ページ順に並べる</div>	
+acronym	<div>[ˈækrənìm]</div>（名）頭文字	
+RSVP	お返事ください	
+make it	（パーティー・会議などに）参加できる、出席できる	
+Regrets only	ご欠席の場合のみお返事ください	
+reception（受付以外の意味）	披露宴、歓迎会	
+alumni	[əˈlʌmnɑi]<div>同窓生</div><div>（alumnusの複数形）</div>	
+ovation	[oʊvéɪʃən]<div>（名）拍手喝采</div>	
+heartfelt	（形）真心のこもった	
+condolence	[kəndóʊləns]<div>お悔やみ、哀悼、弔辞</div>	
+bereaved	[biríːvd]<div>家族を失った</div>	
+mourning	哀悼、服喪	
+eulogy	[júːlədʒi]<div>弔辞</div>	
+rite	儀式、儀礼	
+amiable	[éɪmiəbl]<div>感じの良い、気立ての良い、友好的な</div>	
+upright position	正位置	
+carry-on luggage	機内持ち込み手荷物	
+stow	<div>[stóʊ]</div>（他）しまい込む	
+turbulence	[tˈɚːbjʊləns]<div>（名）（飛行機の）揺れ、乱気流</div>	
+toiletries	[ˈtɔɪlʌtriz]<div>洗面用品、化粧品</div>	
+stub（切り株以外の意味）	<div>[stˈʌb]</div>（名）（搭乗券の）半券	
+layover	（乗り継ぎの）待ち時間	
+runway（ステージ以外の意味）	滑走路、舞台、ステージ	
+coach（コーチ、四輪大型馬車以外の意味）	エコノミー座席、コーチ、四輪大型馬車	
+disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国</div>	
+quarantine（名詞の意味は？）	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
+carousel	[k`ærəsél]<div>（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
+valet parking	<div>[vˈælət]</div>係員付き注射サービス	
+sojourn	[sóʊdʒɚːn]<div>（名）一時滞在</div><div>（自）滞在する</div>	
+expatriate	<div>[ekspéɪtrièɪt]</div>（名）居住外国人、海外駐在員	
+bumper-to-bumper	（形）（車が）数珠つなぎの、渋滞した	
+overpass	（名）陸橋	
+toll booth	料金所	
+turnstile	[ˈtɝˌnstaɪl]<div>改札</div>	
+shuttle（動詞の意味は？）	（自）頻繁に往復運転する<div>（名）シャトル便、シャトルバス</div>	
+trolley	[trάli]<div>路面電車</div>	
+chauffeur	[ʃóʊfɚ]<div>（名）お抱え運転手</div><div>（他）（人を）車で送る</div>	
+median（名詞で中央値以外の意味）	（名）中央分離帯、中央値<div><div>（形）中央の</div></div>	
+dead end	袋小路、行き止まり	
+jaywalk	<div>[ˈdʒeɪ.wɔːk]</div>（自）交通信号を無視して道路を渡る	
+gridlock	（名）交通渋滞	
+divert	（動）方向転換する・させる	
+tow truck	<div>[tóʊ]</div>レッカー車	
+funicular	[fjʊníkjʊlɚ]<div>ケーブルカー、ケーブル鉄道</div>	
+hood（フード以外の意味）	（名）ボンネット、フード	
+mileage（総マイル数以外の意味）	[mάɪlɪdʒ]<div>燃費、総マイル数</div>	
+flat tire	パンク	
+skid	（自）スリップする<div>（名）スリップ</div>	
+speeding	スピード違反	
+rollover	（名）転覆	
+hit-and-run（野球のヒットエンドラン以外の意味）	ひき逃げ、ヒットエンドラン	
+premium（名詞の意味は？）	（名）保険料、保険の掛け金<div>（形）品質が良くて高価な</div>	
+coverage（範囲以外の意味）	（保険の）保証金額、保証範囲	
+contribution（寄付、寄付金以外の意味）	保険料、掛け金、負担（金）、寄付、寄付金	
+paid-up	（形）（保険金などを）支払い済みの	
+annuity	<div>[ən(j)úːəṭi]</div>（名）年金（額）、年金保険投資	
+set aside（put aside）	〜を積み立てる、〜を蓄える	
+tax break	税制優遇措置、税控除	
+deforestation	森林破壊、山林伐採	
+carbon dioxide	二酸化炭素	
+logging	[ˈlɔgɪŋ]<div>（名）伐採</div>	
+coral reef	サンゴ礁	
+acid rain	酸性雨	
+carcinogen	[kɑɚsínədʒən]<div>発がん性物質</div>	
+carbon footprint	二酸化炭素排出量	
+biodegradable	<div>[ˌbaɪodʌˈgredʌbʌl]</div>生物分解性の	
+compost	堆肥	
+additive	（食品などの）添加物	
+intake	<div>[ˈɪˌntek]</div>（名）摂取	
+littering	（名）ゴミのポイ捨て	
+incineration	<div>[ɪnsìnəréɪʃən]</div>（名）（ゴミの）焼却	
+landfill	[ˈlænd.fɪl]<div>埋め立てゴミ処理場</div>	
+sewage	[súːɪdʒ]<div>汚水、下水</div>	
