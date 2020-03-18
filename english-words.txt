@@ -49,7 +49,7 @@ Uncle Sam	アンクル・サム（米国政府を擬人化した呼称）
 mercury	水銀、水星	
 limestone	石灰岩	
 swamp	沼地	
-meteor	流星、隕石	
+meteor	<div>[míːṭiɚ]</div>流星、隕石	
 blowhole	（クジラなどの）噴気孔	
 grief	悲しみ	
 archaeology	考古学	
@@ -81,7 +81,7 @@ liable	〜しがちな、責めを負うべき、法的責任がある
 peninsula	半島	
 Neolithic	（the〜）新石器時代	
 cordial	心からの	
-kerosene	灯油	
+kerosene	<div>[kérəsìːn]</div>灯油	
 timber	木材	
 insulate	（熱などを）遮断する	
 quarrel	（名）口げんか<div>（動）口げんかする</div>	
@@ -159,12 +159,12 @@ fur	毛皮
 enchant	魅了する	
 flawless	傷のない、完全な	
 flammable	可燃性の	
-improvise	即興で演奏する、即席に作る	
+improvise	<div>[ímprəvὰɪz]</div>即興で演奏する、即席に作る	
 granite	花こう岩	
 enzyme	酵素	
 viscosity	粘着性、粘度、粘性	
 glue	（名）接着剤、にかわ、のり<div>（動）接着剤でつける</div>	
-rhinoceros	サイ	
+rhinoceros	<div>[rɑɪnάs(ə)rəs]</div>サイ	
 tease	からかう	
 applaud	拍手喝采する	
 rodent	（ネズミやウサギなどの）齧歯動物	
@@ -188,7 +188,7 @@ jury	<div>[dʒˈʊ(ə)ri]</div>陪審（員団）、審査員団
 riot	暴動	
 delinquent	非行の、義務不履行（怠慢）の	
 spine	脊柱、背骨	
-intimate	熟知した、親密な、仲の良い、内々の、私事の	
+intimate	（形）熟知した、親密な、仲の良い、内々の、私事の<div>※ intimates だと女性の下着類（名詞）</div>	
 edible	食べられる	
 engrave	（石などに文字や図案を）彫る、刻む	
 sediment	堆積物、沈殿物	
@@ -261,7 +261,7 @@ clam	（ハマグリなどの）二枚貝
 pact	条約	
 dwarf	（動）（対照的に）小さく見せる<div>（名）小人</div>	
 dorsal	背面にある	
-vanish	消える、見えなくなる	
+vanish	（自）消える、見えなくなる	
 cobblestone street	石で舗装された道	
 tilt	（動）傾かせる、傾く<div>（名）傾き</div>	
 catalyst	触媒	
@@ -342,7 +342,7 @@ chronicle	年代記、記録
 peck	（動）（鳥が）ついばむ、（くちばしで）つつく<div>（名）ついばむこと</div>	
 dove	鳩	
 usher	（動）〜の先触れとなる、到来を告げる、案内する<div>（名）（劇場の）案内係</div>	
-banish	追放する、追い払う	
+banish	（他）追放する、追い払う	
 fatigue	<div>[fətíːg]</div>（名）（心身の相当な）疲れ<div>（動）とても疲れさせる</div>	
 omnivore	（人間などのように）雑食性の動物	
 tremor	（声などの）震え、（地面などの）震動	
@@ -378,7 +378,7 @@ transfusion	輸血
 terra	土、大地	
 fossil	化石	
 stir	（液体などを）かき混ぜる、（かすかに）動かす	
-steer	（船などの）舵を取る	
+steer	<div>[stíɚ]</div>（船などの）舵を取る	
 damp	（不快な）湿気のある	
 nest	（名）巣<div>（動）巣ごもる</div>	
 magnetism	磁気、磁性、磁気作用	
@@ -816,7 +816,7 @@ impediment	障害、妨げ
 pending（「未解決の」以外の意味）	目前に迫った	
 contingency	不慮の出来事、偶発事象	
 craving	渇望、欲求	
-savor	風味、におい、楽しみ	
+savor	（名）風味、におい、楽しみ<div>（動）賞味する</div>	
 aptitude	才能、素質、適性	
 prodigy	<div>[prάdədʒi]</div>神童、天才	
 environs	近郊、郊外	
@@ -980,7 +980,7 @@ white goods	白物家電（冷蔵庫や洗濯機など）
 brown goods	褐色家電（テレビやオーディオ、パソコンなど）	
 cash cow	ドル箱商品、儲かる事業	
 unbutton	（動）ボタンを外す	
-tuck	（動）（すそ、へりを）押し込む、たくし込む	
+tuck	（動）（すそ、へりを）押し込む、たくし込む<div>（名）縫いひだ、タック</div>	
 single-file	一列縦隊の	
 sail	（名）（船の）帆、帆に似たもの	
 pull out of	（列車・バスなどが）〜出発する	
@@ -1027,7 +1027,7 @@ nadir	[néɪdɪɚ]<div>どん底</div>
 windfall	[ˈwɪˌndfɔl]<div>思いがけず手に入った収入、棚ぼた</div>	
 sluggish	（形）不況の、停滞した	
 bust	<div>[bˈʌst]</div>不景気、不況	
-dip	底	
+dip（名詞の意味は？）	（名）底<div>（動）浸す</div>	
 CPI	消費者物価指数<div>consumer price index</div>	
 deregulation	<div>[dìːrègjʊléɪʃən]</div>規制緩和	
 privatization	[prὰɪvəṭɪzéɪʃən]<div>民営化</div>	
@@ -1134,7 +1134,7 @@ coach（コーチ、四輪大型馬車以外の意味）	エコノミー座席�
 disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国</div>	
 quarantine（名詞の意味は？）	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
 carousel	[k`ærəsél]<div>（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
-valet parking	<div>[vˈælət]</div>係員付き注射サービス	
+valet parking	<div>[vˈælət]</div>係員付き駐車サービス	
 sojourn	[sóʊdʒɚːn]<div>（名）一時滞在</div><div>（自）滞在する</div>	
 expatriate	<div>[ekspéɪtrièɪt]</div>（名）居住外国人、海外駐在員	
 bumper-to-bumper	（形）（車が）数珠つなぎの、渋滞した	
@@ -1180,3 +1180,39 @@ littering	（名）ゴミのポイ捨て
 incineration	<div>[ɪnsìnəréɪʃən]</div>（名）（ゴミの）焼却	
 landfill	[ˈlænd.fɪl]<div>埋め立てゴミ処理場</div>	
 sewage	[súːɪdʒ]<div>汚水、下水</div>	
+smorgasbord	[smˈɔɚgəsb`ɔɚd]<div>（名）バイキング（方式）</div>	
+treat（名詞の意味は？）	（名）ごちそう、もてなし、楽しみ<div>（他）扱う、みなす、治療する</div><div>（自）扱う、交渉する、おごる</div>	
+entree	[άːntreɪ]<div>主菜、メインディッシュ</div>	
+sunny-side up	目玉焼き<div>※または fried egg</div>	
+over easy	（卵の）半熟の両面焼き<div>※よく焼く場合は over hard</div>	
+eatery	<div>[íːṭəri]</div>（名）軽食堂、小さなレストラン	
+deli	デリカッセン（delicatessenの短縮語）<div>惣菜やサラダなどを売る食品店</div>	
+fare（名詞で、運賃・乗客以外の意味）	（名）料理、運賃、乗客<div>（動）暮らす</div>	
+relish	<div>[rélɪʃ]</div>風味、香り	
+feast	（名）ごちそう、祝宴	
+greasy	<div>[gríːsi]</div>（形）脂っこい	
+best by 〜	賞味期限は〜まで	
+picky	（形）好き嫌いが多い	
+saute	<div>[sɔːtéɪ]</div>（他）少量の油で炒める、ソテーにする	
+simmer	[símɚ]<div>弱火で煮る</div>	
+chop	細かく切る、みじん切りにする	
+mince	<div>[míns]</div>（肉などを）細かく切る、ひき肉にする	
+cube（動詞の意味は？）	<div>（動）さいの目に切る、3乗する<br></div>（名）立方体	
+grate	（他）おろす、すりつぶす	
+produce section	青果コーナー	
+condiment	<div>[kάndəmənt]</div>調味料、香辛料	
+cold cuts	切り売りされる肉加工食品	
+green pepper	ピーマン	
+cod	[kάd]<div>（名）タラ</div>	
+shellfish	（カニ・エビなどの）甲殻類	
+poultry	[póʊltri]<div>鶏肉、家禽類の肉</div>	
+alteration	（衣服の）寸法直し、（ズボンの）裾上げ	
+textile	<div>[tékstɑɪl]</div>（名）繊維製品、織物	
+hosiery	[hóʊʒ(ə)ri]<div>靴下類、タイツ類</div>	
+panty hose	[hóʊz]<div>パンティストッキング</div>	
+lapel	[ləpél]<div>（名）スーツなどの襟の折り返し</div>	
+cuff	（名）袖口、ズボンの裾の折り返し	
+crease	[kríːs]<div>ズボンの折り目、ひだ</div>	
+purse	<div>[pˈɚːs]</div><div>米だとハンドバッグ</div>英だと財布<div>※米の財布はwallet、英のハンドバッグはhandbag</div>	
+dye	（他）染色する	
+plaid	<div>[plˈæd]</div>（形）格子柄の<div>（名）格子柄</div>	
