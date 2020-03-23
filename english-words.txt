@@ -5,7 +5,7 @@ grain	穀物、（砂などの）粒、（the 〜）木目
 fond	好んで<br>be fond of 〜: 〜を好む	
 affluent	豊富な	
 saw	のこぎり<div>※ sew「縫う」と混同注意</div>	
-odor	匂い、香気	
+odor	<div>[óʊdɚ]</div>匂い、香気	
 scent	香り	
 brochure	小冊子、パンフレット	
 habitat	（動物や植物の）生息域	
@@ -49,7 +49,7 @@ Uncle Sam	アンクル・サム（米国政府を擬人化した呼称）
 mercury	水銀、水星	
 limestone	石灰岩	
 swamp	沼地	
-meteor	<div>[míːṭiɚ]</div>流星、隕石	
+meteor	<div>[míːṭiɚ]</div>流星、隕石、大気現象	
 blowhole	（クジラなどの）噴気孔	
 grief	悲しみ	
 archaeology	考古学	
@@ -75,7 +75,7 @@ blacksmith	鍛冶屋
 barter	（名）物々交換<div>（動）物々交換する</div>	
 graze	（家畜などが）草を食べる	
 steppe	大草原	
-haze	かすみ、もや	
+haze	（名）かすみ、もや<div>（自）もやをかぶる</div>	
 dough	パン生地、こね粉	
 liable	〜しがちな、責めを負うべき、法的責任がある	
 peninsula	半島	
@@ -140,7 +140,7 @@ frantic	熱狂した、狂乱した
 arid	<div>[ˈærɪd]</div>（形）乾燥した、不毛の、（話などが）つまらない	
 combustible	（形）可燃性の、燃えやすい<div>（名）（通例〜s）可燃物</div>	
 estuary	河口	
-vent	（液体や気体が抜ける）穴、通気孔	
+vent	（液体や気体が抜ける）穴、通気口	
 statutory	法定の、法令による	
 drain	（動）排水する<div>（名）排水管</div>	
 demanding	きつい	
@@ -505,7 +505,7 @@ picturesque	絵のように美しい
 withstand	耐える	
 aspiring	〜志望の、〜になろうとする	
 assorted	詰め合わせの	
-obstruct	（道路や視界を）ふさぐ、さえぎる	
+obstruct	（道路や視界を）ふさぐ、さえぎる、妨害する	
 fierce	熾烈な	
 reluctant	気乗りしない、渋っている	
 commence	<div>[kəméns]</div>始める	
@@ -640,7 +640,7 @@ scrutinize	綿密に調べる
 set off	始動する、作動する	
 embark on	〜に乗り出す、〜を開始する	
 affection	愛情、影響<div>※愛情の意味でよく使われる</div>	
-allure	魅惑する、そそのかす	
+allure	（動）魅惑する、そそのかす<div>（名）魅惑</div>	
 entice	誘う、誘惑する	
 promulgate	<div>[prάməlgèɪt]</div>公布する	
 diffuse	（他）広める、（光などを）発散する<div>（自）広がる</div>	
@@ -703,7 +703,7 @@ detain	拘束する、引き留める
 detention	拘束	
 tap（軽く叩く以外の意味）	利用する、開発する	
 reprimand	<div>[réprəm`ænd]</div>（業務上で）叱責する	
-rebuke	強く避難する、叱責する	
+rebuke	強く非難する、叱責する	
 venture	（他）思い切って〜する<div>（自）思い切って試みる</div>	
 err	間違う、ミスを犯す	
 errant	逸脱した、遍歴する	
@@ -777,7 +777,7 @@ unparalleled	無比の、前代未聞の
 municipality	地方自治体	
 myriad	無数の、おびただしい	
 antagonistic	<div>[ænt`ægənístɪk]</div>（形）対立する、敵対する	
-averse	反対して、嫌って	
+averse	（形）反対して、嫌って	
 bustling	活気のある、にぎわいのある、忙しそうな	
 hectic	猛烈に忙しい	
 superfluous	<div>[sʊpˈɚːfluəs]</div>余分な、不必要な	
@@ -799,7 +799,7 @@ ambience	雰囲気、環境
 break out	勃発する、（突然）始まる	
 pal	仲間、友人	
 seduction	誘惑、そそのかし	
-lure	魅力、引きつけるもの	
+lure	（名）魅力、引きつけるもの<div>（動）誘惑する</div>	
 penchant	<div>[péntʃənt]</div>傾向、強い好み	
 remuneration	<div>[rɪmjùːnəréɪʃən]</div>報酬、給与	
 dispute	論争	
@@ -878,7 +878,7 @@ pink slip	解雇通知
 outplacement	再就職・転職の斡旋	
 absenteeism	欠勤	
 grievance	<div>[gríːv(ə)ns]</div>不平、苦情	
-mobility	流動性、転職が多いこと	
+mobility（可動性以外の意味は？）	流動性、転職が多いこと	
 collective bargaining	団体交渉	
 arbitration	調停	
 solidarity	<div>[sὰlədˈærəṭi]</div>連帯感	
@@ -1102,7 +1102,7 @@ water dispenser	ウォーターサーバー
 correction fluid	修正液	
 gluestick	スティックのり	
 sticky notes	付箋	
-adhesive	[ædhíːsɪv]<div>接着剤</div>	
+adhesive	[ædhíːsɪv]<div>（名）接着剤</div><div>（形）粘着性の</div>	
 thumbtack	画鋲	
 registered（登録した以外の）	（形）書留の、登録した	
 salutation	挨拶（言葉）	
@@ -1131,8 +1131,8 @@ stub（切り株以外の意味）	<div>[stˈʌb]</div>（名）（搭乗券の�
 layover	（乗り継ぎの）待ち時間	
 runway（ステージ以外の意味）	滑走路、舞台、ステージ	
 coach（コーチ、四輪大型馬車以外の意味）	エコノミー座席、コーチ、四輪大型馬車	
-disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国</div>	
-quarantine（名詞の意味は？）	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
+disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国、下船</div>	
+quarantine	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
 carousel	[k`ærəsél]<div>（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
 valet parking	<div>[vˈælət]</div>係員付き駐車サービス	
 sojourn	[sóʊdʒɚːn]<div>（名）一時滞在</div><div>（自）滞在する</div>	
@@ -1188,7 +1188,7 @@ over easy	（卵の）半熟の両面焼き<div>※よく焼く場合は over ha
 eatery	<div>[íːṭəri]</div>（名）軽食堂、小さなレストラン	
 deli	デリカッセン（delicatessenの短縮語）<div>惣菜やサラダなどを売る食品店</div>	
 fare（名詞で、運賃・乗客以外の意味）	（名）料理、運賃、乗客<div>（動）暮らす</div>	
-relish	<div>[rélɪʃ]</div>風味、香り	
+relish	<div>[rélɪʃ]</div>（名）風味、香り<div>（動）おいしく食べる、楽しむ</div>	
 feast	（名）ごちそう、祝宴	
 greasy	<div>[gríːsi]</div>（形）脂っこい	
 best by 〜	賞味期限は〜まで	
@@ -1216,3 +1216,44 @@ crease	[kríːs]<div>ズボンの折り目、ひだ</div>
 purse	<div>[pˈɚːs]</div><div>米だとハンドバッグ</div>英だと財布<div>※米の財布はwallet、英のハンドバッグはhandbag</div>	
 dye	（他）染色する	
 plaid	<div>[plˈæd]</div>（形）格子柄の<div>（名）格子柄</div>	
+cold front	寒冷前線	
+shower（シャワー以外の名詞の意味）	にわか雨	
+taper off	（雨などが）上がる、先細りになる	
+bundle up（束にする以外の動詞の意味）	厚着をする	
+overcast（形容詞の意味は？）	（形）曇った	
+precipitation	[prɪsìpətéɪʃən]<div>降水（量）</div>	
+downpour	<div>[ˈdaʊnpɔr]</div>豪雨	
+downfall	（大量の）雨・雪	
+torrential	[tɔːrénʃəl]<div>激しい、猛烈な</div>	
+sleet	凍雨	
+muggy	<div>[mˈʌgi]</div>（形）蒸し暑い	
+gust	（名）突風<div>（自）突風が吹く</div>	
+low pressure	低気圧	
+scattered	（形）広い範囲に散らばった	
+heat wave	熱波、酷暑	
+isobar	<div>[άɪsəbὰɚ]</div>等圧線	
+seismic	[sάɪzmɪk]<div>（形）地震の</div>	
+avalanche	[ˈævəl`æntʃ]<div>雪崩</div>	
+landslide	<div>[ˈlænd.slaɪd]</div>地滑り	
+meteorology	[mìːṭiərάlədʒi]<div>気象学</div>	
+temperate	（形）節制のある、温和な	
+inland（名詞の意味は？）	[ínl`ænd]<div>（名）内陸地方</div><div>（形）内陸の</div>	
+plain（名詞の意味は？）	（名）平原、平野<div>（形）明白な、無地の</div>	
+archipelago	[ὰɚkəpéləgòʊ]<div>列島、群島</div>	
+polish	磨く	
+cutlery	<div>[kˈʌtləri]</div>（名）食卓用金物類	
+cupboard	<div>[kˈʌbɚd]</div>食器棚、戸棚	
+broom	<div>[brúːm]</div>（名）ほうき	
+pesticide	殺虫剤	
+porcelain	[pˈɔɚs(ə)lɪn]<div>陶器</div>	
+fluorescent lamp	<div>[flɔːr)résnt]</div>蛍光灯	
+flashlight	懐中電灯	
+clothespin	<div>[kˈlouzpìn]</div>洗濯バサミ	
+watering can	じょうろ	
+screwdriver	[ˈskruˌdraɪvɝ]<div>ねじ回し、スクリュードライバー（ウォッカとオレンジジュースのカクテル）</div>	
+nail（爪以外の名詞）	（名）くぎ、爪	
+pliers	ペンチ<div>※複数で使う</div>	
+adolescence	[`ædəlésns]<div>思春期、未成年期</div>	
+toddler	[ˈtɑdlɝ]<div>幼児、よちよち歩きの赤ちゃん</div>	
+stroller	（折りたたみ式の）乳母車<div>※普通の乳母車はbaby buggyや単にbuggyと言う</div>	
+marital status	<div>[mˈærəṭl]</div>配偶者の有無、婚姻の状況	
