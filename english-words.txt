@@ -335,7 +335,7 @@ swell	（打撲・病気などで）腫れる
 sprain	捻挫（ねんざ）する<br>	
 reign	統治する	
 anguish	苦痛、悲しみ	
-upset	駄目にする、転覆させる	
+upset	（動）駄目にする、転覆させる<div>（形）怒って、動揺して</div>	
 shiver	（動）（寒さで）震える<div>（名）震え、悪寒</div>	
 pivotal	（形）中心となる	
 chronicle	年代記、記録	
@@ -396,7 +396,7 @@ chronological order	年代順
 commonplace	（形）ありふれた、平凡な<div>（名）ありふれたこと</div>	
 synthesis	統合、合成	
 entomology	昆虫学	
-discharge	（動）（気体・液体などを）排出する、解雇する<div>（名）流出、荷下ろし、解任</div>	
+discharge	（動）（気体・液体などを）排出する、解雇する<div>（名）流出、荷下ろし、解任、退院</div>	
 porous	多孔性の、浸透性の	
 discreet	思慮深い、（言動が）慎重な<div>※ discrete「分離した、別個の」との混同注意</div>	
 affirm	主張する、断言する	
@@ -418,7 +418,7 @@ institution	機関、団体、しきたり
 commission	（動）委託する、委任する<div>（名）委員会、歩合給</div>	
 brick	レンガ	
 be propped up against	〜に立てかける	
-auditorium	講堂	
+auditorium	講堂、（劇場・ホールの）観客席	
 slanted	傾斜した、斜めの	
 pottery	陶器、瀬戸物	
 unattended	（担当の）人がいない	
@@ -585,7 +585,7 @@ faucet	蛇口
 amendment	改正、修正	
 consolidate	統合する	
 vigorous	活気のある、精力的な	
-retreat	研修旅行	
+retreat	研修旅行、休養する場所、憩いの場	
 custodian	管理人、守衛	
 impending	間近に迫った、差し迫った	
 itemize	項目別にする	
@@ -756,7 +756,7 @@ acute	激しい、急性の
 low-key	控えめな、（感情などを）抑えた	
 compulsory	義務的な、強制的な	
 obligatory	<div>[əblígət`ɔːri]</div>義務的な、強制的な	
-serial	連続する、連載の、連番の	
+serial	（形）連続する、連載の、連番の<div>（名）連載</div>	
 intense	<div>[ɪnténs]</div>激しい、情熱的な	
 intensify	（他）強くする<div>（自）強くなる</div>	
 ardent	熱心な、情熱的な	
@@ -904,7 +904,7 @@ dividend	[dívədènd]<div>配当</div>
 loan-loss provisions	貸倒引当金	
 income statement	P/L、損益計算書	
 close the book	決算する	
-ledger	台帳、元帳	
+ledger	<div>[lédʒɚ]</div>台帳、元帳	
 bottom line	最終損益	
 accounts receivable	売掛金	
 depreciation	（有形固定資産の）減価償却	
@@ -1252,8 +1252,138 @@ clothespin	<div>[kˈlouzpìn]</div>洗濯バサミ
 watering can	じょうろ	
 screwdriver	[ˈskruˌdraɪvɝ]<div>ねじ回し、スクリュードライバー（ウォッカとオレンジジュースのカクテル）</div>	
 nail（爪以外の名詞）	（名）くぎ、爪	
-pliers	ペンチ<div>※複数で使う</div>	
+pliers	<div>[plάɪɚz]</div>ペンチ<div>※複数で使う</div>	
 adolescence	[`ædəlésns]<div>思春期、未成年期</div>	
 toddler	[ˈtɑdlɝ]<div>幼児、よちよち歩きの赤ちゃん</div>	
 stroller	（折りたたみ式の）乳母車<div>※普通の乳母車はbaby buggyや単にbuggyと言う</div>	
 marital status	<div>[mˈærəṭl]</div>配偶者の有無、婚姻の状況	
+blender	ミキサー	
+razor	<div>[réɪzɚ]</div>電気カミソリ	
+alternating current	<div>[ɔ'ːltərnèitiŋ]</div>交流（電源）、AC<div>※直流はdirect current（DC）</div>	
+resolution（名詞で、決意・決断以外の意味）	（名）（モニターや画面の）解像度	
+language arts	言語科目	
+humanities	[hjuˈmænɪtiz]<div>人文科学</div>	
+prerequisite（「前もって必要な」以外の形容詞）	（形）必修の、前もって必要な<div>（名）必修科目、必要条件</div>	
+extension（名詞で拡張、内線以外の意味）	（名）（大学の）公開講座、拡張、内線<div>（形）大学公開の、伸縮自在の、内線の</div>	
+diploma	[dɪplóʊmə]<div>卒業証書、学位</div>	
+sabbatical	[səbˈæṭɪk(ə)l]<div>（名）（大学教授などの）長期有給休暇、研究休暇</div><div>（形）サバティカルの</div>	
+general practitioner	一般開業医<div>※GPと略す</div>	
+nauseous	<div>[nˈɔːʃəs]</div>（形）吐き気がする	
+diarrhea	[dὰɪəríːə]<div>下痢</div>	
+runny nose	[rˈʌni]<div>鼻水</div>	
+contagious	<div>[kəntéɪdʒəs]</div>（形）伝染病の、接触感染性の	
+anemia	<div>[əníːmiə]</div>貧血	
+insomnia	[ɪnsάmniə]<div>不眠症</div>	
+stroke（名詞で打つこと・ストローク以外の意味）	（名）脳梗塞、脳卒中、発作<div>（動）打つ</div>	
+diabetes	[dὰɪəbíːtiːz]<div>糖尿病</div>	
+obesity	[oʊbíːsəṭi]<div>（名）肥満</div>	
+fracture（名詞で「砕けること」以外の意味）	<div>[frˈæktʃɚ]</div>（名）骨折、砕けること<div>（他）折る、破砕する</div><div>（自）折れる</div>	
+sneeze	（名）くしゃみ<div>（動）くしゃみをする</div>	
+heartburn	[ˈhɑˌrtbɝn]<div>（名）（消化不良による）胸焼け</div>	
+rash	（名）発疹、ふきでもの	
+itchy	<div>[ítʃi]</div>（形）かゆい	
+bleed	[blíːd]<div>（自）出血する</div>	
+dizzy	[dízi]<div>（形）めまいがする</div>	
+numb	[nˈʌm]<div>（形）しびれた、無感覚になった</div>	
+psychiatrist	[səkάɪətrɪst]<div>精神科医</div>	
+outpatient	[ˈaʊˌtpeʃʌnt]<div>外来患者</div><div>※入院患者はinpatient</div>	
+hospitalization	<div>[hὰspɪṭəlɪzéɪʃən]</div>入院	
+checkup（照合以外の名詞）	（名）健康診断、照合	
+over-the-counter	（形）（処方薬ではなく）市販の	
+antibiotics	（名）抗生物質	
+pill（ピル以外の名詞）	（名）錠剤、ピル<div>※粉薬はpowder</div>	
+dose	[dóʊs]<div>（名）服用</div><div>（他）服用させる</div>	
+stature	[stˈætʃɚ]<div>（名）身長、背丈</div>	
+build（名詞の意味は？）	（名）体格、体つき<div>（動）建設する、組み立てる</div>	
+organ	<div>[ˈɔɚg(ə)n]</div>（名）臓器、器官、オルガン	
+kidney	[kídni]<div>腎臓</div>	
+intestine	[ɪntéstɪn]<div>腸</div>	
+pancreas	[pˈæŋkriəs]<div>すい臓</div>	
+vein	静脈	
+artery	<div>[άɚṭəri]</div>動脈	
+temple（名詞で寺以外の意味）	（名）こめかみ、寺	
+forehead	[fˈɔɚhèd]<div>額</div>	
+eyelid	<div>[άɪlìd]</div>まぶた	
+eyelash	[ˈaɪˌlæʃ]<div>まつげ</div>	
+jaw	[dʒˈɔː]<div>あご</div>	
+lumbar	[lˈʌmbɚ]<div>（名）腰椎</div><div>（形）腰の</div>	
+upper arm	二の腕	
+belly	[béli]<div>（名）腹、腹部</div>	
+navel	[néɪv(ə)l]<div>へそ</div>	
+thigh	[θάɪ]<div>太もも</div>	
+buttocks	[ˈbʌtəks]<div>尻</div><div>※bottomも尻の意味を持つ</div>	
+self-esteem	自尊心	
+furious	<div>[fjˈʊ(ə)riəs]</div>（形）激怒した、憤慨した	
+strain	（名）精神的緊張、ストレス	
+overwhelmed	（形）打ちのめされた、困惑した	
+diversion（転換以外の名詞）	<div>[dɪvˈɚːʒən]</div>（名）気晴らし、気分転換、娯楽、転換	
+day trip	日帰り旅行	
+outing	外出、おでかけ、遠足	
+cardio program	[kάɚdioʊ]<div>心肺機能強化プログラム</div>	
+calisthenics	[k`æləsθénɪks]<div>美容体操、健康体操</div>	
+initiation fee	入会費	
+expedition	[èkspədíʃən]<div>（名）小旅行、探検旅行</div>	
+getaway（名詞で逃走以外の意味）	<div>[gétəwèi]</div>（名）短期の保養、保養地	
+pageant	<div>[pˈædʒənt]</div><div>（名）野外劇、歴史衣装をまとったパレード<br></div>	
+concession stand	[kənséʃən]<div>（場内の）売店</div>	
+rain check	雨天順延券、（売り切れ商品の）後日購入券<div>※「次回の機会」という意味で誘いを断る時などに使える</div>	
+blockbuster	<div>[blάkb`ʌstɚ]</div>（映画・音楽・本などの）大ヒット作	
+sequel	<div>[síːkwəl]</div>（映画などの）続編	
+protagonist	<div>[proʊtˈægənɪst]</div>主人公、主役	
+villain	[vílən]<div>悪役</div>	
+multiplex（名詞の意味は？）	<div>[mˈʌltəplèks]</div>（名）シネマコンプレックス（同一の施設に複数のスクリーンがある映画館）<div>（形）多様な、複合の</div>	
+matinee	[m`æṭənéɪ]<div>（名）昼の部</div>	
+soiree	<div>[swɑːréɪ]</div>（名）夜の部	
+epic	[épɪk]<div>長編映画、大作</div>	
+backdrop	（劇場の）背景幕	
+playwright	劇作家、脚本家	
+impresario	[ìmprəsάːriòʊ]<div>（歌劇などの）興行主</div>	
+repertoire	[répɚtwὰɚ]<div>（俳優・歌手などが上演できる）演目・曲・レパートリー</div>	
+puppet	<div>[pˈʌpɪt]</div>操り人形	
+dynasty	<div>[dάɪnəsti]</div>（名）王朝	
+engraving（名詞の意味は）	（名）版画、彫刻（術）	
+calligraphy	[kəlígrəfi]<div>（名）書道、書法</div>	
+feudal	<div>[fjúːdl]</div>封建（時代）の、封建主義の	
+remains	（名）遺跡、遺物<div>※sがつく</div>	
+choir	[kwάɪɚ]<div>合唱、合唱団、聖歌隊</div>	
+ally	[əlάɪ]<div>（名）同盟（国）</div><div>（動）同盟を結ぶ</div>	
+lawmaker（立法者以外の名詞）	国会議員	
+cabinet（キャビネット以外の意味）	内閣、キャビネット	
+ruling（形容詞の意味は？）	（形）与党の、支配する	
+procession	（名）行進、行列	
+bilateral	[bὰɪlˈæṭərəl]<div>（形）二国間の、二者間の</div>	
+envoy	<div>[énvɔɪ]</div>（名）外交使節、特使	
+air（風に当てる以外の動詞の意味は？）	（他）放送する、風に当てる	
+anchorperson	<div>[ǽŋkərpə`rsən]</div>報道番組の司会者	
+petty crimes	軽犯罪	
+imprisonment	[ɪmpríznmənt]<div>（名）禁固、収監</div>	
+corruption	<div>[kərˈʌpʃən]</div>（名）汚職、腐敗	
+bribery	[brάɪb(ə)ri]<div>（名）贈収賄、汚職</div>	
+robbery	[rάb(ə)ri]<div>（名）強盗</div>	
+prosecutor	[prάsɪkjùːṭɚ]<div>（名）検事</div>	
+bar（バー、棒以外の名詞）	（名）法曹界、バー、棒	
+plaintiff	[pléɪnṭɪf]<div>（名）原告</div>	
+defendant	[dɪféndənt]<div>（名）被告</div>	
+litigation	[lìṭəgéɪʃən]<div>（名）訴訟</div>	
+verdict	[vˈɚːdɪkt]<div>（名）（陪審の）評決</div>	
+story（物語以外の名詞）	[stˈɔːri]<div>階、物語</div>	
+skyline	（名）スカイライン、空を背景にしたビル群の輪郭	
+courtyard	[ˈkoːt.jaːd]<div>中庭</div>	
+cathedral	[kəθíːdrəl]<div>聖堂、教会</div>	
+ledge	[lédʒ]<div>（出窓などにある建物の）出っ張り</div>	
+facade	[fəsάːd]<div>（名）（建物の堂々とした）正面</div>	
+guttering	"[ˈgʌtɝɪŋ]<div>雨どい（<span style=""color: rgb(34, 34, 34);"">屋根面を流れる雨水を集め、地上あるいは下水に導くための装置</span>）</div>"	
+corridor	[kˈɔːrədɚ]<div>（ホテル・アパート・ビルなどでいくつもの部屋の出入り口をもっている）廊下<br></div>	
+barn	[bάɚn]<div>納屋、物置</div>	
+ramp	傾斜路、（高速道路の）ランプ	
+hydrant	[hάɪdrənt]<div>消火栓</div>	
+shade	（名）日陰<div>（動）暗くする</div>	
+hedge	（名）生け垣、垣根	
+puddle	[pˈʌdl]<div>（名）水たまり</div>	
+stall	[stˈɔːl]<div>露店、屋台</div><div>※肩掛けのストールはstole</div>	
+face away from each other	互いに顔を逆側に向ける	
+opposite each other	向かい合って	
+in order	整然として	
+perpendicular	[p`ɚːpəndíkjʊlɚ]<div>（形）垂直の</div>	
+altitude	（三角形などの）高さ、高度、海抜	
+obtuse	[ɑbt(j)úːs]<div>（形）鈍角の、鈍感な</div>	
