@@ -108,7 +108,7 @@ starch	でんぷん（質）、（洗濯用）のり
 prelude	（名）（通例 a〜）前触れ、前奏曲<div>（動）前兆となる、導入する</div>	
 fertilizer	肥料	
 subsistence	生存、生計	
-choreograph	（ダンスなどの）振り付けをする	
+choreograph	<div>[kˈɔːriəgr`æf]</div>（ダンスなどの）振り付けをする	
 breeze	（名）そよ風<div>（動）軽やかに動く</div>	
 basin	盆地、洗面器	
 superstition	迷信	
@@ -226,7 +226,7 @@ humble	謙虚な、つつましい、惨めな
 thaw	（動）解ける、和らぐ、解かす、暖める<div>（名）雪解け</div>	
 excursion	遠足	
 ingenuity	創意、器用さ	
-brood	（動）（鳥が）卵を抱く<div>（名）一腹の子（ヒナ）</div><div>（形）繁殖用の</div>	
+brood	<div>[brúːd]</div>（動）（鳥が）卵を抱く<div>（名）一腹の子（ヒナ）</div><div>（形）繁殖用の</div>	
 airborne	浮遊して、（花粉や種などが）風媒の、空輸の	
 specimen	標本	
 drowsy	眠い、眠気を誘う	
@@ -307,7 +307,7 @@ absurd	ばかばかしい、不合理な
 weather	（動）風化させる、風雨にさらす<div>（名）天候</div>	
 urbane	洗練された、都会風の、垢抜けした	
 tremble	（恐怖、地震などで）震える	
-imminent	今にも起こりそうな、差し迫った、切迫した	
+imminent	<div>[ímənənt]</div>今にも起こりそうな、差し迫った、切迫した	
 sustain	支える、耐える、維持する	
 edifice	（宮殿・教会など堂々とした）建物、体系<br>	
 aviation	航空（学）、飛行	
@@ -345,7 +345,7 @@ usher	（動）〜の先触れとなる、到来を告げる、案内する<div>
 banish	（他）追放する、追い払う	
 fatigue	<div>[fətíːg]</div>（名）（心身の相当な）疲れ<div>（動）とても疲れさせる</div>	
 omnivore	（人間などのように）雑食性の動物	
-tremor	（声などの）震え、（地面などの）震動	
+tremor	<div>[trémɚ]</div>（名）（声などの）震え、（地面などの）震動<div>（自）震える</div>	
 tomb	墓	
 fauna	（ある地方・時代の）動物相	
 crustacean	（エビやミジンコなどの）甲殻類	
@@ -498,7 +498,7 @@ solicit	求める、嘆願する
 commemorate	（記念日や人を）祝う、記念する	
 applicable	適用される、当てはまる	
 commend	ほめる	
-complement	（動）合う、保完する<div>（名）補足して完全にするもの、補語</div>	
+complement	（動）合う、補完する<div>（名）補足して完全にするもの、補語</div>	
 incorporate	取り入れる、組み込む、法人化する	
 lapse	（動）失効する、うっかりミスをする<div>（名）過失、時の経過</div>	
 picturesque	絵のように美しい	
@@ -711,7 +711,7 @@ culminate	ついに（ある状態に）達する、（祭典などが）最高�
 pertain	<div>[pɚtéɪn]</div>（自）〜に付属する、関係する	
 jeopardize	危うくする、危険に晒す、台無しにする	
 imperil	危険に晒す	
-pertinent	妥当な、関連する	
+pertinent	（形）妥当な、関連する	
 indigenous	<div>[ɪndídʒənəs]</div>原産の、土着の	
 plausible	もっともらしい、まことしやかな	
 indispensable	必要不可欠な	
@@ -905,7 +905,7 @@ loan-loss provisions	貸倒引当金
 income statement	P/L、損益計算書	
 close the book	決算する	
 ledger	<div>[lédʒɚ]</div>台帳、元帳	
-bottom line	最終損益	
+bottom line	最終損益<div>※ the bottom line だと「一番重要な点」の意味となる</div>	
 accounts receivable	売掛金	
 depreciation	（有形固定資産の）減価償却	
 amortization	[æ̀mərtəzéɪʃ(ə)n]<div>（無形固定資産の）減価償却</div>	
@@ -940,7 +940,7 @@ debtor	[déṭɚ]<div>債務者（借りた側）</div>
 denomination	<div>[dɪnὰmənéɪʃən]</div>貨幣単位、額面金額	
 arrears	[ərɪ́ərz]<div>滞納、支払いの遅れ</div>	
 passbook	預金通帳	
-go over	〜に目を通す、〜を検討する	
+go over	〜に目を通す、〜を検討する、〜をよく調べる、〜を超える	
 convene	（会議などを）開催する、招集する	
 scribe	書記、記録係	
 podium	演壇	
@@ -1383,7 +1383,73 @@ puddle	[pˈʌdl]<div>（名）水たまり</div>
 stall	[stˈɔːl]<div>露店、屋台</div><div>※肩掛けのストールはstole</div>	
 face away from each other	互いに顔を逆側に向ける	
 opposite each other	向かい合って	
-in order	整然として	
+in order	整然として、適切で、順番に	
 perpendicular	[p`ɚːpəndíkjʊlɚ]<div>（形）垂直の</div>	
 altitude	（三角形などの）高さ、高度、海抜	
 obtuse	[ɑbt(j)úːs]<div>（形）鈍角の、鈍感な</div>	
+be taking away	〜を片付けている<div>※be putting away も同じ意味</div>	
+be bending over	かがんでいる、腰を曲げている	
+assume a position	職位に就く	
+break ground	着工する、事業を始める	
+do harm	害を及ぼす	
+file a complaint	苦情を申し立てる	
+grab a bite	軽い食事をする	
+lose one's temper	腹を立てる、怒る	
+raise one's eyebrows	驚く、眉をひそめる	
+raise money	資金を調達する	
+strike a deal	取引をまとめる	
+take notes	記録を取る	
+throw a party	パーティーを開く	
+inhibit	[ɪnhíbɪt]<div>（動）抑制する、禁止する</div>	
+morale	[mərˈæl]<div>（名）勤労意欲、士気</div>	
+as of	〜付で、〜時点で	
+at a loss	当惑して、迷って	
+at the cost of	〜を犠牲にして	
+by all means	どんなことがあっても、ぜひとも	
+do away with	〜を廃止する	
+be fed up with	〜にうんざりして	
+fill in for	〜の代理（代役）を務める	
+in good shape	体調が良好で、状態が良好で	
+in the long run	長い目で見れば、結局	
+let alone	〜は言うまでもなく、〜はおろか	
+look up to	〜を尊敬する	
+make out	〜を理解する、〜を判読する、成功する	
+make up for	〜を埋め合わせる	
+may as well	〜したほうがいい、〜してもいい	
+on second thought	よく考えると、やっぱり	
+pay off	報われる、もとがとれる、完済する	
+turn down	〜を却下する、（音量などを）下げる	
+turn out to be	〜であることがわかる	
+at any rate	いずれにしても、とにかく	
+boil down to	要するに〜となる、〜に帰着する	
+by and large	全体的に	
+call it a day	1日の仕事を切り上げる、打ち切る	
+call off	〜を中止する、〜を取り消す	
+call on	〜を訪問する、〜を要請する	
+cash in on	〜から利益を得る、〜につけ込む	
+be cut out to (be)	〜に適している、〜の素質がある	
+draw up	〜を立案する、（文書などを）作成する	
+every inch	隅から隅まで、徹頭徹尾	
+drop in on	〜に立ち寄る、〜を不意に訪問する	
+for a change	気分転換に、久しぶりに	
+give in to	〜に屈服する、〜に譲歩する	
+give way to	〜に道を譲る、〜に取って代わられる	
+go for	〜を好む、（楽しいことを）する、選ぶ	
+in line with	〜と合致して、〜と連動して	
+iron out	〜を解決する、〜の障害を取り除く	
+keep abreast of	[əbrést]<div>〜に遅れずについていく、（最新情報などに）通じている<br></div>	
+lay aside	〜を棚上げする、〜を蓄える	
+lose ground	遅れをとる、形勢が不利になる	
+move over	（席などを）詰める、（場所・地位を）譲る	
+be particular about	〜にこだわる	
+pave the way (for)	（〜への）道をひらく、〜の下準備をする	
+be poised to	〜の用意ができている、〜する態勢にある	
+pull through	快復する、（危機などを）切り抜ける	
+rule out	〜を除外する、〜を考慮から外す	
+be slated to (do)	〜することが予定されている	
+that is to say	すなわち、つまり	
+up in the air	未決定で、はっきりしない	
+wrap up（要約以外の意味）	（仕事・会議などを）終える、厚着をする	
+zero in on	〜に照準をあわせる、〜に専念する	
+ambush	<div>[ˈæmbʊʃ]</div>待ち伏せて急襲する	
+bountiful	<div>[bάʊnṭif(ə)l]</div>（形）豊富な、物惜しみしない	
