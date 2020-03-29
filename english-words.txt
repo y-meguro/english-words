@@ -1,975 +1,975 @@
-diplomacy	外交	
-herbivore	草食動物	
-lava	溶岩	
-grain	穀物、（砂などの）粒、（the 〜）木目	
-fond	好んで<br>be fond of 〜: 〜を好む	
-affluent	豊富な	
-saw	のこぎり<div>※ sew「縫う」と混同注意</div>	
+diplomacy	<div>dɪplóʊməsi<br></div>外交	
+herbivore	<div>(h)ˈɚːbəv`ɔɚ<br></div>草食動物	
+lava	<div>lάːvə<br></div>溶岩	
+grain	<div>gréɪn<br></div>穀物、（砂などの）粒、（the 〜）木目	
+fond	<div>fάnd<br></div>好んで<br>be fond of 〜: 〜を好む	
+affluent	<div>ˈæfluːənt<br></div>（形）豊富な	
+saw	<div>sˈɔː<br></div>のこぎり<div>※ sew「縫う」と混同注意</div>	
 odor	<div>[óʊdɚ]</div>匂い、香気	
-scent	香り	
+scent	<div>sént<br></div>香り	
 brochure	<div>broʊʃˈʊɚ<br></div>小冊子、パンフレット	
-habitat	（動物や植物の）生息域	
+habitat	<div>hˈæbət`æt<br></div>（動物や植物の）生息域	
 tissue	（細胞の）組織	
-priest	聖職者	
+priest	<div>príːst<br></div>聖職者	
 maize	<div>méɪz<br></div>（名）トウモロコシ	
-carnivore	肉食動物	
-garment	衣服	
-offend	（自）気分を損なう<div>（他）怒らせる、傷つける</div>	
-atlas	地図帳	
-marsh	沼、湿地	
-nebula	星雲	
-algae	（海藻などの）藻類	
-hostage	人質	
-beehive	ハチの巣	
-primate	霊長類、大司教	
-deficit	赤字	
-surplus	（名）黒字、余り<div>（形）余分な</div>	
-artifact	人工遺物、加工品	
-punctual	時間に正確な	
-stellar	星の、星のような	
-stride	（動）大股に歩く<div>（名）大股に歩くこと、歩幅</div>	
-infection	伝染	
-sue	告訴する	
-spear	やり	
-spontaneous	自発的な	
-bathe	入浴する	
-harsh	粗い	
-leap	跳ぶ	
-might	力	
-flock	（名）（羊などの）群れ<div>（動）群れる</div>	
-prestige	名声、威信	
+carnivore	<div>kάɚnəv`ɔɚ<br></div>肉食動物	
+garment	<div>gάɚmənt<br></div>衣服	
+offend	<div>əfénd<br></div>（自）気分を損なう<div>（他）怒らせる、傷つける</div>	
+atlas	<div>ˈætləs<br></div>（名）地図帳	
+marsh	<div>mάɚʃ<br></div>沼、湿地	
+nebula	<div>nébjʊlə<br></div>星雲	
+algae	<div>ˈældʒiː<br></div>（海藻などの）藻類	
+hostage	<div>hάstɪdʒ<br></div>人質	
+beehive	<div>ˈbiːhaɪv<br></div>ハチの巣	
+primate	<div>prάɪmət<br></div>霊長類、大司教	
+deficit	<div>défəsɪt<br></div>赤字	
+surplus	<div>sˈɚːplʌs<br></div>（名）黒字、余り<div>（形）余分な</div>	
+artifact	<div>άɚṭɪf`ækt<br></div>（名）人工遺物、加工品	
+punctual	<div>pˈʌŋ(k)tʃuəl<br></div>時間に正確な	
+stellar	<div>stélɚ<br></div>星の、星のような	
+stride	<div>strάɪd<br></div>（動）大股に歩く<div>（名）大股に歩くこと、歩幅</div>	
+infection	<div>ɪnfékʃən<br></div>伝染	
+sue	<div>súː<br></div>告訴する	
+spear	<div>spíɚ<br></div>やり	
+spontaneous	<div>spɑntéɪniəs<br></div>自発的な	
+bathe	<div>béɪð<br></div>（動）入浴する	
+harsh	<div>hάɚʃ<br></div>粗い	
+leap	<div>líːp<br></div>跳ぶ	
+might	<div>mɑɪt<br></div>力	
+flock	<div>flάk<br></div>（名）（羊などの）群れ<div>（動）群れる</div>	
+prestige	<div>prestíːʒ<br></div>（名）名声、威信<div>（形）世評の高い、名門の、一流の</div>	
 abdomen	<div>[ˈæbdəmən]</div>腹部	
-larva	幼虫	
-hemisphere	半球	
+larva	<div>lάɚvə<br></div>幼虫	
+hemisphere	<div>hémɪsfìɚ<br></div>半球	
 famine	<div>[fˈæmɪn]</div>飢餓、欠乏	
-dwelling	住居	
-Supreme Court	（the 〜）最高裁判所	
-gland	（リンパ腺などの）腺	
+dwelling	<div>ˈdwɛl.ɪŋ<br></div>住居	
+Supreme Court	<div>sʊpríːm<br></div>（the 〜）最高裁判所	
+gland	<div>glˈænd<br></div>（リンパ腺などの）腺	
 Uncle Sam	アンクル・サム（米国政府を擬人化した呼称）	
-mercury	水銀、水星	
-limestone	石灰岩	
+mercury	<div>mˈɚːkjʊri<br></div>水銀、水星	
+limestone	<div>ˈlaɪˌmston<br></div>石灰岩	
 swamp	<div>[swάmp]</div>（名）沼地	
 meteor	<div>[míːṭiɚ]</div>流星、隕石、大気現象	
-blowhole	（クジラなどの）噴気孔	
-grief	悲しみ	
-archaeology	考古学	
-reptile	爬虫類	
-canal	運河	
-staple	（形）主要な<div>（名）主要産物、繊維</div><div>（動）選別する</div>	
+blowhole	<div>ˈbloˌhol<br></div>（名）（クジラなどの）噴気孔	
+grief	<div>gríːf<br></div>悲しみ	
+archaeology	<div>ὰɚkiάlədʒi<br></div>（名）考古学	
+reptile	<div>réptl<br></div>爬虫類	
+canal	<div>kənˈæl<br></div>運河	
+staple	<div>stéɪpl<br></div>（形）主要な<div>（名）主要産物、繊維</div><div>（動）選別する</div>	
 tree sap	樹液	
-frost	霜	
-sulfur	硫黄	
-proverb	ことわざ	
-germ	細菌	
-eloquent	雄弁な	
-enact	立法化する	
-herd	（牛や豚などの）群れ	
-nerve	神経	
-gross	総計	
-deficient	不足した、不十分な	
+frost	<div>frˈɔːst<br></div>霜	
+sulfur	<div>sˈʌlfɚ<br></div>硫黄	
+proverb	<div>prάvɚːb<br></div>ことわざ	
+germ	<div>dʒˈɚːm<br></div>細菌	
+eloquent	<div>éləkwənt<br></div>雄弁な	
+enact	<div>ɪnˈækt<br></div>立法化する	
+herd	<div>hˈɚːd<br></div>（牛や豚などの）群れ	
+nerve	<div>nˈɚːv<br></div>神経	
+gross	<div>gróʊs<br></div>総計	
+deficient	<div>dɪfíʃənt<br></div>不足した、不十分な	
 utensil	家庭用品、調理器具	
 red tape	お役所仕事、形式主義、非効率	
-fission	（核）分裂	
+fission	<div>fíʃən<br></div>（核）分裂	
 forge	<div>fˈɔɚdʒ<br></div>（動）鍛造する、築く、構築する<div>（名）鍛冶場</div>	
-blacksmith	鍛冶屋	
-barter	（名）物々交換<div>（動）物々交換する</div>	
-graze	（家畜などが）草を食べる	
-steppe	大草原	
-haze	（名）かすみ、もや<div>（自）もやをかぶる</div>	
-dough	パン生地、こね粉	
-liable	〜しがちな、責めを負うべき、法的責任がある	
-peninsula	半島	
-Neolithic	（the〜）新石器時代	
-cordial	心からの	
+blacksmith	<div>ˈblæk.smɪθ<br></div>（名）鍛冶屋	
+barter	<div>bάɚṭɚ<br></div>（名）物々交換<div>（動）物々交換する</div>	
+graze	<div>gréɪz<br></div>（家畜などが）草を食べる	
+steppe	<div>stép<br></div>大草原	
+haze	<div>héɪz<br></div>（名）かすみ、もや<div>（自）もやをかぶる</div>	
+dough	<div>dóʊ<br></div>パン生地、こね粉	
+liable	<div>lάɪəbl<br></div>〜しがちな、責めを負うべき、法的責任がある	
+peninsula	<div>pəníns(ə)lə<br></div>半島	
+Neolithic	<div>nìːəlíθɪk<br></div>（the〜）新石器時代	
+cordial	<div>kˈɔɚdʒəl<br></div>心からの	
 kerosene	<div>[kérəsìːn]</div>灯油	
 timber	木材	
-insulate	（熱などを）遮断する	
-quarrel	（名）口げんか<div>（動）口げんかする</div>	
-evaporate	（水などが）蒸発する、蒸発させる	
-recitation	朗読	
+insulate	<div>ínsəlèɪt<br></div>（熱などを）遮断する	
+quarrel	<div>kwˈɔːrəl<br></div>（名）口げんか<div>（動）口げんかする</div>	
+evaporate	<div>ɪvˈæpərèɪt<br></div>（水などが）蒸発する、蒸発させる	
+recitation	<div>rèsətéɪʃən<br></div>朗読	
 equator	<div>[ɪkwéɪṭɚ]</div>（the〜）赤道	
-amplify	増幅する、拡大する	
+amplify	<div>ˈæmpləfὰɪ<br></div>（動）増幅する、拡大する	
 zenith	<div>[zíːnɪθ]</div>（the〜）天頂、頂点	
-pound	（名）ポンド（英国の通貨、重さの単位）<div>（動）どんどん叩く</div>	
-drizzle	（名）霧雨<div>（動）霧雨が降る</div>	
-immunity	免疫	
-pump	（名）ポンプ<div>（動）ポンプで水をくむ</div>	
+pound	<div>pάʊnd<br></div>（名）ポンド（英国の通貨、重さの単位）<div>（動）どんどん叩く</div>	
+drizzle	<div>drízl<br></div>（名）霧雨<div>（動）霧雨が降る</div>	
+immunity	<div>ɪmjúːnəṭi<br></div>免疫	
+pump	<div>pˈʌmp<br></div>（名）ポンプ<div>（動）ポンプで水をくむ</div>	
 undermine	侵食する、（名声などを）傷つける、<div>衰えさせる、下を掘る</div>	
-pristine	損なわれていない、原子の、汚れていない	
-cherish	（愛情をこめて）大事にする、かわいがる	
-infamous	悪名高い、不名誉な	
-resolute	断固とした、固く決心した	
+pristine	<div>prístiːn<br></div>損なわれていない、原子の、汚れていない	
+cherish	<div>tʃérɪʃ<br></div>（愛情をこめて）大事にする、かわいがる	
+infamous	<div>ínfəməs<br></div>悪名高い、不名誉な	
+resolute	<div>rézəlùːt<br></div>断固とした、固く決心した	
 Venus	金星	
-nourish	養う、肥料をやる	
-spectacular	壮観な	
-autobiography	自叙伝	
-shabby	みすぼらしい	
-starch	でんぷん（質）、（洗濯用）のり	
-prelude	（名）（通例 a〜）前触れ、前奏曲<div>（動）前兆となる、導入する</div>	
-fertilizer	肥料	
-subsistence	生存、生計	
+nourish	<div>nˈɚːrɪʃ<br></div>養う、肥料をやる	
+spectacular	<div>spektˈækjʊlɚ<br></div>壮観な	
+autobiography	<div>`ɔːṭəbɑɪάgrəfi<br></div>（名）自叙伝	
+shabby	<div>ʃˈæbi<br></div>みすぼらしい	
+starch	<div>stάɚtʃ<br></div>でんぷん（質）、（洗濯用）のり	
+prelude	<div>prél(j)uːd<br></div>（名）（通例 a〜）前触れ、前奏曲<div>（動）前兆となる、導入する</div>	
+fertilizer	<div>ˈfɝtʌˌlaɪzɝ<br></div>（名）肥料	
+subsistence	<div>səbsístəns<br></div>生存、生計	
 choreograph	<div>[kˈɔːriəgr`æf]</div>（ダンスなどの）振り付けをする	
-breeze	（名）そよ風<div>（動）軽やかに動く</div>	
-basin	盆地、洗面器	
-superstition	迷信	
-rage	（名）激怒<div>（動）激怒する</div>	
-indignant	憤慨した、怒った	
-pollination	（植物の）受粉	
-bud	（名）芽、つぼみ<div>（動）発芽</div>	
-fluctuate	不規則に変動（変化）する	
-stubborn	頑固な	
-oblige	〜せざるを得ない、義務を負わせる	
-humane	慈悲深い、思いやりのある、人道にかなった	
-radiate	（光を）放射する、発散する	
-courageous	勇気のある	
+breeze	<div>bríːz<br></div>（名）そよ風<div>（動）軽やかに動く</div>	
+basin	<div>béɪsn<br></div>（名）盆地、洗面器	
+superstition	<div>sùːpɚstíʃən<br></div>迷信	
+rage	<div>réɪdʒ<br></div>（名）激怒<div>（動）激怒する</div>	
+indignant	<div>ɪndígnənt<br></div>（形）憤慨した、怒った	
+pollination	<div>ˌpɑlʌˈneʃʌn<br></div>（植物の）受粉	
+bud	<div>bˈʌd<br></div>（名）芽、つぼみ<div>（動）発芽</div>	
+fluctuate	<div>flˈʌktʃuèɪt<br></div>不規則に変動（変化）する	
+stubborn	<div>stˈʌbɚn<br></div>頑固な	
+oblige	<div>əblάɪdʒ<br></div>〜せざるを得ない、義務を負わせる	
+humane	<div>hjuːméɪn<br></div>（形）慈悲深い、思いやりのある、人道にかなった	
+radiate	<div>réɪdièɪt<br></div>（光を）放射する、発散する	
+courageous	<div>kəréɪdʒəs<br></div>勇気のある	
 unanimous	満場一致の	
-faint（動詞と形容詞の意味それぞれ）	（動）卒倒する<div>（形）かすかな、弱々しい</div>	
-ferment	（動）発酵させる、騒がす、動揺させる<div>（名）動乱、動揺</div>	
-discern	見分ける、（〜であることが）わかる	
-geyser	間欠泉	
-impermeable	（水や光などを）通さない、不浸透性の	
-brink	縁、際	
-jolly	楽しい、愉快な	
-configuration	配置、形状	
-hostility	敵意	
-resent	憤慨する、恨む	
+faint（動詞と形容詞の意味それぞれ）	<div>féɪnt<br></div>（動）卒倒する<div>（形）かすかな、弱々しい</div>	
+ferment	<div>fɚ(ː)mént<br></div>（動）発酵させる、騒がす、動揺させる<div>（名）動乱、動揺</div>	
+discern	<div>dɪsˈɚːn<br></div>見分ける、（〜であることが）わかる	
+geyser	<div>gάɪzɚ<br></div>間欠泉	
+impermeable	<div>ìmpˈɚːmiəbl<br></div>（形）（水や光などを）通さない、不浸透性の	
+brink	<div>bríŋk<br></div>（名）縁、際	
+jolly	<div>dʒάli<br></div>楽しい、愉快な	
+configuration	<div>kənfìgjʊréɪʃən<br></div>配置、形状	
+hostility	<div>hɑstíləṭi<br></div>敵意	
+resent	<div>rɪzént<br></div>憤慨する、恨む	
 sovereign	<div>[sάv(ə)rən]</div>（名）主権者、君主<div>（形）主権を有する、独立した</div>	
 pier	<div>[píɚ]</div>（名）埠頭	
-contemplate	熟考する	
-frantic	熱狂した、狂乱した	
+contemplate	<div>kάnṭəmplèɪt<br></div>熟考する	
+frantic	<div>frˈænṭɪk<br></div>熱狂した、狂乱した	
 arid	<div>[ˈærɪd]</div>（形）乾燥した、不毛の、（話などが）つまらない	
-combustible	（形）可燃性の、燃えやすい<div>（名）（通例〜s）可燃物</div>	
-estuary	河口	
+combustible	<div>kəmbˈʌstəbl<br></div>（形）可燃性の、燃えやすい<div>（名）（通例〜s）可燃物</div>	
+estuary	<div>éstʃuèri<br></div>河口	
 vent	（名）（液体や気体が抜ける）穴、通気口	
-statutory	法定の、法令による	
-drain	（動）排水する<div>（名）排水管</div>	
-demanding	きつい	
-aquatic	水生の、水中の	
-geothermal	地熱の	
-flora	（通例 the〜）（ある地方・時代の）植物相、全植物	
-contaminate	汚染する、悪影響を及ぼす	
-dormant	（火山が）活動休止中の、休眠中の	
-deposition	堆積作用、堆積物、免職	
-scrutiny	精密な調査、検査	
-fallacious	誤った、当てにならない	
+statutory	<div>stˈætʃʊt`ɔːri<br></div>法定の、法令による	
+drain	<div>dréɪn<br></div>（動）排水する<div>（名）排水管</div>	
+demanding	<div>dɪˈmændɪŋ<br></div>きつい	
+aquatic	<div>əkwάṭɪk<br></div>（形）水生の、水中の	
+geothermal	<div>dʒìːoʊθˈɚːm(ə)l<br></div>地熱の	
+flora	<div>flˈɔːrə<br></div>（通例 the〜）（ある地方・時代の）植物相、全植物	
+contaminate	<div>kəntˈæmənèɪt<br></div>汚染する、悪影響を及ぼす	
+dormant	<div>dˈɔɚmənt<br></div>（火山が）活動休止中の、休眠中の	
+deposition	<div>dèpəzíʃən<br></div>堆積作用、堆積物、免職	
+scrutiny	<div>skrúːṭəni<br></div>精密な調査、検査	
+fallacious	<div>fəléɪʃəs<br></div>誤った、当てにならない	
 quiescent	<div>[kwɑɪésnt]</div>無活動の、静止した	
-glacial	氷河時代の、氷の（人や態度などが）冷淡な	
-aquifer	帯水層	
-fur	毛皮	
-enchant	魅了する	
-flawless	傷のない、完全な	
-flammable	可燃性の	
+glacial	<div>gléɪʃəl<br></div>氷河時代の、氷の（人や態度などが）冷淡な	
+aquifer	<div>ˈækwɪfɚ<br></div>（名）帯水層	
+fur	<div>fˈɚː<br></div>毛皮	
+enchant	<div>ɪntʃˈænt<br></div>魅了する	
+flawless	<div>ˈflɔːləs<br></div>傷のない、完全な	
+flammable	<div>flˈæməbl<br></div>可燃性の	
 improvise	<div>[ímprəvὰɪz]</div>即興で演奏する、即席に作る	
-granite	花こう岩	
-enzyme	酵素	
+granite	<div>grˈænɪt<br></div>花こう岩	
+enzyme	<div>énzɑɪm<br></div>酵素	
 viscosity	粘着性、粘度、粘性	
-glue	（名）接着剤、にかわ、のり<div>（動）接着剤でつける</div>	
+glue	<div>glúː<br></div>（名）接着剤、にかわ、のり<div>（動）接着剤でつける</div>	
 rhinoceros	<div>[rɑɪnάs(ə)rəs]</div>サイ	
-tease	からかう	
+tease	<div>tíːz<br></div>からかう	
 applaud	<div>əplˈɔːd<br></div>（動）拍手喝采する	
-rodent	（ネズミやウサギなどの）齧歯動物	
+rodent	<div>róʊdnt<br></div>（ネズミやウサギなどの）齧歯動物	
 weep	泣く	
-irrigate	水を引く	
+irrigate	<div>írəgèɪt<br></div>（動）水を引く	
 aerial	<div>é(ə)riəl<br></div>空中の、空気の	
-statute	法令	
-dictator	独裁者	
-cactus	サボテン	
-abduction	誘拐	
+statute	<div>stˈætʃuːt<br></div>法令	
+dictator	<div>díkteɪṭɚ<br></div>独裁者	
+cactus	<div>kˈæktəs<br></div>サボテン	
+abduction	<div>æbdˈʌkʃən<br></div>（名）誘拐	
 arrogant	<div>[ˈærəg(ə)nt]</div>傲慢な	
-primordial	原始の、最初の、本源的な	
-strait	（しばしば〜sで単数扱い）海峡	
-optical	視覚の、光学の	
-Frigid Zone	（the 〜）寒帯	
-hibernate	（動物が）冬眠する、冬ごもりする	
-figurative	比喩的な、（絵などで）表現した	
-autonomy	自治（権）、自主性、自律	
-shed	（動）（葉や羽などを）落とす、（光などを）放つ<div>（名）小屋</div>	
+primordial	<div>prɑɪmˈɔɚdiəl<br></div>原始の、最初の、本源的な	
+strait	<div>stréɪt<br></div>（しばしば〜sで単数扱い）海峡	
+optical	<div>άptɪk(ə)l<br></div>視覚の、光学の	
+Frigid Zone	<div>frídʒɪd<br></div>（the 〜）寒帯	
+hibernate	<div>hάɪbɚnèɪt<br></div>（動物が）冬眠する、冬ごもりする	
+figurative	<div>fígjʊrəṭɪv<br></div>比喩的な、（絵などで）表現した	
+autonomy	<div>ɔːtάnəmi<br></div>（名）自治（権）、自主性、自律	
+shed	<div>ʃéd<br></div>（動）（葉や羽などを）落とす、（光などを）放つ<div>（名）小屋</div>	
 jury	<div>[dʒˈʊ(ə)ri]</div>陪審（員団）、審査員団	
-riot	暴動	
-delinquent	非行の、義務不履行（怠慢）の	
-spine	脊柱、背骨	
-intimate	（形）熟知した、親密な、仲の良い、内々の、私事の<div>※ intimates だと女性の下着類（名詞）</div>	
-edible	食べられる	
-engrave	（石などに文字や図案を）彫る、刻む	
-sediment	堆積物、沈殿物	
-nostril	鼻孔	
-hostile	敵意のある	
-deliberately	故意に、わざと、慎重に	
-candid	公平な、素直な	
-intellect	知力、知性、（the 〜s）知識人	
-judicial	司法の、裁判の	
-perimeter	（図形の）周囲	
-barley	大麦	
-pessimism	悲観主義	
-onset	（the 〜）始まり、着手、（病気などの）兆候	
-hippopotamus	カバ	
-embrace	（主義などを）採用する、抱きしめる、積極的に受け入れる、快諾する	
-seemingly	うわべは	
-fictitious	創作の、架空の、偽りの	
+riot	<div>rάɪət<br></div>暴動	
+delinquent	<div>dɪlíŋkwənt<br></div>非行の、義務不履行（怠慢）の	
+spine	<div>spάɪn<br></div>脊柱、背骨	
+intimate	<div>ínṭəmət<br></div>（形）熟知した、親密な、仲の良い、内々の、私事の<div>※ intimates だと女性の下着類（名詞）</div>	
+edible	<div>édəbl<br></div>食べられる	
+engrave	<div>engréɪv<br></div>（石などに文字や図案を）彫る、刻む	
+sediment	<div>sédəmənt<br></div>堆積物、沈殿物	
+nostril	<div>nάstrəl<br></div>鼻孔	
+hostile	<div>hάstl<br></div>敵意のある	
+deliberately	<div>dɪlíb(ə)rətli<br></div>故意に、わざと、慎重に	
+candid	<div>kˈændɪd<br></div>公平な、素直な	
+intellect	<div>ínṭəlèkt<br></div>知力、知性、（the 〜s）知識人	
+judicial	<div>dʒuːdíʃəl<br></div>司法の、裁判の	
+perimeter	<div>pəríməṭɚ<br></div>（図形の）周囲	
+barley	<div>bάɚli<br></div>（名）大麦	
+pessimism	<div>pésəmìzm<br></div>悲観主義	
+onset	<div>ˈɔnˌsɛt<br></div>（the 〜）始まり、着手、（病気などの）兆候	
+hippopotamus	<div>hìpəpάṭəməs<br></div>カバ	
+embrace	<div>embréɪs<br></div>（動）（主義などを）採用する、抱きしめる、積極的に受け入れる、快諾する	
+seemingly	<div>ˈsimɪŋli<br></div>うわべは	
+fictitious	<div>fɪktíʃəs<br></div>創作の、架空の、偽りの	
 thermal	温泉の、温度（熱）の	
 lavish	<div>lˈævɪʃ<br></div>（動）気前よく与える、浪費する<div>（形）気前のよい、豊富な</div>	
-refugee	避難民	
-reap	収穫する	
+refugee	<div>rèfjʊdʒíː<br></div>避難民	
+reap	<div>ríːp<br></div>収穫する	
 retina	<div>[réṭənə]</div>（目の）網膜	
-cling	しがみつく、くっつく	
-antelope	（インパラやガゼルなどのウシ科）アンテロープ	
+cling	<div>klíŋ<br></div>しがみつく、くっつく	
+antelope	<div>ˈænṭəlòʊp<br></div>（名）（インパラやガゼルなどのウシ科）アンテロープ	
 hare	<div>[héɚ]</div>野ウサギ	
-vapor	蒸気	
-ample	十分な、豊富な、広い	
-daring	大胆な	
-roar	（動）（ライオンなどが）ほえる<div>（名）ほえ声、轟音</div>	
+vapor	<div>véɪpɚ<br></div>（名）蒸気	
+ample	<div>ˈæmpl<br></div>（形）十分な、豊富な、広い	
+daring	<div>dé(ə)rɪŋ<br></div>大胆な	
+roar	<div>rˈɔɚ<br></div>（動）（ライオンなどが）ほえる<div>（名）ほえ声、轟音</div>	
 coward	<div>[kάʊɚd]</div>（名）臆病者	
-cedar	ヒマラヤスギ	
-immune	免疫のある、免疫の	
-casualty	災害、死傷者、損害	
-humble	謙虚な、つつましい、惨めな	
+cedar	<div>síːdɚ<br></div>ヒマラヤスギ	
+immune	<div>ɪmjúːn<br></div>免疫のある、免疫の	
+casualty	<div>kˈæʒuəlti<br></div>災害、死傷者、損害	
+humble	<div>hˈʌmbl<br></div>謙虚な、つつましい、惨めな	
 thaw	（動）解ける、和らぐ、解かす、暖める<div>（名）雪解け</div>	
-excursion	遠足	
-ingenuity	創意、器用さ	
+excursion	<div>ɪkskˈɚːʒən<br></div>遠足	
+ingenuity	創意、器用さ<div>ìndʒən(j)úːəṭi<br></div>	
 brood	<div>[brúːd]</div>（動）（鳥が）卵を抱く<div>（名）一腹の子（ヒナ）</div><div>（形）繁殖用の</div>	
-airborne	浮遊して、（花粉や種などが）風媒の、空輸の	
-specimen	標本	
-drowsy	眠い、眠気を誘う	
-amphibian	（名）両生動物、水陸両用飛行機（戦車）<div>（形）水陸両生の</div>	
+airborne	<div>ˈɛˌrbɔrn<br></div>（形）浮遊して、（花粉や種などが）風媒の、空輸の	
+specimen	<div>spésəmən<br></div>標本	
+drowsy	<div>drάʊzi<br></div>眠い、眠気を誘う	
+amphibian	<div>æmfíbiən</div>（名）両生動物、水陸両用飛行機（戦車）<div>（形）水陸両生の</div>	
 epicenter	<div>épɪsènṭɚ<br></div>（名）（地震の）震央	
-condemn	避難する、とがめる	
+condemn	<div>kəndém<br></div>避難する、とがめる	
 undergo	経験する	
-census	人口調査、国勢調査	
-heave	持ち上げる、投げる、上がる	
-prey	（名）餌食、獲物<div>（動）捕食する</div>	
-condensation	凝結、（凝結した）水滴	
-chronic	慢性の	
+census	<div>sénsəs<br></div>人口調査、国勢調査	
+heave	<div>híːv<br></div>持ち上げる、投げる、上がる	
+prey	<div>préɪ<br></div>（名）餌食、獲物<div>（動）捕食する</div>	
+condensation	<div>kὰndenséɪʃən<br></div>凝結、（凝結した）水滴	
+chronic	<div>krάnɪk<br></div>慢性の	
 arable	<div>[ˈærəbl]</div>（形）耕作に適した、耕地向きの	
-colloquial	口語的な、会話的な	
-indict	起訴する、告発する	
+colloquial	<div>kəlóʊkwiəl<br></div>口語的な、会話的な	
+indict	<div>ɪndάɪt<br></div>起訴する、告発する	
 insult	<div>[ínsʌlt]</div>辱める	
-squirrel	リス	
-deceive	だます、思い違いをする	
-submersible	潜水艦	
+squirrel	<div>skwˈɚːrəl<br></div>リス	
+deceive	<div>dɪsíːv<br></div>（動）だます、思い違いをする	
+submersible	<div>səbmˈɚːsəbl<br></div>潜水艦	
 vicious	悪い、悪徳の	
 inject	<div>[ɪndʒékt]</div>注射する、注入する	
-biosphere	（通例 the〜）生物圏	
-owl	フクロウ	
-calamity	災難、災害	
+biosphere	<div>ˈbaɪoˌsfɪr<br></div>（名）（通例 the〜）生物圏	
+owl	<div>άʊl<br></div>フクロウ	
+calamity	<div>kˈæktəs<br></div>災難、災害	
 vocational	職業の	
 vogue	（通例 a〜）流行	
-expenditure	（名）支出、（〜s）経費、費用	
-digestive	消化の、消化を助ける	
+expenditure	<div>ɪkspéndɪtʃɚ<br></div>（名）支出、（〜s）経費、費用	
+digestive	<div>dɑɪdʒéstɪv<br></div>消化の、消化を助ける	
 minute 発音は[mɑɪnjúːt]	詳細な、微細な	
-convex	（名）凸面<div>（形）凸状の</div>	
-clam	（ハマグリなどの）二枚貝	
-pact	条約	
-dwarf	（動）（対照的に）小さく見せる<div>（名）小人</div>	
-dorsal	背面にある	
+convex	<div>kὰnvéks<br></div>（名）凸面<div>（形）凸状の</div>	
+clam	<div>klˈæm<br></div>（ハマグリなどの）二枚貝	
+pact	<div>pˈækt<br></div>条約	
+dwarf	<div>dwˈɔɚf<br></div>（動）（対照的に）小さく見せる<div>（名）小人</div>	
+dorsal	<div>dˈɔɚsl<br></div>背面にある	
 vanish	（自）消える、見えなくなる	
-cobblestone street	石で舗装された道	
+cobblestone street	<div>ˈkɑbʌˌlston<br></div>石で舗装された道	
 tilt	（動）傾かせる、傾く<div>（名）傾き</div>	
-catalyst	触媒	
-advent	（the 〜）到来、（the A-）降臨	
-predatory	捕食性の	
-brisk	きびきびした、活気のある	
-fungus	（キノコ・カビ・酵母などの）菌類	
-oak	オーク（カシの木など）	
-obedient	従順な	
-sting	（動）刺す<div>（名）刺すこと</div>	
-absorb	夢中にさせる、吸収する	
-attributable	原因が〜のせいとされる	
-intangible	触ることのできない、無形の	
+catalyst	<div>kˈæṭəlɪst<br></div>（名）触媒	
+advent	<div>ˈædvent<br></div>（名）（the 〜）到来、（the A-）降臨	
+predatory	<div>prédət`ɔːri<br></div>捕食性の	
+brisk	<div>brísk<br></div>（形）きびきびした、活気のある	
+fungus	<div>fˈʌŋgəs<br></div>（キノコ・カビ・酵母などの）菌類	
+oak	<div>óʊk<br></div>オーク（カシの木など）	
+obedient	<div>oʊbíːdiənt<br></div>従順な	
+sting	<div>stíŋ<br></div>（動）刺す<div>（名）刺すこと</div>	
+absorb	<div>əbsˈɔɚb<br></div><div>（動）夢中にさせる、吸収する</div>	
+attributable	<div>ətríbjʊṭəbl<br></div>（形）原因が〜のせいとされる	
+intangible	<div>ìntˈændʒəbl<br></div>触ることのできない、無形の	
 twig	小枝	
-ranch	牧場	
+ranch	<div>rˈæntʃ<br></div>牧場	
 tract	土地、地域、（海や空などの）広がり	
 seize	<div>[síːz]</div>（動）（敵陣などを）奪う、捕まえる、掴み取る、押収する	
 terrestrial	<div>[təréstriəl]</div>陸生の、地球の	
-honeycomb	蜂の巣状のもの、ミツバチの巣	
-cluster	（名）房、集団、群れ<div>（動）群生する</div>	
+honeycomb	<div>ˈhʌniːkəʊm<br></div>蜂の巣状のもの、ミツバチの巣	
+cluster	<div>klˈʌstɚ<br></div>（名）房、集団、群れ<div>（動）群生する</div>	
 excavate	<div>[ékskəvèɪt]</div>（動）発掘する、穴を掘る	
-curator	（図書館・美術館などの）館長、管理者	
-limb	手足	
-dim	かすんだ	
-congest	（通例受身形で）混雑する、いっぱいになる	
-dairy	乳製品、酪農	
-customary	習慣的な	
-acting	代理の、活動中の	
-Temperate Zone	（the〜）温帯	
-injustice	不正、不法	
-fabricate	作り上げる、でっちあげる、製作する	
-rub	（動）こする、摩擦する<div>（名）（通例 a〜）こすること</div>	
-affair	事件、事柄、（〜s）業務	
-burgeon	（動）急速に発展する、芽生える<div>（名）新芽</div>	
-peasant	農民	
-lunatic	狂気じみた、ばかげた	
-decent	礼儀正しい、立派な、かなりの	
-fraud	詐欺、不正行為	
-ballot	（名）投票<div>（動）投票する</div>	
-carbohydrate	炭水化物	
-livestock	家畜	
-absurd	ばかばかしい、不合理な	
+curator	<div>kjˈʊ(ə)reɪṭɚ<br></div>（図書館・美術館などの）館長、管理者	
+limb	<div>lím<br></div>手足	
+dim	<div>dím<br></div>かすんだ	
+congest	<div>kəndʒést<br></div>（通例受身形で）混雑する、いっぱいになる	
+dairy	<div>dé(ə)ri<br></div>乳製品、酪農	
+customary	<div>kˈʌstəmèri<br></div>習慣的な	
+acting	<div>ˈækṭɪŋ<br></div>代理の、活動中の	
+Temperate Zone	<div>témp(ə)rət<br></div>（the〜）温帯	
+injustice	<div>ìndʒˈʌstɪs<br></div>不正、不法	
+fabricate	<div>fˈæbrɪkèɪt<br></div>作り上げる、でっちあげる、製作する	
+rub	<div>rˈʌb<br></div>（動）こする、摩擦する<div>（名）（通例 a〜）こすること</div>	
+affair	<div>əféɚ<br></div>事件、事柄、（〜s）業務	
+burgeon	<div>bˈɚːdʒən<br></div>（動）急速に発展する、芽生える<div>（名）新芽</div>	
+peasant	<div>péznt<br></div>（名）農民	
+lunatic	<div>lúːnətìk<br></div>狂気じみた、ばかげた	
+decent	<div>díːsnt<br></div>礼儀正しい、立派な、かなりの	
+fraud	<div>frˈɔːd<br></div>詐欺、不正行為	
+ballot	<div>bˈælət<br></div>（名）投票<div>（動）投票する</div>	
+carbohydrate	<div>kὰɚboʊhάɪdreɪt<br></div>炭水化物	
+livestock	<div>lάɪvstάk<br></div>家畜	
+absurd	<div>əbsˈɚːd<br></div>（形）ばかばかしい、不合理な	
 weather	（動）風化させる、風雨にさらす<div>（名）天候</div>	
 urbane	洗練された、都会風の、垢抜けした	
 tremble	（恐怖、地震などで）震える	
 imminent	<div>[ímənənt]</div>今にも起こりそうな、差し迫った、切迫した	
-sustain	支える、耐える、維持する	
-edifice	（宮殿・教会など堂々とした）建物、体系<br>	
-aviation	航空（学）、飛行	
-rebate	（支払った額の一部の）払い戻し、リベート<br>	
-ding	（名）傷<div>（動）ジャンと鳴る</div>	
-dent	（固いものに当たったり、打ったりしてできる）くぼみ、へこみ、（弱めるような）影響	
+sustain	<div>səstéɪn<br></div>支える、耐える、維持する	
+edifice	<div>édəfɪs<br></div>（宮殿・教会など堂々とした）建物、体系<br>	
+aviation	<div>èɪviéɪʃən<br></div>（名）航空（学）、飛行	
+rebate	<div>ríːbeɪt<br></div>（支払った額の一部の）払い戻し、リベート<br>	
+ding	<div>díŋ<br></div>（名）傷<div>（動）ジャンと鳴る</div>	
+dent	<div>dént<br></div>（固いものに当たったり、打ったりしてできる）くぼみ、へこみ、（弱めるような）影響	
 take over	引き継ぐ、引き取る、買収する、（…を）持っていく	
-moss	（植物の）コケ	
-infrared rays	赤外線	
+moss	<div>mˈɔːs<br></div>（植物の）コケ	
+infrared rays	<div>ˌɪnfrɝˈɛd<br></div>赤外線	
 lament	<div>ləmént<br></div>（動）悲しむ<div>（名）悲嘆</div>	
-confront	直面する	
-sled	（名）そり<div>（動）そりに乗る</div>	
-dignify	威厳をつける	
+confront	<div>kənfrˈʌnt<br></div>直面する	
+sled	<div>sléd<br></div>（名）そり<div>（動）そりに乗る</div>	
+dignify	<div>dígnəfὰɪ<br></div>威厳をつける	
 testify	証言する、証明する	
 cavity	<div>[kˈævəṭi]</div>空洞、虫歯（の穴）	
-gratitude	謝意	
-cultivate	（土地を）耕す、修養する	
-respiration	呼吸	
-gut	腸、はらわた、根性	
-lessen	減らす、小さくする	
-prescribe	処方する、（…の）処方を書く、（…を）（規則・方針として）定める、規定する	
-perch	（名）（鳥かごなどの）止まり木<div>（動）（鳥が）止まる</div>	
-chore	日常の雑用	
-swell	（打撲・病気などで）腫れる	
-sprain	捻挫（ねんざ）する<br>	
-reign	統治する	
-anguish	苦痛、悲しみ	
+gratitude	<div>grˈæṭət(j)ùːd<br></div>謝意	
+cultivate	<div>kˈʌltəvèɪt<br></div>（土地を）耕す、修養する	
+respiration	<div>rèspəréɪʃən<br></div>呼吸	
+gut	<div>gˈʌt<br></div>腸、はらわた、根性	
+lessen	<div>lésn<br></div>減らす、小さくする	
+prescribe	<div>prɪskrάɪb<br></div>（動）処方する、（…の）処方を書く、（…を）（規則・方針として）定める、規定する	
+perch	<div>pˈɚːtʃ<br></div>（名）（鳥かごなどの）止まり木<div>（動）（鳥が）止まる</div>	
+chore	<div>tʃˈɔɚ<br></div>日常の雑用	
+swell	<div>swél<br></div>（打撲・病気などで）腫れる	
+sprain	<div>spréɪn<br></div>捻挫（ねんざ）する<br>	
+reign	<div>réɪn<br></div>統治する	
+anguish	<div>ˈæŋɡwɪʃ<br></div>（名）苦痛、悲しみ	
 upset	（動）駄目にする、転覆させる<div>（形）怒って、動揺して</div>	
-shiver	（動）（寒さで）震える<div>（名）震え、悪寒</div>	
-pivotal	（形）中心となる	
-chronicle	年代記、記録	
-peck	（動）（鳥が）ついばむ、（くちばしで）つつく<div>（名）ついばむこと</div>	
-dove	鳩	
+shiver	<div>ʃívɚ<br></div>（動）（寒さで）震える<div>（名）震え、悪寒</div>	
+pivotal	<div>pívəṭl<br></div>（形）中心となる	
+chronicle	<div>krάnɪkl<br></div>年代記、記録	
+peck	<div>pék<br></div>（動）（鳥が）ついばむ、（くちばしで）つつく<div>（名）ついばむこと</div>	
+dove	<div>dˈʌv<br></div>鳩	
 usher	（動）〜の先触れとなる、到来を告げる、案内する<div>（名）（劇場の）案内係</div>	
-banish	（他）追放する、追い払う	
+banish	<div>bˈænɪʃ<br></div>（他）追放する、追い払う	
 fatigue	<div>[fətíːg]</div>（名）（心身の相当な）疲れ<div>（動）とても疲れさせる</div>	
-omnivore	（人間などのように）雑食性の動物	
+omnivore	<div>ɑ'mnivɔ`ːr<br></div>（人間などのように）雑食性の動物	
 tremor	<div>[trémɚ]</div>（名）（声などの）震え、（地面などの）震動<div>（自）震える</div>	
 tomb	<div>[túːm]</div>墓	
-fauna	（ある地方・時代の）動物相	
-crustacean	（エビやミジンコなどの）甲殻類	
+fauna	<div>fˈɔːnə<br></div>（ある地方・時代の）動物相	
+crustacean	<div>krʌstéɪʃən<br></div>（エビやミジンコなどの）甲殻類	
 vulnerable	（感情などが）傷つきやすい	
-humiliate	恥をかかす	
-cast	（動）投げる、投票する、鋳造する<div>（名）投げること、鋳型、（映画などの）配役</div>	
-eminent	素晴らしい、著名な	
-beak	（鳥などの）くちばし	
-prescription	処方箋、規定	
+humiliate	<div>hjuːmílièɪt<br></div>恥をかかす	
+cast	<div>kˈæst<br></div>（動）投げる、投票する、鋳造する<div>（名）投げること、鋳型、（映画などの）配役</div>	
+eminent	<div>émənənt<br></div>素晴らしい、著名な	
+beak	<div>bíːk<br></div><div>（鳥などの）くちばし<br></div>	
+prescription	<div>prɪskrípʃən<br></div>処方箋、規定	
 vegetation	（一地域の）植生、（ある地域全ての）植物、草木	
-hatch	（動）孵化させる<div>（名）孵化、ハッチ、ふた</div>	
+hatch	<div>hˈætʃ<br></div>（動）孵化させる<div>（名）孵化、ハッチ、ふた</div>	
 weary	疲れ果てた	
 wasp	スズメバチ、ジガバチ	
-detach	分離する	
-horticulture	園芸（学）	
+detach	<div>dɪtˈætʃ<br></div>分離する	
+horticulture	<div>hˈɔɚṭək`ʌltʃɚ<br></div>園芸（学）	
 inaugurate	<div>[ɪnˈɔːgjʊrèɪt]</div>（通例受身形で）就任する、落成式を行う	
-rally	（名）（政治的・宗教的な）集会、ラリー、反騰、反発<div>（動）集まる、結集する</div>	
-lung	（脊椎動物の）肺	
-lid	（容器の）ふた	
-drill（ドリル以外の意味）	（名）訓練<div>（動）訓練を行う、穴を開ける<br></div>	
-outskirts	（the〜）郊外、周辺	
-incline	（受身形で）〜したいと思う、〜する気がある	
-hatred	憎しみ	
-prevalent	（病気が）蔓延している、普及している	
-polar bear	北極グマ	
-competent	有能な	
-soak	（しばしば受身形で）ずぶぬれになる、ぬれる、（液体に）浸す	
-contrary	（性質などが）反対の	
+rally	<div>rˈæli<br></div>（名）（政治的・宗教的な）集会、ラリー、反騰、反発<div>（動）集まる、結集する</div>	
+lung	<div>lˈʌŋ<br></div>（脊椎動物の）肺	
+lid	<div>líd<br></div>（容器の）ふた	
+drill（ドリル以外の意味）	<div>dríl<br></div>（名）訓練<div>（動）訓練を行う、穴を開ける<br></div>	
+outskirts	<div>άʊtsk`ɚːts<br></div>（the〜）郊外、周辺	
+incline	<div>ɪnklάɪn<br></div>（受身形で）〜したいと思う、〜する気がある	
+hatred	<div>héɪtrəd<br></div>憎しみ	
+prevalent	<div>prév(ə)lənt<br></div>（病気が）蔓延している、普及している	
+polar bear	<div>póʊlɚ<br></div>北極グマ	
+competent	<div>kάmpətnt<br></div>有能な	
+soak	<div>sóʊk<br></div>（しばしば受身形で）ずぶぬれになる、ぬれる、（液体に）浸す	
+contrary	<div>kάntreri<br></div>（性質などが）反対の	
 transfusion	輸血	
 terra	土、大地	
-fossil	化石	
-stir	（液体などを）かき混ぜる、（かすかに）動かす	
+fossil	<div>fάsl<br></div>化石	
+stir	<div>stˈɚː<br></div>（液体などを）かき混ぜる、（かすかに）動かす	
 steer	<div>[stíɚ]</div>（船などの）舵を取る	
-damp	（不快な）湿気のある	
-nest	（名）巣<div>（動）巣ごもる</div>	
-magnetism	磁気、磁性、磁気作用	
+damp	<div>dˈæmp<br></div>（不快な）湿気のある	
+nest	<div>nést<br></div>（名）巣<div>（動）巣ごもる</div>	
+magnetism	<div>mˈægnətìzm<br></div>磁気、磁性、磁気作用	
 vertebrate	（名）脊椎動物<div>（形）脊椎のある</div>	
 facet	<div>[fˈæsɪt]</div>（名）（宝石・結晶などの）彫面、（物事の）一面	
-medieval	中世の	
-burst	（通例進行形で）充満する、（管・タイヤ類が）破裂する	
-prudent	賢明な、慎重な	
-artisan	職人、熟練工	
-scorn	嘲笑する、軽蔑する	
-address（動詞の意味は？）	（動）演説する<div>（名）宛先、住所</div>	
+medieval	<div>mìːdiíːv(ə)l<br></div>中世の	
+burst	<div>bˈɚːst<br></div>（動）（通例進行形で）充満する、（管・タイヤ類が）破裂する	
+prudent	<div>prúːdnt<br></div>賢明な、慎重な	
+artisan	<div>άɚṭəzn<br></div>（名）職人、熟練工	
+scorn	<div>skˈɔɚn<br></div>嘲笑する、軽蔑する	
+address（動詞の意味は？）	<div>ədrés<br></div>（動）演説する<div>（名）宛先、住所</div>	
 coalition	<div>[kòʊəlíʃən]</div>（名）連合、合同	
-glacier	氷河	
-chronological order	年代順	
-commonplace	（形）ありふれた、平凡な<div>（名）ありふれたこと</div>	
-synthesis	統合、合成	
+glacier	<div>gléɪʃɚ<br></div>氷河	
+chronological order	<div>krὰnəlάdʒɪk(ə)l<br></div>年代順	
+commonplace	<div>kάmənplèɪs<br></div>（形）ありふれた、平凡な<div>（名）ありふれたこと</div>	
+synthesis	<div>sínθəsɪs<br></div>統合、合成	
 entomology	<div>[ènṭəmάlədʒi]</div>（名）昆虫学	
-discharge	（動）（気体・液体などを）排出する、解雇する<div>（名）流出、荷下ろし、解任、退院</div>	
+discharge	<div>dɪstʃάɚdʒ<br></div>（動）（気体・液体などを）排出する、解雇する<div>（名）流出、荷下ろし、解任、退院</div>	
 porous	<div>pˈɔːrəs<br></div>（形）多孔性の、浸透性の	
-discreet	思慮深い、（言動が）慎重な<div>※ discrete「分離した、別個の」との混同注意</div>	
-affirm	主張する、断言する	
-amend	（法案・憲法などの字句を）修正する	
-epoch	（歴史・人生上の）新時代、新時期、エポック	
-endow	（通例受身形で）授けられている、（基金として）寄付する	
+discreet	<div>dɪskríːt<br></div>思慮深い、（言動が）慎重な<div>※ discrete「分離した、別個の」との混同注意</div>	
+affirm	<div>əfˈɚːm<br></div>（動）主張する、断言する	
+amend	<div>əménd<br></div>（動）（法案・憲法などの字句を）修正する	
+epoch	<div>épək<br></div>（歴史・人生上の）新時代、新時期、エポック	
+endow	<div>endάʊ<br></div>（通例受身形で）授けられている、（基金として）寄付する	
 thrust	（ある状態に）追いやる、押し付ける、突出する、突き進む	
 wholesale	卸売り	
 utility	公用、（通例 -ties で）公益事業、水道光熱費	
-refrain	慎む、断つ、やめる	
-probe	（動）探査する、精査する<div>（名）探査衛星</div>	
-feeble	（体が）弱い、（光・音などが）かすかな	
-fractured	粉々になった、破砕した	
+refrain	<div>rɪfréɪn<br></div>慎む、断つ、やめる	
+probe	<div>próʊb<br></div>（動）探査する、精査する<div>（名）探査衛星</div>	
+feeble	<div>fíːbl<br></div>（体が）弱い、（光・音などが）かすかな	
+fractured	<div>ˈfræktʃɝd<br></div>粉々になった、破砕した	
 well-off	裕福な	
-immense	巨大な	
-exhibit	（名）展示物、展示会<div>（動）展示する</div>	
-generous	寛大な、気前のよい	
-institution	機関、団体、しきたり	
-commission	（動）委託する、委任する<div>（名）委員会、歩合給</div>	
-brick	レンガ	
-be propped up against	〜に立てかける	
-auditorium	講堂、（劇場・ホールの）観客席	
-slanted	傾斜した、斜めの	
-pottery	陶器、瀬戸物	
+immense	<div>ɪméns<br></div>巨大な	
+exhibit	<div>egzíbɪt<br></div>（名）展示物、展示会<div>（動）展示する</div>	
+generous	<div>dʒén(ə)rəs<br></div>寛大な、気前のよい	
+institution	<div>ìnstət(j)úːʃən<br></div>機関、団体、しきたり	
+commission	<div>kəmíʃən<br></div>（動）委託する、委任する<div>（名）委員会、歩合給</div>	
+brick	<div>brík<br></div>（名）レンガ	
+be propped up against	<div>prɑpt<br></div>〜に立てかける	
+auditorium	<div>`ɔːdətˈɔːriəm<br></div>（名）講堂、（劇場・ホールの）観客席	
+slanted	<div>ˈslæntɪd<br></div>傾斜した、斜めの	
+pottery	<div>pάṭəri</div>陶器、瀬戸物	
 unattended	（担当の）人がいない	
-awning	日除け	
-patio	テラス	
-crate	（輸送用の）木箱、ケース	
-station（動詞の意味は？）	（動）配置する<div>（名）駅</div>	
+awning	<div>ˈɔːnɪŋ<br></div>（名）日除け	
+patio	<div>pˈæṭiòʊ<br></div>テラス	
+crate	<div>kréɪt<br></div>（輸送用の）木箱、ケース	
+station（動詞の意味は？）	<div>stéɪʃən<br></div>（動）配置する<div>（名）駅</div>	
 window pane	窓ガラス	
-stroll	ぶらぶら歩く	
-lamppost	街灯柱	
-canopy	天蓋	
-complimentary	（形）無料の、敬意を表する	
-extensive	詳細な、幅広い、大規模な	
-banquet	夕食会	
-assembly	組立、集会	
-renowned	名高い、著名な	
-sculpture	彫刻	
-appliance	電化製品	
+stroll	<div>stróʊl<br></div>ぶらぶら歩く	
+lamppost	<div>ˈlæˌmppost<br></div>街灯柱	
+canopy	<div>kˈænəpi<br></div>天蓋	
+complimentary	<div>kὰmpləménṭəri<br></div>（形）無料の、敬意を表する	
+extensive	<div>eksténsɪv<br></div>詳細な、幅広い、大規模な	
+banquet	<div>bˈæŋkwɪt<br></div>（名）夕食会	
+assembly	<div>əsémbli<br></div>組立、集会	
+renowned	<div>rɪnάʊnd<br></div>名高い、著名な	
+sculpture	<div>skˈʌlptʃɚ<br></div>彫刻	
+appliance	<div>əplάɪəns<br></div>（名）電化製品	
 venue	会場	
-circulation	発行部数、流通、（図書館の）貸出	
-accomplished	熟達した、スキルの高い	
-premises	敷地	
-conservation	節約、環境保護	
-pastry	焼き菓子	
+circulation	<div>s`ɚːkjʊléɪʃən<br></div>発行部数、流通、（図書館の）貸出	
+accomplished	<div>ʌˈkɑmplɪʃt<br></div>（形）熟達した、スキルの高い	
+premises	<div>ˈpɹɛməsiːz<br></div>敷地	
+conservation	<div>kὰnsɚvéɪʃən<br></div>節約、環境保護	
+pastry	<div>péɪstri<br></div>焼き菓子	
 tenant	貸借人、入居者	
-postage	郵便料金	
-drape	（名）厚手のカーテン<div>（動）ゆるやかにかける、おおう</div>	
-freight elevator	貨物用エレベーター	
-panel（パネル以外）	グループ、パネル	
-strive	懸命に努力する、戦う	
-checkout（チェックアウト以外）	レジ、チェックアウト	
-preliminary	仮の、暫定の、本番前の	
-steadily	着実に	
-controversial	（形）議論を引き起こす、議論の的になる	
+postage	<div>póʊstɪdʒ<br></div>郵便料金	
+drape	<div>dréɪp<br></div>（名）厚手のカーテン<div>（動）ゆるやかにかける、おおう</div>	
+freight elevator	<div>fréɪt&nbsp;éləvèɪṭɚ<br></div>貨物用エレベーター	
+panel（パネル以外）	<div>pˈænl<br></div>グループ、パネル	
+strive	<div>strάɪv<br></div>懸命に努力する、戦う	
+checkout（チェックアウト以外）	<div>tˈʃekàut<br></div>レジ、チェックアウト	
+preliminary	<div>prɪlímənèri<br></div>仮の、暫定の、本番前の	
+steadily	<div>stédəli<br></div>着実に	
+controversial	<div>kὰntrəvˈɚːʃəl<br></div>（形）議論を引き起こす、議論の的になる	
 understaffed	人手不足の	
-legislation	法律、法制化	
-plumber	配管工	
+legislation	<div>lèdʒɪsléɪʃən<br></div>法律、法制化	
+plumber	<div>plˈʌmɚ<br></div>配管工	
 welder	溶接工	
-civil engineer	土木技師	
+civil engineer	<div>sív(ə)l&nbsp;èndʒəníɚ<br></div>土木技師	
 veterinarian	獣医	
-locksmith	鍵屋	
+locksmith	<div>ˈlɑˌksmɪθ<br></div>鍵屋	
 courier	<div>[kˈʊriɚ]</div>宅配業者、添乗員	
-auditor	会計監査官	
-attorney	弁護士、代理人	
-proofreader	校正者	
-correspondent	特派員、文通者、一致するもの	
+auditor	<div>ˈɔːdəṭɚ<br></div>（名）会計監査官	
+attorney	<div>ətˈɚːni<br></div><div>（名）弁護士、代理人</div>	
+proofreader	校正者<div>※発音記号がない</div>	
+correspondent	<div>k`ɔːrəspάndənt<br></div>特派員、文通者、一致するもの	
 fine arts	芸術	
-notwithstanding	〜にもかかわらず	
+notwithstanding	<div>nὰtwɪθstˈændɪŋ<br></div>〜にもかかわらず	
 in light of	〜を考慮に入れると	
-insofar as	〜する限りにおいて	
-inasmuch as	〜する限りにおいて	
+insofar as	<div>ɪnsəʊˈfaː(r)<br></div>〜する限りにおいて	
+inasmuch as	<div>ˌɪˈnæsmʌk<br></div>〜する限りにおいて	
 lumber	<div>[lˈʌmbɚ]</div>（名）材木、製材	
-compartment	一区画	
-showcase（動詞の意味は？）	（動）披露する<div>（名）お披露目の場、ショーケース</div>	
+compartment	<div>kəmpάɚtmənt<br></div>一区画	
+showcase（動詞の意味は？）	<div>ˈʃoˌkes<br></div>（動）披露する<div>（名）お披露目の場、ショーケース</div>	
 discontinued	<div>[dɪskʌˈntɪnjud]</div>（製造・販売が）終了した	
-excerpt	抜粋、引用	
-municipal	市の、市営の	
+excerpt	<div>éksɚːpt<br></div>抜粋、引用	
+municipal	<div>mjuːnísəp(ə)l<br></div>市の、市営の	
 culinary	<div>[kˈʌlənèri]</div>料理の	
-attire	服装	
-furnished	家具付きの	
-acclaimed	絶賛されている	
-correspondence	やり取り、文通、一致、調和、対応	
-detergent	洗剤	
-prestigious	権威のある、誉れ高い、一流の、社会的地位の高い	
-misplace	紛失する、置き忘れる	
+attire	<div>ətάɪɚ<br></div><div>（名）服装</div>	
+furnished	<div>ˈfɝnɪʃt<br></div>家具付きの	
+acclaimed	<div>ʌˈklemd<br></div>（形）絶賛されている	
+correspondence	<div>k`ɔːrəspάndəns<br></div>やり取り、文通、一致、調和、対応	
+detergent	<div>dɪtˈɚːdʒənt<br></div>洗剤	
+prestigious	<div>prestídʒəs<br></div>権威のある、誉れ高い、一流の、社会的地位の高い	
+misplace	<div>mɪˈsples<br></div>紛失する、置き忘れる	
 subsidiary	<div>[səbsídièri]</div>（名）子会社、補助員<div>（形）補助的な、補助金による</div>	
-disruption	混乱、妨げ、途絶、遮断	
-incur	（損失や罰金などを）受ける、被る、負担する	
+disruption	<div>dɪsrˈʌpʃən<br></div>混乱、妨げ、途絶、遮断	
+incur	<div>ɪnkˈɚː<br></div>（損失や罰金などを）受ける、被る、負担する	
 tentative	仮の	
-apprentice	見習い、実習生	
-overwhelmingly	圧倒的に	
-proceeds	収益	
+apprentice	<div>əprénṭɪs<br></div>（名）見習い、実習生	
+overwhelmingly	<div>ˌovɝˈwɛlmɪŋli<br></div>圧倒的に	
+proceeds	<div>próʊsiːdz<br></div>収益	
 inclement	<div>[ìnklémənt]</div>（形）荒れ模様の、（寒さまたは風雨のために）不良な	
-anecdote	逸話	
-intermission	休憩時間	
-solicit	求める、嘆願する	
-commemorate	（記念日や人を）祝う、記念する	
-applicable	適用される、当てはまる	
-commend	ほめる	
-complement	（動）合う、補完する<div>（名）補足して完全にするもの、補語</div>	
-incorporate	取り入れる、組み込む、法人化する	
-lapse	（動）失効する、うっかりミスをする<div>（名）過失、時の経過</div>	
-picturesque	絵のように美しい	
+anecdote	<div>ˈænɪkdòʊt<br></div>（名）逸話	
+intermission	<div>ìnṭɚmíʃən<br></div>休憩時間	
+solicit	<div>səlísɪt<br></div>求める、嘆願する	
+commemorate	<div>kəmémərèɪt<br></div>（記念日や人を）祝う、記念する	
+applicable	<div>ˈæplɪkəbl<br></div>（形）適用される、当てはまる	
+commend	<div>kəménd<br></div>ほめる	
+complement	<div>kάmpləmənt<br></div>（動）合う、補完する<div>（名）補足して完全にするもの、補語</div>	
+incorporate	<div>ɪnkˈɔɚpərèɪt<br></div>取り入れる、組み込む、法人化する	
+lapse	<div>lˈæps<br></div>（動）失効する、うっかりミスをする<div>（名）過失、時の経過</div>	
+picturesque	<div>pìktʃərésk<br></div>絵のように美しい	
 withstand	耐える	
 aspiring	<div>əspάɪ(ə)rɪŋ<br></div>〜志望の、〜になろうとする	
-assorted	詰め合わせの	
-obstruct	（道路や視界を）ふさぐ、さえぎる、妨害する	
-fierce	熾烈な、激しい	
-reluctant	気乗りしない、渋っている	
+assorted	<div>əsˈɔɚṭɪd<br></div>（形）詰め合わせの	
+obstruct	<div>əbstrˈʌkt<br></div>（道路や視界を）ふさぐ、さえぎる、妨害する	
+fierce	<div>fíɚs<br></div>熾烈な、激しい	
+reluctant	<div>rɪlˈʌktənt<br></div>気乗りしない、渋っている	
 commence	<div>[kəméns]</div>始める	
-devise	考案する、立案する	
-foster	促進する、養う	
+devise	<div>dɪvάɪz<br></div>考案する、立案する	
+foster	<div>fˈɔːstɚ<br></div>促進する、養う	
 transparent	透明の	
 concise	<div>[kənsάɪs]</div>簡潔な	
-delegation	代表団、（権限等の）移譲	
-adhere	（規則や法律などに）忠実に従う、接着する	
-appraisal	査定、評価	
-compile	取りまとめる、編集する	
+delegation	<div>dèlɪgéɪʃən<br></div>代表団、（権限等の）移譲	
+adhere	<div>ædhíɚ<br></div>（規則や法律などに）忠実に従う、接着する	
+appraisal	<div>əpréɪzl<br></div>（名）査定、評価	
+compile	<div>kəmpάɪl<br></div>取りまとめる、編集する	
 conform	<div>[kənfˈɔɚm]</div>（規則や周囲の状況などに）合わせる、一致する	
 distraction	<div>dɪstrˈækʃən<br></div>（名）気を散らすもの、注意の妨げになるもの	
-integral	不可欠の	
-deduct	控除する	
+integral	<div>ínṭɪgrəl<br></div>不可欠の	
+deduct	<div>dɪdˈʌkt<br></div>控除する	
 synthetic	<div>sɪnθéṭɪk<br></div>（形）合成の	
-patiently	根気よく、我慢強く	
-persuasive	説得力のある	
-battery（バッテリー以外の意味）	一連	
-field（動詞の意味は？）	うまくさばく、（チームなどを）試合に出す	
-household articles	家庭用品	
+patiently	<div>ˈpeʃʌntli<br></div>根気よく、我慢強く	
+persuasive	<div>pɚswéɪsɪv<br></div>説得力のある	
+battery（バッテリー以外の意味）	<div>bˈæṭəri<br></div>（名）一連	
+field（動詞の意味は？）	<div>fíːld<br></div>うまくさばく、（チームなどを）試合に出す	
+household articles	<div>hάʊshòʊld<br></div>家庭用品	
 thoughtfully	深く考えて、思慮深く、配慮して	
-abridged	要約された、短縮された	
-compatible	（形）相性がいい、互換性がある、共存できる	
-endorse	推薦する、支持する、裏書きする	
-keenly	痛烈に、鋭く	
-plaque	盾	
-dilute	薄める	
+abridged	<div>ʌˈbrɪdʒd<br></div>（形）要約された、短縮された	
+compatible	<div>kəmpˈæṭəbl<br></div>（形）相性がいい、互換性がある、共存できる	
+endorse	<div>ɪndˈɔɚs<br></div>推薦する、支持する、裏書きする	
+keenly	<div>ˈkinli<br></div>痛烈に、鋭く	
+plaque	<div>plˈæk<br></div>盾	
+dilute	<div>dɑɪlúːt<br></div>薄める	
 centerpiece	<div>ˈsɛntɝˌpis<br></div>（名）中心に置かれる装飾品、中心になるもの	
-oversight	見落とし、手落ち、監視	
-privileged	光栄な、特権のある	
-recur	再発する	
-breathtaking	息をのむほどの、驚くべき	
-exempt	（形）免除された<div>（動）免除する</div>	
+oversight	<div>ˈovɝˌsaɪt<br></div>見落とし、手落ち、監視	
+privileged	<div>ˈprɪvɪlɪdʒd<br></div>光栄な、特権のある	
+recur	<div>rɪkˈɚː<br></div>再発する	
+breathtaking	<div>ˈbɹɛθˌteɪ.kɪŋ<br></div>（形）息をのむほどの、驚くべき	
+exempt	<div>egzém(p)t<br></div>（形）免除された<div>（動）免除する</div>	
 cubicle	<div>kjúːbɪkl<br></div>個別の作業スペース	
-perishable	傷みやすい、腐りやすい	
+perishable	<div>pérɪʃəbl<br></div>傷みやすい、腐りやすい	
 avid	<div>ævɪd<br></div>熱心な、熱烈な	
-detour	（名）回り道<div>（動）遠回りをする</div>	
+detour	<div>díːtʊɚ<br></div>（名）回り道<div>（動）遠回りをする</div>	
 expedite	<div>[ékspədὰɪt]</div>早める、促進させる	
 vicinity	<div>[vəsínəṭi]</div>近所、近辺	
 demolish	<div>[dɪmάlɪʃ]</div>（建物を）解体する、取り壊す	
 inaugural	<div>[ɪnˈɔːgjʊrəl]</div>最初の、初開催の	
-installment	分割払いの1回分	
-redeemable	（現金や商品と）交換可能な	
-streamline	合理化する、簡略化する	
-insulation	（音、熱、電気等を）防ぐこと	
+installment	<div>ɪnstˈɔːlmənt<br></div>分割払いの1回分	
+redeemable	<div>rɪdíːməbl<br></div>（現金や商品と）交換可能な	
+streamline	<div>ˈstriˌmlaɪn<br></div>合理化する、簡略化する	
+insulation	<div>ìnsəléɪʃən<br></div>（音、熱、電気等を）防ぐこと	
 intact	<div>[ɪntˈækt]</div>傷がない	
 turnover	離職率、（一定期間の）売上高	
 deteriorate	<div>dɪtí(ə)riərèɪt<br></div>（自）悪化する<div>（他）悪化させる</div>	
-sturdy	頑丈な、丈夫な	
-adverse	（形）有害な、不利な、反対する	
-bearer	（小切手やクーポンなどの）持参人	
+sturdy	<div>stˈɚːdi<br></div>頑丈な、丈夫な	
+adverse	<div>ædvˈɚːs<br></div>（形）有害な、不利な、反対する	
+bearer	<div>bé(ə)rɚ<br></div>（小切手やクーポンなどの）持参人	
 unprecedented	前例のない	
 commensurate	<div>[kəméns(ə)rət]</div>（形）釣り合った、比例した、見合った	
-consecutive	（形）連続した、引き続く	
-deliberation	熟考	
-discreetly	分別を持って、思慮深く	
-entail	必要とする、〜を伴う	
-fluctuation	変動	
-foremost	最高の、トップの	
-imperative	急を要する、非常に重要な	
-meticulously	細心の注意を払って、几帳面に、綿密に	
-outreach	福祉活動、支援活動	
+consecutive	<div>kənsékjʊṭɪv<br></div>（形）連続した、引き続く	
+deliberation	<div>dɪlìbəréɪʃən<br></div>熟考	
+discreetly	<div>dɪˈskritli<br></div>分別を持って、思慮深く	
+entail	<div>entéɪl<br></div>必要とする、〜を伴う	
+fluctuation	<div>fl`ʌktʃuéɪʃən<br></div>変動	
+foremost	<div>fˈɔɚmòʊst<br></div>最高の、トップの	
+imperative	<div>ɪmpérəṭɪv<br></div>急を要する、非常に重要な	
+meticulously	<div>mʌˈtɪkjʌlʌsli<br></div><div>細心の注意を払って、几帳面に、綿密に<br></div>	
+outreach	<div>ˈaʊˌtritʃ<br></div>福祉活動、支援活動	
 <div>tenure<br></div>	<div>[ténjɚ]<br></div>在職期間	
 versatile	多才な	
 alleviate	<div>[əlíːvièɪt]</div>和らげる、軽減する	
-exemplary	模範的な	
-gala	祝祭、祭り	
-mural	（名）壁画<div>（形）壁の</div>	
-proprietor	オーナー、所有者	
+exemplary	<div>egzémpləri<br></div>模範的な	
+gala	<div>géɪlə<br></div>祝祭、祭り	
+mural	<div>mjˈʊ(ə)rəl<br></div>（名）壁画<div>（形）壁の</div>	
+proprietor	<div>prəprάɪəṭɚ<br></div>オーナー、所有者	
 stagnant	<div>stˈægnənt<br></div>（形）停滞した、よどんだ、活気がない	
-stringent	非常に厳しい	
+stringent	<div>stríndʒənt<br></div>非常に厳しい	
 testimonial	<div>[tèstəmóʊniəl]</div>（名）推薦文、推薦の声、証明書	
 turnout	<div>tə'rnàut<br></div>（名）参加者数、来場者数	
 waive	（権利や条件を）放棄する、差し控える、適用しない	
-faucet	蛇口	
-amendment	改正、修正	
-consolidate	統合する	
+faucet	<div>fˈɔːsɪt<br></div>（名）蛇口	
+amendment	<div>əmén(d)mənt<br></div>（名）改正、修正	
+consolidate	<div>kənsάlədèɪt<br></div>統合する	
 vigorous	活気のある、精力的な	
 retreat	<div>[rɪtríːt]</div>（名）研修旅行、休養する場所、憩いの場<div>（動）退却する、後退する</div>	
-custodian	管理人、守衛	
-impending	間近に迫った、差し迫った	
-itemize	項目別にする	
+custodian	<div>kʌstóʊdiən<br></div>管理人、守衛	
+impending	<div>ɪmpéndɪŋ<br></div>間近に迫った、差し迫った	
+itemize	<div>άɪṭəmὰɪz<br></div>項目別にする	
 liaison	<div>[líːəzὰn]</div>連絡係、連絡	
-objectionable	不快な、気に障る	
-repave	再舗装する	
-shortcoming	欠点、短所	
+objectionable	<div>əbdʒékʃ(ə)nəbl<br></div>不快な、気に障る	
+repave	<div>rɪpéɪv<br></div>再舗装する	
+shortcoming	<div>ˈʃɔˌrtkʌmɪŋ<br></div>欠点、短所	
 viable	実行可能な	
-memorabilia	記念品、思い出の品	
-deplete	使い果たす、激減させる	
-jeopardy	危機、危険	
-nominal	ほんのわずかの、（成長率などが）名目の	
+memorabilia	<div>mèmərəbíliə<br></div>記念品、思い出の品	
+deplete	<div>dɪplíːt<br></div>使い果たす、激減させる	
+jeopardy	<div>dʒépɚdi<br></div>危機、危険	
+nominal	<div>nάmənl<br></div>ほんのわずかの、（成長率などが）名目の	
 deviate	<div>[díːvièɪt]</div>それる、逸脱する	
 forfeit	<div>[fˈɔɚfɪt]</div>（動）没収される、剥奪される<div>（名）罰金、犠牲</div>	
-bolster	（動）強化する、補強する、鼓舞する<div>（名）支え</div>	
-purveyor	供給業者、販売業者	
-raffle	福引	
+bolster	<div>bóʊlstɚ<br></div>（動）強化する、補強する、鼓舞する<div>（名）支え</div>	
+purveyor	<div>pərvéiər<br></div>供給業者、販売業者	
+raffle	<div>rˈæfl<br></div>福引	
 ventilation	換気、風通し	
 unwavering	ゆるがぬ、断固とした	
 in for a treat	もうすぐ楽しいことがある	
 live up to	（期待、要求などに）応える	
-null and void	無効の	
+null and void	<div>nˈʌl<br></div>無効の	
 out of shape	体調が万全ではない	
 run into	〜と出くわす、〜と衝突する、〜の状態に陥る	
-spare no expense	費用を惜しまない	
+spare no expense	<div>spéɚ<br></div>費用を惜しまない	
 work ethic	勤労意欲	
-deliberate（形と動）	（形）故意の、慎重な、計画的な、考え深い<div>（動）討議する、熟慮する</div>	
-depreciate	（価値などが）下がる、減価償却する	
-lodge（動詞の意味は？）	（動）（苦情・反対などを）提出する、申し立てる、宿泊する<div>（名）ロッジ、旅館</div>	
+deliberate（形と動）	<div>dɪlíb(ə)rət<br></div>（形）故意の、慎重な、計画的な、考え深い<div>（動）討議する、熟慮する</div>	
+depreciate	<div>dɪpríːʃièɪt<br></div>（価値などが）下がる、減価償却する	
+lodge（動詞の意味は？）	<div>lάdʒ<br></div>（動）（苦情・反対などを）提出する、申し立てる、宿泊する<div>（名）ロッジ、旅館</div>	
 file for	申請する、申し込む	
-adopt（採用する以外の意味）	養子にする	
+adopt（採用する以外の意味）	<div>ədάpt<br></div>（動）養子にする	
 toast（パンのトースト以外）	（名）乾杯<div>（動）乾杯する</div>	
-affordable	手頃な価格の	
+affordable	<div>əfˈɔɚdəbl<br></div>（形）手頃な価格の	
 insistent	<div>[ɪnsístənt]</div>譲らない、しつこい	
-necessitate	必要とする、やむなく〜させる	
-resumption	再開、回復	
+necessitate	<div>nɪsésətèɪt<br></div>必要とする、やむなく〜させる	
+resumption	<div>rɪzˈʌm(p)ʃən<br></div>再開、回復	
 utter	（動）口に出す、声に出す<div>（形）まったくの、完全な</div>	
 prophesy	<div>[prάfəsὰɪ]</div>予言する	
-impeach	弾劾する	
-embezzle	横領する	
+impeach	<div>ɪmpíːtʃ<br></div>弾劾する	
+embezzle	<div>embézl<br></div>横領する	
 gauge	<div>発音 [géɪdʒ]</div>（動）（長さなどを）測定する<div>（名）標準寸法、計量器</div>	
-adjourn	（会議を）休会とする、延期する	
-reckon	憶測する、ざっと計算する	
+adjourn	<div>ədʒˈɚːn<br></div>（動）（会議を）休会とする、延期する	
+reckon	<div>rék(ə)n<br></div>憶測する、ざっと計算する	
 withhold	保留する、天引きする	
-negligence	怠慢、過失	
-mediator	仲裁人	
-evade	逃れる、回避する	
-apprise	知らせる、通知する	
-render（描写する以外）	提供する、与える	
-depict	描写する、叙述する	
-scrutinize	綿密に調べる	
+negligence	<div>néglɪdʒəns<br></div>怠慢、過失	
+mediator	<div>míːdiəṭɚ<br></div>仲裁人	
+evade	<div>ɪvéɪd<br></div>逃れる、回避する	
+apprise	<div>əprάɪz<br></div>（動）知らせる、通知する	
+render（描写する以外）	<div>réndɚ<br></div>提供する、与える	
+depict	<div>dɪpíkt<br></div>描写する、叙述する	
+scrutinize	<div>skrúːṭənὰɪz<br></div>綿密に調べる	
 set off	始動する、作動する	
-embark on	〜に乗り出す、〜を開始する	
-affection	愛情、影響<div>※愛情の意味でよく使われる</div>	
-allure	（動）魅惑する、そそのかす<div>（名）魅惑</div>	
+embark on	<div>ɪmbάɚk<br></div>〜に乗り出す、〜を開始する	
+affection	<div>əfékʃən<br></div>（名）愛情、影響<div>※愛情の意味でよく使われる</div>	
+allure	<div>əlˈʊɚ<br></div>（動）魅惑する、そそのかす<div>（名）魅惑</div>	
 entice	<div>entάɪs<br></div>（動）誘う、誘惑する	
 promulgate	<div>[prάməlgèɪt]</div>公布する	
-diffuse	（他）広める、（光などを）発散する<div>（自）広がる</div>	
-cite	例証する、引用する	
-excel	より優れている、抜きん出る	
+diffuse	<div>dɪfjúːz<br></div>（他）広める、（光などを）発散する<div>（自）広がる</div>	
+cite	<div>sάɪt<br></div>例証する、引用する	
+excel	<div>eksél<br></div>より優れている、抜きん出る	
 penetrate	<div>[pénətrèɪt]</div>（液体などが）染み通る、浸透する、解き明かす、貫く、突き抜ける	
 allot	<div>[əlάt]</div>（動）（仕事・時間などを）割り当てる、分配する	
-defer	（予定などを）延ばす、延期する	
-presume	推定する、想像する	
-allude	ほのめかす、それとなく言う	
-exemplify	（動）例証する	
-comprise	〜より成る、含む	
+defer	<div>dɪfˈɚː<br></div>（予定などを）延ばす、延期する	
+presume	<div>prɪzúːm<br></div>推定する、想像する	
+allude	<div>əlúːd<br></div>（動）ほのめかす、それとなく言う	
+exemplify	<div>ɪgzémpləfὰɪ<br></div>（動）例証する	
+comprise	<div>kəmprάɪz<br></div>〜より成る、含む	
 incite	<div>[ɪnsάɪt]</div>けしかける、扇動する	
 ailing	<div>[ˈelɪŋ]</div>疲弊した、病気の	
-provoke	誘う、（怒り・笑いなどを）呼び起こす	
+provoke	<div>prəvóʊk<br></div>誘う、（怒り・笑いなどを）呼び起こす	
 provocative	<div>[prəvάkəṭɪv]</div>挑発的な、物議をかもす	
-refurbish	（家などを）改装する、修理調整する	
-dispatch	派遣する、発送する	
+refurbish	<div>rìːfˈɚːbɪʃ<br></div>（家などを）改装する、修理調整する	
+dispatch	<div>dɪspˈætʃ<br></div>派遣する、発送する	
 thrive	繁栄する、成功する、（植物が）生い茂る	
-tardiness	遅刻	
+tardiness	<div>ˈtɑrdinʌs<br></div>遅刻	
 stipulate	<div>[stípjʊlèɪt]</div>（動）（法律や契約として）規定する、明記する、要求する	
-suck	吸う、吸い込む	
-mingle	（他）混ぜる<div>（自）交流する</div>	
+suck	<div>sˈʌk<br></div>吸う、吸い込む	
+mingle	<div>míŋgl<br></div>（他）混ぜる<div>（自）交流する</div>	
 amalgamate	<div>[əmˈælgəmèɪt]</div>合併する、融合する	
-overstate	誇張して話す	
-classy	高級な、おしゃれな	
+overstate	<div>ˌoʊ.vɚˈsteɪt<br></div>誇張して話す	
+classy	<div>klˈæsi<br></div>高級な、おしゃれな	
 persevere	<div>[p`ɚːsəvíɚ]</div>根気よくやり通す	
 tolerant	寛大な	
-compelling	抵抗しがたい、説得力のある	
+compelling	<div>kʌˈmpɛlɪŋ<br></div>抵抗しがたい、説得力のある	
 coerce	<div>koʊˈɚːs<br></div>強制して〜させる、威圧する	
 allege	<div>[əlédʒ]</div>申し立てをする、（証拠なしに）主張する	
-deductive	演繹的な	
+deductive	<div>dɪdˈʌktɪv<br></div>演繹的な	
 abide by	（法律などを）遵守する	
-repeal	（法律などを）無効にする、取り消す	
+repeal	<div>rɪpíːl<br></div>（法律などを）無効にする、取り消す	
 abolish	<div>[əbάlɪʃ]</div>（動）廃止する、根絶する	
 confiscate	<div>[kάnfɪskèɪt]</div>押収する、没収する	
-appropriate（動詞の意味は？）	（動）着服する、私物化する<div>（形）適当な</div>	
+appropriate（動詞の意味は？）	<div>əpróʊprièɪt<br></div>（動）着服する、私物化する<div>（形）適当な</div>	
 take effect	発効する	
-flatter	お世辞を言う、おだてる	
-raze	取り壊す、破壊する	
-dismantle	分解する、解体する	
-retrieve	回収する、（情報などを）検索する	
-overthrow	（政権などを）転覆させる	
-override	無視する、拒否する	
-ascribe	（動）（to以下に）帰する、（to以下の）せいにする	
+flatter	<div>flˈæṭɚ<br></div>お世辞を言う、おだてる	
+raze	<div>réɪz<br></div>取り壊す、破壊する	
+dismantle	<div>dìsmˈænṭl<br></div>分解する、解体する	
+retrieve	<div>rɪtríːv<br></div>回収する、（情報などを）検索する	
+overthrow	<div>òʊvɚθróʊ<br></div>（政権などを）転覆させる	
+override	<div>ˈəʊ.vəraɪd<br></div>無視する、拒否する	
+ascribe	<div>əskrάɪb<br></div>（動）（to以下に）帰する、（to以下の）せいにする	
 envisage	<div>[envízɪdʒ]</div>（他）心に描く、予測する	
 vex	いらいらさせる、怒らせる	
-exasperate	怒らせる、立腹させる	
-eradicate	（病気・社会問題などを）根絶する	
-dismiss	否定する、却下する、解雇する	
-dismissal	棄却、解雇	
-abandon	見捨てる、断念する	
-diminish	減少させる	
+exasperate	<div>ɪgzˈæspərèɪt<br></div>怒らせる、立腹させる	
+eradicate	<div>ɪrˈædəkèɪt<br></div>（病気・社会問題などを）根絶する	
+dismiss	<div>dɪsmís<br></div>否定する、却下する、解雇する	
+dismissal	<div>dɪsmísl<br></div>棄却、解雇	
+abandon	<div>əbˈændən<br></div>（動）見捨てる、断念する	
+diminish	<div>dɪmínɪʃ<br></div>減少させる	
 pharmaceutical	<div>[fὰɚməsúːṭɪk(ə)l]</div>医薬品の	
-take shelter	避難する	
+take shelter	<div>ʃéltɚ<br></div>避難する	
 vacate	<div>[véɪkeɪt]</div>（動）明け渡す	
-relinquish	放棄する	
+relinquish	<div>rɪlíŋkwɪʃ<br></div>放棄する	
 preside	<div>[prɪzάɪd]</div>統括する、議長を務める	
-detain	拘束する、引き留める	
-detention	拘束	
-tap（軽く叩く以外の意味）	利用する、開発する	
+detain	<div>dɪtéɪn<br></div>拘束する、引き留める	
+detention	<div>dɪténʃən<br></div>拘束	
+tap（軽く叩く以外の意味）	<div>tˈæp<br></div>利用する、開発する	
 reprimand	<div>[réprəm`ænd]</div>（業務上で）叱責する	
-rebuke	強く非難する、叱責する	
+rebuke	<div>rɪbjúːk<br></div>強く非難する、叱責する	
 venture	（他）思い切って〜する<div>（自）思い切って試みる</div>	
-err	間違う、ミスを犯す	
+err	<div>éɚ<br></div>間違う、ミスを犯す	
 errant	<div>[érənt]</div>（形）逸脱した、遍歴する	
-culminate	ついに（ある状態に）達する、（祭典などが）最高潮に達する	
+culminate	<div>kˈʌlmənèɪt<br></div>ついに（ある状態に）達する、（祭典などが）最高潮に達する	
 pertain	<div>[pɚtéɪn]</div>（自）〜に付属する、関係する	
-jeopardize	危うくする、危険に晒す、台無しにする	
-imperil	危険に晒す	
-pertinent	（形）妥当な、関連する、適切な	
+jeopardize	<div>ˈdʒɛpɝˌdaɪz<br></div>危うくする、危険に晒す、台無しにする	
+imperil	<div>ɪmpérəl<br></div>危険に晒す	
+pertinent	<div>pˈɚːtənənt<br></div>（形）妥当な、関連する、適切な	
 indigenous	<div>[ɪndídʒənəs]</div>原産の、土着の	
 plausible	<div>plˈɔːzəbl<br></div>（形）もっともらしい、まことしやかな	
-indispensable	必要不可欠な	
-cutthroat	熾烈な、弱肉強食の	
-conspicuous	著名な、人目を引く、はっきり見える	
+indispensable	<div>ìndɪspénsəbl<br></div>必要不可欠な	
+cutthroat	<div>ˈkʌˌtθrot<br></div>熾烈な、弱肉強食の	
+conspicuous	<div>kənspíkjuəs<br></div>著名な、人目を引く、はっきり見える	
 focal	<div>[fóʊk(ə)l]</div>焦点の当たった、重要な	
-reciprocal	互恵的な、相補的な	
-prone	（形）〜しがちな、（普通悪い意味で）〜する傾向がある、〜にかかりやすい、うつぶせの	
-susceptible	影響されやすい、感染しやすい	
-generosity	寛大（な行為）	
+reciprocal	<div>rɪsíprək(ə)l<br></div>互恵的な、相補的な	
+prone	<div>próʊn<br></div>（形）〜しがちな、（普通悪い意味で）〜する傾向がある、〜にかかりやすい、うつぶせの	
+susceptible	<div>səséptəbl<br></div>影響されやすい、感染しやすい	
+generosity	<div>dʒènərάsəṭi<br></div>寛大（な行為）	
 benevolent	<div>[bənévələnt]</div>情け深い、優しい	
 decency	<div>[díːsnsi]</div>品位、良識	
-indecent	不作法な、下品な	
+indecent	<div>ìndíːsnt<br></div>不作法な、下品な	
 suffice	<div>[səfάɪs]</div>（動）充分である、足りる	
-forthcoming	来たるべき、近づきつつある	
-adept	熟練した、精通した	
+forthcoming	<div>f`ɔɚθkˈʌmɪŋ<br></div>来たるべき、近づきつつある	
+adept	<div>ədépt<br></div>（形）熟練した、精通した	
 industrious	<div>[ɪndˈʌstriəs]</div>勤勉な、熱心な	
 interim	<div>[ínṭərɪm]</div>当座の、仮の	
-provisional	仮の、臨時の	
-makeshift	間に合わせの、代用の	
-premature	未成熟の、時期尚早の	
+provisional	<div>prəvíʒ(ə)nəl<br></div>仮の、臨時の	
+makeshift	<div>ˈmeɪkˌʃɪft<br></div>間に合わせの、代用の	
+premature	<div>prìːmət(j)ˈʊɚ<br></div>未成熟の、時期尚早の	
 immature	<div>[ìmət(j)ˈʊɚ]</div>未成熟の、未完成の	
-posh	贅沢な、豪華な、おしゃれな	
-plush	豪華な、おしゃれな	
+posh	<div>pάʃ<br></div>贅沢な、豪華な、おしゃれな	
+plush	<div>plˈʌʃ<br></div>豪華な、おしゃれな	
 upscale	上層階層向けの、豪華な	
 lucrative	<div>[lúːkrəṭɪv]</div>儲かる、得な	
 tertiary	第三の	
-budget（形容詞の意味は？）	（形）安価な、お得な<div>（名）予算</div><div>（動）予算に計上する</div>	
-elastic	弾力性のある、融通の利く	
-telecommute	在宅勤務をする	
+budget（形容詞の意味は？）	<div>bˈʌdʒɪt<br></div>（形）安価な、お得な<div>（名）予算</div><div>（動）予算に計上する</div>	
+elastic	<div>ɪlˈæstɪk<br></div>弾力性のある、融通の利く	
+telecommute	<div>ˈtɛlʌkʌˌmjut<br></div>在宅勤務をする	
 corporate ladder	出世の階段、組織の階層	
-indifferent	無関心な、冷淡な、どうでもよい	
-lukewarm	無関心な、生ぬるい、いいかげんな	
+indifferent	<div>ɪndíf(ə)rənt<br></div>無関心な、冷淡な、どうでもよい	
+lukewarm	<div>lúːkwˈɔɚm<br></div>無関心な、生ぬるい、いいかげんな	
 terrific	素晴らしい、ものすごい	
-fabulous	すばらしい、信じられないほどの	
+fabulous	<div>fˈæbjʊləs<br></div>すばらしい、信じられないほどの	
 apprehensive	<div>[`æprɪhénsɪv]</div>心配な、懸念して	
-subjective	主観的な	
-subject（形容詞の意味は？）	（形）〜を被りやすい、〜次第である<div>（動）服従させる、（嫌な目に）あわせる</div><div>（名）主題、主語、対象</div>	
-sensual	肉感的な、体に感じる	
-perpetual	（形）終身の、永続する	
-acute	激しい、急性の	
+subjective	<div>səbdʒéktɪv<br></div>主観的な	
+subject（形容詞の意味は？）	<div>sˈʌbdʒɪkt<br></div>（形）〜を被りやすい、〜次第である<div>（動）服従させる、（嫌な目に）あわせる</div><div>（名）主題、主語、対象</div>	
+sensual	<div>sénʃuəl<br></div>肉感的な、体に感じる	
+perpetual	<div>pɚpétʃuəl<br></div>（形）終身の、永続する	
+acute	<div>əkjúːt<br></div>（形）激しい、急性の	
 low-key	控えめな、（感情などを）抑えた	
-compulsory	義務的な、強制的な	
+compulsory	<div>kəmpˈʌls(ə)ri<br></div>義務的な、強制的な	
 obligatory	<div>[əblígət`ɔːri]</div>義務的な、強制的な	
-serial	（形）連続する、連載の、連番の<div>（名）連載</div>	
+serial	<div>sí(ə)riəl<br></div>（形）連続する、連載の、連番の<div>（名）連載</div>	
 intense	<div>[ɪnténs]</div>激しい、情熱的な	
-intensify	（他）強くする<div>（自）強くなる</div>	
-ardent	熱心な、情熱的な	
-outlying	辺鄙な、枝葉末節の	
-juror	陪審員	
-notorious	悪名高い	
-abound	（自）（場所などに）たくさんある	
-bona fide	正真正銘の、善意の	
-phony	にせの、偽りの	
+intensify	<div>ɪnténsəfὰɪ<br></div>（他）強くする<div>（自）強くなる</div>	
+ardent	<div>άɚdnt<br></div>（形）熱心な、情熱的な	
+outlying	<div>ˈaʊˌtlaɪɪŋ<br></div>辺鄙な、枝葉末節の	
+juror	<div>dʒˈʊ(ə)rɚ<br></div>陪審員	
+notorious	<div>noʊtˈɔːriəs<br></div>悪名高い	
+abound	<div>əbάʊnd<br></div>（自）（場所などに）たくさんある	
+bona fide	<div>ˈbonʌ&nbsp;faɪd<br></div>正真正銘の、善意の	
+phony	<div>fóʊni<br></div>にせの、偽りの	
 terse	<div>[tˈɚːs]<br></div>簡潔な、簡明な	
-frail	（形）虚弱な、もろい	
-flimsy	もろい、見え透いた	
-ensuing	次の、続いて起こる	
-cozy	居心地の良い、温かい雰囲気の	
-impeccable	欠点のない、非の打ち所がない	
-impeccably	（副）申し分なく	
+frail	<div>fréɪl<br></div>（形）虚弱な、もろい	
+flimsy	<div>flímzi<br></div>もろい、見え透いた	
+ensuing	<div>ˈɛnsuɪŋ<br></div>次の、続いて起こる	
+cozy	<div>kóʊzi<br></div>居心地の良い、温かい雰囲気の	
+impeccable	<div>ɪmpékəbl<br></div>欠点のない、非の打ち所がない	
+impeccably	<div>ɪmpékəbli<br></div>（副）申し分なく	
 unparalleled	無比の、前代未聞の	
-municipality	地方自治体	
-myriad	無数の、おびただしい	
+municipality	<div>mjuːnìsəpˈæləṭi<br></div>地方自治体	
+myriad	<div>míriəd<br></div>無数の、おびただしい	
 antagonistic	<div>[ænt`ægənístɪk]</div>（形）対立する、敵対する	
-averse	（形）反対して、嫌って	
-bustling	活気のある、にぎわいのある、忙しそうな	
-hectic	猛烈に忙しい	
+averse	<div>əvˈɚːs<br></div>（形）反対して、嫌って	
+bustling	<div>ˈbʌsʌlɪŋ<br></div>（形）活気のある、にぎわいのある、忙しそうな	
+hectic	<div>héktɪk<br></div>猛烈に忙しい	
 superfluous	<div>[sʊpˈɚːfluəs]</div>余分な、不必要な	
 deputy	<div>[dépjʊṭi]</div>代理の、副〜	
-filthy	不潔な、わいせつな、下品な	
-dispensable	〜なしで済ませられる	
+filthy	<div>fílθi<br></div>不潔な、わいせつな、下品な	
+dispensable	<div>dɪspénsəbl<br></div>〜なしで済ませられる	
 allegedly	<div>əlédʒɪdli<br></div>伝えられるところによると	
-presumably	おそらく、思うには	
+presumably	<div>prizúːməbli<br></div>おそらく、思うには	
 high-profile	人目を引く、知名度の高い	
 top-notch	一流の、最高の	
-stunning	びっくりするような、素晴らしい	
+stunning	<div>ˈstʌnɪŋ<br></div>びっくりするような、素晴らしい	
 irrevocable	<div>[ìrévəkəbl]</div>解約不能の、取り消しできない	
 allegiance	<div>[əlíːdʒəns]</div>忠誠（心）、忠実	
-opportunistic	"日和見主義の（<span style=""color: rgb(34, 34, 34);"">形勢をうかがって、どちらでも自分の都合のよい方につこうとする態度をとること</span>）"	
+opportunistic	"<div>ɑ:pɜ:ˌtu:ˈnɪstɪk<br></div>日和見主義の（<span style=""color: rgb(34, 34, 34);"">形勢をうかがって、どちらでも自分の都合のよい方につこうとする態度をとること</span>）"	
 at hand	目前に迫った、手近に	
 calling（呼ぶこと以外）	天職、強い衝動	
-proceedings（手続き以外の意味は？）	議事録、手続き、手順	
-ambience	雰囲気、環境	
+proceedings（手続き以外の意味は？）	<div>pɹəˈsiːd.ɪŋz<br></div>議事録、手続き、手順	
+ambience	<div>ˈæmbiəns<br></div>（名）雰囲気、環境	
 break out	勃発する、（突然）始まる	
-pal	仲間、友人	
+pal	<div>pˈæl<br></div>仲間、友人	
 seduction	<div>[sɪdˈʌkʃən]</div>（名）誘惑、そそのかし	
-lure	（名）魅力、引きつけるもの<div>（動）誘惑する</div>	
+lure	<div>lˈʊɚ<br></div>（名）魅力、引きつけるもの<div>（動）誘惑する</div>	
 penchant	<div>[péntʃənt]</div>傾向、強い好み	
 remuneration	<div>[rɪmjùːnəréɪʃən]</div>報酬、給与	
 dispute	<div>[dɪspjúːt]</div>（名）論争<div>（動）論争する</div>	
-posture	姿勢、態度	
+posture	<div>pάstʃɚ<br></div>姿勢、態度	
 apparatus	<div>[`æpərˈæṭəs]</div>（一揃いの）器具、機構	
 aide	<div>[éɪd]</div>補佐官、側近	
-lane	小道、（道路の）車線	
-kinship	血縁関係、親族、関連	
-phenomenal	たぐいまれな、並外れた、自然現象の	
-pastime	娯楽、気晴らし	
-disturbance	混乱、騒ぎ、不安	
-mandate	（名）権限、信認、命令<div>（動）委任統治領にする、権限を与える</div>	
-impediment	障害、妨げ	
-pending（「未解決の」以外の意味）	目前に迫った	
-contingency	不慮の出来事、偶発事象	
-craving	渇望、欲求	
-savor	（名）風味、におい、楽しみ<div>（動）賞味する</div>	
-aptitude	才能、素質、適性	
+lane	<div>léɪn<br></div>小道、（道路の）車線	
+kinship	<div>ˈkɪˌnʃɪp<br></div>血縁関係、親族、関連	
+phenomenal	<div>fənάmənl<br></div>たぐいまれな、並外れた、自然現象の	
+pastime	<div>pˈæstὰɪm<br></div>娯楽、気晴らし	
+disturbance	<div>dɪstˈɚːb(ə)ns<br></div>混乱、騒ぎ、不安	
+mandate	<div>mˈændeɪt<br></div>（名）権限、信認、命令<div>（動）委任統治領にする、権限を与える</div>	
+impediment	<div>ɪmpédəmənt<br></div>障害、妨げ	
+pending（「未解決の」以外の意味）	<div>péndɪŋ<br></div>目前に迫った	
+contingency	<div>kəntíndʒənsi<br></div>不慮の出来事、偶発事象	
+craving	<div>ˈkrevɪŋ<br></div>渇望、欲求	
+savor	<div>séɪvɚ<br></div>（名）風味、におい、楽しみ<div>（動）賞味する</div>	
+aptitude	<div>ˈæptət(j)ùːd<br></div>（名）才能、素質、適性	
 prodigy	<div>[prάdədʒi]</div>神童、天才	
-environs	近郊、郊外	
+environs	<div>ɪnvάɪ(ə)rənz<br></div>近郊、郊外、周囲	
 nuisance	[n(j)úːsns]<div>迷惑な人、もの</div>	
-preoccupation	夢中、関心事、先入観	
+preoccupation	<div>prìːὰkjʊpéɪʃən<br></div>夢中、関心事、先入観	
 absorption	<div>əbsˈɔɚpʃən<br></div>熱中、没頭	
 impetus	<div>[ímpəṭəs]</div>機動力、推進力	
 tribute	賛辞、尊敬	
-commendation	賞賛（の言葉）、推奨	
+commendation	<div>kὰməndéɪʃən<br></div>賞賛（の言葉）、推奨	
 epidemic	<div>[èpɪdémɪk]</div>伝染病、流行病、（病気や思想などの）蔓延	
 endemic	<div>endémɪk<br></div>（名）風土病<div>（形）（地域）固有の</div>	
 plague	<div>[pléɪg]</div>（名）疫病、天災、異常発生<div>（動）疫病にかからせる、悩ませる</div>	
 ordeal	[ɔɚdíːl]<div>苦難、試練</div>	
-plight	苦境、苦しい状況	
-adversity	（名）逆境	
+plight	<div>plάɪt<br></div>苦境、苦しい状況	
+adversity	<div>ædvˈɚːsəṭi<br></div>（名）逆境	
 requisition	<div>[rèkwəzíʃən]</div>（名）申請（書）、要求（書）<div>（動）（事務用品などを）申請する</div>	
-perk	特典、（給与以外の）手当、臨時収入	
-compassion	思いやり、同情、憐れみ	
+perk	<div>pˈɚːk<br></div>特典、（給与以外の）手当、臨時収入	
+compassion	<div>kəmpˈæʃən<br></div>思いやり、同情、憐れみ	
 wrangle	（名）口論、論争<div>（自）言い争う</div>	
 retaliation	<div>[rɪt`æliéɪʃən]</div>報復、仕返し	
 vengeance	[véndʒəns]<div>報復、復讐</div>	
 zeal	熱意、熱中	
-friction	あつれき、摩擦	
-glitch	故障、誤作動	
-excess	過剰、超過	
-glut	（商品などの）供給過剰	
+friction	<div>fríkʃən<br></div>あつれき、摩擦	
+glitch	<div>glítʃ<br></div>故障、誤作動	
+excess	<div>eksés<br></div>過剰、超過	
+glut	<div>glˈʌt<br></div>（商品などの）供給過剰	
 predicament	<div>[prɪdíkəmənt]</div>苦境、窮地	
 dialect	<div>[dάɪəlèkt]</div>方言、地方語	
-bin	物入れ、ゴミ入れ、容器	
-receptacle	容器、貯蔵所	
-malnutrition	栄養失調	
-malpractice	不正行為、医療過誤	
-maltreatment	虐待、冷遇	
-setback	挫折、後退、障害	
+bin	<div>bín<br></div>（名）物入れ、ゴミ入れ、容器	
+receptacle	<div>rɪséptəkl<br></div>容器、貯蔵所	
+malnutrition	<div>ˌmælnuˈtrɪʃʌn<br></div>栄養失調	
+malpractice	<div>mæˈlpræktʌs<br></div>不正行為、医療過誤	
+maltreatment	<div>mæˈltritmʌnt<br></div>虐待、冷遇	
+setback	<div>sétbæ`k<br></div>挫折、後退、障害	
 mishap	[mísh`æp]<div>災難、不運</div>	
-outfit	服装（一式）、装備（一式）	
-inception	始まり、発端	
+outfit	<div>άʊtfìt<br></div>服装（一式）、装備（一式）	
+inception	<div>ɪnsépʃən<br></div>始まり、発端	
 discretion	<div>[dɪskréʃən]</div>（名）裁量、慎重さ	
 proponent	<div>[prəpóʊnənt]</div>提唱者、提案者、支持者	
-champion（チャンピオン以外の意味）	支持者、擁護者、（主義などの）闘士、チャンピオン	
-in conjunction	併せて、連動して	
+champion（チャンピオン以外の意味）	<div>tʃˈæmpiən<br></div>支持者、擁護者、（主義などの）闘士、チャンピオン	
+in conjunction	<div>kəndʒˈʌŋ(k)ʃən<br></div>併せて、連動して	
 publicly-held corporation	株式会社	
 moms and pops	家族経営の零細企業	
-arm（名詞、腕以外）	子会社、支店	
+arm（名詞、腕以外）	<div>άɚm<br></div>（名）子会社、支店	
 conglomerate	[kənglάm(ə)rət]<div>コングロマリット、複合企業</div>	
-consortium	コンソーシアム、共同事業体	
+consortium	<div>kənsˈɔɚʃ(i)əm<br></div>コンソーシアム、共同事業体	
 articles of incorporation	定款	
 break-even point	損益分岐点	
 solvent	<div>[sάlv(ə)nt]</div>支払い能力がある、経営が健全な	
-go bust	倒産する	
+go bust	<div>bˈʌst<br></div>倒産する	
 liquidate	[líkwədèɪt]<div>（動）（負債などを）清算する、（会社などを）整理する</div>	
-due deligence	デューディリジェンス、資産調査	
-letter of intent	同意書	
-incumbent	現職の	
-rank and file	（管理者でない）一般社員	
+due diligence	<div>dílədʒəns<br></div>デューディリジェンス、資産調査	
+letter of intent	<div>ɪntént<br></div>同意書	
+incumbent	<div>ɪnkˈʌmbənt<br></div>現職の	
+rank and file	<div>rˈæŋk<br></div>（管理者でない）一般社員	
 tycoon	大立者、成功者	
-controller（支配者以外の意味）	経理責任者	
+controller（支配者以外の意味）	<div>kʌˈntrolɝ<br></div>経理責任者	
 pink slip	解雇通知	
-outplacement	再就職・転職の斡旋	
-absenteeism	欠勤	
+outplacement	<div>ˈaʊˌtplesmʌnt<br></div>再就職・転職の斡旋	
+absenteeism	<div>æbsntíːɪzm<br></div>（名）欠勤	
 grievance	<div>[gríːv(ə)ns]</div>不平、苦情	
-mobility（可動性以外の意味は？）	流動性、転職が多いこと	
-collective bargaining	団体交渉	
-arbitration	調停	
+mobility（可動性以外の意味は？）	<div>moʊbíləṭi<br></div>流動性、転職が多いこと	
+collective bargaining	<div>kəléktɪv&nbsp;ˈbɑrgɪnɪŋ<br></div>団体交渉	
+arbitration	<div>ὰɚbətréɪʃən<br></div>（名）調停	
 solidarity	<div>[sὰlədˈærəṭi]</div>連帯感	
 clerical	<div>[klérɪk(ə)l]</div>事務の	
 transcript	成績証明書、写し	
-report to	〜に直属する、〜の下で働く、〜に報告義務のある	
+report to	<div>rɪpˈɔɚt<br></div>〜に直属する、〜の下で働く、〜に報告義務のある	
 curriculum vitae	[kəríkjʊləm víːtɑɪ]<div>CV、履歴書</div>	
-shortlist	選抜候補者リスト	
-probation	見習い期間	
+shortlist	選抜候補者リスト<div>※発音記号がない</div>	
+probation	<div>proʊbéɪʃən<br></div>見習い期間	
 subsidize	[sˈʌbsədὰɪz]<div>補助金を払う</div>	
 pay slip	給与明細書	
 severance payment	<div>[sév(ə)rəns]</div>解雇手当、離職手当	
-fringe benefit	福利厚生給付、付加給与	
-be entitled to	〜する権利がある	
-fiscal year	営業年度	
-overhead costs	間接費	
+fringe benefit	<div>fríndʒ<br></div>福利厚生給付、付加給与	
+be entitled to	<div>ɛˈntaɪtʌld<br></div>〜する権利がある	
+fiscal year	<div>físk(ə)l<br></div>営業年度	
+overhead costs	<div>óʊvɚhèd<br></div>間接費	
 mark up	〜を値上げする	
 in the black	黒字で	
 retrench	<div>[rɪtréntʃ]</div>削減する、省く	
 outlay	[ˈaʊˌtlei]<div>経費、支出</div>	
-cap（動詞の意味は？）	（金額などに）上限を設ける、帽子をかぶせる	
+cap（動詞の意味は？）	<div>kˈæp<br></div>（金額などに）上限を設ける、帽子をかぶせる	
 dividend	[dívədènd]<div>配当</div>	
-loan-loss provisions	貸倒引当金	
-income statement	P/L、損益計算書	
+loan-loss provisions	<div>prʌˈvɪʒʌnz<br></div>貸倒引当金	
+income statement	<div>ínkəm<br></div>P/L、損益計算書	
 close the book	決算する	
 ledger	<div>[lédʒɚ]</div>台帳、元帳	
 bottom line	最終損益<div>※ the bottom line だと「一番重要な点」の意味となる</div>	
 accounts receivable	売掛金	
-depreciation	（有形固定資産の）減価償却	
+depreciation	<div>dɪprìːʃiéɪʃən<br></div>（有形固定資産の）減価償却	
 amortization	[æ̀mərtəzéɪʃ(ə)n]<div>（無形固定資産の）減価償却</div>	
 write off	償却する	
 liability	[lὰɪəbíləṭi]<div>負債</div>	
 window dressing	粉飾決算	
 investor relations	IR、投資家向け広報	
-list（表を作る、記録する以外の動詞の意味は？）	上場させる	
-stock exchange	証券取引所	
-securities（安全以外の意味は？）	株式	
-bear（形容詞の意味は？）	（形）弱気筋（の）<div>（名）熊</div><div>（他）産む、耐える</div><div>（自）圧迫する</div>	
+list（表を作る、記録する以外の動詞の意味は？）	<div>líst<br></div>上場させる	
+stock exchange	<div>stάk<br></div>証券取引所	
+securities（安全以外の意味は？）	<div>sɪˈkjʊrʌtiz<br></div>株式	
+bear（形容詞の意味は？）	<div>béɚ<br></div>（形）弱気筋（の）<div>（名）熊</div><div>（他）産む、耐える</div><div>（自）圧迫する</div>	
 bottom out	底入れする、最悪期を脱する	
 volatility（揮発性以外の名詞）	<div>[vὰlətíləṭi]</div>（名）（株価・為替などが）不安定で乱高下しやすいこと	
-regain ground	回復する、失地回復する	
+regain ground	<div>rɪgéɪn<br></div>回復する、失地回復する	
 bourse	[bˈʊɚs]<div>（主に欧州の）証券取引所</div>	
 brokerage house	[bróʊk(ə)rɪdʒ]<div>証券会社</div>	
 yield（名詞の意味は？）	[jíːld]<div>（名）（債券などの）利回り</div><div>（他）産する、もたらす、明け渡す</div><div>（自）作物ができる、屈服する</div>	
 blue chips	優良株	
-mutual funds	投資信託	
-futures（未来以外の意味）	先物（取引）	
-speculation	投機、相場を張ること、思索	
-bull（形容詞の意味は？雄牛の以外）	強気筋（の）	
-plunge	（名）急落<div>（動）急落する</div>	
-dumping	投げ売り	
+mutual funds	<div>mjúːtʃuəl<br></div>投資信託	
+futures（未来以外の意味）	<div>ˈfjutʃɝz<br></div>先物（取引）	
+speculation	<div>spèkjʊléɪʃən<br></div>投機、相場を張ること、思索	
+bull（形容詞の意味は？雄牛の以外）	<div>bˈʊl<br></div>（形）強気筋（の）	
+plunge	<div>plˈʌndʒ<br></div>（名）急落<div>（動）急落する</div>	
+dumping	<div>ˈdʌmpɪŋ<br></div>投げ売り	
 savings account	普通預金口座	
 checking account	当座預金口座	
 time deposit	定期預金	
-plastic card	クレジットカード	
+plastic card	<div>plˈæstɪk</div>クレジットカード	
 remit	<div>[rɪmít]</div>送金する、振り込む	
-creditor	債権者（貸す側）	
+creditor	<div>krédɪṭɚ<br></div>債権者（貸す側）	
 debtor	[déṭɚ]<div>債務者（借りた側）</div>	
 denomination	<div>[dɪnὰmənéɪʃən]</div>貨幣単位、額面金額	
-arrears	[ərɪ́ərz]<div>滞納、支払いの遅れ</div>	
-passbook	預金通帳	
+arrears	[ərɪ́ərz]<div>（名）滞納、支払いの遅れ</div>	
+passbook	<div>ˈpæˌsbʊk<br></div>預金通帳	
 go over	〜に目を通す、〜を検討する、〜をよく調べる、〜を超える	
-convene	（会議などを）開催する、招集する	
-scribe	（名）書記、記録係	
-podium	演壇	
+convene	<div>kənvíːn<br></div>（会議などを）開催する、招集する	
+scribe	<div>skrάɪb<br></div>（名）書記、記録係	
+podium	<div>póʊdiəm<br></div>（名）演壇	
 take the floor	起立する	
 be on the same page	同じ考えを持つ	
 tabulate	[tˈæbjʊlèɪt]<div>（数字・情報などを）表で示す</div>	
-quadrant	象限	
-reiterate	反復する、繰り返して言う	
-spark（動詞の意味は？）	（他）刺激する、鼓舞する<div>（自）火花を出す<br><div>（名）火花</div></div>	
+quadrant	<div>kwάdrənt<br></div>象限	
+reiterate	<div>riíṭərèɪt<br></div>反復する、繰り返して言う	
+spark（動詞の意味は？）	<div>spάɚk<br></div>（他）刺激する、鼓舞する<div>（自）火花を出す<br><div>（名）火花</div></div>	
 unleash	<div>[`ʌnlíːʃ]</div>（動）（想像力・技術などを）解き放つ	
-inventive	（形）創意に富んだ、発明の才のある	
+inventive	<div>ɪnvénṭɪv<br></div>（形）創意に富んだ、発明の才のある	
 procure	<div>[prəkjˈʊɚ]</div>調達する	
-subcontract	（名）下請け<div>（自）下請契約する</div>	
+subcontract	<div>sʌ̀bkɑ́ntrækt<br></div>（名）下請け<div>（自）下請契約する</div>	
 royalty	[rˈɔɪ(ə)lti]<div>特許権使用料、著作権使用料</div><div>loyalty（忠誠心）と違うので注意</div>	
-infringe	（特許権などを）侵害する	
-mold	鋳型、金型	
+infringe	<div>ɪnfríndʒ<br></div>（特許権などを）侵害する	
+mold	<div>móʊld<br></div>鋳型、金型	
 replenishment	[rɪplénɪʃmənt]<div>補充（品）</div>	
 billboard	<div>[ˈbɪˌlbɔrd]</div>ビルボード、広告用掲示板	
 freebie	[ˈfribi]<div>試供品、無料の景品</div>	
 word of mouth	口コミ	
 down market	大衆層市場<div>※up marketが高所得層市場</div>	
-saturation	飽和（状態）	
+saturation	<div>s`ætʃʊréɪʃən<br></div>飽和（状態）	
 demographic	[dèməgrˈæfɪk]<div>人口統計の</div>	
-loss leader	目玉商品	
+loss leader	<div>lˈɔːs<br></div>目玉商品	
 haggle	[hˈægl]<div>（自）値切る</div><div>（名）値段交渉</div>	
 back order	取り寄せ注文、入荷待ち	
-loyalty card	ポイントカード、会員カード	
+loyalty card	<div>lˈɔɪ(ə)lti<br></div>ポイントカード、会員カード	
 fast-moving	（形）動きの速い、よく売れる	
-hip	（衣料品などが）センスのいい、流行の	
+hip	<div>híp<br></div>（衣料品などが）センスのいい、流行の	
 fad	<div>[fˈæd]</div>一時的な流行	
 mail order	通信販売	
 clientele	<div>[klὰɪəntél]</div>（名）顧客、常連	
@@ -982,145 +982,145 @@ cash cow	ドル箱商品、儲かる事業
 unbutton	（動）ボタンを外す	
 tuck	（動）（すそ、へりを）押し込む、たくし込む<div>（名）縫いひだ、タック</div>	
 single-file	一列縦隊の	
-sail	（名）（船の）帆、帆に似たもの	
+sail	<div>séɪl<br></div>（名）（船の）帆、帆に似たもの	
 pull out of	（列車・バスなどが）〜出発する	
 not that I know of	私の知る限りそうではない	
 What time do you have?	いま何時ですか？	
-land（着陸させる以外の他動詞の意味は？）	（他）獲得する、着陸させる<div>（自）上陸する、着陸する</div><div>（名）陸、土</div>	
+land（着陸させる以外の他動詞の意味は？）	<div>lˈænd<br></div>（他）獲得する、着陸させる<div>（自）上陸する、着陸する</div><div>（名）陸、土</div>	
 for the time being	さしあたり、現在のところ	
-personnel（人事部以外の意味）	職員	
+personnel（人事部以外の意味）	<div>p`ɚːsənél<br></div>職員	
 wipe out	（他）絶滅させる、消す	
-asteroid	小惑星	
-feathered	羽（翼）のある	
+asteroid	<div>ˈæstər`ɔɪd<br></div>（名）小惑星	
+feathered	<div>ˈfɛðɝd<br></div>羽（翼）のある	
 video footage	ビデオ映像	
 CPR	（名）心肺停止の蘇生救急	
-off the coast	沖合で	
-stranded	立ち往生して、取り残されて	
-sleek	流線型の、なめらかな	
-bumpy ride	ひどい揺れ	
-slash	（動）大幅に削減する	
-fleet	&nbsp;（同一会社の）保有航空機	
+off the coast	<div>kóʊst<br></div>沖合で	
+stranded	<div>ˈstrændɪd<br></div>立ち往生して、取り残されて	
+sleek	<div>slíːk<br></div>流線型の、なめらかな	
+bumpy ride	<div>bˈʌmpi<br></div>ひどい揺れ	
+slash	<div>slˈæʃ<br></div>（動）大幅に削減する	
+fleet	flíːt&nbsp;<div>（同一会社の）保有航空機</div>	
 back out of	〜から手を引く、〜を取り消す	
-lead time	リードタイム（発注から配送までの時間のこと）	
+lead time	<div>líːd<br></div>リードタイム（発注から配送までの時間のこと）	
 depot	[díːpoʊ]<div>倉庫、補給所、バス車庫</div>	
-surface（「表面の」以外の、形容詞の意味は？）	（形）陸上の、表面の<div>（名）表面</div>	
-carriage paid	運賃先払い（で）	
+surface（「表面の」以外の、形容詞の意味は？）	<div>sˈɚːfəs<br></div>（形）陸上の、表面の<div>（名）表面</div>	
+carriage paid	<div>kˈærɪdʒ<br></div>運賃先払い（で）	
 cash on delivery（COD）	代引き、代金引換え払い	
 forwarder	<div>[ˈfɔrwɝdɝ]</div>運送業者	
-pallet	パレット（貨物を乗せるためのフォークリフト用の荷台）	
+pallet	<div>pˈælət<br></div>パレット（貨物を乗せるためのフォークリフト用の荷台）	
 dolly	<div>[dάli]</div>台車	
 subsidy	<div>[sˈʌbsədi]</div>（政府の）補助金	
 quay	[kíː]<div>埠頭</div>	
 tariff	<div>[tˈærɪf]</div>関税、関税率	
-crippling	深刻な影響を与える、打撃となる	
-recession	景気後退	
+crippling	<div>ˈkrɪpʌlɪŋ<br></div>深刻な影響を与える、打撃となる	
+recession	<div>rɪséʃən<br></div>景気後退	
 depression	<div>[dɪpréʃən]</div>不況、不景気	
 sentiment	<div>[sénṭəmənt]</div>（名）意見、心情	
 virtuous cycle	好循環	
 vicious cycle	悪循環	
-booming	（形）好況の、活況の	
+booming	<div>ˈbumɪŋ<br></div>（形）好況の、活況の	
 buoyant	<div>[bˈɔɪənt]</div>上昇志向の、弾むような	
 euphoria	<div>[juːfˈɔːriə]</div>（名）高揚感、幸福な心理状態	
 heyday	[ˈheɪdeɪ]<div>最盛期、全盛期</div>	
 pinnacle	[pínəkl]<div>（名）頂点、絶頂</div>	
 nadir	[néɪdɪɚ]<div>どん底</div>	
 windfall	[ˈwɪˌndfɔl]<div>思いがけず手に入った収入、棚ぼた</div>	
-sluggish	（形）不況の、停滞した	
+sluggish	<div>slˈʌgɪʃ<br></div>（形）不況の、停滞した	
 bust	<div>[bˈʌst]</div>不景気、不況	
-dip（名詞の意味は？）	（名）底<div>（動）浸す</div>	
+dip（名詞の意味は？）	<div>díp<br></div>（名）底<div>（動）浸す</div>	
 CPI	消費者物価指数<div>consumer price index</div>	
 deregulation	<div>[dìːrègjʊléɪʃən]</div>規制緩和	
 privatization	[prὰɪvəṭɪzéɪʃən]<div>民営化</div>	
 bail out	（資金を提供して）救済する	
 hollowing-out	[ˈhɑloɪŋ]<div>（産業の）空洞化</div>	
-liquidity	流動性、資金供給量	
-sublet	（名）転貸（賃貸で借りている物件をさらに第三者に貸し出すこと）	
+liquidity	<div>lɪkwídəṭi<br></div>流動性、資金供給量	
+sublet	<div>ˌsʌvˈlɛt<br></div>（名）転貸（賃貸で借りている物件をさらに第三者に貸し出すこと）	
 down payment	頭金	
 mortgage	<div>[mˈɔɚgɪdʒ]</div>住宅ローン、担保	
-residence	住宅、住宅地、居住地	
+residence	<div>rézədns<br></div>住宅、住宅地、居住地	
 studio（スタジオ以外の意味）	<div>[st(j)úːdiòʊ]</div>（キッチン・バス・トイレ付きの）ワンルームマンション	
 floor plan	間取り	
 subdivision	<div>[ˈsʌbdɪˌvɪʒʌn]</div>分譲地、分譲計画	
-land lord	大家、地主	
+land lord	<div>lˈæn(d)l`ɔɚd<br></div>大家、地主	
 collateral	<div>[kəlˈæṭərəl]<br></div>（名）担保（物件）<div>（形）付帯的な、二次的な、並びあった、担保となる</div>	
-earnest money	手付金	
-mint condition	新品同様の状態	
-foreclosure	抵当権執行、差し押さえ	
-basement	地下室	
-penthouse	ビルの最上階の部屋、ペントハウス	
-skylight	天窓	
-screen（名詞でスクリーン以外の意味は？）	（名）網戸、（目隠し用の）ついたて、（映画・スライドの）スクリーン<div>（動）さえぎる、仕切る、網戸を取り付ける、上映する</div>	
+earnest money	<div>ˈɚːnɪst<br></div>手付金	
+mint condition	<div>mínt<br></div>新品同様の状態	
+foreclosure	<div>fɔˈrkloʒɝ<br></div>抵当権執行、差し押さえ	
+basement	<div>béɪsmənt<br></div>（名）地下室	
+penthouse	<div>ˈpɛnthaʊs<br></div>ビルの最上階の部屋、ペントハウス	
+skylight	<div>ˈskaɪˌlaɪt<br></div>天窓	
+screen（名詞でスクリーン以外の意味は？）	<div>skríːn<br></div>（名）網戸、（目隠し用の）ついたて、（映画・スライドの）スクリーン<div>（動）さえぎる、仕切る、網戸を取り付ける、上映する</div>	
 porch	<div>[pˈɔɚtʃ]</div>玄関	
 exquisite	[ekskwízɪt]<div>優美な、精妙な</div>	
 vanity area	バニティエリア（女性の化粧室のこと）	
-sewer（[súːɚ]の発音の場合）	<div>下水道、下水</div><div>※[sóʊɚ] だと、縫う人</div>	
+sewer（[súːɚ]の発音の場合）	<div>súːɚ<br></div><div>下水道、下水</div><div>※[sóʊɚ] だと、縫う人</div>	
 petroleum	[pətróʊliəm]<div>石油、原油</div>	
-semiconductor	半導体	
+semiconductor	<div>ˌsɛmikʌˈndʌktɝ<br></div>半導体	
 distiller	[dɪˈstɪlɝ]<div>醸造業者</div>	
 fishery	[fíʃ(ə)ri]<div>水産業</div>	
-forestry	林業	
+forestry	<div>fˈɔːrəstri<br></div>林業	
 agro-industry	農産業	
 come to terms	合意に達する、交渉がまとまる	
 concede	<div>[kənsíːd]</div>（動）譲歩する、認める、許す	
 counteroffer	[ˈkaʊntɝˌɔfɝ]<div>対案、逆提案</div>	
-reciprocate	（自）等価値のものを相手に返す、返礼する<div>（他）報いる</div>	
+reciprocate	<div>rɪsíprəkèɪt<br></div>（自）等価値のものを相手に返す、返礼する<div>（他）報いる</div>	
 walk away（立ち去る以外）	交渉をやめる	
 impasse	<div>[ímpæs]</div>（名）手詰まり、行き詰まり	
-land a deal	交渉をまとめる	
+land a deal	<div>lˈænd<br></div>交渉をまとめる	
 pursuant to	[pɚsúːənt]<div>〜に従って</div>	
 default（動詞の意味は？）	<div>[dɪfˈɔːlt]</div>（動）（義務などを）履行しない、果たさない<div>（名）デフォルト、怠ること、欠席</div>	
-breach	（名）違反<div>（他）違反する</div>	
-seal	（他）調印する、密封する<div>（名）印鑑、押印、アザラシ</div>	
+breach	<div>bríːtʃ<br></div>（名）違反<div>（他）違反する</div>	
+seal	<div>síːl<br></div>（他）調印する、密封する<div>（名）印鑑、押印、アザラシ</div>	
 notary public	<div>[nóʊṭəri]</div>公証人	
-deem	〜とみなす	
-provision（名詞の意味は？）	（名）条項、規定、供給、用意、準備<div>（動）供給する</div>	
+deem	<div>díːm<br></div>〜とみなす	
+provision（名詞の意味は？）	<div>prəvíʒən<br></div>（名）条項、規定、供給、用意、準備<div>（動）供給する</div>	
 onslaught	<div>[ˈɔˌnslɔt]</div>猛攻撃	
-flick	（自）（他）（指先で）はじく、さっと払う	
-justify（正当化する以外の意味）	字間を調節する	
-blink	点滅する、見て見ぬ振りをする、まばたきする	
+flick	<div>flík<br></div>（自）（他）（指先で）はじく、さっと払う	
+justify（正当化する以外の意味）	<div>dʒˈʌstəfὰɪ<br></div>字間を調節する	
+blink	<div>blíŋk<br></div>（動）点滅する、見て見ぬ振りをする、まばたきする	
 garbled	<div>[ˈgɑrbʌld]</div>文字化けしている	
 dot-com	インターネット関連企業、ドットコム企業	
-electronic settlement	電子決済	
-fiber optics	光ファイバー	
-ringtone	着信音	
-pager	ポケベル	
+electronic settlement	<div>ɪlèktrάnɪk&nbsp;séṭlmənt<br></div>電子決済	
+fiber optics	<div>fάɪbɚ&nbsp;άptɪks<br></div>光ファイバー	
+ringtone	着信音<div>※発音記号がない</div>	
+pager	<div>péɪdʒɚ<br></div>ポケベル	
 hook up	（インターネットなどに）接続する	
-tap into	接続する、侵入する	
-padlock symbol	南京錠のアイコン	
-censorship	検閲	
+tap into	<div>tˈæp<br></div>接続する、侵入する	
+padlock symbol	<div>ˈpæˌdlɑk</div>南京錠のアイコン	
+censorship	<div>ˈsɛnsəˌʃɪp<br></div>検閲	
 janitor	<div>[dʒˈænəṭɚ]</div>用務員、清掃作業員	
-stint	（一定期間に割り当てられた）仕事、任務	
+stint	<div>stínt<br></div>（一定期間に割り当てられた）仕事、任務	
 run errands	[ˈɛrʌndz]<div>お使いに出かける</div>	
-punch in	出社のタイムカードを押す<div>punch out だと退社のタイムカードを押す</div>	
+punch in	<div>pˈʌntʃ<br></div>出社のタイムカードを押す<div>punch out だと退社のタイムカードを押す</div>	
 recess	<div>[ríːses]<br></div>休憩	
 answering machine	留守番電話	
-letter pads	便箋	
-stationery	文房具、便箋	
-pantry	食器室	
+letter pads	<div>pædz<br></div>便箋	
+stationery	<div>stéɪʃənèri<br></div>文房具、便箋	
+pantry	<div>pˈæntri<br></div>食器室	
 paper jam	（コピー機の）紙詰まり	
 water dispenser	ウォーターサーバー	
 correction fluid	修正液	
 gluestick	スティックのり	
-sticky notes	付箋	
+sticky notes	<div>stíki<br></div>付箋	
 adhesive	[ædhíːsɪv]<div>（名）接着剤</div><div>（形）粘着性の</div>	
 thumbtack	画鋲	
-registered（登録した以外の）	（形）書留の、登録した	
-salutation	挨拶（言葉）	
+registered（登録した以外の）	<div>ˈrɛdʒɪstɝd<br></div>（形）書留の、登録した	
+salutation	<div>s`æljʊtéɪʃən<br></div>挨拶（言葉）	
 moisten	<div>[mˈɔɪsn]</div>（切手を貼り付ける時に裏面を）濡らす	
 collate	[kəléɪt]<div>丁合いする、ページ順に並べる</div>	
 acronym	<div>[ˈækrənìm]</div>（名）頭文字	
 RSVP	お返事ください	
 make it	（パーティー・会議などに）参加できる、出席できる	
-Regrets only	ご欠席の場合のみお返事ください	
-reception（受付以外の意味）	披露宴、歓迎会	
+Regrets only	<div>rɪˈgrɛts<br></div>ご欠席の場合のみお返事ください	
+reception（受付以外の意味）	<div>rɪsépʃən<br></div>披露宴、歓迎会	
 alumni	[əˈlʌmnɑi]<div>同窓生</div><div>（alumnusの複数形）</div>	
 ovation	[oʊvéɪʃən]<div>（名）拍手喝采</div>	
-heartfelt	（形）真心のこもった	
+heartfelt	<div>ˈhɑːt.fɛlt<br></div>（形）真心のこもった	
 condolence	[kəndóʊləns]<div>お悔やみ、哀悼、弔辞</div>	
 bereaved	[biríːvd]<div>家族を失った</div>	
-mourning	哀悼、服喪	
+mourning	<div>ˈmɔːnɪŋ<br></div>哀悼、服喪	
 eulogy	[júːlədʒi]<div>（名）弔辞、賛辞、賞賛</div>	
-rite	儀式、儀礼	
+rite	<div>rάɪt<br></div>儀式、儀礼	
 amiable	[éɪmiəbl]<div>感じの良い、気立ての良い、友好的な</div>	
 upright position	正位置	
 carry-on luggage	機内持ち込み手荷物	
@@ -1128,9 +1128,9 @@ stow	<div>[stóʊ]</div>（他）しまい込む
 turbulence	[tˈɚːbjʊləns]<div>（名）（飛行機の）揺れ、乱気流</div>	
 toiletries	[ˈtɔɪlʌtriz]<div>洗面用品、化粧品</div>	
 stub（切り株以外の意味）	<div>[stˈʌb]</div>（名）（搭乗券の）半券	
-layover	（乗り継ぎの）待ち時間	
-runway（ステージ以外の意味）	滑走路、舞台、ステージ	
-coach（コーチ、四輪大型馬車以外の意味）	エコノミー座席、コーチ、四輪大型馬車	
+layover	<div>léiòuvər<br></div>（乗り継ぎの）待ち時間	
+runway（ステージ以外の意味）	<div>ˈrʌnweɪ<br></div>滑走路、舞台、ステージ	
+coach（コーチ、四輪大型馬車以外の意味）	<div>kóʊtʃ<br></div>エコノミー座席、コーチ、四輪大型馬車	
 disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国、下船</div>	
 quarantine	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
 carousel	[k`ærəsél]<div>（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
@@ -1138,45 +1138,45 @@ valet parking	<div>[vˈælət]</div>係員付き駐車サービス
 sojourn	[sóʊdʒɚːn]<div>（名）一時滞在</div><div>（自）滞在する</div>	
 expatriate	<div>[ekspéɪtrièɪt]</div>（名）居住外国人、海外駐在員	
 bumper-to-bumper	（形）（車が）数珠つなぎの、渋滞した	
-overpass	（名）陸橋	
+overpass	<div>ˈovɝˌpæs<br></div>（名）陸橋	
 toll booth	料金所	
 turnstile	[ˈtɝˌnstaɪl]<div>改札</div>	
-shuttle（動詞の意味は？）	（自）頻繁に往復運転する<div>（名）シャトル便、シャトルバス</div>	
+shuttle（動詞の意味は？）	<div>ʃˈʌṭl<br></div>（自）頻繁に往復運転する<div>（名）シャトル便、シャトルバス</div>	
 trolley	[trάli]<div>路面電車</div>	
 chauffeur	[ʃóʊfɚ]<div>（名）お抱え運転手</div><div>（他）（人を）車で送る</div>	
-median（名詞で中央値以外の意味）	（名）中央分離帯、中央値<div><div>（形）中央の</div></div>	
+median（名詞で中央値以外の意味）	<div>míːdiən<br></div>（名）中央分離帯、中央値<div><div>（形）中央の</div></div>	
 dead end	袋小路、行き止まり	
 jaywalk	<div>[ˈdʒeɪ.wɔːk]</div>（自）交通信号を無視して道路を渡る	
-gridlock	（名）交通渋滞	
+gridlock	<div>grídlὰk<br></div>（名）交通渋滞	
 divert	<div>[dɪvˈɚːt]</div>（動）方向転換する・させる、そらす、迂回させる	
 tow truck	<div>[tóʊ]</div>レッカー車	
 funicular	[fjʊníkjʊlɚ]<div>ケーブルカー、ケーブル鉄道</div>	
-hood（フード以外の意味）	（名）ボンネット、フード	
+hood（フード以外の意味）	<div>húːd<br></div>（名）ボンネット、フード	
 mileage（総マイル数以外の意味）	[mάɪlɪdʒ]<div>燃費、総マイル数</div>	
 flat tire	パンク	
-skid	（自）スリップする<div>（名）スリップ</div>	
-speeding	スピード違反	
-rollover	（名）転覆	
+skid	<div>skíd<br></div>（自）スリップする<div>（名）スリップ</div>	
+speeding	<div>ˈspidɪŋ<br></div>スピード違反	
+rollover	<div>róulòuvər<br></div>（名）転覆	
 hit-and-run（野球のヒットエンドラン以外の意味）	ひき逃げ、ヒットエンドラン	
-premium（名詞の意味は？）	（名）保険料、保険の掛け金<div>（形）品質が良くて高価な</div>	
-coverage（範囲以外の意味）	（保険の）保証金額、保証範囲	
-contribution（寄付、寄付金以外の意味）	保険料、掛け金、負担（金）、寄付、寄付金	
+premium（名詞の意味は？）	<div>príːmiəm<br></div>（名）保険料、保険の掛け金<div>（形）品質が良くて高価な</div>	
+coverage（範囲以外の意味）	<div>kˈʌv(ə)rɪdʒ<br></div>（保険の）保証金額、保証範囲	
+contribution（寄付、寄付金以外の意味）	<div>kὰntrəbjúːʃən<br></div>保険料、掛け金、負担（金）、寄付、寄付金	
 paid-up	（形）（保険金などを）支払い済みの	
 annuity	<div>[ən(j)úːəṭi]</div>（名）年金（額）、年金保険投資	
 set aside（put aside）	〜を積み立てる、〜を蓄える	
 tax break	税制優遇措置、税控除	
-deforestation	森林破壊、山林伐採	
-carbon dioxide	二酸化炭素	
+deforestation	<div>dìːf`ɔːrɪstéɪʃən<br></div>森林破壊、山林伐採	
+carbon dioxide	<div>kάɚb(ə)n&nbsp;dὰɪάksɑɪd<br></div>二酸化炭素	
 logging	[ˈlɔgɪŋ]<div>（名）伐採</div>	
-coral reef	サンゴ礁	
+coral reef	<div>kˈɔːrəl&nbsp;ríːf<br></div>サンゴ礁	
 acid rain	酸性雨	
 carcinogen	[kɑɚsínədʒən]<div>発がん性物質</div>	
-carbon footprint	二酸化炭素排出量	
+carbon footprint	<div>kάɚb(ə)n&nbsp;ˈfʊˌtprɪnt<br></div>二酸化炭素排出量	
 biodegradable	<div>[ˌbaɪodʌˈgredʌbʌl]</div>生物分解性の	
-compost	堆肥	
-additive	（食品などの）添加物	
+compost	<div>kάmpoʊst<br></div>堆肥	
+additive	<div>ˈædəṭɪv<br></div>（名）（食品などの）添加物<div>（形）付加的な</div>	
 intake	<div>[ˈɪˌntek]</div>（名）摂取	
-littering	（名）ゴミのポイ捨て	
+littering	<div>ˈlɪtɝɪŋ<br></div>（名）ゴミのポイ捨て	
 incineration	<div>[ɪnsìnəréɪʃən]</div>（名）（ゴミの）焼却	
 landfill	[ˈlænd.fɪl]<div>埋め立てゴミ処理場</div>	
 sewage	[súːɪdʒ]<div>汚水、下水</div>	
@@ -1187,100 +1187,100 @@ sunny-side up	目玉焼き<div>※または fried egg</div>
 over easy	（卵の）半熟の両面焼き<div>※よく焼く場合は over hard</div>	
 eatery	<div>[íːṭəri]</div>（名）軽食堂、小さなレストラン	
 deli	デリカッセン（delicatessenの短縮語）<div>惣菜やサラダなどを売る食品店</div>	
-fare（名詞で、運賃・乗客以外の意味）	（名）料理、運賃、乗客<div>（動）暮らす</div>	
+fare（名詞で、運賃・乗客以外の意味）	<div>féɚ<br></div>（名）料理、運賃、乗客<div>（動）暮らす</div>	
 relish	<div>[rélɪʃ]</div>（名）風味、香り<div>（動）おいしく食べる、楽しむ</div>	
-feast	（名）ごちそう、祝宴	
+feast	<div>fíːst<br></div>（名）ごちそう、祝宴	
 greasy	<div>[gríːsi]</div>（形）脂っこい	
 best by 〜	賞味期限は〜まで	
-picky	（形）好き嫌いが多い	
+picky	<div>píki<br></div>（形）好き嫌いが多い	
 saute	<div>[sɔːtéɪ]</div>（他）少量の油で炒める、ソテーにする	
 simmer	[símɚ]<div>弱火で煮る</div>	
-chop	細かく切る、みじん切りにする	
+chop	<div>tʃάp<br></div>細かく切る、みじん切りにする	
 mince	<div>[míns]</div>（肉などを）細かく切る、ひき肉にする	
-cube（動詞の意味は？）	<div>（動）さいの目に切る、3乗する<br></div>（名）立方体	
-grate	（他）おろす、すりつぶす	
+cube（動詞の意味は？）	<div>kjúːb<br></div><div>（動）さいの目に切る、3乗する<br></div>（名）立方体	
+grate	<div>gréɪt<br></div>（他）おろす、すりつぶす	
 produce section	青果コーナー	
 condiment	<div>[kάndəmənt]</div>調味料、香辛料	
 cold cuts	切り売りされる肉加工食品	
 green pepper	ピーマン	
 cod	[kάd]<div>（名）タラ</div>	
-shellfish	（カニ・エビなどの）甲殻類	
+shellfish	<div>ˈʃɛˌlfɪʃ<br></div>（カニ・エビなどの）甲殻類	
 poultry	[póʊltri]<div>鶏肉、家禽類の肉</div>	
-alteration	（衣服の）寸法直し、（ズボンの）裾上げ	
+alteration	<div>`ɔːltəréɪʃən<br></div>（名）（衣服の）寸法直し、（ズボンの）裾上げ	
 textile	<div>[tékstɑɪl]</div>（名）繊維製品、織物	
 hosiery	[hóʊʒ(ə)ri]<div>靴下類、タイツ類</div>	
 panty hose	[hóʊz]<div>パンティストッキング</div>	
 lapel	[ləpél]<div>（名）スーツなどの襟の折り返し</div>	
-cuff	（名）袖口、ズボンの裾の折り返し	
+cuff	<div>kˈʌf<br></div>（名）袖口、ズボンの裾の折り返し	
 crease	[kríːs]<div>ズボンの折り目、ひだ</div>	
 purse	<div>[pˈɚːs]</div><div>米だとハンドバッグ</div>英だと財布<div>※米の財布はwallet、英のハンドバッグはhandbag</div>	
-dye	（他）染色する	
+dye	<div>dάɪ</div>（他）染色する	
 plaid	<div>[plˈæd]</div>（形）格子柄の<div>（名）格子柄</div>	
 cold front	寒冷前線	
-shower（シャワー以外の名詞の意味）	にわか雨	
-taper off	（雨などが）上がる、先細りになる	
-bundle up（束にする以外の動詞の意味）	厚着をする	
-overcast（形容詞の意味は？）	（形）曇った	
+shower（シャワー以外の名詞の意味）	<div>ʃάʊɚ<br></div>にわか雨	
+taper off	<div>téɪpɚ<br></div>（雨などが）上がる、先細りになる	
+bundle up（束にする以外の動詞の意味）	<div>bˈʌndl<br></div>厚着をする	
+overcast（形容詞の意味は？）	<div>ˈɔʊvɚ.kæst<br></div>（形）曇った	
 precipitation	[prɪsìpətéɪʃən]<div>降水（量）</div>	
 downpour	<div>[ˈdaʊnpɔr]</div>豪雨	
-downfall	（大量の）雨・雪	
+downfall	<div>ˈdaʊˌnfɔl<br></div>（大量の）雨・雪	
 torrential	[tɔːrénʃəl]<div>激しい、猛烈な</div>	
-sleet	凍雨	
+sleet	<div>slíːt<br></div>凍雨	
 muggy	<div>[mˈʌgi]</div>（形）蒸し暑い	
-gust	（名）突風<div>（自）突風が吹く</div>	
-low pressure	低気圧	
-scattered	（形）広い範囲に散らばった	
+gust	<div>gˈʌst<br></div>（名）突風<div>（自）突風が吹く</div>	
+low pressure	<div>préʃɚ<br></div>低気圧	
+scattered	<div>ˈskætɝd<br></div>（形）広い範囲に散らばった	
 heat wave	熱波、酷暑	
 isobar	<div>[άɪsəbὰɚ]</div>等圧線	
 seismic	[sάɪzmɪk]<div>（形）地震の</div>	
 avalanche	[ˈævəl`æntʃ]<div>雪崩</div>	
 landslide	<div>[ˈlænd.slaɪd]</div>地滑り	
 meteorology	[mìːṭiərάlədʒi]<div>気象学</div>	
-temperate	（形）節制のある、温和な	
+temperate	<div>témp(ə)rət<br></div>（形）節制のある、温和な	
 inland（名詞の意味は？）	[ínl`ænd]<div>（名）内陸地方</div><div>（形）内陸の</div>	
-plain（名詞の意味は？）	（名）平原、平野<div>（形）明白な、無地の</div>	
+plain（名詞の意味は？）	<div>pléɪn<br></div>（名）平原、平野<div>（形）明白な、無地の</div>	
 archipelago	[ὰɚkəpéləgòʊ]<div>列島、群島</div>	
-polish	磨く	
+polish	<div>pάlɪʃ<br></div>磨く	
 cutlery	<div>[kˈʌtləri]</div>（名）食卓用金物類	
 cupboard	<div>[kˈʌbɚd]</div>食器棚、戸棚	
 broom	<div>[brúːm]</div>（名）ほうき	
-pesticide	殺虫剤	
+pesticide	<div>péstəsὰɪd<br></div>殺虫剤	
 porcelain	[pˈɔɚs(ə)lɪn]<div>陶器</div>	
-fluorescent lamp	<div>[flɔːr)résnt]</div>蛍光灯	
-flashlight	懐中電灯	
+fluorescent lamp	<div>flʊ(ə)résnt lˈæmp</div>蛍光灯	
+flashlight	<div>flˈæʃlὰɪt<br></div>懐中電灯	
 clothespin	<div>[kˈlouzpìn]</div>洗濯バサミ	
 watering can	じょうろ	
 screwdriver	[ˈskruˌdraɪvɝ]<div>ねじ回し、スクリュードライバー（ウォッカとオレンジジュースのカクテル）</div>	
-nail（爪以外の名詞）	（名）くぎ、爪	
+nail（爪以外の名詞）	<div>néɪl<br></div>（名）くぎ、爪	
 pliers	<div>[plάɪɚz]</div>ペンチ<div>※複数で使う</div>	
 adolescence	[`ædəlésns]<div>思春期、未成年期</div>	
 toddler	[ˈtɑdlɝ]<div>幼児、よちよち歩きの赤ちゃん</div>	
-stroller	（折りたたみ式の）乳母車<div>※普通の乳母車はbaby buggyや単にbuggyと言う</div>	
+stroller	<div>ˈstrolɝ<br></div>（折りたたみ式の）乳母車<div>※普通の乳母車はbaby buggyや単にbuggyと言う</div>	
 marital status	<div>[mˈærəṭl]</div>配偶者の有無、婚姻の状況	
-blender	ミキサー	
+blender	<div>ˈblɛndɝ<br></div>（名）ミキサー	
 razor	<div>[réɪzɚ]</div>電気カミソリ	
 alternating current	<div>[ɔ'ːltərnèitiŋ]</div>交流（電源）、AC<div>※直流はdirect current（DC）</div>	
-resolution（名詞で、決意・決断以外の意味）	（名）（モニターや画面の）解像度	
+resolution（名詞で、決意・決断以外の意味）	<div>rèzəlúːʃən<br></div>（名）（モニターや画面の）解像度	
 language arts	言語科目	
 humanities	[hjuˈmænɪtiz]<div>人文科学</div>	
-prerequisite（「前もって必要な」以外の形容詞）	（形）必修の、前もって必要な<div>（名）必修科目、必要条件</div>	
-extension（名詞で拡張、内線以外の意味）	（名）（大学の）公開講座、拡張、内線<div>（形）大学公開の、伸縮自在の、内線の</div>	
+prerequisite（「前もって必要な」以外の形容詞）	<div>prìːrékwəzɪt<br></div>（形）必修の、前もって必要な<div>（名）必修科目、必要条件</div>	
+extension（名詞で拡張、内線以外の意味）	<div>eksténʃən<br></div>（名）（大学の）公開講座、拡張、内線<div>（形）大学公開の、伸縮自在の、内線の</div>	
 diploma	[dɪplóʊmə]<div>卒業証書、学位</div>	
 sabbatical	[səbˈæṭɪk(ə)l]<div>（名）（大学教授などの）長期有給休暇、研究休暇</div><div>（形）サバティカルの</div>	
-general practitioner	一般開業医<div>※GPと略す</div>	
+general practitioner	<div>præktíʃ(ə)nɚ<br></div>一般開業医<div>※GPと略す</div>	
 nauseous	<div>[nˈɔːʃəs]</div>（形）吐き気がする	
 diarrhea	[dὰɪəríːə]<div>下痢</div>	
 runny nose	[rˈʌni]<div>鼻水</div>	
 contagious	<div>[kəntéɪdʒəs]</div>（形）伝染病の、接触感染性の	
 anemia	<div>[əníːmiə]</div>貧血	
 insomnia	[ɪnsάmniə]<div>不眠症</div>	
-stroke（名詞で打つこと・ストローク以外の意味）	（名）脳梗塞、脳卒中、発作<div>（動）打つ</div>	
+stroke（名詞で打つこと・ストローク以外の意味）	<div>stróʊk<br></div>（名）脳梗塞、脳卒中、発作<div>（動）打つ</div>	
 diabetes	[dὰɪəbíːtiːz]<div>糖尿病</div>	
 obesity	[oʊbíːsəṭi]<div>（名）肥満</div>	
 fracture（名詞で「砕けること」以外の意味）	<div>[frˈæktʃɚ]</div>（名）骨折、砕けること<div>（他）折る、破砕する</div><div>（自）折れる</div>	
-sneeze	（名）くしゃみ<div>（動）くしゃみをする</div>	
+sneeze	<div>sníːz<br></div>（名）くしゃみ<div>（動）くしゃみをする</div>	
 heartburn	[ˈhɑˌrtbɝn]<div>（名）（消化不良による）胸焼け</div>	
-rash	（名）発疹、ふきでもの<div>（形）むこうみずな、気の早い</div>	
+rash	<div>rˈæʃ<br></div>（名）発疹、ふきでもの<div>（形）むこうみずな、気の早い</div>	
 itchy	<div>[ítʃi]</div>（形）かゆい	
 bleed	[blíːd]<div>（自）出血する</div>	
 dizzy	[dízi]<div>（形）めまいがする</div>	
@@ -1288,20 +1288,20 @@ numb	[nˈʌm]<div>（形）しびれた、無感覚になった、まひした</
 psychiatrist	[səkάɪətrɪst]<div>精神科医</div>	
 outpatient	[ˈaʊˌtpeʃʌnt]<div>外来患者</div><div>※入院患者はinpatient</div>	
 hospitalization	<div>[hὰspɪṭəlɪzéɪʃən]</div>入院	
-checkup（照合以外の名詞）	（名）健康診断、照合	
+checkup（照合以外の名詞）	<div>tˈʃekʌ`p<br></div>（名）健康診断、照合	
 over-the-counter	（形）（処方薬ではなく）市販の	
-antibiotics	（名）抗生物質	
-pill（ピル以外の名詞）	（名）錠剤、ピル<div>※粉薬はpowder</div>	
+antibiotics	<div>ˌæntibaɪˈɑtɪks<br></div>（名）抗生物質	
+pill（ピル以外の名詞）	<div>píl<br></div>（名）錠剤、ピル<div>※粉薬はpowder</div>	
 dose	[dóʊs]<div>（名）服用</div><div>（他）服用させる</div>	
 stature	[stˈætʃɚ]<div>（名）身長、背丈</div>	
-build（名詞の意味は？）	（名）体格、体つき<div>（動）建設する、組み立てる</div>	
+build（名詞の意味は？）	<div>bíld<br></div>（名）体格、体つき<div>（動）建設する、組み立てる</div>	
 organ	<div>[ˈɔɚg(ə)n]</div>（名）臓器、器官、オルガン	
 kidney	[kídni]<div>腎臓</div>	
 intestine	[ɪntéstɪn]<div>腸</div>	
 pancreas	[pˈæŋkriəs]<div>すい臓</div>	
 vein	（名）静脈	
 artery	<div>[άɚṭəri]</div>動脈	
-temple（名詞で寺以外の意味）	（名）こめかみ、寺	
+temple（名詞で寺以外の意味）	<div>témpl<br></div>（名）こめかみ、寺	
 forehead	[fˈɔɚhèd]<div>額</div>	
 eyelid	<div>[άɪlìd]</div>まぶた	
 eyelash	[ˈaɪˌlæʃ]<div>まつげ</div>	
@@ -1312,16 +1312,16 @@ belly	[béli]<div>（名）腹、腹部</div>
 navel	[néɪv(ə)l]<div>へそ</div>	
 thigh	[θάɪ]<div>太もも</div>	
 buttocks	[ˈbʌtəks]<div>尻</div><div>※bottomも尻の意味を持つ</div>	
-self-esteem	自尊心	
+self-esteem	<div>estíːm<br></div>自尊心	
 furious	<div>[fjˈʊ(ə)riəs]</div>（形）激怒した、憤慨した	
-strain	（名）精神的緊張、ストレス、種族<div>（動）引っ張る、引き締める</div>	
-overwhelmed	（形）打ちのめされた、困惑した	
+strain	<div>stréɪn<br></div>（名）精神的緊張、ストレス、種族<div>（動）引っ張る、引き締める</div>	
+overwhelmed	<div>ˌovɝˈwɛlmd<br></div>（形）打ちのめされた、困惑した	
 diversion（転換以外の名詞）	<div>[dɪvˈɚːʒən]</div>（名）気晴らし、気分転換、娯楽、転換	
 day trip	日帰り旅行	
-outing	外出、おでかけ、遠足	
+outing	<div>άʊṭɪŋ<br></div>外出、おでかけ、遠足	
 cardio program	[kάɚdioʊ]<div>心肺機能強化プログラム</div>	
 calisthenics	[k`æləsθénɪks]<div>美容体操、健康体操</div>	
-initiation fee	入会費	
+initiation fee	<div>ɪnìʃiéɪʃən<br></div>入会費	
 expedition	[èkspədíʃən]<div>（名）小旅行、探検旅行</div>	
 getaway（名詞で逃走以外の意味）	<div>[gétəwèi]</div>（名）短期の保養、保養地	
 pageant	<div>[pˈædʒənt]</div><div>（名）野外劇、歴史衣装をまとったパレード<br></div>	
@@ -1335,39 +1335,39 @@ multiplex（名詞の意味は？）	<div>[mˈʌltəplèks]</div>（名）シネ
 matinee	[m`æṭənéɪ]<div>（名）昼の部</div>	
 soiree	<div>[swɑːréɪ]</div>（名）夜の部	
 epic	[épɪk]<div>長編映画、大作</div>	
-backdrop	（劇場の）背景幕	
-playwright	劇作家、脚本家	
+backdrop	<div>ˈbæˌkdrɑp<br></div>（名）（劇場の）背景幕	
+playwright	<div>pˈleiràit<br></div>劇作家、脚本家	
 impresario	[ìmprəsάːriòʊ]<div>（歌劇などの）興行主</div>	
 repertoire	[répɚtwὰɚ]<div>（俳優・歌手などが上演できる）演目・曲・レパートリー</div>	
 puppet	<div>[pˈʌpɪt]</div>操り人形	
 dynasty	<div>[dάɪnəsti]</div>（名）王朝	
-engraving（名詞の意味は）	（名）版画、彫刻（術）	
+engraving（名詞の意味は）	<div>ɪˈngrevɪŋ<br></div>（名）版画、彫刻（術）	
 calligraphy	[kəlígrəfi]<div>（名）書道、書法</div>	
 feudal	<div>[fjúːdl]</div>封建（時代）の、封建主義の	
-remains	（名）遺跡、遺物<div>※sがつく</div>	
+remains	<div>rɪˈmenz<br></div>（名）遺跡、遺物<div>※sがつく</div>	
 choir	[kwάɪɚ]<div>合唱、合唱団、聖歌隊</div>	
 ally	[əlάɪ]<div>（名）同盟（国）</div><div>（動）同盟を結ぶ</div>	
-lawmaker（立法者以外の名詞）	国会議員	
-cabinet（キャビネット以外の意味）	内閣、キャビネット	
-ruling（形容詞の意味は？）	（形）与党の、支配する	
-procession	（名）行進、行列	
+lawmaker（立法者以外の名詞）	<div>ˈlɔˌmekɝ<br></div>国会議員	
+cabinet（キャビネット以外の意味）	<div>kˈæb(ə)nɪt<br></div>内閣、キャビネット	
+ruling（形容詞の意味は？）	<div>ˈrulɪŋ<br></div>（形）与党の、支配する	
+procession	<div>prəséʃən<br></div>（名）行進、行列	
 bilateral	[bὰɪlˈæṭərəl]<div>（形）二国間の、二者間の</div>	
 envoy	<div>[énvɔɪ]</div>（名）外交使節、特使	
-air（風に当てる以外の動詞の意味は？）	（他）放送する、風に当てる	
+air（風に当てる以外の動詞の意味は？）	<div>éɚ<br></div>（他）放送する、風に当てる	
 anchorperson	<div>[ǽŋkərpə`rsən]</div>報道番組の司会者	
-petty crimes	軽犯罪	
+petty crimes	<div>péṭi<br></div>軽犯罪	
 imprisonment	[ɪmpríznmənt]<div>（名）禁固、収監</div>	
 corruption	<div>[kərˈʌpʃən]</div>（名）汚職、腐敗	
 bribery	[brάɪb(ə)ri]<div>（名）贈収賄、汚職</div>	
 robbery	[rάb(ə)ri]<div>（名）強盗</div>	
 prosecutor	[prάsɪkjùːṭɚ]<div>（名）検事</div>	
-bar（バー、棒以外の名詞）	（名）法曹界、バー、棒	
+bar（バー、棒以外の名詞）	<div>bάɚ<br></div>（名）法曹界、バー、棒	
 plaintiff	[pléɪnṭɪf]<div>（名）原告</div>	
 defendant	[dɪféndənt]<div>（名）被告</div>	
 litigation	[lìṭəgéɪʃən]<div>（名）訴訟</div>	
 verdict	[vˈɚːdɪkt]<div>（名）（陪審の）評決</div>	
 story（物語以外の名詞）	[stˈɔːri]<div>階、物語</div>	
-skyline	（名）スカイライン、空を背景にしたビル群の輪郭	
+skyline	<div>ˈskaɪˌlaɪn<br></div>（名）スカイライン、空を背景にしたビル群の輪郭	
 courtyard	[ˈkoːt.jaːd]<div>中庭</div>	
 cathedral	[kəθíːdrəl]<div>聖堂、教会</div>	
 ledge	[lédʒ]<div>（出窓などにある建物の）出っ張り</div>	
@@ -1375,29 +1375,29 @@ facade	[fəsάːd]<div>（名）（建物の堂々とした）正面</div>
 guttering	"[ˈgʌtɝɪŋ]<div>雨どい（<span style=""color: rgb(34, 34, 34);"">屋根面を流れる雨水を集め、地上あるいは下水に導くための装置</span>）</div>"	
 corridor	[kˈɔːrədɚ]<div>（ホテル・アパート・ビルなどでいくつもの部屋の出入り口をもっている）廊下<br></div>	
 barn	[bάɚn]<div>納屋、物置</div>	
-ramp	傾斜路、（高速道路の）ランプ	
+ramp	<div>rˈæmp<br></div>傾斜路、（高速道路の）ランプ	
 hydrant	[hάɪdrənt]<div>消火栓</div>	
-shade	（名）日陰<div>（動）暗くする</div>	
-hedge	（名）生け垣、垣根	
+shade	<div>ʃéɪd<br></div>（名）日陰<div>（動）暗くする</div>	
+hedge	<div>hédʒ<br></div>（名）生け垣、垣根	
 puddle	[pˈʌdl]<div>（名）水たまり</div>	
 stall	[stˈɔːl]<div>露店、屋台、馬屋</div><div>※肩掛けのストールはstole</div>	
 face away from each other	互いに顔を逆側に向ける	
-opposite each other	向かい合って	
+opposite each other	<div>άpəzɪt<br></div>向かい合って	
 in order	整然として、適切で、順番に	
 perpendicular	[p`ɚːpəndíkjʊlɚ]<div>（形）垂直の</div>	
-altitude	（三角形などの）高さ、高度、海抜	
+altitude	<div>ˈæltət(j)ùːd<br></div>（名）（三角形などの）高さ、高度、海抜	
 obtuse	[ɑbt(j)úːs]<div>（形）鈍角の、鈍感な</div>	
 be taking away	〜を片付けている<div>※be putting away も同じ意味</div>	
 be bending over	かがんでいる、腰を曲げている	
-assume a position	職位に就く	
+assume a position	<div>əsúːm<br></div>職位に就く	
 break ground	着工する、事業を始める	
 do harm	害を及ぼす	
-file a complaint	苦情を申し立てる	
-grab a bite	軽い食事をする	
-lose one's temper	腹を立てる、怒る	
-raise one's eyebrows	驚く、眉をひそめる	
-raise money	資金を調達する	
-strike a deal	取引をまとめる	
+file a complaint	<div>kəmpléɪnt<br></div>苦情を申し立てる	
+grab a bite	<div>grˈæb<br></div>軽い食事をする	
+lose one's temper	<div>lúːz<br></div>腹を立てる、怒る	
+raise one's eyebrows	<div>ˈaɪˌbraʊz<br></div>驚く、眉をひそめる	
+raise money	<div>réɪz<br></div>資金を調達する	
+strike a deal	<div>strάɪk<br></div>取引をまとめる	
 take notes	記録を取る	
 throw a party	パーティーを開く	
 inhibit	[ɪnhíbɪt]<div>（動）抑制する、禁止する</div>	
@@ -1407,7 +1407,7 @@ at a loss	当惑して、迷って
 at the cost of	〜を犠牲にして	
 by all means	どんなことがあっても、ぜひとも	
 do away with	〜を廃止する	
-be fed up with	〜にうんざりして	
+be fed up with	<div>féd<br></div>〜にうんざりして	
 fill in for	〜の代理（代役）を務める	
 in good shape	体調が良好で、状態が良好で	
 in the long run	長い目で見れば、結局	
@@ -1436,16 +1436,16 @@ give in to	〜に屈服する、〜に譲歩する
 give way to	〜に道を譲る、〜に取って代わられる	
 go for	〜を好む、（楽しいことを）する、選ぶ	
 in line with	〜と合致して、〜と連動して	
-iron out	〜を解決する、〜の障害を取り除く	
+iron out	<div>άɪɚn<br></div>〜を解決する、〜の障害を取り除く	
 keep abreast of	[əbrést]<div>〜に遅れずについていく、（最新情報などに）通じている<br></div>	
-lay aside	〜を棚上げする、〜を蓄える	
-lose ground	遅れをとる、形勢が不利になる	
+lay aside	<div>léɪ<br></div>〜を棚上げする、〜を蓄える	
+lose ground	<div>lúːz<br></div>遅れをとる、形勢が不利になる	
 move over	（席などを）詰める、（場所・地位を）譲る	
 be particular about	〜にこだわる	
-pave the way (for)	（〜への）道をひらく、〜の下準備をする	
-be poised to	〜の用意ができている、〜する態勢にある	
+pave the way (for)	<div>péɪv<br></div>（〜への）道をひらく、〜の下準備をする	
+be poised to	<div>pɔɪzd<br></div>〜の用意ができている、〜する態勢にある	
 pull through	快復する、（危機などを）切り抜ける	
-rule out	〜を除外する、〜を考慮から外す	
+rule out	<div>rúːl<br></div>〜を除外する、〜を考慮から外す	
 be slated to (do)	<div>ˈsletɪd<br></div>〜することが予定されている	
 that is to say	すなわち、つまり	
 up in the air	未決定で、はっきりしない	
@@ -1454,20 +1454,20 @@ zero in on	〜に照準をあわせる、〜に専念する
 ambush	<div>[ˈæmbʊʃ]</div>待ち伏せて急襲する	
 bountiful	<div>[bάʊnṭif(ə)l]</div>（形）豊富な、物惜しみしない	
 inhale	<div>[ɪnhéɪl]</div>（動）吸い込む、吸入する	
-crane（クレーン以外の名詞）	（鳥の）鶴、クレーン	
+crane（クレーン以外の名詞）	<div>kréɪn<br></div>（鳥の）鶴、クレーン	
 inflame	[ɪnfléɪm]<div>（動）（情熱などを）かき立てる、燃え上がらせる</div>	
 meager	<div>[míːgɚ]</div>（形）乏しい、貧弱な、痩せた	
 tripe	[trάɪp]<div>（名）くだらないもの</div>	
 prawn	[prˈɔːn]<div>クルマエビ</div>	
 offset（オフセット以外）	[ˈɔːfsèt]<div>（動）相殺する</div><div>（名）相殺するもの</div>	
-tan	（名）日焼けした色<div>（形）日焼けした<br><div>（動）日焼けさせる</div></div>	
-hardy	（形）（動植物が）耐寒性の、頑丈な、勇敢な	
+tan	<div>tˈæn<br></div>（名）日焼けした色<div>（形）日焼けした<br><div>（動）日焼けさせる</div></div>	
+hardy	<div>hάɚdi<br></div>（形）（動植物が）耐寒性の、頑丈な、勇敢な	
 placate	<div>[pléɪkeɪt]</div>（動）なだめる、和らげる	
 sea anemone	[ənéməni]<div>イソギンチャク</div>	
 homogeneous	[hòʊmədʒíːniəs]<div>（形）均質の、同種の</div>	
 inundate	[ínəndèɪt]<div>（通例受身形で）殺到する、水浸しにする、氾濫する</div>	
 taint	[téɪnt]<div>（動）（通例受身形で）傷つける、汚す</div>	
-blackout	（名）停電、消灯、灯火管制	
+blackout	<div>bˈlækàut<br></div>（名）停電、消灯、灯火管制	
 stimulant	[stímjʊlənt]<div>（名）刺激物</div>	
 mercantile	[mˈɚːkəntìːl]<div>（形）商業の、商人の</div>	
 arsenal	[άɚs(ə)nl]<br><div>兵器庫、兵器工場</div>	
@@ -1485,7 +1485,7 @@ attrition	[ətríʃən]<div>（名）（人員などの）自然減、磨滅、�
 platypus	[plˈæṭɪpəs]<div>カモノハシ</div>	
 intrinsically	[ˌɪˈntrɪnsɪkʌli]<div>（副）本質的に、本来</div>	
 attest	[ətést]<div>（動）証明する、立証する、証拠となる</div>	
-sanitation	（名）衛生設備、公衆衛生	
+sanitation	<div>s`ænətéɪʃən<br></div>（名）衛生設備、公衆衛生	
 markedly	"[<span style=""color: rgb(34, 34, 34);"">mɑ́rkədli</span>]<div>（副）著しく、際立って</div>"	
 pasture	[pˈæstʃɚ]<div>（名）牧草地</div>	
 ail	[éɪl]<div>（動）患う、苦しめる</div>	
@@ -1497,7 +1497,7 @@ retard	[rɪtάɚd]<div>（動）遅らせる、妨害する</div>
 pod	[pάd]<div>（エンドウなどの）さや</div>	
 fathom	[fˈæðəm]<div>（動）（深さを）測る、見抜く、理解する</div><div>（名）（水の深さを測る単位の）ひろ（183cm）</div>	
 surge	[sˈɚːdʒ]<div>（動）波のように押し寄せる</div><div>（名）群衆の殺到、高まり、動揺</div>	
-conductive	（形）伝導性の、伝導力のある	
+conductive	<div>kəndˈʌktɪv<br></div>（形）伝導性の、伝導力のある	
 chuckle	[tʃˈʌkl]<div>（名）くすくす笑い</div><div>（動）くすくす笑う</div>	
 sprinkle	[spríŋkl]<div>（動）（水を）まく</div>	
 solemn	[sάləm]<div>（形）荘厳な、荘重な</div>	
@@ -1514,9 +1514,9 @@ replenish	[rɪplénɪʃ]<div>（動）補給する、再び満たす</div>
 succinct	[sʌksíŋ(k)t]<div>（形）簡潔な、ずばりの</div>	
 poach	[póʊtʃ]<div>（動）密漁する</div>	
 inscribe	[ɪnskrάɪb]<div>（動）（文字などを）刻む、記す</div>	
-mercy	（名）慈悲、哀れみ	
+mercy	<div>mˈɚːsi<br></div>（名）慈悲、哀れみ	
 savory	[séɪv(ə)ri]<div>（形）食欲をそそる、味の良い</div>	
-continental shelf	大陸棚	
+continental shelf	<div>kὰnṭənénṭl&nbsp;ʃélf<br></div>大陸棚	
 radioactive	<div>[ˌredioˈæktɪv]</div>（形）放射性の（ある）	
 shoddy	[ʃάdi]<div>（形）粗雑な、安物の</div>	
 erode	[ɪróʊd]<div>（動）むしばむ、腐食する、侵食する</div>	
@@ -1546,30 +1546,30 @@ salvation	[sælvéɪʃən]<div>（名）救済</div>
 herald	[hérəld]<div>（名）先触れ、先駆者</div><div>（動）先触れをする、布告をする</div>	
 dew	[d(j)úː]<div>（名）露</div>	
 renounce	<div>[rɪnάʊns]</div><div>（動）（権利を）放棄する、絶交する</div>	
-lofty	（形）崇高な、高慢な、非情に高い	
+lofty	<div>lˈɔːfti<br></div>（形）崇高な、高慢な、非情に高い	
 dune	<div>[d(j)úːn]</div>（名）砂丘	
 philanthropist	"[<span style=""color: rgb(34, 34, 34);"">filǽnθrəpist</span>]<div>（名）博愛主義者</div>"	
-stoop	（動）かがむ、堕落する	
+stoop	<div>stúːp<br></div>（動）かがむ、堕落する	
 seclusion	[sɪklúːʒən]<div>（名）隔離、孤立、引きこもること、僻地</div>	
 aloft	<div>[əlˈɔːft]</div>（副）高く、上に	
 tranquil	[trˈæŋkwəl]<div>（形）穏やかな</div>	
 shrewd	[ʃrúːd]<div>（形）賢い、抜け目のない</div>	
-reckless	（形）無謀な、向こう見ずの	
+reckless	<div>rékləs<br></div>（形）無謀な、向こう見ずの	
 diverge	[dɪvˈɚːdʒ]<div>（動）（意見などが）異なる、分かれる、分岐する</div>	
 lethal	[líːθ(ə)l]<div>（形）致死の</div>	
 potent	[póʊtnt]<div>（形）有力な、（酒が）強い、力強い</div>	
-aggression	（名）侵害	
-composure	（名）落ち着き、平静	
-levy	（動）徴収する、賦課する	
+aggression	<div>əgréʃən<br></div>（名）侵害	
+composure	<div>kəmpóʊʒɚ<br></div>（名）落ち着き、平静	
+levy	<div>lévi<br></div>（動）徴収する、賦課する	
 mutter	[mˈʌṭɚ]<div>（動）ぶつぶつ言う、つぶやく</div>	
 desperate	[désp(ə)rət]<div>（形）必死の、自暴自棄の</div>	
 scavenger	[skˈævɪndʒɚ]<div>（名）（ハゲタカなどの）腐肉を食べる動物、清掃動物、清掃人</div>	
-kindle	（動）点火する、燃やす	
+kindle	<div>kíndl<br></div>（動）点火する、燃やす	
 uprising	（名）反乱、暴動	
-reactor	（名）原子炉、反応炉	
+reactor	<div>riˈæktɚ<br></div>（名）原子炉、反応炉	
 relic	[rélɪk]<div>（名）遺跡、遺品</div>	
 tundra	[tˈʌndrə]<div>（名）ツンドラ</div>	
-invoke	（動）嘆願する、呼び覚ます、祈願する、（法律などに）訴える	
+invoke	<div>ɪnvóʊk<br></div>（動）嘆願する、呼び覚ます、祈願する、（法律などに）訴える	
 meadow	[médoʊ]<div>（名）（しばしば〜s）牧草地、草地</div>	
 pragmatic	[prægmˈæṭɪk]<div>（形）実践的な</div>	
 deference	[déf(ə)rəns]<div>（名）服従、敬意<br><div>※differenceは[dif(ə)rəns]</div></div>	
@@ -1578,21 +1578,21 @@ displace	[dɪspléɪs]<div>（動）取って代わる、立ち退かせる</div
 ominous	[άmənəs]<div>（形）不穏な、不吉な、陰険な</div>	
 oscillate	[άsəlèɪt]<div>（動）（前後に）揺れる、振動する、振動させる</div>	
 wither	[wíðɚ]<div>（動）衰退する、枯れる</div>	
-projection	（名）突出、投影、計画	
+projection	<div>prədʒékʃən<br></div>（名）突出、投影、計画	
 accompaniment	[əkˈʌmp(ə)nimənt]<div>（名）伴奏、付属物</div>	
-accumulate	（動）集める、（お金などを）ためる	
+accumulate	<div>əkjúːmjʊlèɪt<br></div>（動）集める、（お金などを）ためる	
 appease	[əpíːz]<div>（動）なだめる、譲歩する、満たす</div>	
 cruel	[krúːəl]<div>（形）残酷な</div>	
 cosmic	<div>[kάzmɪk]</div>（形）宇宙の	
 insolent	[íns(ə)lənt]<div>（形）横柄な、傲慢な、無礼な</div>	
-abruptly	（副）突然に	
+abruptly	<div>əbrˈʌptli<br></div>（副）突然に	
 invert	[ɪnvˈɚːt]<div>（動）逆にする、転化する</div>	
 oblique	[oʊblíːk]<div>（形）斜めの、遠回しな</div>	
 reconcile	[rék(ə)nsὰɪl]<div>（動）調停する、和解させる</div>	
 coffin	[kˈɔːfɪn]<div>（名）棺</div>	
 prosecution	[prὰsɪkjúːʃən]<div>（名）起訴、告発、遂行</div>	
 submerge	[səbmˈɚːdʒ]<div>（動）水に浸す、潜水する</div>	
-confine	（動）制限する、閉じ込める<div>（名）（通例〜s）限度、境界</div>	
+confine	<div>kənfάɪn<br></div>（動）制限する、閉じ込める<div>（名）（通例〜s）限度、境界</div>	
 indecisive	[ìndɪsάɪsɪv]<div>（形）優柔不断の</div>	
 ritual	[rítʃuəl]<div>（名）儀式</div><div>（形）儀式の</div>	
 conceive	[kənsíːv]<div>（動）（計画などを）思いつく、子を孕む、想像する</div>	
@@ -1604,23 +1604,23 @@ intervene	[ìnṭɚvíːn]<div>（動）仲裁をする、（間に）入る</di
 defiance	[dɪfάɪəns]<div>（名）挑戦</div>	
 leukemia	[luːkíːmiə]<div>（名）白血病</div>	
 meddle	[médl]<div>（動）干渉する、手出しをする</div>	
-monarchy	（名）君主国、（the〜）君主政治、（the〜）君主制度	
+monarchy	<div>mάnɚki<br></div>（名）君主国、（the〜）君主政治、（the〜）君主制度	
 turbulent	<div>[tˈɚːbjʊlənt]</div>（形）騒々しい、（感情などが）かき乱された、荒れ狂う	
-collective	（形）集団的な	
+collective	<div>kəléktɪv<br></div>（形）集団的な	
 prodigal	[prάdɪg(ə)l]<div>（形）浪費する、散財する</div>	
-outset	（名）（the〜）着手、（the〜）発端	
+outset	<div>ˈaʊtsɛt<br></div>（名）（the〜）着手、（the〜）発端	
 soot	[sˈʊt]<div>（名）すす</div>	
 brittle	[bríṭl]<div>（形）もろい、壊れやすい、心の冷たい</div>	
-paddy field	（名）（稲の）水田	
+paddy field	<div>pˈædi<br></div>（名）（稲の）水田	
 lucid	<div>[lúːsɪd]</div>（形）わかりやすい、明快な、透明な	
 cradle	[kréɪdl]<div>（名）ゆりかご</div>	
-abide	（動）（byを伴って）（規則を）守る	
-converge	（動）集中する、収束する	
+abide	<div>əbάɪd<br></div>（動）（byを伴って）（規則を）守る	
+converge	<div>kənvˈɚːdʒ<br></div>（動）集中する、収束する	
 decomposer	[dìːkəmpóʊzər]<div>（名）（ミミズやバクテリアなどの）分解生物</div>	
 distrust	[dìstrˈʌst]<div>（名）（a 〜）疑惑</div><div>（動）疑う</div>	
 empirical	[empírɪk(ə)l]<div>（形）実験に基づいた、経験を基礎とする</div>	
 ambivalence	[æmbívələns]<div>（名）相反する感情、ためらい</div>	
-contempt	（名）さげすみ、侮辱、恥辱、侮辱行為	
+contempt	<div>kəntém(p)t<br></div>（名）さげすみ、侮辱、恥辱、侮辱行為	
 console（動詞の意味は）	<div>[kənsóʊl]</div>（動）慰める、元気づける	
 volatile	[vάləṭl]<div>（形）揮発性の、不安定な</div>	
 credulity	[krɪd(j)úːləṭi]<div>（名）すぐに信じ込む性質</div>	
@@ -1635,7 +1635,7 @@ husbandry	[hˈʌzbəndri]<div>（名）農業、耕作、節約、家計のや�
 torture	[tˈɔɚtʃɚ]<div>拷問、苦痛</div>	
 momentous	[moʊménṭəs]<div>（形）重大な、重要な</div>	
 grass roots	（the 〜）草の根（運動）	
-affliction	（名）苦痛、災難	
+affliction	<div>əflíkʃən<br></div>（名）苦痛、災難	
 extort	[ɪkstˈɔɚt]<div>（動）強要する、無理強いする</div>	
 tame	[téɪm]<div>（動）調教する</div><div>（形）飼いならされた、退屈な</div>	
 segregation	[sègrɪgéɪʃən]<div>（名）人種差別、（人種）隔離</div>	
@@ -1683,14 +1683,14 @@ sodium	[sóʊdiəm]<div>（名）ナトリウム</div>
 oppression	[əpréʃən]<div>（名）圧迫、抑圧</div>	
 enmity	[énməṭi]<div>（名）敵意、憎しみ</div>	
 bovine	[bóʊvɑɪn]<div>（形）ウシ（属）の、のっそりした</div><div>（名）ウシ科の動物</div>	
-reclaim	（動）開墾する、矯正する	
+reclaim	<div>rɪkléɪm<br></div>（動）開墾する、矯正する	
 apathetic	[æpəθéṭɪk]<div>（形）無関心な、感情のない、冷淡な</div>	
 mitigate	[míṭəgèɪt]<div>（動）和らげる、軽くする</div>	
 intrude	<div>[ɪntrúːd]</div>（動）侵入する、邪魔する	
-scan	（動）入念に調べる、ざっと見る	
+scan	<div>skˈæn<br></div>（動）入念に調べる、ざっと見る	
 double helix	[híːlɪks]<div>（名）（遺伝子の）二重螺旋構造</div>	
 forefather	[ˈfɔːˌfɑːðə]<div>（名）（通例 〜s）（家系に関係なく）父祖、祖先</div>	
-disrupt	（動）混乱させる、分裂させる	
+disrupt	<div>dɪsrˈʌpt<br></div>（動）混乱させる、分裂させる	
 elliptical	[ilíptikəl]<div>（形）楕円の、長円の</div>	
 whisker	[(h)wískɚ]<div>（名）（猫などの）ひげ、（通例 〜s）頬ひげ</div>	
 coincide	[kòʊɪnsάɪd]<div>（動）一致する、同時に起こる</div>	
@@ -1700,13 +1700,13 @@ glossary	[glάs(ə)ri]<div>（名）用語解説、用語辞典</div>
 sparrow	[spˈæroʊ]<div>（名）スズメ</div>	
 tempt	（動）誘惑する、そそのかす	
 inoculation	[ɪnὰkjʊléɪʃən]<div>（名）（予防）接種</div>	
-incidental	（形）臨時の、付随して起こる、偶然の	
-electron microscope	（名）電子顕微鏡	
+incidental	<div>ìnsədénṭl<br></div>（形）臨時の、付随して起こる、偶然の	
+electron microscope	<div>ɪléktrɑn&nbsp;mάɪkrəskòʊp<br></div>（名）電子顕微鏡	
 embellish	[embélɪʃ]<div>（動）飾る、美しくする</div>	
 insensitive	[ìnsénsəṭɪv]<div>（形）無関心な、〜を感じない、無感覚な</div>	
 elusive	[əlúːsɪv]<div>（形）理解しにくい、捕らえにくい、逃げる</div>	
 embryonic	[èmbriάnɪk]<div>（形）胎児の、未発達の</div>	
-agent（代理店、代理人以外の名詞）	（名）成分、物質、代理店、代理人	
+agent（代理店、代理人以外の名詞）	<div>éɪdʒənt<br></div>（名）成分、物質、代理店、代理人	
 exploit	[éksplɔɪt]<div>（動）活用する、開発する、（鉱山を）掘る</div>	
 candor	[kˈændɚ]<div>（名）素直さ、誠実さ、公平</div>	
 shred	[ʃréd]<div>（名）（しばしば〜s）一片、断片</div><div>（動）ずたずたに裂く</div>	
@@ -1723,7 +1723,7 @@ nullify	[nˈʌləfὰɪ]<div>（動）無効にする</div>
 phonetic	[fənéṭɪk]<div>（形）音声上の</div>	
 chaotic	[keɪάṭɪk]<div>（形）混沌とした、無秩序な</div>	
 upheaval	[`ʌphíːv(ə)l]<div>（名）激変</div>	
-impair	（動）損なう、減じる	
+impair	<div>ɪmpéɚ<br></div>（動）損なう、減じる	
 exoskeleton	[ˌɛksoˈskɛlʌtʌn]<div>（名）（昆虫の）外骨格</div>	
 ellipse	[əlíps]<div>（名）楕円</div>	
 thrifty	[θrífti]<div>（形）つましい、倹約する</div>	
@@ -1734,8 +1734,8 @@ huddle	[hˈʌdl]<div>（動）体を寄せ合う、集まって協議をする�
 besiege	[bɪsíːdʒ]<div>（動）包囲する</div>	
 indiscriminate	[ìndɪskrímənət]<div>（形）無差別の、乱雑な</div>	
 touchy	[tˈʌtʃi]<div>（形）厄介な、敏感な</div>	
-retiring	（形）内気な、引っ込み思案な、隠居する	
-profusion	（名）豊富	
+retiring	<div>rɪtάɪ(ə)rɪŋ<br></div>（形）内気な、引っ込み思案な、隠居する	
+profusion	<div>prəfjúːʒən<br></div>（名）豊富	
 abstain	[əbstéɪn]<div>（動）慎む</div>	
 predominant	<div>prɪdάmənənt<br></div><div>（形）圧倒的な、優勢な<br></div>	
 bizarre	[bɪzάɚ]<div>（形）風変わりな、異様な</div>	
@@ -1743,7 +1743,7 @@ bewilder	[bɪwíldɚ]<div>（動）当惑させる</div>
 deplore	[dɪplˈɔɚ]<div>（動）非難する、遺憾に思う</div>	
 futile	[fjúːṭl]<div>（形）無駄な、無益な、くだらない</div>	
 plead	[plíːd]<div>（動）弁護する、嘆願する</div>	
-mend	（動）補修する	
+mend	<div>ménd<br></div>（動）補修する	
 spawn	[spˈɔːn]<div>（名）（しばしば集合的に）（魚やカエルなどの）卵</div><div>（動）（卵を）産む</div>	
 gum	<div>[gˈʌm]</div>（名）（通例 〜s）歯茎	
 veto	[víːṭoʊ]<div>（名）拒否権</div>	
@@ -1759,7 +1759,7 @@ coniferous tree	[koʊníf(ə)rəs]<div>（名）針葉樹</div>
 smother	[smˈʌðɚ]<div>（動）（火などを）消す、（感情などを）抑える、窒息させる</div>	
 tangle	[tˈæŋgl]<div>（動）紛糾させる</div>	
 celestial	[səléstʃəl]<div>（形）天の、空の、天体の</div>	
-dine	（動）食事する	
+dine	<div>dάɪn<br></div>（動）食事する	
 heredity	[hɪrédəṭi]<div>（名）遺伝</div>	
 aberration	[`æbəréɪʃən]<div>（名）異常、常軌を逸すること</div>	
 marital	[mˈærəṭl]<div>（形）結婚の、夫婦間の</div>	
@@ -1800,7 +1800,7 @@ preclude	[prɪklúːd]<div>（動）排除する、妨げる</div>
 exacerbate	[ɪgzˈæsɚbèɪt]<div>（動）悪化させる、怒らせる</div>	
 erratic	[ɪrˈæṭɪk]<div>（形）不規則な、とっぴな</div>	
 petty	[péṭi]<div>（形）（通例限定用法）ささいな、小規模な、価値の少ない、取るに足らない</div>	
-latency period	（名）（病気の）潜伏期間	
+latency period	<div>léɪtnsi<br></div>（名）（病気の）潜伏期間	
 faction	[fˈækʃən]<div>（名）党派、派閥</div>	
 woe	[wóʊ]<div>（名）（通例 〜s）悲痛、苦悩、災難</div>	
 equivocal	[ɪkwívək(ə)l]<div>（形）はっきりしない、両義にとれる</div>	
@@ -1878,7 +1878,7 @@ glitter	[glíṭɚ]<div>（動）きらきら輝く</div>
 intriguing	[íntriːgɪŋ]<div>（形）興味をそそる、好奇心をかきたてる</div>	
 massacre	[mˈæsəkɚ]<div>（名）大虐殺</div>	
 censor	[sénsɚ]<div>（動）検閲する</div>	
-outgoing	（形）社交的な、外向的な	
+outgoing	<div>ˈaʊˌtgoɪŋ<br></div>（形）社交的な、外向的な	
 fortress	[fˈɔɚtrəs]<div>（名）要塞、とりで</div>	
 gloomy	[glúːmi]<div>（形）憂鬱な</div>	
 lieu	[lúː]<div>（名）場所</div>	
@@ -1948,7 +1948,7 @@ ponder	[pάndɚ]<div>（動）熟考する</div>
 timid	[tímɪd]<div>（形）臆病な</div>	
 consonant	[kάnsənənt]<div>（名）子音</div>	
 hoist	[hˈɔɪst]<div>（動）つり上げる、持ち上げる</div>	
-pest	（名）害虫、疫病	
+pest	<div>pést<br></div>（名）害虫、疫病	
 obese	[oʊbíːs]<div>（形）肥満した、太り過ぎの</div>	
 manifest	[mˈænəfèst]<div>（形）明白な、はっきりとした</div><div>（動）明らかにする</div>	
 foreshadow	[fɔˈrʃædo]<div>（動）〜の前兆となる、前もって示す</div>	
@@ -1971,7 +1971,7 @@ take a rain check	またの機会にする
 burst into tears	突然泣き出す	
 abound in 〜	〜に富む	
 help oneself to 〜	〜を自由に取って飲食する	
-mill about	うろつく	
+mill about	<div>míl<br></div>うろつく	
 be sick of 〜	〜にうんざりしている	
 set about 〜	〜に取りかかる	
 in no time	すぐに	
@@ -1979,7 +1979,7 @@ wind up with 〜	〜に終わる
 take up 〜	（問題などを）取り上げる	
 make for 〜	〜に向かう、〜に寄与する	
 far from 〜	〜するどころでなく、決して〜ない	
-straighten up 〜	〜を整頓する	
+straighten up 〜	<div>stréɪtn<br></div>〜を整頓する	
 turn to 〜	〜に取り掛かる、〜に変化する	
 die out	死滅する	
 save face	面目を保つ	
@@ -1990,8 +1990,8 @@ out of line	協調性がない、節度を欠いている
 get to 〜	〜をイライラさせる	
 Get a hold of yourself.	落ち着け	
 be hard on 〜	〜に辛く当たる	
-quite a person	すごい人	
-have a hunch (that) 〜	〜という予感がする	
+quite a person	<div>kwάɪt<br></div>すごい人	
+have a hunch (that) 〜	<div>hˈʌntʃ<br></div>〜という予感がする	
 the odds are against 〜	形勢は〜に不利だ、〜に勝算はない	
 before long	まもなく	
 hurl	[hˈɚːl]<div>（動）強く投げつける、放り投げる</div>	
@@ -2100,7 +2100,7 @@ reminiscent	[rèmənísnt]<div>（形）連想させる、追憶の</div>
 expel	[ekspél]<div>（動）放出する、吐き出す、（学校・国などから）追放する</div>	
 sterilize	[stérəlὰɪz]<div>（動）消毒（殺菌）する、不妊にする</div>	
 apprehension	[`æprɪhénʃən]<div>（名）懸念、気遣い、理解（力）</div>	
-reclaimed land	（名）開墾地、埋立地	
+reclaimed land	<div>riˈklemd<br></div>（名）開墾地、埋立地	
 mating season	[ˈmetɪŋ]<div>（名）繁殖期、交尾期</div>	
 corrosive	[kəróʊsɪv]<div>（形）腐食性の、侵食する、むしばむ</div>	
 ameliorate	əmíːljərèɪt<div>（動）改善する</div>	
@@ -2130,10 +2130,10 @@ come out	出る、出版される
 give in	降参する	
 do more harm than good	有害無益である	
 at (on) short notice	突然に、急に	
-devote oneself to 〜	〜に専念する、〜に打ち込む	
+devote oneself to 〜	<div>dɪvóʊt<br></div>〜に専念する、〜に打ち込む	
 pick 〜 up on one's own	〜を自分自身で身につける	
 hang around (about)	あてもなくぶらつく	
-slip one's mind	うっかり忘れる	
+slip one's mind	<div>slíp<br></div>うっかり忘れる	
 back away	遠ざかる	
 amount to 〜	総計〜になる、〜に達する	
 go by	（時が）経つ	
@@ -2158,7 +2158,7 @@ stand a chance	勝ち目がある、有望である
 be rusty	<div>rˈʌsti<br></div>腕がなまっている	
 You said it!	その通りだ！	
 at any moment	今にも	
-sense organ	（名）（目や耳などの）感覚器官	
+sense organ	<div>séns<br></div>（名）（目や耳などの）感覚器官	
 cavern	kˈævɚn<div>（名）洞窟</div>	
 morose	məróʊs<div>（形）不機嫌な、むっつりした</div>	
 agitate	ˈædʒətèɪt<div>（動）動揺させる、扇動する</div>	
@@ -2231,30 +2231,30 @@ let 〜 off（降ろす以外の意味）	〜を許す、（車などから人�
 stand up for 〜	〜の味方をする	
 hand out 〜	〜を配布する	
 learn 〜 by heart	〜を暗記する	
-deprive A of B	AからBを奪う	
+deprive A of B	<div>dɪprάɪv<br></div>AからBを奪う	
 in a row	連続して	
 come face to face with	〜と差し向かいになる、（危険などに）直面する	
 go with 〜	（服やネクタイなどに）合う	
 bring about 〜	〜を引き起こす	
 on the nose	きっかりに、正確に	
-bump into 〜	〜と偶然に出会う	
+bump into 〜	<div>bˈʌmp<br></div>〜と偶然に出会う	
 put 〜 into action (effect, practice)	〜を実行する、〜を実施する	
 be capable of 〜	〜する能力がある	
 run for 〜	〜に立候補する	
 run after 〜	〜を追いかける	
 on the spot	その場所に、即座に	
 know better than to do	〜するほど愚かでない	
-shoulder to shoulder	一致団結して、肩を並べて	
+shoulder to shoulder	<div>ʃóʊldɚ<br></div>一致団結して、肩を並べて	
 be true of 〜	〜にも当てはまる	
 (The) chances are (that) 〜	たぶん〜だろう	
 be content with 〜	〜に満足している	
 kill time	暇をつぶす	
 be open to 〜（開放されている以外の意味）	〜の影響を受けやすい、〜に開放されている	
-hit a nerve	痛いところを突く、心を傷つける	
-lag behind (〜)	（〜に）遅れをとる	
+hit a nerve	<div>nˈɚːv<br></div>痛いところを突く、心を傷つける	
+lag behind (〜)	<div>lˈæg<br></div>（〜に）遅れをとる	
 come to	意識を取り戻す、正気に戻る	
 be on good terms with 〜	〜と仲が良い	
-be convinced of 〜	〜を確信している	
+be convinced of 〜	<div>kʌˈnvɪnst<br></div>〜を確信している	
 get a hold of 〜	〜と連絡を取る	
 by any chance	ひょっとして、もしかして	
 be full of hot air	ナンセンスなことばかり言う	
@@ -2264,13 +2264,13 @@ run late	遅くまでかかる
 put 〜 up	〜を泊める	
 throw one's weight around	威張りちらす、権力を笠に着る	
 keep tabs on 〜	〜に注意を払う、〜を監視する	
-poke fun at 〜	〜をからかう	
+poke fun at 〜	<div>póʊk<br></div>〜をからかう	
 go Dutch	<div>dˈʌtʃ<br></div>割り勘にする	
 cast aside 〜	（友達などと）関係を絶つ、〜を見捨てる	
 hit on(upon) 〜	〜をふと思いつく	
 get back at 〜	〜に仕返しをする	
 tell on 〜	（体に）こたえる、〜のことを告げ口する	
-be reduced to rubble	がれきとなる	
+be reduced to rubble	<div>rɪˈdjuːst<br></div>がれきとなる	
 do one's part	役目を果たす、本文を尽くす	
 be subject to 〜（影響を受けやすい以外の意味）	〜する可能性がある、〜（の影響）を受けやすい、〜を必要とする	
 catch on to 〜	〜を理解する	
@@ -2292,10 +2292,10 @@ amnesia	æmníːʒə<div>（名）記憶喪失<br></div>
 toll（動詞の意味は？）	（動）ゆっくりと鐘を鳴らす<div>（名）通行料、使用料、死傷者数</div>	
 blithe	blάɪθ<div>（形）不注意な、快活な、陽気な、楽しそうな</div>	
 kindred	kíndrəd<div>（形）同族の、同様の</div><div>（名）親族、血縁</div>	
-lay an egg	卵を産む	
+lay an egg	<div>léɪ<br></div>卵を産む	
 be incapable of doing	〜できない	
 fill in 〜（記入する以外の意味）	〜に詳しく知らせる、〜に記入する	
-on purpose	わざと	
+on purpose	<div>pˈɚːpəs<br></div>わざと	
 give away 〜	〜を寄付する、〜をただで与える	
 stay up	（夜遅くまで）寝ずに起きている	
 save the day	窮地を救う、勝利へ導く、成功をもたらす	
@@ -2303,7 +2303,7 @@ drop by	立ち寄る
 once in a while	時々	
 on one's own account	自分の責任で	
 day in and day out	来る日も来る日も	
-shed light on 〜	〜を明らかにする、〜にヒントを与える	
+shed light on 〜	<div>ʃéd<br></div>〜を明らかにする、〜にヒントを与える	
 close in (on 〜)	（〜を）包囲する、（〜に）近づく	
 for a rainy day	まさかの時に備えて	
 take in 〜	〜を理解する、（受身形で）だまされる	
@@ -2315,7 +2315,25 @@ give 〜 a lift(ride)	〜を車に乗せる
 as good as the next	どれにも劣らず良い	
 give it time	時間をかける、時が熟すのを待つ	
 hold 〜 over	〜を持続させる	
-stick one's neck out	あえて危険を冒す	
+stick one's neck out	<div>stík<br></div>あえて危険を冒す	
 at odds with each other	互いに反目しあって	
 be a far cry from 〜	〜とはかなり異なっている	
 keep one's nose clean	悪いことをしない、面倒なことに巻き込まれないようにする	
+repressive	rɪprésɪv<div>（形）抑圧的な</div>	
+thinker	ˈθɪŋkɝ<div>（名）思想家、思索家</div>	
+affidavit	`æfədéɪvɪt<div>（名）宣誓供述書</div>	
+hindmost	háɪndmòʊst<div>（形）最後部の</div>	
+subterranean	s`ʌbtəréɪniən<div>（形）地下の、地中の、隠れた</div>	
+caprice	kəpríːs<div>（名）気まぐれ、移り気</div>	
+scant	skˈænt<div>（形）乏しい、不十分な</div>	
+impotent	ímpətnt<div>（形）無力な、無益な</div>	
+severance	sév(ə)rəns<div>（名）切断、分離、契約解除</div>	
+swindle	swíndl<div>（動）（金品を）だまし取る、詐欺を働く</div><div>（名）詐欺、ぺてん</div>	
+accolade	ˈækəlèɪd<div>（名）賞賛</div>	
+malice	mˈælɪs<div>（名）悪意</div>	
+supplant	səplˈænt<div>（動）取って代わる、押しのける</div>	
+shimmer	ʃímɚ<div>（動）かすかに光る</div>	
+assent	əsént<div>（名）同意<br><div>（動）同意する</div></div>	
+agrarian	əgré(ə)riən<div>（形）農業向上の、土地利用に関する</div>	
+autocrat	ˈɔːṭəkr`æt<div>（名）独裁者、専制君主、暴君</div>	
+dais	déɪɪs<div>（名）演壇、壇</div>	
