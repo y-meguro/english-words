@@ -1461,7 +1461,7 @@ tripe	[trάɪp]<div>（名）くだらないもの</div>
 prawn	[prˈɔːn]<div>クルマエビ</div>	
 offset（オフセット以外）	[ˈɔːfsèt]<div>（動）相殺する</div><div>（名）相殺するもの</div>	
 tan	<div>tˈæn<br></div>（名）日焼けした色<div>（形）日焼けした<br><div>（動）日焼けさせる</div></div>	
-hardy	<div>hάɚdi<br></div>（形）（動植物が）耐寒性の、頑丈な、勇敢な	
+hardy（頑丈な以外の形容詞）	<div>hάɚdi<br></div>（形）（動植物が）耐寒性の、頑丈な、勇敢な	
 placate	<div>[pléɪkeɪt]</div>（動）なだめる、和らげる	
 sea anemone	[ənéməni]<div>イソギンチャク</div>	
 homogeneous	[hòʊmədʒíːniəs]<div>（形）均質の、同種の</div>	
@@ -1532,7 +1532,7 @@ jolt	[dʒóʊlt]<div>（動）（急激に）揺さぶる</div><div>（名）（
 mole	<div>[móʊl]</div>（名）モグラ、ほくろ、防波堤	
 discourse	[dískɔɚs]<div>（名）論文</div>	
 prose	[próʊz]<div>（名）散文</div>	
-brand（同士の意味は？）	[brˈænd]<div>（動）烙印を押す</div><div>（名）ブランド、（商品・家畜などに押す）焼き印</div>	
+brand（動詞の意味は？）	[brˈænd]<div>（動）烙印を押す</div><div>（名）ブランド、（商品・家畜などに押す）焼き印</div>	
 appraise	[əpréɪz]<div>（動）鑑定する、評価する、判断する</div>	
 congregate	[kάŋgrɪgèɪt]<div>（動）集まる、集合する、招集する</div>	
 equity	[ékwəṭi]<div>（名）公平、公正、普通株</div>	
@@ -2427,3 +2427,84 @@ steadfast	stédf`æst<div>（形）忠実な、しっかりした</div>
 amnesty	ˈæmnəsti<div>（名）恩赦</div>	
 piety	pάɪəṭi<div>（名）信心、敬けん、敬けんな行い</div>	
 quiver	kwívɚ<div>（動）震える、揺れる</div>	
+wear away(off)	摩滅する	
+A is to B what(as) C is to D	AのBに対する関係は、CのDに対する関係に等しい	
+give off 〜	（光・音・においなどを）放つ	
+come to light	明るみに出る	
+every now and then	時折	
+be absorbed in 〜	<div>əbsˈɔɚb<br></div>〜に熱中している	
+see about 〜	〜を手配する	
+in the meantime	その間に	
+day by day	日ごとに	
+come about	起こる	
+on account of 〜	〜のために、〜が原因で	
+not to mention 〜	〜は言うまでもなく	
+all but	ほとんど、もう少しで	
+have a poor opinion(view) of 〜	〜をつまらないと思う、〜を低く評価する	
+make up one's mind	決心する	
+not a few	少なからぬ、かなり多くの	
+see beyond 〜	〜の先を見通す	
+hold on to 〜	〜にしっかりつかまる	
+give rise to 〜	〜を引き起こす、〜を生じさせる	
+lose one's head	取り乱す、慌てる	
+so far	そこまで、これまでのところ	
+make it a rule to do	〜することにしている	
+do with 〜	〜で我慢する、間に合わせる、〜が欲しい	
+run off 〜	（動力・燃料で）動く、〜をすらすらと書き上げる	
+be disgusted with (by / at) 〜	dɪˈsgʌstʌd<br><div>〜にうんざりしている、〜に対して不快である</div>	
+make it up to 〜	〜に埋め合わせをする	
+be ignorant of 〜	<div>ígnərənt<br></div>〜を知らない	
+at one's disposal	<div>dɪspóʊzl<br></div>〜の自由に使えて、〜の意のままになって	
+not take no for an answer	嫌とは言わせない	
+down the road	いつか将来、やがて	
+burn a hole in one's pocket	（金を）しきりに使いたがる、金が身につかない	
+not in a million years	あり得ない	
+every nook and cranny	nˈʊk /&nbsp;krˈæni<div>隅から隅まで</div>	
+for the life of me	どうしても、命にかけても	
+one way or another	何とかして	
+one of those things	よくあること、避けがたいこと	
+You can say that again!	全くその通り！	
+save（前置詞の意味は？）	sèɪv<div>（全）〜を除けば、〜のほかは</div>	
+hold one's tongue	<div>tˈʌŋ<br></div>黙っている	
+back and forth	<div>fˈɔɚθ<br></div>行ったり来たり、あちこちへ、行きつ戻りつ	
+read up on 〜	〜をよく調べる	
+get at 〜	（事実など）を知る、〜を突き止める、〜をほのめかす、〜を意味する	
+free of charge	<div>tʃάɚdʒ<br></div>無料で	
+see eye to eye (with 〜)	（通例否定文で）（〜と）意見が一致する、（〜）と気が合う	
+keep a straight face	（笑いを抑えて）真顔でいる	
+never(not) do 〜 by halves	<div>hˈævz<br></div>決して中途半端に〜をしない、〜を手抜きしない	
+do for 〜	〜の世話をする、〜を養う、〜の代わりになる	
+play it by ear	ぶっつけ本番で行う、臨機応変に行う	
+in a mess	més<div>散らかって</div>	
+come down with 〜	（病気に）かかる	
+by far	はるかに、断然<div>※最上級や比較級を強める用法として使われる</div>	
+read between the lines	行間を読み取る	
+take A for B	AをBだと思い違いする	
+break up (〜)	〜を終わらせる	
+do damage (to 〜)	<div>dˈæmɪdʒ<br></div>（〜に）被害を与える	
+take on 〜	（仕事などを）引き受ける、〜を雇う	
+get down to 〜	（仕事などに）本気で取りかかる	
+no end of 〜	たくさんの、限りない	
+think little of 〜	〜を大したことと思わない	
+be tied up	忙しい	
+lose face	面目を失う	
+all at once	突然に	
+make a point of doing	努めて〜する	
+find fault (with 〜)	（〜の）あらを探す、（〜を）非難する	
+eat out	外食をする	
+be inferior to 〜	<div>ɪnfí(ə)riɚ<br></div>〜より劣っている	
+all the more(better) because(for) 〜	〜なのでなおさら（…である）	
+get(be) carried away with 〜	〜に夢中になる	
+take turns doing	交代で〜をする	
+look after 〜	〜の世話をする	
+The jury(verdict) is still out.	dʒˈʊ(ə)ri /&nbsp;vˈɚːdɪkt<div>まだ結論は出されていない</div>	
+That's the last thing 〜	それは一番〜でないことだ	
+pull one's weight	自分の役割を十分に果たす	
+kick around 〜	（提案などを）あれこれ検討する	
+get the hang of 〜	<div>hˈæŋ<br></div>〜のコツをつかむ、〜をのみ込む	
+grow by leaps and bounds	<div>lips<br></div>急速に発展する	
+right and left	至るところで、縦横無尽に	
+go through the roof	（価格などが）天井知らずに上がる	
+hold oneself together	tʊgéðɚ<div>落ち着かせる、正気を保つ</div>	
+be on the right(wrong) track	正しい（間違った）方法で進んでいる	
+be free of 〜	〜を免除されている	
