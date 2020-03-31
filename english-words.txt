@@ -2604,7 +2604,51 @@ transcribe	trænskrάɪb<div>（動）書き写す、複写する</div>
 incessant	ɪnsésnt<div>（形）絶え間ない、ひっきりなしの</div>	
 moat	móʊt<div>（名）堀</div>	
 checkered	ˈtʃɛkɝd<div>（形）波乱万丈の、変化に富んだ</div>	
-animosity	`ænəmάsəṭi<div>（名）憎しみの、敵意</div>	
+animosity	`ænəmάsəṭi<div>（名）憎しみ、敵意</div>	
 innocuous	ɪnάkjuəs<div>（形）無害の</div>	
 exonerate	ɪgzάnərèɪt<div>（動）免除する、開放する</div>	
 climactic	klɑɪmˈæktɪk<div>（形）最高潮の、クライマックスの</div>	
+cut down on 〜	〜を減らす	
+get through 〜	〜に合格する、〜を終える	
+give 〜 the cold shoulder	ʃóʊldɚ<div>〜に冷たくする</div>	
+take down 〜	〜を書き留める	
+as yet	今までのところは	
+drop in at(on) 〜	〜にちょっと立ち寄る<div>※後に場所が続く場合はat、人が続く場合はon</div>	
+all day long	一日中	
+blow off steam	<div>stíːm<br></div>うっぷんを晴らす、（怒りなどを）発散させる	
+look away from 〜	〜から目をそらす	
+be second to none	誰にも劣らない	
+come to the(a) conclusion	<div>kənklúːʒən<br></div>結論に達する	
+make at 〜	〜に襲いかかる	
+come by (〜)	〜を手に入れる、立ち寄る	
+come true	実現する	
+on (a) par with 〜	<div>pάɚ<br></div>〜と同等である	
+have difficulty (in) doing	〜するのに苦労する	
+sooner or later	遅かれ早かれ	
+make(pull) a face	顔をしかめる	
+bread and butter	bˈʌṭɚ<div>生活の糧、基本的な食べ物</div>	
+speak ill of 〜	〜の悪口を言う	
+fall in with 〜	〜と付き合うようになる、〜に同意する	
+fall behind 〜	〜に遅れを取る、遅れる	
+break in (〜)	押し入る、（話に）割り込む、〜を調教する	
+to and fro	<div>fróʊ<br></div>行ったり来たり	
+pass for 〜	〜として通用する	
+make believe (that) 〜	〜のふりをする	
+out of the question	問題外な、不可能な	
+give out (〜)	〜を配る、動かなくなる	
+stand by (〜)	〜を支持する、そばにいる	
+go through 〜	〜をよく調べる、（苦難などを）経験する	
+attend to 〜	〜の世話をする	
+see (to it) that 〜	必ず〜するように取り計らう、〜するよう気をつける	
+make (both) ends meet	収支を合わせる	
+make head(s) or tail(s) of 〜	（通例 can't / couldn't を伴い否定文で）〜を理解する	
+not quite	<div>kwάɪt<br></div>それほどでもない	
+a close call	危機一髪	
+down to earth	現実的な	
+be wiped out	疲れ切っている、全滅する	
+drop off 〜	〜を提出する	
+with strings attached	条件付きで	
+Need a hand?	手伝いましょうか？	
+hit it off well	気が合う、仲良くやる	
+You can't be serious!	冗談でしょう！	
+follow suit	先例に習う、人のまねをする	
