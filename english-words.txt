@@ -250,7 +250,7 @@ vicious	<div>víʃəs<br></div>悪い、悪徳の
 inject	<div>[ɪndʒékt]</div>注射する、注入する	
 biosphere	<div>ˈbaɪoˌsfɪr<br></div>（名）（通例 the〜）生物圏	
 owl	<div>άʊl<br></div>フクロウ	
-calamity	<div>kˈæktəs<br></div>災難、災害	
+calamity	<div>kəlˈæməṭi<br></div>災難、災害	
 vocational	<div>voʊkéɪʃ(ə)nəl<br></div>職業の	
 vogue	<div>vóʊg<br></div>（通例 a〜）流行	
 expenditure	<div>ɪkspéndɪtʃɚ<br></div>（名）支出、（〜s）経費、費用	
@@ -464,7 +464,7 @@ courier	<div>[kˈʊriɚ]</div>宅配業者、添乗員
 auditor	<div>ˈɔːdəṭɚ<br></div>（名）会計監査官	
 attorney	<div>ətˈɚːni<br></div><div>（名）弁護士、代理人</div>	
 proofreader	校正者<div>※発音記号がない</div>	
-correspondent	<div>k`ɔːrəspάndənt<br></div>特派員、文通者、一致するもの	
+correspondent	<div>k`ɔːrəspάndənt<br></div>（名）特派員、文通者、一致するもの	
 fine arts	芸術	
 notwithstanding	<div>nὰtwɪθstˈændɪŋ<br></div>〜にもかかわらず	
 in light of	〜を考慮に入れると	
@@ -480,7 +480,7 @@ culinary	<div>[kˈʌlənèri]</div>料理の
 attire	<div>ətάɪɚ<br></div><div>（名）服装</div>	
 furnished	<div>ˈfɝnɪʃt<br></div>家具付きの	
 acclaimed	<div>ʌˈklemd<br></div>（形）絶賛されている	
-correspondence	<div>k`ɔːrəspάndəns<br></div>やり取り、文通、一致、調和、対応	
+correspondence	<div>k`ɔːrəspάndəns<br></div>（名）やり取り、文通、一致、調和、対応	
 detergent	<div>dɪtˈɚːdʒənt<br></div>洗剤	
 prestigious	<div>prestídʒəs<br></div>権威のある、誉れ高い、一流の、社会的地位の高い	
 misplace	<div>mɪˈsples<br></div>紛失する、置き忘れる	
@@ -697,7 +697,7 @@ diminish	<div>dɪmínɪʃ<br></div>減少させる
 pharmaceutical	<div>[fὰɚməsúːṭɪk(ə)l]</div>医薬品の	
 take shelter	<div>ʃéltɚ<br></div>避難する	
 vacate	<div>[véɪkeɪt]</div>（動）明け渡す	
-relinquish	<div>rɪlíŋkwɪʃ<br></div>放棄する	
+relinquish	<div>rɪlíŋkwɪʃ<br></div>（動）放棄する、断念する、緩める	
 preside	<div>[prɪzάɪd]</div>統括する、議長を務める	
 detain	<div>dɪtéɪn<br></div>拘束する、引き留める	
 detention	<div>dɪténʃən<br></div>拘束	
@@ -789,7 +789,7 @@ presumably	<div>prizúːməbli<br></div>おそらく、思うには
 high-profile	人目を引く、知名度の高い	
 top-notch	<div>nάtʃ<br></div>一流の、最高の	
 stunning	<div>ˈstʌnɪŋ<br></div>びっくりするような、素晴らしい	
-irrevocable	<div>[ìrévəkəbl]</div>解約不能の、取り消しできない	
+irrevocable	<div>[ìrévəkəbl]</div>（形）解約不能の、取り消しできない、取り返しのつかない	
 allegiance	<div>[əlíːdʒəns]</div>忠誠（心）、忠実	
 opportunistic	"<div>ɑ:pɜ:ˌtu:ˈnɪstɪk<br></div>日和見主義の（<span style=""color: rgb(34, 34, 34);"">形勢をうかがって、どちらでも自分の都合のよい方につこうとする態度をとること</span>）"	
 at hand	目前に迫った、手近に	
@@ -830,7 +830,7 @@ epidemic	<div>[èpɪdémɪk]</div>伝染病、流行病、（病気や思想な�
 endemic	<div>endémɪk<br></div>（名）風土病<div>（形）（地域）固有の</div>	
 plague	<div>[pléɪg]</div>（名）疫病、天災、異常発生<div>（動）疫病にかからせる、悩ませる</div>	
 ordeal	[ɔɚdíːl]<div>苦難、試練</div>	
-plight	<div>plάɪt<br></div>苦境、苦しい状況	
+plight	<div>plάɪt<br></div>（名）苦境、苦しい状況<div>（動）固く約束する、婚約する</div>	
 adversity	<div>ædvˈɚːsəṭi<br></div>（名）逆境、不運、不幸	
 requisition	<div>[rèkwəzíʃən]</div>（名）申請（書）、要求（書）<div>（動）（事務用品などを）申請する</div>	
 perk	<div>pˈɚːk<br></div>特典、（給与以外の）手当、臨時収入	
@@ -1334,7 +1334,7 @@ villain	[vílən]<div>悪役</div>
 multiplex（名詞の意味は？）	<div>[mˈʌltəplèks]</div>（名）シネマコンプレックス（同一の施設に複数のスクリーンがある映画館）<div>（形）多様な、複合の</div>	
 matinee	[m`æṭənéɪ]<div>（名）昼の部</div>	
 soiree	<div>[swɑːréɪ]</div>（名）夜の部	
-epic	[épɪk]<div>長編映画、大作</div>	
+epic	[épɪk]<div>（名）長編映画、大作、叙事詩</div><div>（形）勇壮な</div>	
 backdrop	<div>ˈbæˌkdrɑp<br></div>（名）（劇場の）背景幕	
 playwright	<div>pˈleiràit<br></div>劇作家、脚本家	
 impresario	[ìmprəsάːriòʊ]<div>（歌劇などの）興行主</div>	
@@ -2508,3 +2508,103 @@ go through the roof	（価格などが）天井知らずに上がる
 hold oneself together	tʊgéðɚ<div>落ち着かせる、正気を保つ</div>	
 be on the right(wrong) track	正しい（間違った）方法で進んでいる	
 be free of 〜	〜を免除されている	
+locus	lóʊkəs<div>（名）軌跡</div>	
+touchstone	ˈtʌˌtʃston<div>（名）基準、試金石</div>	
+colossal	kəlάsl<div>（形）巨大な、驚くべき、途方もない</div>	
+lope	lóʊp<div>（動）飛び跳ねる、大股で歩く</div>	
+illicit	ì(l)lísɪt<div>（形）不法の、禁制の</div>	
+darkroom	ˈdɑˌrkrum<div>（名）（写真現像用の）暗室</div>	
+alchemy	ˈælkəmi<div>（名）錬金術</div>	
+oration	əréɪʃən<div>（名）演説、式辞</div>	
+inexplicable	ìneksplíkəbl<div>（形）不可解な、説明できない</div>	
+inflict	ɪnflíkt<div>（動）（損害を）与える、（傷を）負わせる</div>	
+unilateral	jùːnɪlˈæṭərəl<div>（形）一方的な、単独の</div>	
+insularity	ìns(j)ʊlˈærəṭi<div>（名）島（国）であること、島国根性、狭量</div>	
+cleavage	klíːvɪdʒ<div>（名）（受精卵の）卵割、裂けること</div>	
+cohesion	koʊhíːʒən<div>（名）粘着、結合</div>	
+wade	wéɪd<div>（動）歩いて渡る、苦労して進む</div>	
+inflammation	ìnfləméɪʃən<div>（名）炎症</div>	
+incongruous	ìnkάŋgruəs<div>（形）その場に合わない、矛盾する</div>	
+plywood	ˈplaɪˌwʊd<div>（名）合板、ベニヤ板</div>	
+gorge	gˈɔɚdʒ<div>（名）峡谷</div><div>（動）腹一杯に詰め込む</div>	
+snicker	sníkɚ<div>（動）忍び笑いする</div>	
+despot	déspət<div>（名）専制君主、暴君</div>	
+ragtime	rˈægtὰɪm<div>（名）ラグタイム</div><div>※音楽の一種でジャズの源流</div>	
+inexorable	ìnéks(ə)rəbl<div>（形）避けがたい、不変の、動じない</div>	
+aseptic	eɪséptɪk<div>（形）無菌の、腐敗菌が付いていない</div>	
+sundry	sˈʌndri<div>（形）雑多な、種々様々の</div>	
+pretext	príːtekst<div>（名）口実、弁解</div>	
+manifesto	m`ænəféstoʊ<div>（名）政策、宣言書</div>	
+chaste	tʃéɪst<div>（形）純潔な、貞節な、（考えなどが）慎み深い、上品な</div>	
+segmentation	sègməntéɪʃən<div>（名）（細胞の）卵割、分割、分裂</div>	
+censorious	sensˈɔːriəs<div>（形）批判的な、口やかましい、あら探しの好きな</div>	
+preconception	prìːkənsépʃən<div>（名）先入観、偏見</div>	
+buoyancy	bˈɔɪənsi<div>（名）浮力</div>	
+encompass	ɪnkˈʌmpəs<div>（動）含む、取り囲む</div>	
+abject	ˈæbdʒɛkt<div>（形）惨めな、軽蔑に値する</div>	
+personify	pɚsάnəfὰɪ<div>（動）体現する、人格化する</div>	
+complacent	kəmpléɪsnt<div>（形）自己満足の、悦に入った</div>	
+rustic	rˈʌstɪk<div>（形）素朴な、田舎の、田園の</div>	
+equitable	ékwəṭəbl<div>（形）公平な、公正な、正当な</div>	
+regale	rɪgéɪl<div>（動）喜ばせる、楽しませる</div>	
+debilitate	dɪbílətèɪt<div>（動）衰弱させる</div>	
+staunch	stˈɔːntʃ<div>（形）がっしりした、丈夫な</div>	
+laconic	ləkάnɪk<div>（形）簡潔な、簡明な</div>	
+intractable	ìntrˈæktəbl<div>（形）手に負えない、強情な</div>	
+furtively	ˈfɜːtɪvli<div>（副）こっそりと、ひそかに</div>	
+loom	lúːm<div>（動）そびえる、（織機で）織る</div><div>（名）織機</div>	
+impartial	ìmpάɚʃəl<div>（形）公平な、えこひいきのない</div>	
+debase	dɪbéɪs<div>（動）（評判などを）落とす、低下させる</div>	
+portent	pˈɔɚtent<div>（名）兆候、前兆、先触れ</div>	
+grapple	grˈæpl<div>（動）取り組む、引っ掛ける、つかみ合う</div>	
+undulating	ˈʌndʒʌˌletɪŋ<div>（形）緩やかに起伏する</div>	
+responsiveness	rɪˈspɒnsɪvnɪs<div>（名）共鳴しやすいこと、敏感さ</div>	
+binocular	bὰɪnάkjəlɚ<div>（名）（〜s）双眼鏡</div>	
+mollusk	ˈmɑlʌsk<div>（名）（貝類やイカ・タコなどの）軟体動物</div>	
+recurrent	rɪkˈɚːrənt<div>（形）頻発する、再発する、繰り返し起こる</div>	
+tonsil	tάnsl<div>（名）扁桃腺</div>	
+etymology	èṭəmάlədʒi<div>（名）語源、語の由来、語源学</div>	
+expedient	ekspíːdiənt<div>（形）役立つ、都合の良い、利己的な</div>	
+saline	séɪliːn<div>（形）塩分を含んだ、塩辛い</div>	
+trajectory	trədʒéktəri<div>（名）軌道、弾道</div>	
+conciliation	kənsìliéɪʃən<div>（名）慰め、調停</div>	
+guise	gάɪz<div>（名）外観、見せかけ</div>	
+purport	pˈɚːpɔɚt<div>（名）趣旨、要旨、意味</div>	
+punitive	pjúːnəṭɪv<div>（形）過酷な、罰の</div>	
+distract	dɪstrˈækt<div>（動）散らす、そらす、気持ちを紛らす</div>	
+guile	gάɪl<div>（名）狡猾、ずるさ</div>	
+squarely	ˈskwɛɹ.li<div>（副）はっきりと、公平に、まともに</div>	
+pendulum	péndʒʊləm<div>（名）振り子</div>	
+acumen	əkjúːmən<div>（名）鋭さ、洞察力</div>	
+roam	róʊm<div>（動）歩き回る</div>	
+cellulose	séljʊlòʊs<div>（名）セルロース（繊維素）</div>	
+poise	pˈɔɪz<div>（名）釣り合い、落ち着き、姿勢</div><div>（動）釣り合いを保つ</div>	
+plod	plάd<div>（動）コツコツ働く、とぼとぼ歩く</div>	
+concentric	kənséntrɪk<div>（形）同心の、中心が同じの</div>	
+destitute	déstət(j)ùːt<div>（形）困窮した、欠いている</div>	
+cryptic	kríptɪk<div>（形）秘密の、隠された、謎めいた</div>	
+accomplice	əkάmplɪs<div>（名）共犯者</div>	
+propensity	prəpénsəṭi<div>（名）傾向、性向</div>	
+jurisprudence	dʒ`ʊ(ə)rɪsprúːdns<div>（名）法学、法律学</div>	
+perseverance	p`ɚːsəví(ə)rəns<div>（名）忍耐、根気、不屈の努力</div>	
+sedentary	sédntèri<div>（形）固着性の、定住性の、座っている</div>	
+digression	dɑɪgréʃən<div>（名）（主題から）脱線すること</div>	
+askew	əskjúː<div>（副）斜めに、ゆがんで</div><div>（形）斜めの、ゆがんだ</div>	
+harass	hərˈæs<div>（動）悩ませる、苦しめる</div>	
+ramification	r`æməfɪkéɪʃən<div>（名）（物事の）結果、成り行き、枝分かれ、分岐</div>	
+reproach	rɪpróʊtʃ<div>（動）とがめる、責める、しかる</div><div>（名）（穏やかな）叱責、非難</div>	
+preamble	príː`æmbl<div>（名）序文、前置き</div>	
+degenerate	dɪdʒénərèɪt<div>（動）衰える、堕落する、悪化する</div>	
+unaided eye	`ʌnéɪdɪd<div>（名）肉眼、裸眼</div>	
+regime	reʒíːm<div>（名）政治体制、政府、政権</div>	
+astral	ˈæstrəl<div>（形）星の、星形の、星についての</div>	
+lichen	lάɪk(ə)n<div>（名）（岩などに付く）コケ、（植物の）地衣類</div>	
+stammer	stˈæmɚ<div>（動）口ごもる</div><div>（名）口ごもり、どもること</div>	
+transcribe	trænskrάɪb<div>（動）書き写す、複写する</div>	
+incessant	ɪnsésnt<div>（形）絶え間ない、ひっきりなしの</div>	
+moat	móʊt<div>（名）堀</div>	
+checkered	ˈtʃɛkɝd<div>（形）波乱万丈の、変化に富んだ</div>	
+animosity	`ænəmάsəṭi<div>（名）憎しみの、敵意</div>	
+innocuous	ɪnάkjuəs<div>（形）無害の</div>	
+exonerate	ɪgzάnərèɪt<div>（動）免除する、開放する</div>	
+climactic	klɑɪmˈæktɪk<div>（形）最高潮の、クライマックスの</div>	
