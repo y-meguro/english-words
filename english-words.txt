@@ -960,7 +960,7 @@ mold	<div>móʊld<br></div>鋳型、金型
 replenishment	[rɪplénɪʃmənt]<div>補充（品）</div>	
 billboard	<div>[ˈbɪˌlbɔrd]</div>ビルボード、広告用掲示板	
 freebie	[ˈfribi]<div>試供品、無料の景品</div>	
-word of mouth	口コミ	
+through(by) word of mouth	口コミで	
 down market	大衆層市場<div>※up marketが高所得層市場</div>	
 saturation	<div>s`ætʃʊréɪʃən<br></div>飽和（状態）	
 demographic	[dèməgrˈæfɪk]<div>人口統計の</div>	
@@ -2652,3 +2652,49 @@ Need a hand?	手伝いましょうか？
 hit it off well	気が合う、仲良くやる	
 You can't be serious!	冗談でしょう！	
 follow suit	先例に習う、人のまねをする	
+in proportion to 〜	<div>prəpˈɔɚʃən<br></div>〜に比例して	
+be true to 〜	〜に忠実である	
+at times	時折	
+be cut out for 〜	（通例否定文・疑問文で）〜に向いている	
+go without 〜	〜なしで済ます	
+be amazed at 〜	ʌˈmezd<div>〜に驚いている</div>	
+on the whole	全体的に見て	
+cry out for 〜	（通例進行形で）〜を大いに必要とする	
+by no means	決して〜でない	
+put forth 〜	（芽・葉などを）出す、（計画・案を）提言する	
+come up	取り上げられる、話題に上る	
+upside down	逆さまに、ひっくり返って、めちゃくちゃに	
+to the point	的を射た、適切な	
+make arrangements for 〜	〜の準備をする	
+ask a favor of 〜	〜にお願いをする	
+be confident of 〜	〜を確信している	
+in a nutshell	簡潔に言えば、手短に言えば	
+no less than 〜	（数・量の大きさを強調して）〜もの	
+beside(off) the point	要点を外れた、的外れの	
+in person	自ら、本人が	
+for keeps	いつまでも、永久に	
+for good	永久に、これを最後に	
+on the tip of one's tongue	<div>tˈʌŋ<br></div>のどまで出かかっていて（思い出せない）	
+take charge of 〜	〜を管理する、〜を世話する	
+a man of his word	約束を守る人	
+at work	仕事をして、作用して	
+something of 〜	ちょっとした〜	
+for one's age	年の割に	
+make(pull) a long face	がっかりした顔をする	
+bear 〜 in mind	〜を心に留める	
+by degrees	徐々に、だんだん	
+in private	内密に	
+in vain	無駄に（終わる）	
+bring out 〜	〜を引き出す	
+on and off	時折、断続的に	
+put out 〜	（電灯などを）消す、〜を生産する	
+give 〜 a hand	〜に手を貸す、〜の手助けをする	
+care to do	〜したい気がする	
+think twice	慎重に考える、熟慮する	
+have a good talk	楽しく話す	
+give as good as one gets	（相手に）負けずにやり返す	
+have a point	一理ある	
+be up to one's ears in 〜	〜で忙しい、〜で身動き取れない	
+look(feel) blue	憂鬱そうに見える（憂鬱である）	
+snap out of 〜	〜から気持ちを切り替える、〜から立ち直る	
+off the mark	的を外れて	
