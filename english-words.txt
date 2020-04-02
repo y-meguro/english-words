@@ -255,7 +255,7 @@ vocational	<div>voʊkéɪʃ(ə)nəl<br></div>職業の
 vogue	<div>vóʊg<br></div>（通例 a〜）流行	
 expenditure	<div>ɪkspéndɪtʃɚ<br></div>（名）支出、（〜s）経費、費用	
 digestive	<div>dɑɪdʒéstɪv<br></div>消化の、消化を助ける	
-minute 発音は[mɑɪnjúːt]	詳細な、微細な	
+minute 発音は[mɑɪnjúːt]	（形）詳細な、微細な	
 convex	<div>kὰnvéks<br></div>（名）凸面<div>（形）凸状の</div>	
 clam	<div>klˈæm<br></div>（ハマグリなどの）二枚貝	
 pact	<div>pˈækt<br></div>条約	
@@ -451,7 +451,7 @@ panel（パネル以外）	<div>pˈænl<br></div>グループ、パネル
 strive	<div>strάɪv<br></div>懸命に努力する、戦う	
 checkout（チェックアウト以外）	<div>tˈʃekàut<br></div>レジ、チェックアウト	
 preliminary	<div>prɪlímənèri<br></div>仮の、暫定の、本番前の	
-steadily	<div>stédəli<br></div>着実に	
+steadily	<div>stédəli<br></div>（副）着実に、規則的に	
 controversial	<div>kὰntrəvˈɚːʃəl<br></div>（形）議論を引き起こす、議論の的になる	
 understaffed	<div>ˈʌndɝˌstæft<br></div>人手不足の	
 legislation	<div>lèdʒɪsléɪʃən<br></div>法律、法制化	
@@ -2912,3 +2912,35 @@ extrude	ekstrúːd<div>（動）押し出す、（型から押し出して）成
 euphemism	júːfəmìzm<div>（名）婉曲な表現</div>	
 compound eye	kɑmpάʊnd<div>（名）（昆虫の）複眼</div>	
 comatose	kóʊmətòʊs<div>（形）昏睡状態の、無気力な</div>	
+demise	dɪmάɪz<div>（名）消滅</div>	
+erect	ɪrékt<div>（形）直立の</div>	
+nobility	noʊbíləṭi<div>（名）気高さ</div>	
+disoriented	dɪˈsɔriˌɛntɪd<div>（形）道に迷って</div>	
+stately	stéɪtli<div>（形）威厳のある、堂々とした</div>	
+jurist	dʒˈʊ(ə)rɪst<div>（名）弁護士、法学者</div>	
+sect	sékt<div>（名）（宗教などの）一派、宗派</div>	
+defy	dɪfάɪ<div>（動）挑戦する、ものともしない、無視する</div>	
+inordinate	ɪnˈɔɚd(ə)nət<div>（形）過度の</div>	
+disparity	dɪspˈærəṭi<div>（名）相違、不同、不釣り合い</div>	
+itinerant	ɑɪtín(ə)rənt<div>（形）巡回する、遍歴の</div><div>（名）遍歴者</div>	
+deform	dɪfˈɔɚm<div>（動）台無しにする、（〜の）形を悪くする</div>	
+dispensary	dɪspéns(ə)ri<div>（名）診療所</div>	
+expend	ekspénd<div>（動）使い果たす、費やす、消費する</div>	
+suspend（「延期する」「一時停止する」以外の動詞）	<div>səspénd<br></div>（動）つるす、延期する、一時停止する	
+vehement	víːəmənt<div>（形）熱狂的な、激烈な</div>	
+agreeable	əgríːəbl<div>（形）快適な、快い、賛成して</div>	
+gracious	gréɪʃəs<div>（形）丁重な、親切な、慈悲深い</div>	
+adherent	ædhí(ə)rənt<div>（名）支持者</div><div>（形）粘着性の</div>	
+modulate	mάdʒʊlèɪt<div>（動）調整する</div>	
+despicable	déspɪkəbl<div>（形）いやしむべき、卑劣な</div>	
+genial	dʒíːnjəl<div>（形）愛想の良い、温和な</div>	
+germinate	dʒˈɚːmənèɪt<div>（動）芽を出す</div>	
+ingenuous	ɪndʒénjuəs<div>（形）率直な、無邪気な</div>	
+malign（動詞の意味は？）	məlάɪn<div>（動）中傷する</div><div>（形）有害な、悪意のある</div>	
+conjecture	kəndʒéktʃɚ<div>（名）推測、推量</div>	
+surmise	sɚmάɪz<div>（動）推量する、推測する</div><div>（名）推量、推測<br></div>	
+dejected	dɪˈdʒɛktɪd<div>（形）気落ちした、落胆した</div>	
+diminutive	dɪmínjʊṭɪv<div>（形）小さい、ちっぽけな</div>	
+illuminate（「照らす」「イルミネーションを施す」以外の動詞）	əlúːmənèɪt<div>（動）啓蒙する、照らす、イルミネーションを施す</div>	
+pressing	<div>ˈprɛsɪŋ<br></div>（形）緊急の	
+repress	rɪprés<div>（動）抑制する</div>	
