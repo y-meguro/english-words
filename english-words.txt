@@ -331,7 +331,7 @@ lessen	<div>lésn<br></div>減らす、小さくする
 prescribe	<div>prɪskrάɪb<br></div>（動）処方する、（…の）処方を書く、（…を）（規則・方針として）定める、規定する	
 perch	<div>pˈɚːtʃ<br></div>（名）（鳥かごなどの）止まり木<div>（動）（鳥が）止まる</div>	
 chore	<div>tʃˈɔɚ<br></div>日常の雑用	
-swell	<div>swél<br></div>（打撲・病気などで）腫れる	
+swell	<div>swél<br></div>（動）（打撲・病気などで）腫れる、膨張する、増大する	
 sprain	<div>spréɪn<br></div>捻挫（ねんざ）する<br>	
 reign	<div>réɪn<br></div>統治する	
 anguish	<div>ˈæŋɡwɪʃ<br></div>（名）苦痛、悲しみ	
@@ -2685,7 +2685,7 @@ bear 〜 in mind	〜を心に留める
 by degrees	徐々に、だんだん	
 in private	内密に	
 in vain	無駄に（終わる）	
-bring out 〜	〜を引き出す	
+bring out 〜	〜を引き出す、〜を出版する<div><br></div><div>Efforts will bring out your potential.</div><div>努力は潜在能力を引き出す。</div>	
 on and off	時折、断続的に	
 put out 〜	（電灯などを）消す、〜を生産する	
 give 〜 a hand	〜に手を貸す、〜の手助けをする	
@@ -3306,3 +3306,41 @@ hemorrhage	hém(ə)rɪdʒ<div>（名）（多量）出血</div>
 caucus	kˈɔːkəs<div>（名）（米国大統領候補者などを決定する）党員集会、（政党の）幹部会</div>	
 dehydration	dìːhɑɪdréɪʃən<div>（名）脱水（症状）</div>	
 ostentation	ὰstəntéɪʃən<div>（名）見せびらかすこと、誇示</div>	
+infinitesimal	ɪnfìnətésəm<div>（形）微小の</div>	
+deed	díːd<div>（名）行為</div>	
+nimble	nímbl<div>（形）すばやい、理解の早い</div>	
+commotion	kəmóʊʃən<div>（名）動揺、騒動</div>	
+ado	ədúː<div>（名）騒ぎ、骨折り</div>	
+tumult	t(j)úːmʌlt<div>（名）騒ぎ、騒動、暴動</div>	
+portray	pɔɚtréɪ<div>（動）描く</div>	
+devour	dɪvάʊɚ<div>（動）むさぼり食う、滅ぼす</div>	
+stingy	stíndʒi<div>（形）けちな、みみっちい</div>	
+deceitful	dɪsíːtf(ə)l<div>（形）詐欺の、偽りの</div>	
+underhanded	`ʌndɚhˈændɪd<div>（形）秘密の、こそこそした、人手不足の</div>	
+deceptive	dɪséptɪv<div>（形）人を欺くような</div>	
+delusive	dɪlúːsɪv<div>（形）人を惑わせる</div>	
+imperceptible	ìmpɚséptəbl<div>（形）気づかれないほどの、微細な</div>	
+vouch for	<div>vάʊtʃ<br></div>保証する、請け合う、引き受ける	
+detest	dɪtést<div>（動）ひどく嫌う</div>	
+detestable	dɪtéstəbl<div>（形）大嫌いな、嫌でたまらない</div>	
+abominable	əbάm(ə)nəbl<div>（形）忌まわしい、実に嫌な、不快な</div>	
+plea	plíː<div>（名）嘆願、請願</div>	
+conspire	kənspάɪɚ<div>（動）陰謀を企てる、共謀する</div>	
+assuredly	əʃˈʊ(ə)rɪdli<div>（副）自信をもって、確かに</div>	
+cutback	cút・bàck（発音記号なかったので音節だけ）<div>（名）減少、削減</div>	
+seduce	sɪd(j)úːs<div>（動）性的に誘惑する、誘い込む、怠らせる</div>	
+inept	ìnépt<div>（形）不適当な、適正がなくて、下手で</div>	
+inevitable	ɪnévəṭəbl<div>（形）避けられない、必然的な</div>	
+contiguous	kəntígjuəs<div>（形）接触する、隣接する</div>	
+tactful	tˈæktf(ə)l<div>（形）機転のきく、如才ない</div>	
+diplomatic（「外交の」以外の形容詞）	dìpləmˈæṭɪk<div>（形）如才ない、外交の、外交官の</div>	
+volition	voʊlíʃən<div>（名）意志、意欲、決意</div>	
+provident	prάvədnt<div>（形）用心深い、将来を配慮した、倹約な</div>	
+dispose	dɪspóʊz<div>（動）配列する、配置する、気にさせる</div>	
+disposition	dìspəzíʃən<div>（名）性質、気質、傾向、配置、配列</div>	
+impervious to	<div>ìmpˈɚːviəs<br></div>影響されないで、無感覚で、鈍感で	
+intrinsic	ìntrínsɪk<div>（形）固有の、本来備わっている</div>	
+utilitarian	juːtìləté(ə)riən<div>（形）功利的な、実利の</div>	
+enrage	enréɪdʒ<div>（動）ひどく怒らす、激怒させる</div>	
+flush	flˈʌʃ<div>（動）（顔・ほおが）ぱっと赤らむ</div>	
+glow	glóʊ<div>（名）白熱、（ほおの）赤らみ、（身体の）ほてり</div><div>（動）白熱する、真っ赤になる、赤くほてる</div>	
