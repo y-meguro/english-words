@@ -175,7 +175,7 @@ statute	<div>stˈætʃuːt<br></div>法令
 dictator	<div>díkteɪṭɚ<br></div>独裁者	
 cactus	<div>kˈæktəs<br></div>サボテン	
 abduction	<div>æbdˈʌkʃən<br></div>（名）誘拐	
-arrogant	<div>[ˈærəg(ə)nt]</div>傲慢な	
+arrogant	<div>[ˈærəg(ə)nt]</div>（形）傲慢な	
 primordial	<div>prɑɪmˈɔɚdiəl<br></div>原始の、最初の、本源的な	
 strait	<div>stréɪt<br></div>（しばしば〜sで単数扱い）海峡	
 optical	<div>άptɪk(ə)l<br></div>視覚の、光学の	
@@ -225,7 +225,7 @@ casualty	<div>kˈæʒuəlti<br></div>災害、死傷者、損害
 humble	<div>hˈʌmbl<br></div>謙虚な、つつましい、惨めな	
 thaw	<div>θˈɔː<br></div>（動）解ける、和らぐ、解かす、暖める<div>（名）雪解け</div>	
 excursion	<div>ɪkskˈɚːʒən<br></div>遠足	
-ingenuity	創意、器用さ<div>ìndʒən(j)úːəṭi<br></div>	
+ingenuity	<div>ìndʒən(j)úːəṭi<br></div>（名）創意、器用さ	
 brood	<div>[brúːd]</div>（動）（鳥が）卵を抱く<div>（名）一腹の子（ヒナ）</div><div>（形）繁殖用の</div>	
 airborne	<div>ˈɛˌrbɔrn<br></div>（形）浮遊して、（花粉や種などが）風媒の、空輸の	
 specimen	<div>spésəmən<br></div>標本	
@@ -679,7 +679,7 @@ abolish	<div>[əbάlɪʃ]</div>（動）廃止する、根絶する
 confiscate	<div>[kάnfɪskèɪt]</div>（動）押収する、没収する	
 appropriate（動詞の意味は？）	<div>əpróʊprièɪt<br></div>（動）着服する、私物化する<div>（形）適当な</div>	
 take effect	発効する	
-flatter	<div>flˈæṭɚ<br></div>お世辞を言う、おだてる	
+flatter	<div>flˈæṭɚ<br></div>（動）お世辞を言う、おだてる	
 raze	<div>réɪz<br></div>取り壊す、破壊する	
 dismantle	<div>dìsmˈænṭl<br></div>分解する、解体する	
 retrieve	<div>rɪtríːv<br></div>回収する、（情報などを）検索する	
@@ -818,7 +818,7 @@ contingency	<div>kəntíndʒənsi<br></div>不慮の出来事、偶発事象
 craving	<div>ˈkrevɪŋ<br></div>渇望、欲求	
 savor	<div>séɪvɚ<br></div>（名）風味、におい、楽しみ<div>（動）賞味する</div>	
 aptitude	<div>ˈæptət(j)ùːd<br></div>（名）才能、素質、適性	
-prodigy	<div>[prάdədʒi]</div>神童、天才	
+prodigy	<div>[prάdədʒi]</div>（名）神童、天才	
 environs	<div>ɪnvάɪ(ə)rənz<br></div>近郊、郊外、周囲	
 nuisance	[n(j)úːsns]<div>迷惑な人、もの</div>	
 preoccupation	<div>prìːὰkjʊpéɪʃən<br></div>夢中、関心事、先入観	
@@ -999,7 +999,7 @@ stranded	<div>ˈstrændɪd<br></div>立ち往生して、取り残されて
 sleek	<div>slíːk<br></div>流線型の、なめらかな	
 bumpy ride	<div>bˈʌmpi<br></div>ひどい揺れ	
 slash	<div>slˈæʃ<br></div>（動）大幅に削減する	
-fleet	flíːt&nbsp;<div>（同一会社の）保有航空機</div>	
+fleet	flíːt&nbsp;<div>（名）（同一会社の）保有航空機</div>	
 back out of	〜から手を引く、〜を取り消す	
 lead time	<div>líːd<br></div>リードタイム（発注から配送までの時間のこと）	
 depot	[díːpoʊ]<div>倉庫、補給所、バス車庫</div>	
@@ -1225,7 +1225,7 @@ precipitation	[prɪsìpətéɪʃən]<div>降水（量）</div>
 downpour	<div>[ˈdaʊnpɔr]</div>豪雨	
 downfall	<div>ˈdaʊˌnfɔl<br></div>（大量の）雨・雪	
 torrential	[tɔːrénʃəl]<div>激しい、猛烈な</div>	
-sleet	<div>slíːt<br></div>凍雨	
+sleet	<div>slíːt<br></div>（名）凍雨	
 muggy	<div>[mˈʌgi]</div>（形）蒸し暑い	
 gust	<div>gˈʌst<br></div>（名）突風<div>（自）突風が吹く</div>	
 low pressure	<div>préʃɚ<br></div>低気圧	
@@ -1458,7 +1458,7 @@ crane（クレーン以外の名詞）	<div>kréɪn<br></div>（鳥の）鶴、�
 inflame	[ɪnfléɪm]<div>（動）（情熱などを）かき立てる、燃え上がらせる</div>	
 meager	<div>[míːgɚ]</div>（形）乏しい、貧弱な、痩せた	
 tripe	[trάɪp]<div>（名）くだらないもの</div>	
-prawn	[prˈɔːn]<div>クルマエビ</div>	
+prawn	[prˈɔːn]<div>（名）クルマエビ</div>	
 offset（オフセット以外）	[ˈɔːfsèt]<div>（動）相殺する</div><div>（名）相殺するもの</div>	
 tan	<div>tˈæn<br></div>（名）日焼けした色<div>（形）日焼けした<br><div>（動）日焼けさせる</div></div>	
 hardy（頑丈な以外の形容詞）	<div>hάɚdi<br></div>（形）（動植物が）耐寒性の、頑丈な、勇敢な	
@@ -3274,3 +3274,35 @@ pragmatist	prǽgməṭɪst<br><div>（名）実用主義者</div>
 acclimate	ˈækləmèɪt<div>（動）慣れる、慣らす、適応する</div>	
 untangle	`ʌntˈæŋgl<div>（動）解決する、ほどく</div>	
 denominator	dɪnάmənèɪṭɚ<div>（名）（分数の）分母</div>	
+daunt	dˈɔːnt<div>（動）威圧する、（気力を）くじく、ひるむ</div>	
+sidereal	sɑɪdí(ə)riəl<div>（形）恒星の、星の、星座の</div>	
+bicker	bíkɚ<div>（動）口論する</div>	
+homestead	ˈhoˌmstɛd<div>（名）自営農場、家屋敷</div>	
+torrent	tˈɔːrənt<div>（名）急流、（〜s）土砂降り</div>	
+vilify	víləfὰɪ<div>（動）けなす、中傷する</div>	
+extemporaneous	ekstèmpəréɪniəs<div>（形）（演説・演技などが）即興の、即席の</div>	
+adjunct	ˈædʒʌŋ(k)t<div>（名）付属物、助手、補助員、（文法の）修飾語句</div><div>（形）付属の、補助の</div>	
+generic	dʒənérɪk<div>（形）一般的な、後発の、総称的な</div>	
+income distribution	dìstrəbjúːʃən<div>（名）所得配分</div>	
+ration	rˈæʃən<div>（名）支給、配給</div><div>（動）配給する</div>	
+culpable	kˈʌlpəbl<div>（形）とがめられるべき</div>	
+stagger	stˈægɚ<div>（動）よろめく、よろめかせる、ためらう</div>	
+excrete	ekskríːt<div>（動）排泄する</div><div><br></div>	
+bombastic	bɑmbˈæstɪk<div>（形）大げさな、大言壮語の</div>	
+ibis	άɪbɪs<div>（名）（鳥の）トキ</div>	
+clockwise	ˈklɒkwaɪz<div>（形・副）時計周りの（に）</div>	
+inter	ɪntˈɚː<div>（動）（通例受身形で）埋葬される、埋める</div>	
+tact	tˈækt<div>（名）機転、如才なさ</div>	
+exorcise	éksɔɚsὰɪz<div>（動）追い払う、はらい清める</div>	
+rumination	rùːmənéɪʃən<div>（名）（ウシなどの）反芻、沈思黙考</div>	
+circumlocution	s`ɚːkəmloʊkjúːʃoʊn<div>（名）回りくどい話し方、婉曲的な表現</div>	
+subside	səbsάɪd<div>（動）（風などが）和らぐ、（土地などが）低下する</div>	
+antibody	ˈænṭɪbὰdi<div>（名）（通例 -bodies）（病原菌に対する）抗体</div>	
+amass	əmˈæs<div>（動）集める、積む、蓄える</div>	
+narcotic	nɑɚkάṭɪk<div>（名）（しばしば 〜s）麻酔薬、麻薬<br>（形）麻酔の、催眠性の</div>	
+hail	héɪl<div>（名）ひょう、あられ</div><div>（動）歓迎する、大声で呼びかける</div>	
+centrist	séntrist<div>（名）中道主義者、中道派議員</div>	
+hemorrhage	hém(ə)rɪdʒ<div>（名）（多量）出血</div>	
+caucus	kˈɔːkəs<div>（名）（米国大統領候補者などを決定する）党員集会、（政党の）幹部会</div>	
+dehydration	dìːhɑɪdréɪʃən<div>（名）脱水（症状）</div>	
+ostentation	ὰstəntéɪʃən<div>（名）見せびらかすこと、誇示</div>	
