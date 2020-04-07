@@ -66,7 +66,7 @@ enact	<div>ɪnˈækt<br></div>立法化する
 herd	<div>hˈɚːd<br></div>（牛や豚などの）群れ	
 nerve	<div>nˈɚːv<br></div>神経	
 gross	<div>gróʊs<br></div>総計	
-deficient	<div>dɪfíʃənt<br></div>不足した、不十分な	
+deficient	<div>dɪfíʃənt<br></div>（形）不足した、不十分な	
 utensil	<div>juːténsl<br></div>家庭用品、調理器具	
 red tape	お役所仕事、形式主義、非効率	
 fission	<div>fíʃən<br></div>（核）分裂	
@@ -1530,7 +1530,7 @@ discerning	[dɪˈsɜːn.iŋ]<div>（形）明敏な、洞察力のある</div>
 masonry	[méɪsnri]<div>（名）石造物、石工術</div>	
 jolt	[dʒóʊlt]<div>（動）（急激に）揺さぶる</div><div>（名）（精神的な）衝撃</div>	
 mole	<div>[móʊl]</div>（名）モグラ、ほくろ、防波堤	
-discourse	[dískɔɚs]<div>（名）論文</div>	
+discourse	[dískɔɚs]<div>（名）論文、談話</div>	
 prose	[próʊz]<div>（名）散文</div>	
 brand（動詞の意味は？）	[brˈænd]<div>（動）烙印を押す</div><div>（名）ブランド、（商品・家畜などに押す）焼き印</div>	
 appraise	[əpréɪz]<div>（動）鑑定する、評価する、判断する</div>	
@@ -1664,7 +1664,7 @@ submissive	[səbmísɪv]<div>（形）従順な</div>
 outright	"<div>[ὰʊtrάɪt]<br></div><div>（副）率直に、完全に</div><div><br></div>[<span style=""color: rgb(34, 34, 34);"">áutràit</span>]<div>（形）率直な、全くの</div>"	
 superb	[sʊpˈɚːb]<div>（形）素晴らしい</div>	
 frugal	[frúːg(ə)l]<div>（形）質素な、倹約する</div>	
-dubious	[d(j)úːbiəs]<div>（形）いかがわしい、怪しげな</div>	
+dubious	[d(j)úːbiəs]<div>（形）いかがわしい、怪しげな、疑っている</div>	
 cardinal	[kάɚd(ə)nl]<div>（形）主要な、基本的な</div>	
 tacit	[tˈæsɪt]<div>（形）無言の</div>	
 mucous membrane	[mjúːkəs mémbreɪn]<div>（名）（the 〜）（鼻などの）粘膜<br><div>※mucousが「粘膜を分泌する」、membraneが「膜」</div></div>	
@@ -1898,7 +1898,7 @@ tuberculosis	[t(j)ʊb`ɚːkjʊlóʊsɪs]<div>（名）結核</div>
 incisive	[ìnsάɪsɪv]<div>（形）明敏な、鋭い</div>	
 nautical	[nˈɔːṭɪk(ə)l]<div>（形）航海の、船員の</div>	
 improbable	[ìmprάbəbl]<div>（形）ありそうもない、信じがたい</div>	
-decay	[dɪkéɪ]<div>（動）（徐々に）荒廃する、衰える、減衰する</div>	
+decay	[dɪkéɪ]<div>（動）（徐々に）荒廃する、衰える、減衰する、腐る</div>	
 nectar	[néktɚ]<div>（名）（植物の）蜜</div>	
 ascendancy	[əséndənsi]<div>（名）優位、支配</div>	
 gargle	[gάɚgl]<div>（動）うがいする</div>	
@@ -3307,7 +3307,7 @@ caucus	kˈɔːkəs<div>（名）（米国大統領候補者などを決定する
 dehydration	dìːhɑɪdréɪʃən<div>（名）脱水（症状）</div>	
 ostentation	ὰstəntéɪʃən<div>（名）見せびらかすこと、誇示</div>	
 infinitesimal	ɪnfìnətésəm<div>（形）微小の</div>	
-deed	díːd<div>（名）行為</div>	
+deed	díːd<div>（名）行為、功業</div>	
 nimble	nímbl<div>（形）すばやい、理解の早い</div>	
 commotion	kəmóʊʃən<div>（名）動揺、騒動</div>	
 ado	ədúː<div>（名）騒ぎ、骨折り</div>	
@@ -3344,3 +3344,41 @@ utilitarian	juːtìləté(ə)riən<div>（形）功利的な、実利の</div>
 enrage	enréɪdʒ<div>（動）ひどく怒らす、激怒させる</div>	
 flush	flˈʌʃ<div>（動）（顔・ほおが）ぱっと赤らむ</div>	
 glow	glóʊ<div>（名）白熱、（ほおの）赤らみ、（身体の）ほてり</div><div>（動）白熱する、真っ赤になる、赤くほてる</div>	
+vanity	vˈænəṭi<div>（名）虚栄心、うぬぼれ、むなしさ</div>	
+conceit	kənsíːt<div>（名）自負心、うぬぼれ、（詩文などの）奇抜な着想</div>	
+divine	dɪvάɪn<div>（形）神の、神聖な、すばらしい</div>	
+dissuade	dɪswéɪd<div>（動）思いとどまらせる、思い切らせる</div>	
+hindrance	híndrəns<div>（名）妨害、障害、妨害物</div>	
+unanimity	jùːnəníməṭi<div>（名）（満場）一致、全員異議のないこと</div>	
+twaddle	twάdl<div>（名）無駄口、駄作</div><div>（動）無駄口をきく、くらだらないことを書く</div>	
+absurdity	əbsˈɚːdəṭi<div>（名）不条理、道理に反すること、ばかげたこと</div>	
+overrule	ˈovɝˌrul<div>（動）（権力で）覆す、却下する、無効にする</div>	
+cult	kˈʌlt<div>（名）祭儀、崇拝、信仰</div>	
+docile	dάsl<div>（形）素直な、従順な</div>	
+majesty	mˈædʒəsti<div>（名）威厳、荘厳、主権</div>	
+ridicule	rídɪkjùːl<div>（動）あざ笑う、ひやかす</div>	
+facile	fˈæsl<div>（形）たやすく得られる、安易過ぎる、深みのない</div>	
+tenacious	tənéɪʃəs<div>（形）頑固な、しっかり握って離さない、固執して</div>	
+headstrong	ˈhɛˌdstrɔŋ<div>（形）頑固な、わがままな</div>	
+disorient	dìsˈɔːriènt<div>（動）方角をわからなくさせる、混乱させる</div>	
+confound	kənfάʊnd<div>（動）困惑させる、まごつかせる、混同する</div>	
+deflect	dɪflékt<div>（動）逸らせる、かたよらせる</div>	
+arouse（「起こす」以外の動詞）	ərάʊz<div>（動）駆り立てる、起こす、目を覚まさせる</div>	
+recital	rɪsάɪṭl<div>（名）演奏会、リサイタル</div>	
+solicitous	səlísəṭəs<div>（形）案じる、気づかって、心配して</div>	
+superintendent	sùːp(ə)rɪnténdənt<div>（名）管理者、監督者</div>	
+taut	tˈɔːt<div>（形）ぴんと張られた、緊張した</div>	
+misbehaving	ˌmɪsbʌˈhevɪŋ<div>（形）不作法に振る舞う</div>	
+unerring	`ʌnˈɚːrɪŋ<div>（形）誤らない、的確な</div>	
+imprecise	ìmprɪsάɪs<div>（形）不正確な</div>	
+sorrow	sάroʊ<div>（名）悲しみ</div>	
+panacea	p`ænəsíːə<div>（名）万能薬</div>	
+magnanimous	mægnˈænəməs<div>（形）度量の大きい</div>	
+cloister	klˈɔɪstɚ<div>（動）引きこもる</div><div>（名）回廊、修道院、隠遁生活</div>	
+astounding	ʌˈstaʊndɪŋ<div>（形）仰天させるような、どえらい</div>	
+insinuation	ɪnsìnjuéɪʃən<div>（名）ほのめかし、ほのめかすこと</div>	
+cadence	kéɪdns<div>（名）韻律、リズム、抑揚</div>	
+estrange	estréɪndʒ<div>（動）引き離す、疎遠にする</div>	
+domineering	dɑməní(ə)rɪŋ<div>（形）横柄な、傲慢な</div>	
+credulous	krédʒʊləs<div>（形）軽々しく信じがちな、信じやすくて</div>	
+gullible	gˈʌləbl<div>（形）だまされやすい</div>	
