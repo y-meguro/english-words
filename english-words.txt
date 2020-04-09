@@ -424,7 +424,7 @@ pottery	<div>pάṭəri</div>陶器、瀬戸物
 unattended	<div>`ʌnəténdɪd<br></div>（担当の）人がいない	
 awning	<div>ˈɔːnɪŋ<br></div>（名）日除け	
 patio	<div>pˈæṭiòʊ<br></div>テラス	
-crate	<div>kréɪt<br></div>（輸送用の）木箱、ケース	
+crate	<div>kréɪt<br></div>（名）（輸送用の）木箱、ケース<div>（動）木枠に詰める</div>	
 station（動詞の意味は？）	<div>stéɪʃən<br></div>（動）配置する<div>（名）駅</div>	
 window pane	<div>péɪn<br></div>窓ガラス	
 stroll	<div>stróʊl<br></div>ぶらぶら歩く	
@@ -1746,7 +1746,7 @@ plead	[plíːd]<div>（動）弁護する、嘆願する</div>
 mend	<div>ménd<br></div>（動）補修する	
 spawn	[spˈɔːn]<div>（名）（しばしば集合的に）（魚やカエルなどの）卵</div><div>（動）（卵を）産む</div>	
 gum	<div>[gˈʌm]</div>（名）（通例 〜s）歯茎	
-veto	[víːṭoʊ]<div>（名）拒否権</div>	
+veto	[víːṭoʊ]<div>（名）拒否権</div><div>（動）拒否する</div>	
 seismology	[sɑɪzmάlədʒi]<div>（名）地震学</div>	
 ordinance	[ˈɔɚd(ə)nəns]<div>（名）法令、布告</div>	
 herbicide	[(h)ˈɚːbəsὰɪd]<div>（名）除草剤</div>	
@@ -3243,7 +3243,7 @@ longevity	lɑndʒévəṭi<br><div>（名）長寿、寿命</div>
 irresolute	ìrézəlùːt<br><div>（形）優柔不断な、決断力のない</div>	
 binary star	bάɪnəri<div>（名）2連星</div><div>※2つの恒星が互いに軌道運動をしている、双子星のこと</div>	
 pedagogic	pèdəgάdʒɪk<div>（形）教育学的な、学者ぶった</div>	
-sheer	ʃíɚ<div>（形）全くの、純然たる、完全な、薄地の</div>	
+sheer	ʃíɚ<div>（形）全くの、純然たる、完全な、薄地の</div><div><br></div><div>That is sheer violence.</div><div>それは単なる暴力です。</div>	
 extricate	ékstrəkèɪt<div>（動）解放する、救い出す</div>	
 encroachment	ɪnkróʊtʃmənt<div>（名）侵入、侵害、侵食</div>	
 bedraggled	bɪdrˈægld<div>（形）汚れた、ぬれた</div>	
@@ -3421,3 +3421,69 @@ sober	sóʊbɚ<div>（形）しらふの、冷静な</div>
 spartan（形容詞の意味は？）	spάɚtn<div>（形）質実剛健な、厳格な、スパルタ式の</div><div>（名）（古代）スパルタ人、剛勇な人</div>	
 sullen	sˈʌlən<div>（形）むっつりした、不機嫌な、陰気な</div>	
 wicked	wíkɪd<div>（形）不道徳な、不正な、意地悪な</div>	
+amiss	əmís<div>（形）不都合で、（具合）悪く</div>	
+arduous	άɚdʒuəs<div>（形）困難な、骨の折れる</div>	
+laborious	ləbˈɔːriəs<div>（形）骨の折れる、困難な</div>	
+blunt	blˈʌnt<div>（形）鈍い、鈍感な、ぶっきらぼうな</div>	
+curt	kˈɚːt<div>（形）ぶっきらぼうな、そっけない</div>	
+catholic（「カトリック教会の」以外の形容詞）	kˈæθ(ə)lɪk<div>（形）普遍的な、包容力があって、カトリック教会の</div>	
+chubby	tʃˈʌbi<div>（形）まるまる太った</div>	
+plump	plˈʌmp<div>（形）ふくよかな、まるまる太った</div>	
+crooked	krˈʊkɪd<div>（形）曲がっている、屈曲した</div>	
+deft	déft<div>（形）器用な、手際の良い</div>	
+dull	dˈʌl<div>（形）鈍い、なまくらの、鈍感な</div>	
+enigmatic	ènɪgmˈæṭɪk<div>（形）謎の（ような）</div>	
+worn-out	<div>wˈɔɚn<br></div>（形）使い古した、疲れ果てた	
+flamboyant	flæmbˈɔɪənt<div>（形）燃えるような、けばけばしい</div>	
+gaudy	gˈɔːdi<div>（形）けばけばしい</div>	
+showy	ʃóʊi<div>（形）華やかな、けばけばしい</div>	
+hasty	héɪsti<div>（形）急な、早まった</div>	
+tardy	tάɚdi<div>（形）のろい、遅い</div>	
+prolonged	prʌˈlɔŋd<div>（形）延長した、長引く</div>	
+limber	límbɚ<div>（形）しなやかな、柔軟な</div>	
+wretched	rétʃɪd<div>（形）みじめな、哀れな</div>	
+mournful	mˈɔɚnf(ə)l<div>（形）悲しみに沈んだ、悲しげな</div>	
+queer	kwíɚ<div>（形）風変わりな、妙な</div>	
+stiff	stíf<div>（形）硬い、堅苦しい</div>	
+uneven	`ʌníːv(ə)n<div>（形）平らでない、でこぼこした、一様でない</div>	
+rowdy	rάʊdi<div>（形）乱暴な、粗暴な、騒々しい</div>	
+boisterous	bˈɔɪstərəs<div>（形）荒々しい、騒がしい、陽気な</div>	
+serene	səríːn<div>（形）のどかな、穏やかな</div>	
+sordid	sˈɔɚdɪd<div>（形）卑劣な、むさくるしい</div>	
+squalid	skwάlɪd<div>（形）むさ苦しい、汚い、卑しい</div>	
+spellbound	ˈspɛˌlbaʊnd<div>（形）魅せられた、魔法にかかった</div>	
+awe	ˈɔː<div>（名）畏れ</div><div>（動）畏れさせる、畏敬させる</div>	
+vulgar	vˈʌlgɚ<div>（形）俗悪な、下品な、庶民の</div>	
+wholesome	hóʊlsəm<div>（形）健康に良い</div>	
+ambulate	ˈæmbjʊlèɪt<div>（動）歩く、動き回る</div>	
+hobble	hάbl<div>（動）不格好に歩く、よろよろ歩く</div>	
+limp	límp<div>（動）（歩行が不自由で）片足を引きずる</div>	
+tread	tréd<div>（動）歩く、行く、強く踏む</div>	
+trample	trˈæmpl<div>（動）踏みつける、踏みつぶす</div>	
+launder	lˈɔːndɚ<div>（動）洗濯する</div>	
+annex	ənéks<div>（動）付加する、併合する</div>	
+gnaw	nˈɔː ※発音注意<div>（動）ガリガリかじる、噛み切る</div>	
+nibble	níbl<div>（動）少しずつかじる</div>	
+whip	(h)wíp<div>（動）むちで打つ</div>	
+lash	lˈæʃ<div>（動）むちで打つ</div><div>（名）むちひも</div>	
+perforate	pˈɚːfərèɪt<div>（動）穴を開ける、うがつ、貫く</div>	
+prop	prάp<div>（動）支える、つっかい棒をする</div><div>（名）支柱、支え</div>	
+claw at	<div>klˈɔː<br></div>つめでひっかく	
+slap	slˈæp<div>（動）平手でたたく</div><div>（名）ピシャリと打つこと、拒絶</div>	
+slay	sléɪ<div>（動）殺害する、笑い転げさせる</div>	
+slaughter	slˈɔːṭɚ<div>（動）（動物を）屠殺する</div><div>（名）畜殺、屠殺、虐殺</div>	
+rip	ríp<div>（動）切り裂く、引き裂く</div>	
+unwind	`ʌnwάɪnd<div>（動）（巻いたものを）ほどく、巻き戻す</div>	
+unravel	`ʌnrˈæv(ə)l<div>（動）ほどく、解く、解明する</div>	
+vanquish	vˈæŋkwɪʃ<div>（動）征服する、破る、負かす</div>	
+warp	wˈɔɚp<div>（動）そらせる、ねじる、ゆがめる</div>	
+rouse	rάʊz<div>（動）（人を）起こす、奮起させる</div>	
+skyrocket（名詞・動詞それぞれ）	<div>ˈskaɪˌɹɒk.ɪt<br></div>（名）打ち上げ花火<div>（動）急騰する</div>	
+babble	bˈæbl<div>（動）（わけもわからぬ）片言を言う、ぺちゃくちゃしゃべる</div><div>※泡はbubble</div>	
+aviator	éɪvièɪṭɚ<div>（名）飛行士</div>	
+bandit	bˈændɪt<div>（名）山賊、追いはぎ</div>	
+comrade	kάmræd<div>（名）（苦労を共にしてくれるような親しい）僚友、仲間</div>	
+devotee	dèvətíː<div>（名）愛好者、熱心家</div>	
+lad	lˈæd<div>（名）若者、少年、男</div>	
+offspring	ˈɑfsprɪŋ<div>（名）（人・動物の）子、子孫</div>	
+captive	kˈæptɪv<div>（形）とらわれの</div><div>（名）捕虜、監禁されている人</div>	
