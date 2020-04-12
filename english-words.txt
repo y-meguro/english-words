@@ -149,7 +149,7 @@ geothermal	<div>dʒìːoʊθˈɚːm(ə)l<br></div>地熱の
 flora	<div>flˈɔːrə<br></div>（通例 the〜）（ある地方・時代の）植物相、全植物	
 contaminate	<div>kəntˈæmənèɪt<br></div>汚染する、悪影響を及ぼす	
 dormant	<div>dˈɔɚmənt<br></div>（火山が）活動休止中の、休眠中の	
-deposition	<div>dèpəzíʃən<br></div>堆積作用、堆積物、免職	
+deposition	<div>dèpəzíʃən<br></div>（名）堆積作用、堆積物、免職	
 scrutiny	<div>skrúːṭəni<br></div>精密な調査、検査	
 fallacious	<div>fəléɪʃəs<br></div>誤った、当てにならない	
 quiescent	<div>[kwɑɪésnt]</div>無活動の、静止した	
@@ -211,7 +211,7 @@ lavish	<div>lˈævɪʃ<br></div>（動）気前よく与える、浪費する<di
 refugee	<div>rèfjʊdʒíː<br></div>避難民	
 reap	<div>ríːp<br></div>収穫する	
 retina	<div>[réṭənə]</div>（目の）網膜	
-cling	<div>klíŋ<br></div>しがみつく、くっつく	
+cling	<div>klíŋ<br></div>（動）しがみつく、くっつく	
 antelope	<div>ˈænṭəlòʊp<br></div>（名）（インパラやガゼルなどのウシ科）アンテロープ	
 hare	<div>[héɚ]</div>野ウサギ	
 vapor	<div>véɪpɚ<br></div>（名）蒸気	
@@ -268,7 +268,7 @@ catalyst	<div>kˈæṭəlɪst<br></div>（名）触媒
 advent	<div>ˈædvent<br></div>（名）（the 〜）到来、（the A-）降臨	
 predatory	<div>prédət`ɔːri<br></div>捕食性の	
 brisk	<div>brísk<br></div>（形）きびきびした、活気のある	
-fungus	<div>fˈʌŋgəs<br></div>（キノコ・カビ・酵母などの）菌類	
+fungus	<div>fˈʌŋgəs<br></div>（名）（キノコ・カビ・酵母などの）菌類	
 oak	<div>óʊk<br></div>オーク（カシの木など）	
 obedient	<div>oʊbíːdiənt<br></div>従順な	
 sting	<div>stíŋ<br></div>（動）刺す<div>（名）刺すこと</div>	
@@ -1105,7 +1105,7 @@ sticky notes	<div>stíki<br></div>付箋
 adhesive	[ædhíːsɪv]<div>（名）接着剤</div><div>（形）粘着性の</div>	
 thumbtack	<div>θʌ'mtæ`k（音節thúmb・tàck）<br></div>画鋲	
 registered（登録した以外の）	<div>ˈrɛdʒɪstɝd<br></div>（形）書留の、登録した	
-salutation	<div>s`æljʊtéɪʃən<br></div>挨拶（言葉）	
+salutation	<div>s`æljʊtéɪʃən<br></div>（名）挨拶（言葉）	
 moisten	<div>[mˈɔɪsn]</div>（動）（切手を貼り付ける時に裏面を）濡らす	
 collate	[kəléɪt]<div>丁合いする、ページ順に並べる</div>	
 acronym	<div>[ˈækrənìm]</div>（名）頭文字	
@@ -1133,7 +1133,7 @@ runway（ステージ以外の意味）	<div>ˈrʌnweɪ<br></div>滑走路、舞
 coach（コーチ、四輪大型馬車以外の意味）	<div>kóʊtʃ<br></div>エコノミー座席、コーチ、四輪大型馬車	
 disembarkation	[dìsèmbɑɚkéɪʃən]<div>入国、下船</div>	
 quarantine	[kwˈɔːrəntìːn]<div>（名）検疫</div><div>（動）検疫する、隔離する</div>	
-carousel	[k`ærəsél]<div>（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
+carousel	[k`ærəsél]<div>（名）（手荷物受取所の）回転式コンベア、メリーゴーランド</div>	
 valet parking	<div>[vˈælət]</div>係員付き駐車サービス	
 sojourn	[sóʊdʒɚːn]<div>（名）一時滞在</div><div>（自）滞在する</div>	
 expatriate	<div>[ekspéɪtrièɪt]</div>（名）居住外国人、海外駐在員	
@@ -1224,7 +1224,7 @@ overcast（形容詞、動詞それぞれの意味は？）	<div>ˈɔʊvɚ.kæst
 precipitation	[prɪsìpətéɪʃən]<div>降水（量）</div>	
 downpour	<div>[ˈdaʊnpɔr]</div>豪雨	
 downfall	<div>ˈdaʊˌnfɔl<br></div>（大量の）雨・雪	
-torrential	[tɔːrénʃəl]<div>激しい、猛烈な</div>	
+torrential	[tɔːrénʃəl]<div>（形）激しい、猛烈な</div>	
 sleet	<div>slíːt<br></div>（名）凍雨	
 muggy	<div>[mˈʌgi]</div>（形）蒸し暑い	
 gust	<div>gˈʌst<br></div>（名）突風<div>（自）突風が吹く</div>	
@@ -3567,7 +3567,7 @@ perihelion	pèrəhíːljən<div>（名）近日点</div><div>※軌道上で太�
 gravitation	gr`ævətéɪʃən<div>（名）重力</div>	
 eclipse	ɪklíps<div>（名）（太陽・月の）食</div><div>※total eclipseで皆既食 / partial eclipseで部分食</div>	
 constellation	kὰnstəléɪʃən<div>（名）星座</div>	
-Big Dipper	Bíg Dípper（発音記号ないのでアクセント）<div>（名）北斗七星</div>	
+Big Dipper	dípɚ<div>（名）北斗七星</div>	
 vernal equinox	vˈɚːnl&nbsp;íːkwənὰks<div>春分</div><div>※vernalが「春の」、equinoxが「昼夜平分時」<br></div>	
 dusk	dˈʌsk<div>（名）夕暮れ</div>	
 autumnal equinox	<div>ɔːtˈʌmnl íːkwənὰks<br></div><div>秋分</div><div>※equinoxが「昼夜平分時」</div>	
@@ -3577,3 +3577,55 @@ weather bureau	bjˈʊ(ə)roʊ<div>（名）気象庁</div>
 Fahrenheit	fˈærənhὰɪt<div>（名）華氏</div>	
 droplet	drάplət<div>（名）小さな滴</div>	
 pollen	pάlən<div>（名）花粉</div>	
+geology	dʒiάlədʒi<div>（名）地質学</div>	
+crust	krˈʌst<div>（名）地殻</div><div>※地球の表層部分</div>	
+igneous rock	ígniəs&nbsp;rάk<div>（名）火成岩</div><div>※マグマが冷えて固まった岩石</div>	
+sedimentary rock	sèdəménṭəri&nbsp;rάk<div>（名）堆積岩</div><div>※砂・泥・火山砕屑物（さいせいぶつ）などが堆積して、固まった岩石</div>	
+metamorphic rock	mèṭəmˈɔɚfɪk&nbsp;rάk<div>（名）変成岩</div><div>※既存の岩石が、温度・圧力の変化や化学的作用を受け、その性質を変えてできた岩石</div>	
+fissure	fíʃɚ<div>（名）裂け目</div>	
+clay	kléɪ<div>（名）粘土</div>	
+strata	ˈstrætʌ<div>（名）地層</div>	
+slate	sléɪt<div>（名）粘板岩</div><div>※粘板岩は変成岩の1つ。頁岩（けつがん）が圧力により固まったもの</div>	
+quartz	kwˈɔɚts<div>（名）石英</div><div>※石英の結晶が水晶</div>	
+sapphire	sˈæfɑɪɚ<div>（名）サファイア</div>	
+ornamental	`ɔɚnəménṭl<div>（形）装飾用の</div>	
+scarcity	skéɚsəṭi<div>（名）不足、希少性</div><div>※scarce: 乏しい</div>	
+geography	dʒiάgrəfi<div>（名）地理学</div>	
+extinct volcano	ekstíŋ(k)t<div>（名）死火山</div><div>※有史時代になって1度も活動したことのない火山</div>	
+aridity	ərídəṭi<div>（名）乾燥状態</div>	
+fault（「欠点」「過失」以外の名詞）	fˈɔːlt<div>（名）断層、欠点、過失</div>	
+ravine	rəvíːn<div>（名）峡谷</div>	
+headland	hédlənd<div>（名）岬</div>	
+crater（「（月面などの）クレーター」以外の名詞）	kréɪṭɚ<div>（名）（火山の）噴火口、（月面などの）クレーター</div>	
+pass（「合格」「パス」以外の名詞）	pˈæs<div>（名）峠、合格、パス</div>	
+interrelate	ˌɪntɝrɪˈlet<div>（動）相互に関係する</div>	
+biology	bɑɪάlədʒi<div>（名）生物学</div>	
+fungi	ˈfʌndʒaɪ<div>（名）菌類</div><div>※fungusの複数形</div>	
+protist	próutist<div>（名）原生生物</div>	
+moneran	mάnerən<div>（名）モネラ</div><div>※単細胞生物のうち、もっとも小型で原始的な原核生物</div>	
+phyla	ˈfaɪlə<div>（名）（動物分類上の）門</div><div>※生物は界（kingdom）&gt; 門（phyla）&gt; 鋼（class）&gt; 目（order）&gt; 科（family）&gt; 属（genera）の順に細分化される</div>	
+genera	ˈdʒɛnərə<div><div>（名）（動物分類上の）属</div><div>※生物は界（kingdom）&gt; 門（phyla）&gt; 鋼（class）&gt; 目（order）&gt; 科（family）&gt; 属（genera）の順に細分化される</div></div>	
+asexual	eɪsékʃuəl<div>（形）性別のない、無性の</div>	
+budding	ˈbʌdɪŋ<div>（名）発芽</div>	
+spore	spˈɔɚ<div>（動）胞子を出す</div><div>（名）胞子、芽胞</div>	
+reliant	rɪlάɪənt<div>（形）依存した、頼って</div>	
+amoeba	əmíːbə<div>（名）アメーバ</div>	
+engulf	ɪngˈʌlf<div>（動）飲み込む</div>	
+pseudopod	s(j)úːdpɑd<div>（名）偽足</div>	
+parasitic	p`ærəsíṭɪk<div>（形）寄生的な</div>	
+botany	bάṭəni<div>（名）植物学</div>	
+fern	fˈɚːn<div>（名）シダ</div>	
+weed	wíːd<div>（名）雑草</div>	
+chlorophyll	klˈɔːrəfìl<div>（名）葉緑素</div><div>※植物の細胞の中にある緑色の色素</div>	
+photosynthesis	&nbsp;ˌfotoˈsɪnθʌsɪs<div>（名）光合成</div>	
+slimy	slάɪmi<div>（形）ぬるぬるした、ねばねばした</div>	
+annual ring	ˈænjuəl&nbsp;ríŋ<div>（名）年輪</div>	
+bark（「ほえる声」以外の名詞）	bάɚk<div>（名）樹皮、ほえる声</div><div>（動）樹皮をはぐ、ほえる</div>	
+parsley	pάɚsli<div>（名）パセリ</div>	
+fir tree	fˈɚː<div>（名）モミの木</div>	
+pine tree	pάɪn<div>（名）マツの木</div>	
+elm	"élm<div>（名）ニレ</div><div><img src=""ニレ.jpeg""><br></div>"	
+garnish	gάɚnɪʃ<div>（動）料理に添える</div><div>（名）料理のつけ合わせ、つま</div>	
+webby	wébi<div>（形）クモの巣のような</div>	
+fungous	fˈʌŋgəs<div>（形）菌のような</div><div>※fungusと発音同じ</div>	
+penicillin	pènəsílɪn<div>（名）ペニシリン</div><div>※青カビの一種からとる抗生物質。肺炎・淋病などに効く</div>	
