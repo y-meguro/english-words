@@ -1074,7 +1074,7 @@ seal	<div>síːl<br></div>（他）調印する、密封する<div>（名）印�
 notary public	<div>[nóʊṭəri]</div>公証人	
 deem	<div>díːm<br></div>〜とみなす	
 provision（名詞の意味は？）	<div>prəvíʒən<br></div>（名）条項、規定、供給、用意、準備<div>（動）供給する</div>	
-onslaught	<div>[ˈɔˌnslɔt]</div>猛攻撃	
+onslaught	<div>[ˈɔˌnslɔt]</div>（名）猛攻撃	
 flick	<div>flík<br></div>（自）（他）（指先で）はじく、さっと払う	
 justify（正当化する以外の意味）	<div>dʒˈʌstəfὰɪ<br></div>字間を調節する	
 blink	<div>blíŋk<br></div>（動）点滅する、見て見ぬ振りをする、まばたきする	
@@ -1525,7 +1525,7 @@ cursory	[kˈɚːs(ə)ri]<div>（形）大まかな、せっかちの、ぞんざ
 disperse	[dɪspˈɚːs]<div>（動）分散させる</div>	
 overturn	[òʊvɚtˈɚːn]<div>横転させる、ひっくり返す</div>	
 degrade	[dɪgréɪd]<div>（動）（格や品位を）落とす、（面目を）失わせる</div>	
-whirl	[(h)wˈɚːl]<div>（動）ぐるぐる回る、旋回させる</div>	
+whirl	[(h)wˈɚːl]<div>（動）ぐるぐる回る、旋回させる、渦巻く</div>	
 discerning	[dɪˈsɜːn.iŋ]<div>（形）明敏な、洞察力のある</div>	
 masonry	[méɪsnri]<div>（名）石造物、石工術</div>	
 jolt	[dʒóʊlt]<div>（動）（急激に）揺さぶる</div><div>（名）（精神的な）衝撃</div>	
@@ -1932,7 +1932,7 @@ scorch	[skˈɔɚtʃ]<div>（動）（皮膚などを）焼く、焦がす</div>
 burrow	[bˈɚːroʊ]<div>（名）（動物の）穴、隠れ場</div>	
 wax（ワックスをかける以外の意味）	<div>wˈæks<br></div>（名）ろう<div>（動）ろうを塗る、ワックスをかける</div>	
 salient	[séɪljənt]<div>（形）目立った、顕著な</div>	
-"<span style=""color: rgb(29, 28, 29); background-color: rgb(248, 248, 248);"">perplex</span>"	[pɚpléks]<div>（動）当惑させる、困らせる</div>	
+perplex<br>	[pɚpléks]<div>（動）当惑させる、困らせる</div>	
 lagoon	[ləgúːn]<div>（名）潟、小さな沼</div>	
 elaborate	[ɪlˈæb(ə)reɪt]<div>（動）詳しく説明する、念入りに作る</div><div><br></div><div>[ɪlˈæb(ə)rət]<br></div><div>（形）入念な、細心の</div>	
 inert	[ɪnˈɚːt]<div>（形）不活性の、不活発な</div>	
@@ -3558,3 +3558,22 @@ hurriedly	ˈhɝidli<div>（副）急いで</div>
 hastily	héɪstəli<div>（副）急いで</div>	
 wholeheartedly	ˌhəʊlˈhɑː(ɹ)t.ədli<div>（副）心から</div>	
 undeniable	`ʌndɪnάɪəbl<div>（形）否定できない</div>	
+cosmology	kɑzmάlədʒi<div>（名）宇宙論</div>	
+spiral	spάɪ(ə)rəl<div>（形）渦巻状の</div>	
+spherical	sférɪk(ə)l<div>（形）球状の</div>	
+Mars	mάɚz<div>（名）火星</div>	
+Jupiter	dʒúːpəṭɚ<div>（名）木星</div>	
+perihelion	pèrəhíːljən<div>（名）近日点</div><div>※軌道上で太陽に最も近づく点</div>	
+gravitation	gr`ævətéɪʃən<div>（名）重力</div>	
+eclipse	ɪklíps<div>（名）（太陽・月の）食</div><div>※total eclipseで皆既食 / partial eclipseで部分食</div>	
+constellation	kὰnstəléɪʃən<div>（名）星座</div>	
+Big Dipper	Bíg Dípper（発音記号ないのでアクセント）<div>（名）北斗七星</div>	
+vernal equinox	vˈɚːnl&nbsp;íːkwənὰks<div>春分</div><div>※vernalが「春の」、equinoxが「昼夜平分時」<br></div>	
+dusk	dˈʌsk<div>（名）夕暮れ</div>	
+autumnal equinox	<div>ɔːtˈʌmnl íːkwənὰks<br></div><div>秋分</div><div>※equinoxが「昼夜平分時」</div>	
+polar climate	póʊlɚ<div>（名）寒帯気候</div>	
+subarctic climate	sʌbˈɑːktɪk<div>（名）亜寒帯気候</div>	
+weather bureau	bjˈʊ(ə)roʊ<div>（名）気象庁</div>	
+Fahrenheit	fˈærənhὰɪt<div>（名）華氏</div>	
+droplet	drάplət<div>（名）小さな滴</div>	
+pollen	pάlən<div>（名）花粉</div>	
