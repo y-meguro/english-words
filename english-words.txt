@@ -241,7 +241,7 @@ condensation	<div>kὰndenséɪʃən<br></div>凝結、（凝結した）水滴
 chronic	<div>krάnɪk<br></div>慢性の	
 arable	<div>[ˈærəbl]</div>（形）耕作に適した、耕地向きの	
 colloquial	<div>kəlóʊkwiəl<br></div>口語的な、会話的な	
-indict	<div>ɪndάɪt<br></div>起訴する、告発する	
+indict	<div>ɪndάɪt<br></div>（動）起訴する、告発する	
 insult	<div>[ínsʌlt]</div>（動）辱める	
 squirrel	<div>skwˈɚːrəl<br></div>リス	
 deceive	<div>dɪsíːv<br></div>（動）だます、思い違いをする	
@@ -304,7 +304,7 @@ ballot	<div>bˈælət<br></div>（名）投票<div>（動）投票する</div>
 carbohydrate	<div>kὰɚboʊhάɪdreɪt<br></div>炭水化物	
 livestock	<div>lάɪvstάk<br></div>家畜	
 absurd	<div>əbsˈɚːd<br></div>（形）ばかばかしい、不合理な	
-weather	<div>wéðɚ<br></div>（動）風化させる、風雨にさらす<div>（名）天候</div>	
+weather（動詞の意味は？）	<div>wéðɚ<br></div>（動）風化させる、風雨にさらす<div>（名）天候</div>	
 urbane	<div>ɚːbéɪn<br></div>洗練された、都会風の、垢抜けした	
 tremble	<div>trémbl<br></div>（恐怖、地震などで）震える	
 imminent	<div>[ímənənt]</div>今にも起こりそうな、差し迫った、切迫した	
@@ -324,7 +324,7 @@ dignify	<div>dígnəfὰɪ<br></div>威厳をつける
 testify	<div>téstəfὰɪ<br></div>証言する、証明する	
 cavity	<div>[kˈævəṭi]</div>空洞、虫歯（の穴）	
 gratitude	<div>grˈæṭət(j)ùːd<br></div>謝意	
-cultivate	<div>kˈʌltəvèɪt<br></div>（土地を）耕す、修養する	
+cultivate	<div>kˈʌltəvèɪt<br></div>（土地を）耕す、修養する、養殖する	
 respiration	<div>rèspəréɪʃən<br></div>呼吸	
 gut	<div>gˈʌt<br></div>腸、はらわた、根性	
 lessen	<div>lésn<br></div>減らす、小さくする	
@@ -723,7 +723,7 @@ prone	<div>próʊn<br></div>（形）〜しがちな、（普通悪い意味で�
 susceptible	<div>səséptəbl<br></div>影響されやすい、感染しやすい	
 generosity	<div>dʒènərάsəṭi<br></div>寛大（な行為）	
 benevolent	<div>[bənévələnt]</div>情け深い、優しい	
-decency	<div>[díːsnsi]</div>品位、良識	
+decency	<div>[díːsnsi]</div>（名）品位、良識	
 indecent	<div>ìndíːsnt<br></div>不作法な、下品な	
 suffice	<div>[səfάɪs]</div>（動）充分である、足りる	
 forthcoming	<div>f`ɔɚθkˈʌmɪŋ<br></div>来たるべき、近づきつつある	
@@ -1814,7 +1814,7 @@ benign	[bɪnάɪn]<div>（形）穏やかな、慈悲深い、（腫瘍などが
 intermittent	[ìnṭɚmítnt]<div>（形）断続的な、時々とぎれる</div>	
 onlooker	[ˈɔˌnlʊkɝ]<div>（名）傍観者</div>	
 evasion	[ɪvéɪʒən]<div>（名）回避、言い逃れ</div>	
-boost	[búːst]<div>（動）（値を）引き上げる</div>	
+boost	[búːst]<div>（動）（値を）引き上げる、押し上げる</div>	
 remorse	[rɪmˈɔɚs]<div>（名）深い悔恨、自責の念</div>	
 oust	[άʊst]<div>（動）（権利などを）取り上げる、追放する</div>	
 concession	[kənséʃən]<div>（名）譲歩</div>	
@@ -3181,7 +3181,7 @@ dissonance	dísənəns<div>（名）不調和な点、不一致</div>
 abusive	əbjúːsɪv<div>（形）罵倒の、口汚い、乱用の</div>	
 interminable	ìntˈɚːm(ə)nəbl<div>（形）長たらしい、果てしない</div>	
 decelerate	dìːsélərèɪt<div>（動）（速度を）落とす、遅くする、（速度が）落ちる</div>	
-stigma	stígmə<div>（名）汚名</div>	
+stigma	"stígmə<div>（名）汚名、（花の雌しべの）柱頭</div><div><img src=""Screen Shot 2020-04-13 at 14.36.00.png""><br></div>"	
 protocol（プロトコル以外の名詞）	próʊṭək`ɔːl<div>（名）外交儀礼、条約案</div>	
 sinewy	sín(j)uːi<div>（形）筋骨たくましい、筋っぽい</div>	
 miserly	ˈmaɪzəɹlɪ<div>（形）欲深い、けちな</div>	
@@ -3629,3 +3629,30 @@ garnish	gάɚnɪʃ<div>（動）料理に添える</div><div>（名）料理の�
 webby	wébi<div>（形）クモの巣のような</div>	
 fungous	fˈʌŋgəs<div>（形）菌のような</div><div>※fungusと発音同じ</div>	
 penicillin	pènəsílɪn<div>（名）ペニシリン</div><div>※青カビの一種からとる抗生物質。肺炎・淋病などに効く</div>	
+anchorage	ˈæŋk(ə)rɪdʒ<div>（名）投錨（とうびょう、いかりをおろして船をとどめること）、支え</div>	
+petal	péṭl<div>（名）花びら</div>	
+pollinate	pάlənèɪt<div>（動）受粉する</div>	
+pistil	pístl<div>（名）雄しべ</div>	
+stamen	stéɪmən<div>（名）雌しべ</div>	
+embryo	émbriòʊ<div>（名）胎芽（人間の受胎後8週以内の個体）、萌芽</div>	
+celery	séləri<div>（名）セロリ</div>	
+anther	"ˈænθɚ<div>（名）（花の雄しべの）やく</div><div><img src=""Screen Shot 2020-04-13 at 14.36.00.png""><br></div>"	
+deposit	dɪpάzɪt<div>（動）預ける、置く</div>	
+fertilization	f`ɚːṭəlɪzéɪʃən<div>（名）肥やすこと、受精</div>	
+floury	flάʊ(ə)ri<div>（形）粉の</div>	
+hummingbird	"ˈhʌmɪˌŋbɝd<div>（名）ハチドリ</div><div><img src=""ハチドリ.jpeg""><br></div>"	
+moth	"mˈɔːθ<div>（名）蛾</div><div><img src=""ga.jpg""><br></div>"	
+zoology	zoʊάlədʒi<div>（名）動物学</div>	
+invertebrate	ìnvˈɚːṭəbrət<div>（形）無脊椎の</div><div>（名）無脊椎動物</div>	
+sponge（スポンジ以外の名詞）	"spˈʌndʒ<div>（名）海綿動物、スポンジ</div><div>※多細胞の動物の中で最も下等なもの</div><div><img src=""kai.jpeg""><br></div>"	
+worm	wˈɚːm<div>（名）ミミズなどの環形動物</div>	
+arthropod	άɚθrəpὰd<div>（名）節足動物</div><div>※外皮がかたく、体と足とに多数の関節を持つ動物</div>	
+tentacle	ténṭəkl<div>（名）触手</div>	
+reef	"ríːf<div>（名）岩礁</div><div>※海水中に隠れている岩</div><div><img src=""gan.jpeg""><br></div>"	
+earthworm	ˈɝˌθwɝm<div>（名）ミミズ</div>	
+aerate	é(ə)reɪt<div>（動）空気を供給する</div>	
+snail	snéɪl<div>（名）カタツムリ</div>	
+squirt	skwˈɚːt<div>（動）噴出する</div>	
+entangle	ɪntˈæŋgl<div>（動）絡ませる</div>	
+fang	fˈæŋ<div>（名）毒牙、きば</div>	
+liquefy	líkwəfὰɪ<div>（動）液化する、溶かす</div>	
