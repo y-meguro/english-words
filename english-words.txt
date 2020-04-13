@@ -668,7 +668,7 @@ amalgamate	<div>[əmˈælgəmèɪt]</div>合併する、融合する
 overstate	<div>ˌoʊ.vɚˈsteɪt<br></div>誇張して話す	
 classy	<div>klˈæsi<br></div>高級な、おしゃれな	
 persevere	<div>[p`ɚːsəvíɚ]</div>根気よくやり通す	
-tolerant	<div>tάl(ə)rənt<br></div>寛大な	
+tolerant	<div>tάl(ə)rənt<br></div>（形）寛大な	
 compelling	<div>kʌˈmpɛlɪŋ<br></div>抵抗しがたい、説得力のある	
 coerce	<div>koʊˈɚːs<br></div>強制して〜させる、威圧する	
 allege	<div>[əlédʒ]</div>（動）申し立てをする、（証拠なしに）主張する	
@@ -3614,7 +3614,7 @@ engulf	ɪngˈʌlf<div>（動）飲み込む</div>
 pseudopod	s(j)úːdpɑd<div>（名）偽足</div>	
 parasitic	p`ærəsíṭɪk<div>（形）寄生的な</div>	
 botany	bάṭəni<div>（名）植物学</div>	
-fern	fˈɚːn<div>（名）シダ</div>	
+fern	"fˈɚːn<div>（名）シダ</div><div><img src=""fe.jpeg""><br></div>"	
 weed	wíːd<div>（名）雑草</div>	
 chlorophyll	klˈɔːrəfìl<div>（名）葉緑素</div><div>※植物の細胞の中にある緑色の色素</div>	
 photosynthesis	&nbsp;ˌfotoˈsɪnθʌsɪs<div>（名）光合成</div>	
@@ -3679,7 +3679,7 @@ eel	íːl<div>（名）ウナギ</div>
 piranha	pərάːn(j)ə<div>（名）ピラニア</div>	
 sardine	sὰɚdíːn<div>（名）イワシ</div>	
 ray（光線以外の名詞）	<div>réɪ<br></div>（名）エイ、光線	
-toad	tóʊd<div>（名）ヒキガエル</div>	
+toad	"tóʊd<div>（名）ヒキガエル</div><div><img src=""to.jpeg""><br></div>"	
 tadpole	tˈædpòʊl<div>（名）おたまじゃくし</div>	
 propel	prəpél<div>（動）推進する</div>	
 tortoise	tˈɔɚṭəs<div>（名）陸ガメ</div>	
@@ -3712,3 +3712,12 @@ tick（「カチカチ」以外の名詞）	<div>tík<br></div>（名）ダニ
 sentinel	sénṭənəl<div>（名）番人</div>	
 shriek	ʃríːk<div>（動）かん高い声で鳴く</div>	
 tusk	tˈʌsk<div>（名）牙</div>	
+symbiosis	sìmbióʊsɪs<div>（名）共生</div>	
+saprophyte	sǽprəfàit<br><div>（名）死物寄生植物</div>	
+naturalist（自然主義者以外の名詞）	nˈætʃ(ʊ)rəlɪst<br><div>（名）博物学者</div>	
+chromosome	króʊməsòʊm<div>（名）染色体</div>	
+hereditary	hɪrédətèri<br><div>（形）遺伝の</div>	
+multicellular	<div>mʌ`ltiséljələr<br></div>（形）多細胞の	
+unicellular	jùːnɪséljʊlɚ<div>（形）単細胞の</div>	
+mitosis	mɑɪtóʊsɪs<br><div>（名）有糸分裂</div><div>※真核生物の細胞分裂における、核分裂の様式の1つ。細胞分裂の際に、クロマチンが染色体を形成し、この染色体が紡錘体によって分配される分裂様式のこと。</div>	
+meiosis	mɑɪóʊsɪs<div>（名）減数分裂</div><div>※真核生物の細胞分裂における、核分裂の様式の1つ。動物では配偶子を形成する際に行われ、生じた娘細胞では染色体数が分裂前の細胞の半分になる。一方、細胞が通常増殖する歳に取る形式は有糸分裂、あるいは体細胞分裂と呼ばれる。<br></div>	
