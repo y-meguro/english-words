@@ -49,7 +49,7 @@ Uncle Sam	アンクル・サム（米国政府を擬人化した呼称）
 mercury / Mercury	<div>mˈɚːkjʊri<br></div>水銀、水星	
 limestone	<div>ˈlaɪˌmston<br></div>石灰岩	
 swamp	<div>[swάmp]</div>（名）沼地	
-meteor	<div>[míːṭiɚ]</div>流星、隕石、大気現象	
+meteor	<div>[míːṭiɚ]</div>（名）流星、隕石、大気現象	
 blowhole	<div>ˈbloˌhol<br></div>（名）（クジラなどの）噴気孔	
 grief	<div>gríːf<br></div>悲しみ	
 archaeology	<div>ὰɚkiάlədʒi<br></div>（名）考古学	
@@ -2398,7 +2398,7 @@ unkempt	`ʌnkém(p)t<div>（形）だらしない</div>
 euphonious	juːfóʊniəs<div>（形）響きの良い、耳に快い、音色の美しい</div>	
 transcend	trænsénd<div>（動）超える、勝る</div>	
 indignation	ìndɪgnéɪʃən<div>（名）怒り、憤り、義憤</div>	
-torment	tˈɔɚment<div>（名）苦痛</div>	
+torment	tˈɔɚment<div>（名）苦痛</div><div>（動）苦しめる</div>	
 attentive	əténṭɪv<div>（形）気を配った、注意深い、大切にする</div>	
 filmy	fílmi<div>（形）（布などが）非情に薄い、薄膜状の、かすんだ</div>	
 physiological	fìziəlάdʒɪk(ə)l<div>（形）生理学上の</div>	
@@ -3656,3 +3656,59 @@ squirt	skwˈɚːt<div>（動）噴出する</div>
 entangle	ɪntˈæŋgl<div>（動）絡ませる</div>	
 fang	fˈæŋ<div>（名）毒牙、きば</div>	
 liquefy	líkwəfὰɪ<div>（動）液化する、溶かす</div>	
+respiratory	résp(ə)rət`ɔːri<div>（形）呼吸の</div>	
+excretion	ekskríːʃən<div>（名）排泄</div>	
+metamorphosis	mèṭəmˈɔɚfəsɪs<div>（名）変形、変態</div>	
+chrysalis	krísəlɪs<div>（名）（蛾や蝶の）さなぎ</div>	
+imago	ɪmάːgoʊ<div>（名）成虫</div>	
+flea	flíː<div>（名）（昆虫の）のみ</div>	
+cricket（クリケット以外の名詞）	kríkɪt<div>（名）コオロギ、クリケット</div>	
+louse	lάʊs<div>（名）シラミ</div>	
+locust	lóʊkəst<div>（名）バッタ、イナゴ</div>	
+grasshopper	grˈæshὰpɚ<div>（名）キリギリス</div>	
+centipede	sénṭəpìːd<div>（名）ムカデ</div>	
+scale（「目盛り」「縮尺」「天秤」以外の名詞）	（名）うろこ、目盛り、縮尺、天秤	
+gill	gíl<div>（名）えら</div>	
+sperm	spˈɚːm<div>（名）精液</div>	
+fertilize（「肥やす」「肥料にする」以外の動詞）	fˈɚːṭəlὰɪz<div>（動）受精する、肥やす、肥料にする</div>	
+carp	kάɚp<div>（名）鯉</div>	
+anchovy	"ˈæntʃoʊvi<div>（名）アンチョビー</div><div><img src=""anc.jpeg""><br></div>"	
+flatfish	ˈflæˌtfɪʃ<div>（名）カレイ目の魚類（カレイ・ヒラメなど）</div>	
+trout	trάʊt<div>（名）マス</div><div>※サケ類と呼ばれる魚以外のサケ科の魚をまとめた総称</div>	
+eel	íːl<div>（名）ウナギ</div>	
+piranha	pərάːn(j)ə<div>（名）ピラニア</div>	
+sardine	sὰɚdíːn<div>（名）イワシ</div>	
+ray（光線以外の名詞）	<div>réɪ<br></div>（名）エイ、光線	
+toad	tóʊd<div>（名）ヒキガエル</div>	
+tadpole	tˈædpòʊl<div>（名）おたまじゃくし</div>	
+propel	prəpél<div>（動）推進する</div>	
+tortoise	tˈɔɚṭəs<div>（名）陸ガメ</div>	
+salivary	sˈæləvèri<div>（形）唾液の</div>	
+meteorite	míːṭiərὰɪt<div>（名）隕石</div>	
+diversification	dɪv`ɚːsəfɪkéɪʃən<div>（名）変化、多様化</div>	
+Mesozoic times	mèzəzóʊɪk<div>（名）中生代</div><div>※地質時代の区分の1つ。古生代・中生代・新生代となる。約2億5000万年前から6500万年前まで</div>	
+swampy	swάmpi<div>（形）沼地の</div>	
+wiggle	wígl<div>（動）（くねくね）小刻みに動く</div>	
+locomotion	lòʊkəmóʊʃən<div>（名）運動、移動</div>	
+bill（「請求書」「紙幣」以外の名詞）	bíl<div>（名）くちばし、請求書、紙幣</div>	
+skylark	"skάɪlὰɚk<div>（名）ひばり</div><div><img src=""hib.jpeg""><br></div>"	
+crow	króʊ<div>（名）カラス</div>	
+cuckoo	kúːkuː<div>（名）カッコウ</div>	
+vulture	vˈʌltʃɚ<div>（名）ハゲワシ</div>	
+woodpecker	"ˈwʊd.pɛ.kɚ<div>（名）キツツキ</div><div><img src=""woo.jpeg""><br></div>"	
+secrete	sɪkríːt<div>（動）分泌する</div>	
+mammary gland	<div>mˈæməri<br></div>（名）乳腺	
+bristly	brísli<div>（形）剛毛の</div>	
+ungulate	ˈʌŋgjʊlət<div>（名）有蹄動物</div><div>※哺乳類のうち、蹄を持つグループ</div>	
+cheetah	tʃíːṭə<div>（動）チータ</div>	
+hyena	"hɑɪíːnə<div>（名）ハイエナ</div><div><img src=""hye.jpeg""><br></div>"	
+hog	hˈɔːg<div>（名）（成長した）豚</div>	
+otter	"άṭɚ<div>（名）カワウソ</div><div><img src=""ot.jpeg""><br></div>"	
+badger	"bˈædʒɚ<div>（名）アナグマ</div><div><img src=""ba.jpeg""><br></div>"	
+raccoon	"rækúːn<div>（名）アライグマ</div><div><img src=""ra.jpeg""><br></div>"	
+thrush	"θrˈʌʃ<div>（名）ツグミ</div><div><img src=""th.jpeg""><br></div>"	
+botfly	"ˈbɑˌtflaɪ<div>（名）ウマバエ</div><div><img src=""bo.jpeg""><br></div>"	
+tick（「カチカチ」以外の名詞）	<div>tík<br></div>（名）ダニ	
+sentinel	sénṭənəl<div>（名）番人</div>	
+shriek	ʃríːk<div>（動）かん高い声で鳴く</div>	
+tusk	tˈʌsk<div>（名）牙</div>	
