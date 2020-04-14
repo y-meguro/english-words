@@ -865,7 +865,7 @@ conglomerate	[kənglάm(ə)rət]<div>コングロマリット、複合企業</di
 consortium	<div>kənsˈɔɚʃ(i)əm<br></div>コンソーシアム、共同事業体	
 articles of incorporation	定款	
 break-even point	損益分岐点	
-solvent	<div>[sάlv(ə)nt]</div>支払い能力がある、経営が健全な	
+solvent（「支払い能力がある」以外の形容詞）	<div>[sάlv(ə)nt]</div>（形）支払い能力がある、経営が健全な、溶解力がある	
 go bust	<div>bˈʌst<br></div>倒産する	
 liquidate	[líkwədèɪt]<div>（動）（負債などを）清算する、（会社などを）整理する</div>	
 due diligence	<div>dílədʒəns<br></div>デューディリジェンス、資産調査	
@@ -3745,3 +3745,42 @@ potential energy	<div>pəténʃəl<br></div>（名）位置エネルギー
 branch（枝・支店・支流以外の名詞）	brˈæntʃ<div>（名）分野、枝、支店、支流</div>	
 subatomic	ˌsʌbʌˈtɑmɪk<div>（形）亜原子の<br><div>（名）亜原子<br>※原子よりも小さい粒子</div></div>	
 frame of reference	<div>fréɪm<br></div>（名）理論構成の枠組み	
+the Middle Ages	（名）中世	
+metalloid	métəlɔ`id<div>（名）半金属</div>	
+nonmetal	nɑnmétl<div>（名）非金属</div>	
+antiquity	æntíkwəṭi<div>（名）古代</div>	
+lead（発音はléd、名詞の意味は）	léd<div>（名）鉛</div><div>（形）鉛の</div>	
+coating	kóʊtṭɪŋ<div>（名）上塗り</div>	
+rust	<div>rˈʌst<br></div><div>（動）さびる</div>（名）さび	
+uranium	jʊ(ə)réɪniəm<div>（名）ウラニウム</div>	
+malleability	ˌmæliʌˈbɪlʌti<div>（名）可鍛性（かたんせい）</div><div>※素材が破断せずに柔軟に変形できる個体の性質</div>	
+nitrogen	nάɪtrədʒən<br><div>（名）窒素</div>	
+refrigerant	rɪfrídʒ(ə)rənt<div>（名）冷凍材</div>	
+polyester	pάlièstɚ<div>（名）ポリエステル</div>	
+fermentation	f`ɚːməntéɪʃən<div>（名）発酵、騒ぎ</div>	
+preservative	prɪzˈɚːvəṭɪv<div>（名）防腐剤</div><div>（形）保存の</div>	
+nutrient	n(j)úːtriənt<div>（名）栄養物</div>	
+yeast	jíːst<div>（名）イースト、酵母</div>	
+brew	brúː<div>（動）醸造する</div>	
+solute	sάljuːt<div>（名）溶質</div><div>※溶液中に溶け込んでいる物質</div>	
+lump	lˈʌmp<div>（名）かたまり</div>	
+bloodstream	ˈblʌd.stɹɪim<div>（名）血流</div>	
+abacus	ˈæbəkəs<div>（名）そろばん</div>	
+algebra	ˈældʒəbrə<div>（名）代数学</div>	
+trigonometry	trìgənάmətri<div>（名）三角法</div><div>※三角形の大きさと辺の長さの間の関係の研究を基礎として、他の幾何学的図形の各要素の量的関係や、測量などへの応用を研究する数学の学問領域の一つ</div>	
+differential calculus	dìfərénʃəl&nbsp;kˈælkjʊləs<br><div>（名）微分学</div>	
+permutation	p`ɚːmjʊtéɪʃən<div>（名）順列</div>	
+imaginary number	ɪmˈædʒənèri<div>（名）虚数</div>	
+fraction（破片・少量以外の名詞）	frˈækʃən<div>（名）分数、破片、少量</div>	
+complex number	kὰmpléks<div>（名）複素数</div><div>※4iは虚数、1+4iは複素数</div>	
+cardinal number	<div>kάɚd(ə)nl<br></div>（名）基数<br><div>※各桁を構成する数値や記号の数のこと。10進数では10</div>	
+ordinal number	ˈɔɚdənl<div>（名）序数</div><div>※first, secondなどのように順序を表す数</div>	
+equilateral triangle	ìːkwəlǽt(ə)rəl<div>（名）正三角形</div>	
+isosceles triangle	ɑɪsάsəlìːz<div>（名）二等辺三角形</div>	
+parallelogram	p`ærəléləgr`æm<div>（名）平行四辺形</div>	
+trapezoid	trˈæpəz`ɔɪd<div>（名）台形</div>	
+interior angle	ɪntí(ə)riɚ<div>（名）内角</div>	
+corresponding angle	"k`ɔːrəspάndɪŋ<br><div>（名）同位角</div><div><img src=""co.png""><br></div>"	
+semicircle	sémɪsə̀ːrkl<div>（名）半円</div>	
+circumference	sɚkˈʌmf(ə)rəns<div>（名）円周</div>	
+rectangular solid	rektˈæŋgjʊlɚ&nbsp;sάlɪd<br><div>（名）直方体</div>	
