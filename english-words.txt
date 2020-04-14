@@ -79,7 +79,7 @@ haze	<div>héɪz<br></div>（名）かすみ、もや<div>（自）もやをか�
 dough	<div>dóʊ<br></div>パン生地、こね粉	
 liable	<div>lάɪəbl<br></div>〜しがちな、責めを負うべき、法的責任がある	
 peninsula	<div>pəníns(ə)lə<br></div>半島	
-Neolithic	<div>nìːəlíθɪk<br></div>（the〜）新石器時代	
+Neolithic Age	<div>nìːəlíθɪk<br></div>（名）新石器時代	
 cordial	<div>kˈɔɚdʒəl<br></div>心からの	
 kerosene	<div>[kérəsìːn]</div>灯油	
 timber	<div>tímbɚ<br></div>木材	
@@ -690,7 +690,7 @@ envisage	<div>[envízɪdʒ]</div>（他）心に描く、予測する
 vex	<div>véks<br></div>いらいらさせる、怒らせる	
 exasperate	<div>ɪgzˈæspərèɪt<br></div>（動）怒らせる、立腹させる	
 eradicate	<div>ɪrˈædəkèɪt<br></div>（病気・社会問題などを）根絶する	
-dismiss	<div>dɪsmís<br></div>否定する、却下する、解雇する	
+dismiss	<div>dɪsmís<br></div>（動）否定する、却下する、解雇する	
 dismissal	<div>dɪsmísl<br></div>（名）棄却、解雇	
 abandon	<div>əbˈændən<br></div>（動）見捨てる、断念する	
 diminish	<div>dɪmínɪʃ<br></div>減少させる	
@@ -1963,7 +1963,7 @@ extrovert	[ˈɛkstrʌˌvɝt]<div>（形）外向的な</div><div>（名）外向
 retract	[rɪtrˈækt]<div>（動）取り消す、引っ込める</div>	
 monetary	[mάnətèri]<div>（形）通貨の、金融上の、金銭の</div>	
 concord	[kάnkɔɚd]<div>（名）一致、調和、協調</div>	
-rebel	[réb(ə)l]<div>（名）反逆者</div>	
+rebel	réb(ə)l<div>（名）反逆者</div><div><br></div><div>rɪbél<br></div><div>（動）反乱を起こす</div>	
 detached（分離した、以外の形容詞）	[dɪˈtætʃt]<div>（形）公平な、独立した、分離した</div>	
 satirical	[sətírɪk(ə)l]<div>（形）風刺的な、皮肉な</div>	
 once (and) for all	はっきりと、今回限りで、これっきり	
@@ -2086,7 +2086,7 @@ obsess	[əbsés]<div>（動）（受身形で）（妄想・固定観念など�
 armored	[ˈɑrmɝd]<div>（形）装甲した</div>	
 condone	[kəndóʊn]<div>（動）許す、大目に見る</div>	
 captivity	[kæptívəṭi]<div>（名）捕らわれの身、隷属、拘留</div>	
-turmoil	[tˈɚːmɔɪl]<div>（名）騒ぎ、騒動</div>	
+turmoil	[tˈɚːmɔɪl]<div>（名）騒ぎ、騒動、混乱</div>	
 languish	[lˈæŋgwɪʃ]<div>（動）みじめな生活をする、しぼむ、元気がなくなる</div>	
 uniformity	[jùːnəfˈɔɚməṭi]<div>（名）均一なこと、画一性</div>	
 constituency	[kənstítʃuənsi]<div>（名）（集合的に）有権者、選挙区</div>	
@@ -3784,3 +3784,18 @@ corresponding angle	"k`ɔːrəspάndɪŋ<br><div>（名）同位角</div><div><i
 semicircle	sémɪsə̀ːrkl<div>（名）半円</div>	
 circumference	sɚkˈʌmf(ə)rəns<div>（名）円周</div>	
 rectangular solid	rektˈæŋgjʊlɚ&nbsp;sάlɪd<br><div>（名）直方体</div>	
+Paleolithic Age	pèɪliəlíθɪk<div>（名）旧石器時代</div>	
+sow	sóʊ<div>（動）（種を）まく</div>	
+weave	wíːv<div>（動）織る</div>	
+the Old Testament	<div>téstəmənt<br></div>（名）旧約聖書	
+biblical	bíblɪk(ə)l<div>（形）聖書の</div>	
+version（「版」以外の名詞）	vˈɚːʒən<div>（名）説明、解釈、版</div>	
+fluorine	flˈʊ(ə)riːn<div>（名）フッ素</div>	
+vassal	vˈæsl<div>（名）家臣</div>	
+fief	fíːf<div>（名）領地</div>	
+military service	<div>mílətèri<br></div>（名）兵役	
+noble	nóʊbl<div>（形）貴族</div>	
+chivalry	ʃív(ə)lri<div>（名）騎士道</div><div>※ヨーロッパで成立した騎士階級の行動規範</div>	
+fortify	fˈɔɚṭəfὰɪ<div>（動）要塞化する</div>	
+the Roman Empire	<div>émpɑɪɚ<br></div>（名）ローマ帝国	
+Christianity	krìstʃiˈænəṭi<div>（名）キリスト教</div>	
