@@ -3307,7 +3307,7 @@ caucus	kˈɔːkəs<div>（名）（米国大統領候補者などを決定する
 dehydration	dìːhɑɪdréɪʃən<div>（名）脱水（症状）</div>	
 ostentation	ὰstəntéɪʃən<div>（名）見せびらかすこと、誇示</div>	
 infinitesimal	ɪnfìnətésəm<div>（形）微小の</div>	
-deed	díːd<div>（名）行為、功業</div>	
+deed	díːd<div>（名）行為、功業、権利証書</div>	
 nimble	nímbl<div>（形）すばやい、理解の早い</div>	
 commotion	kəmóʊʃən<div>（名）動揺、騒動</div>	
 ado	ədúː<div>（名）騒ぎ、骨折り</div>	
@@ -3413,7 +3413,7 @@ masculine	mˈæskjʊlɪn<div>（形）男らしい、勇ましい</div>
 manly	mˈænli<div>（形）男らしい、雄々しい</div>	
 nasty	nˈæsti<div>（形）いやな、意地の悪い</div>	
 odious	óʊdiəs<div>（形）憎らしい、とても嫌な</div>	
-savage	sˈævɪdʒ<div>（形）どう猛な、残忍な、荒涼とした</div>	
+savage	sˈævɪdʒ<div>（形）どう猛な、残忍な、荒涼とした、未開の</div>	
 bashful	bˈæʃf(ə)l<div>（形）内気な、恥ずかしがりの</div>	
 sly	slάɪ<div>（形）ずるい、悪賢い</div>	
 cunning	kˈʌnɪŋ<div>（形）狡猾な、ずるい、悪賢い</div>	
@@ -3799,3 +3799,22 @@ chivalry	ʃív(ə)lri<div>（名）騎士道</div><div>※ヨーロッパで成�
 fortify	fˈɔɚṭəfὰɪ<div>（動）要塞化する</div>	
 the Roman Empire	<div>émpɑɪɚ<br></div>（名）ローマ帝国	
 Christianity	krìstʃiˈænəṭi<div>（名）キリスト教</div>	
+bypass	ˈbaɪˌpæs<div>（動）迂回する</div><div>（名）バイパス（自動車用迂回路）</div>	
+Mediterranean	mèdəṭəréɪniən<div>（形）地中海の</div>	
+westward	<div>wéstwɚd<br></div>（副）西に向かって<div>（形）西向きの</div>	
+charter（「チャーター」「貸し切り」以外の名詞）	tʃάɚṭɚ<div>（名）特許状、チャーター、貸し切り</div><div>（動）チャーターする</div>	
+the Industrial Revolution	ɪndˈʌstriəl&nbsp;rèvəlúːʃən<br><div>（名）産業革命</div>	
+a host of	<div>hóʊst<br></div>多くの	
+boredom	bˈɔɚdəm<div>（名）退屈</div>	
+the Bering Strait	ˈbɛrɪŋ&nbsp;stréɪt<div>（名）ベーリング海峡</div>	
+impel	ɪmpél<div>（動）（感情などを）駆り立てる</div>	
+plantation	plæntéɪʃən<div>（名）植民地</div>	
+Puritan	pjˈʊ(ə)rətn<div>（名）ピューリタン、清教徒</div><div>※十六世紀後半、イギリス国教会に反抗して起こったプロテスタントの一派。清浄に生活することを主張した。</div>	
+patriotism	péɪtriətìzm<div>（名）愛国心</div>	
+aggrandizement	əgrˈændɪzmənt<div>（名）増大、強化</div>	
+oath	óʊθ<div>（名）誓い、宣誓</div>	
+at the expense of	ekspéns<div>〜を犠牲にして</div>	
+tavern	tˈævɚn<div>（名）居酒屋、酒場</div>	
+garrison	gˈærəsn<div>（名）駐屯軍</div>	
+resentment	rɪzéntmənt<div>（名）憤慨</div>	
+voice（「発音する」以外の動詞）	vˈɔɪs<div>（動）表明する、発音する</div><div>（名）声</div>	
