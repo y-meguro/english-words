@@ -865,7 +865,7 @@ conglomerate	[kənglάm(ə)rət]<div>コングロマリット、複合企業</di
 consortium	<div>kənsˈɔɚʃ(i)əm<br></div>コンソーシアム、共同事業体	
 articles of incorporation	定款	
 break-even point	損益分岐点	
-solvent（「支払い能力がある」以外の形容詞）	<div>[sάlv(ə)nt]</div>（形）支払い能力がある、経営が健全な、溶解力がある	
+solvent（「支払い能力がある」以外の形容詞）	<div>[sάlv(ə)nt]</div>（形）溶解力がある、支払い能力がある、経営が健全な	
 go bust	<div>bˈʌst<br></div>倒産する	
 liquidate	[líkwədèɪt]<div>（動）（負債などを）清算する、（会社などを）整理する</div>	
 due diligence	<div>dílədʒəns<br></div>デューディリジェンス、資産調査	
@@ -3690,7 +3690,7 @@ Mesozoic times	mèzəzóʊɪk<div>（名）中生代</div><div>※地質時代�
 swampy	swάmpi<div>（形）沼地の</div>	
 wiggle	wígl<div>（動）（くねくね）小刻みに動く</div>	
 locomotion	lòʊkəmóʊʃən<div>（名）運動、移動</div>	
-bill（「請求書」「紙幣」以外の名詞）	bíl<div>（名）くちばし、請求書、紙幣</div>	
+bill（「請求書」「紙幣」以外の名詞2つ）	bíl<div>（名）くちばし、法案、請求書、紙幣</div>	
 skylark	"skάɪlὰɚk<div>（名）ひばり</div><div><img src=""hib.jpeg""><br></div>"	
 crow	króʊ<div>（名）カラス</div>	
 cuckoo	kúːkuː<div>（名）カッコウ</div>	
@@ -3818,3 +3818,30 @@ tavern	tˈævɚn<div>（名）居酒屋、酒場</div>
 garrison	gˈærəsn<div>（名）駐屯軍</div>	
 resentment	rɪzéntmənt<div>（名）憤慨</div>	
 voice（「発音する」以外の動詞）	vˈɔɪs<div>（動）表明する、発音する</div><div>（名）声</div>	
+inflation	ɪnfléɪʃən<div>（名）インフレーション、膨張</div>	
+imposition	ìmpəzíʃən<div>（名）課税</div>	
+mercantilism	"mˈɚːkəntìːlìzm<div>（名）重商主義</div><div>※（<span style=""color: rgb(34, 34, 34);"">富国強兵のために）外国貿易を盛んにして国富を増そうとする経済政策とその理論</span></div>"	
+laissez-faire	lèseɪféɚ<div>（名）自由放任主義</div>	
+bourgeoisie	b`ʊɚʒwɑːzíː<div>（名）ブルジョア階級、資本家階級</div>	
+proletariat	pròʊləté(ə)riət<div>（名）プロレタリアート（労働者）</div>	
+communism	kάmjʊnìzm<div>（名）共産主義</div>	
+oligopoly	ὰləgάpəli<div>（名）売り手寡占（かせん）</div><div>※1つの市場の大部分を、少数の売り手で占めてしまうこと</div>	
+macroeconomics	ˌmækroɛkʌˈnɑmɪks<div>（名）マクロ経済学</div><div>※ミクロ経済学はmicroeconomics[ˌmaɪkroˌɛkʌˈnɑmɪks]</div>	
+interplay	ˈɪntɝˌple<div>（名）相互作用</div>	
+business cycle	bíznəs&nbsp;sάɪkl<div>（名）景気循環</div>	
+restoration	rèstəréɪʃən<div>（名）復古、返還、回復</div>	
+electoral	əléktərəl<div>（形）選挙の</div>	
+Republican	rɪpˈʌblɪk(ə)n<div>（名）共和党</div>	
+Democrat	déməkr`æt<div>（名）民主党</div>	
+constitution（構成・組織・性質以外の名詞）	<div>kὰnstət(j)úːʃən<br></div>（名）憲法、構成、組織、性質	
+the Senate	sénət<div>（名）上院</div>	
+the House of Representatives	ˌrɛprɪˈzɛntʌtɪvz<div>（名）下院</div>	
+house（家・小屋以外の名詞）	<div>hάʊs<br></div>（名）議会、家、小屋	
+senator	sénəṭɚ<div>（名）上院議員</div>	
+representative（代表者・代理人以外の名詞）	rèprɪzénṭəṭɪv<div>（名）下院議員、代表者、代理人</div><div>（形）代表する、代理の、表して</div>	
+secretary（秘書以外の名詞）	sékrətèri<div>（名）長官、秘書</div>	
+oligarchy	άləgὰɚki<div>（名）寡頭（かとう）政治</div><div>※少数者が国家の最高機関となって行う政治</div>	
+theocracy	θiάkrəsi<div>（名）神権政治</div><div>※国家の政体の1種で、特定宗教を統括する組織と、国家を統治する機構が実体的に同等な場合</div>	
+aristocracy	`ærɪstάkrəsi<div>（名）貴族政治</div>	
+tyrant	tάɪ(ə)rənt<div>（名）暴君、専制君主</div><div>※専制政治とは、支配者が独断で思いのままに事を決する政治</div>	
+fascist	fˈæʃɪst<div>（名）ファシズム支持者</div><div>※ファシズム: 権力で労働者階級を押さえ、外国に対しては侵略政策をとる独裁制</div>	
