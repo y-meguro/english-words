@@ -717,7 +717,7 @@ plausible	<div>plˈɔːzəbl<br></div>（形）もっともらしい、まこと
 indispensable	<div>ìndɪspénsəbl<br></div>必要不可欠な	
 cutthroat	<div>ˈkʌˌtθrot<br></div>熾烈な、弱肉強食の	
 conspicuous	<div>kənspíkjuəs<br></div>（形）著名な、人目を引く、はっきり見える	
-focal	<div>[fóʊk(ə)l]</div>焦点の当たった、重要な	
+focal	<div>[fóʊk(ə)l]</div>（形）焦点の当たった、重要な	
 reciprocal	<div>rɪsíprək(ə)l<br></div>互恵的な、相補的な	
 prone	<div>próʊn<br></div>（形）〜しがちな、（普通悪い意味で）〜する傾向がある、〜にかかりやすい、うつぶせの	
 susceptible	<div>səséptəbl<br></div>影響されやすい、感染しやすい	
@@ -1555,7 +1555,7 @@ aloft	<div>[əlˈɔːft]</div>（副）高く、上に
 tranquil	[trˈæŋkwəl]<div>（形）穏やかな</div>	
 shrewd	[ʃrúːd]<div>（形）賢い、抜け目のない</div>	
 reckless	<div>rékləs<br></div>（形）無謀な、向こう見ずの	
-diverge	[dɪvˈɚːdʒ]<div>（動）（意見などが）異なる、分かれる、分岐する</div>	
+diverge	[dɪvˈɚːdʒ]<div>（動）（意見などが）異なる、分かれる、分岐する、発散する</div>	
 lethal	[líːθ(ə)l]<div>（形）致死の</div>	
 potent	[póʊtnt]<div>（形）有力な、（酒が）強い、力強い</div>	
 aggression	<div>əgréʃən<br></div>（名）侵害	
@@ -3721,3 +3721,27 @@ multicellular	<div>mʌ`ltiséljələr<br></div>（形）多細胞の
 unicellular	jùːnɪséljʊlɚ<div>（形）単細胞の</div>	
 mitosis	mɑɪtóʊsɪs<br><div>（名）有糸分裂</div><div>※真核生物の細胞分裂における、核分裂の様式の1つ。細胞分裂の際に、クロマチンが染色体を形成し、この染色体が紡錘体によって分配される分裂様式のこと。</div>	
 meiosis	mɑɪóʊsɪs<div>（名）減数分裂</div><div>※真核生物の細胞分裂における、核分裂の様式の1つ。動物では配偶子を形成する際に行われ、生じた娘細胞では染色体数が分裂前の細胞の半分になる。一方、細胞が通常増殖する歳に取る形式は有糸分裂、あるいは体細胞分裂と呼ばれる。<br></div>	
+acoustics	əkúːstɪks<div>（名）音響学</div>	
+optics	άptɪks<div>（名）光学</div>	
+mechanics	mɪkˈænɪks<div>（名）力学、機械学</div>	
+special relativity	rèlətívəṭi<div>（名）特殊相対性（理論）</div>	
+thermodynamics	ˌθɝmoˌdaɪˈnæmɪks<div>（名）熱力学</div>	
+refract	rɪfrˈækt<div>（動）屈折させる</div>	
+ultraviolet	ˌʌltrʌˈvaɪʌlɪt<div>（名）紫外線</div><div>（形）紫外線の</div>	
+concave	kὰnkéɪv<div>（名）凹面</div><div>（形）凹面の</div>	
+magnifying glass	ˈmægnʌˌfaɪɪŋ<div>（名）虫眼鏡</div>	
+short sight	ʃˈɔɚt<div>（名）近視</div><div>※遠視はfar sight</div>	
+principal focus	prínsəp(ə)l<br><div>（名）（レンズの）焦点</div>	
+extremity	ekstréməṭi<div>（名）先端</div>	
+eyepiece	"ˈaɪˌpis<div>（名）接眼レンズ</div><div><img src=""ey.jpeg""><br></div>"	
+bacteriology	bæktì(ə)riάlədʒi<div>（名）細菌学</div>	
+dynamo	dάɪnəmòʊ<div>（名）発電機</div>	
+superconductor	ˈsupɝkʌˌndʌktɝ<div>（名）超伝導体</div>	
+quantum theory	kwάnṭəm<div>（名）量子論</div>	
+proton	próʊtɑn<div>（名）陽子</div>	
+kinematics	kìnəmˈæṭɪks<div>（名）運動学</div>	
+kinetic energy	kɪnéṭɪk<div>（名）運動エネルギー</div>	
+potential energy	<div>pəténʃəl<br></div>（名）位置エネルギー	
+branch（枝・支店・支流以外の名詞）	brˈæntʃ<div>（名）分野、枝、支店、支流</div>	
+subatomic	ˌsʌbʌˈtɑmɪk<div>（形）亜原子の<br><div>（名）亜原子<br>※原子よりも小さい粒子</div></div>	
+frame of reference	<div>fréɪm<br></div>（名）理論構成の枠組み	
