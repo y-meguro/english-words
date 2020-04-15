@@ -941,7 +941,7 @@ denomination	<div>[dɪnὰmənéɪʃən]</div>貨幣単位、額面金額
 arrears	[ərɪ́ərz]<div>（名）滞納、支払いの遅れ</div>	
 passbook	<div>ˈpæˌsbʊk<br></div>預金通帳	
 go over	〜に目を通す、〜を検討する、〜をよく調べる、〜を超える	
-convene	<div>kənvíːn<br></div>（会議などを）開催する、招集する	
+convene	<div>kənvíːn<br></div>（動）（会議などを）開催する、招集する	
 scribe	<div>skrάɪb<br></div>（名）書記、記録係	
 podium	<div>póʊdiəm<br></div>（名）演壇	
 take the floor	起立する	
@@ -1763,7 +1763,7 @@ dine	<div>dάɪn<br></div>（動）食事する
 heredity	[hɪrédəṭi]<div>（名）遺伝</div>	
 aberration	[`æbəréɪʃən]<div>（名）異常、常軌を逸すること</div>	
 marital	[mˈærəṭl]<div>（形）結婚の、夫婦間の</div>	
-exert	[ɪgzˈɚːt]<div>（動）努力する、用いる、発揮する</div>	
+exert	[ɪgzˈɚːt]<div>（動）努力する、用いる、発揮する、（影響などを）及ぼす</div>	
 illusive	[ɪlúːsɪv]<div>（形）錯覚を起こさせる、幻想的な</div>	
 stockpile	[ˈstɑˌkpaɪl]<div>（動）備蓄する</div><div>（名）備蓄</div>	
 greenback	[ˈgriˌnbæk]<div>（名）米ドル紙幣</div>	
@@ -1859,7 +1859,7 @@ sporadic	[spərˈædɪk]<div>（形）散発的な、時々起こる</div>
 idiosyncrasy	[ìdiəsíŋkrəsi]<div>（名）特異性、独特な性癖</div>	
 Uranus	[jˈʊ(ə)rənəs]<div>（名）天王星</div>	
 austere	[ɔːstíɚ]<div>（形）厳しい、簡素な、禁欲的な</div>	
-skeptic	[sképtɪk]<div>（名）懐疑論者、疑い深い人</div>	
+skeptic（名詞の意味は？）	[sképtɪk]<div>（名）懐疑論者、疑い深い人</div><div>（形）懐疑的な</div>	
 practitioner	[præktíʃ(ə)nɚ]<div>（名）開業者、弁護士、開業医、療法士</div>	
 lubricate	[lúːbrəkèɪt]<div>（動）滑らかにする、潤滑油を差す</div>	
 purge	[pˈɚːdʒ]<div>（動）取り除く、一掃する</div>	
@@ -3027,7 +3027,7 @@ infirmity	ɪnfˈɚːməṭi<div>（名）虚弱、病弱、柔弱</div>
 caliber	kˈæləbɚ<div>（名）（人の）力量、（鉄砲や管の）口径、（弾丸の）直径、品質</div>	
 bisect	bάɪsèkt<div>（動）二等分する</div>	
 temporize	témpərὰɪz<div>（動）決定を遅らせる、あいまいな態度をとる、妥協する</div>	
-ornate	ɔɚnéɪt<div>（形）装飾された、飾り立てた</div>	
+ornate	ɔɚnéɪt<div>（形）装飾された、飾り立てた、華麗な</div>	
 subliminal	sʌblímənl<div>（形）潜在意識の</div>	
 instrumental（「楽器の」以外の形容詞）	ìnstrəménṭl<div>（形）助けになって、（〜の）手段になって、楽器の</div><div><br></div><div>His father&nbsp;was&nbsp;instrumental&nbsp;in&nbsp;getting&nbsp;him the job.&nbsp;</div><div>彼がその職を見つけるのには父親の助けがあった。<br></div>	
 axis	ˈæksɪs<div>（名）軸</div>	
@@ -3883,7 +3883,7 @@ psychiatry	sɑɪkάɪətri<div>（名）精神医学</div>
 utterance	ˈʌṭərəns<div>（名）発言、発声</div>	
 larynx	"lˈærɪŋks<div>（名）喉頭</div><div><img src=""la.png""><br></div>"	
 palate	pˈælət<div>（名）口蓋</div><div>※口の中の上側の部分</div>	
-hieroglyphics	ˌhaɪroˈglɪfɪks<div>（名）象形文字</div>	
+hieroglyphics	"ˌhaɪroˈglɪfɪks<div>（名）象形文字</div><div><img src=""hi.jpeg""><br></div>"	
 cuneiform	"kjuːníːəf`ɔɚm<div>（名）くさび形文字</div><div><img src=""cu.jpeg""><br></div>"	
 decipher	dɪsάɪfɚ<div>（動）解読する</div>	
 sermon	sˈɚːmən<div>（名）説教</div>	
@@ -3893,3 +3893,51 @@ lyre	"lάɪɚ<div>（名）竪琴（たてごと）</div><div><img src=""ly.jpeg
 in the course of	kˈɔɚs<br><div>〜の間に</div>	
 to say nothing of	nˈʌθɪŋ<div>〜は言うまでもなく</div>	
 chant	tʃˈænt<div>（動）詠唱する<br><div>（名）歌</div></div>	
+astronomy	əstrάnəmi<div>（名）天文学</div>	
+Hindu	hínduː<div>（名）ヒンドゥー人</div><div>※ヒンドゥー教を信奉する</div>	
+reincarnate	rìːɪnkάɚneɪt<div>（動）生まれ変わらせる</div>	
+Buddha	búːdə<div>（名）ブッダ</div><div>※仏ともいい、「仏の悟り」を開いた人を指す</div>	
+missionary	míʃənèri<div>（名）伝道師</div>	
+Buddhism	búːdɪzm<div>（名）仏教</div>	
+Confucius	kənfjúːʃəs<div>（名）孔子</div>	
+Judaism	dʒúːdəìzm<div>（名）ユダヤ教</div>	
+the Messiah	məsάɪə<div>（名）救世主</div>	
+stained glass	"stend<div>（名）ステンドグラス</div><div><img src=""st.jpeg""><br></div>"	
+indulgence	ɪndˈʌldʒəns<div>（名）免罪符、甘やかし、ふけること</div>	
+the Crusades	kruˈsedz<div>（名）十字軍</div><div>※中世にヨーロッパ各地のキリスト教徒が、聖都エルサレムをイスラム教徒の手から奪い返すために起こした遠征軍。</div>	
+pope	póʊp<div>（名）ローマ法王</div>	
+sin	sín<div>（名）罪</div>	
+outweigh	ˈaʊˌtwe<div>（動）より勝る</div>	
+monastery	"mάnəstèri<div>（名）（特に男子の）修道院</div><div>※修道院:&nbsp;<span style=""color: rgb(34, 34, 34);"">主にカトリック教で、一定の規律を守って共同生活を営む、修道士または修道女の団体</span></div>"	
+convent	kάnv(ə)nt<div>（名）（女子の）修道院</div>	
+renaissance	rènəsάːns<div>（名）ルネッサンス</div><div>※14‐17 世紀ヨーロッパに興った古典文芸・学術の復興</div>	
+anatomy	ənˈæṭəmi<div>（名）解剖学、分析</div>	
+dissect	dɪsékt<div>（動）解剖する</div>	
+corpse	kˈɔɚps<div>（名）（特に人間の）死体</div>	
+fleeting	flíːṭɪŋ<div>（形）はかない、束の間の</div>	
+cubism	"kjúːbɪzm<div>（名）キュビズム、立体派</div><div>※20世紀初頭にパブロ・ピカソとジョルジュ・ブラックによって創始された現代美術の大きな動向。それまでの具象絵画が一つの視点に基づいて描かれていたのに対し、いろいろな角度から見た物の形を一つの画面に収めた。</div><div><img src=""cu.jpeg""><br></div>"	
+compose（構成する以外の動詞）	<div>kəmpóʊz<br></div>（動）作曲する、構成する	
+symphony	"símfəni<div>（名）交響曲</div><div><img src=""co (1).png""><br></div>"	
+concerto	"kəntʃéɚṭoʊ<div>（名）コンチェルト、協奏曲</div><div><img src=""co (1).png""><br></div>"	
+quartet	kwɔɚtét<div>（名）四重奏、カルテット</div>	
+sonata	sənάːṭə<div>（名）ソナタ</div><div>※ソナタはクラシック音楽における器楽曲、室内楽曲の形式の一つ</div>	
+requiem	rékwiəm<div>（名）レクイエム、鎮魂曲</div>	
+lullaby	lˈʌləbὰɪ<div>（名）子守歌</div>	
+chamber music	<div>tʃéɪmbɚ<br></div>（名）室内楽	
+nocturne	nάktɚːn<div>（名）夜想曲</div><div>※夜の情緒を表現しようとする曲</div>	
+suite（スウィートルーム以外の名詞）	swíːt<div>（名）組曲、組</div>	
+woodwind	wˈʊdwìnd<div>（名）木管楽器</div>	
+oboe	óʊboʊ<div>（名）オーボエ</div>	
+cello	tʃéloʊ<div>（名）チェロ</div>	
+strings（ひも・糸以外の名詞）	<div>strɪŋz<br></div>（名）弦楽器、ひも、糸	
+brass	brˈæs<div>（名）金管楽器、真ちゅう</div><div>※真ちゅう: 銅と亜鉛との合金。黄色で、展性・延性に富み、用途が広い。</div>	
+percussion	pɚkˈʌʃən<div>（名）打楽器、衝撃</div>	
+improvisation	ɪmprὰvəzéɪʃən<div>（名）即興</div>	
+syncopation	sìŋkəpéɪʃən<div>（名）シンコペーション</div><div>※音楽で、強い拍と弱い拍の位置を通常と変えて、リズムに変化を与えること。また、その技法。<br></div>	
+youth-oriented	júːθ&nbsp;ˈɔːriənṭɪd<div>（名）若者志向の</div>	
+arch	άɚtʃ<div>（名）アーチ</div>	
+domed	domd<div>（形）ドーム状の</div>	
+spire	"spάɪɚ<div>（名）尖塔</div><div>※突端（屋根）が細く尖った形をしている塔のこと</div><div><img src=""sp.jpeg""><br></div>"	
+pigment	pígmənt<div>（名）絵の具</div>	
+insipid	ɪnsípɪd<div>（形）味気ない、おもしろみのない</div>	
+facsimile	fæksíməli<div>（名）模写、ファックス</div>	
