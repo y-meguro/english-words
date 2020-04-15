@@ -1285,7 +1285,7 @@ itchy	<div>[ítʃi]</div>（形）かゆい
 bleed	[blíːd]<div>（自）出血する</div><div>※育てるはbreed</div>	
 dizzy	[dízi]<div>（形）めまいがする</div>	
 numb	[nˈʌm]<div>（形）しびれた、無感覚になった、まひした</div>	
-psychiatrist	[səkάɪətrɪst]<div>精神科医</div>	
+psychiatrist	[səkάɪətrɪst]<div>（名）精神科医</div>	
 outpatient	[ˈaʊˌtpeʃʌnt]<div>外来患者</div><div>※入院患者はinpatient</div>	
 hospitalization	<div>[hὰspɪṭəlɪzéɪʃən]</div>入院	
 checkup（照合以外の名詞）	<div>tˈʃekʌ`p<br></div>（名）健康診断、照合	
@@ -3871,3 +3871,25 @@ Hebrew	híːbruː<div>（名）ヘブライ人</div><div>※東地中海岸で�
 harshly	ˈhɑːʃli<div>（副）厳しく、手荒く</div>	
 deportation	dìːpɔɚtéɪʃən<div>（名）国外追放</div>	
 extermination	ɪkst`ɚːmənéɪʃən<div>（名）絶滅</div>	
+instinctual	ɪnstíŋ(k)tʃuəl<div>（形）本能的な</div>	
+psychosis	sɑɪkóʊsɪs<div>（名）精神病</div>	
+psychotic	sɑɪkάṭɪk<div>（形）精神病の</div>	
+delusion	dɪlúːʒən<div>（名）妄想</div>	
+hallucination	həlùːsənéɪʃən<div>（名）幻覚</div>	
+schizophrenia	skìtsəfríːniə<div>（名）精神分裂病</div>	
+psychiatric	sὰɪkiˈætrɪk<div>（形）精神医学の</div>	
+psychoanalysis	ˌsaɪkoʌˈnælʌsʌs<div>（名）精神分析</div>	
+psychiatry	sɑɪkάɪətri<div>（名）精神医学</div>	
+utterance	ˈʌṭərəns<div>（名）発言、発声</div>	
+larynx	"lˈærɪŋks<div>（名）喉頭</div><div><img src=""la.png""><br></div>"	
+palate	pˈælət<div>（名）口蓋</div><div>※口の中の上側の部分</div>	
+hieroglyphics	ˌhaɪroˈglɪfɪks<div>（名）象形文字</div>	
+cuneiform	"kjuːníːəf`ɔɚm<div>（名）くさび形文字</div><div><img src=""cu.jpeg""><br></div>"	
+decipher	dɪsάɪfɚ<div>（動）解読する</div>	
+sermon	sˈɚːmən<div>（名）説教</div>	
+symbolism	símbəlìzm<div>（名）象徴主義、象徴的意味</div>	
+elegy	élədʒi<div>（名）哀歌</div>	
+lyre	"lάɪɚ<div>（名）竪琴（たてごと）</div><div><img src=""ly.jpeg""><br></div>"	
+in the course of	kˈɔɚs<br><div>〜の間に</div>	
+to say nothing of	nˈʌθɪŋ<div>〜は言うまでもなく</div>	
+chant	tʃˈænt<div>（動）詠唱する<br><div>（名）歌</div></div>	
