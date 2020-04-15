@@ -1714,7 +1714,7 @@ foresight	[fˈɔɚsὰɪt]<div>（名）先見、将来への配慮</div>
 clemency	[klémənsi]<div>（名）寛大さ、慈悲</div>	
 methodical	[məθάdɪk(ə)l]<div>（形）秩序だった、（人が）きちんとした</div>	
 rectify	[réktəfὰɪ]<div>（動）改正する、直す</div>	
-scrape	[skréɪp]<div>（動）こすり取る、こすって滑らかにする</div>	
+scrape	[skréɪp]<div>（動）こすり取る、こすって滑らかにする</div><div>（名）こすること、すり傷</div>	
 precipitous	[prɪsípəṭəs]<div>（形）険しい、絶壁のような</div>	
 animate	[ˈænəmèɪt]<div>（動）活気づける</div><div><br></div><div>[ˈænəmət]</div><div>（形）生き生きとした</div>	
 baroque	[bəróʊk]<div>（形）バロック式の、バロックの（特にバッハやヘンデルの音楽に代表される）</div>	
@@ -2890,7 +2890,7 @@ credo	kríːdoʊ<div>（名）信条</div>
 mundane	m`ʌndéɪn<div>（形）ありふれた、日常の、現世の</div>	
 distraught	dɪstrˈɔːt<div>（形）狼狽した、気もそぞろの</div>	
 plenary	plíːnəri<div>（形）全員出席の、完全な、絶対的な</div>	
-rampant	rˈæmp(ə)nt<div>（形）蔓延した、激しい、乱暴な</div>	
+rampant	rˈæmp(ə)nt<div>（形）激しい、流行する、はびこる</div><div>※自由奔放に広がるイメージ</div>	
 venomous snake	vénəməs<div>（名）毒ヘビ</div>	
 spew	spjúː<div>（動）（煙などを）吐き出す</div>	
 cram	krˈæm<div>（動）詰め込む</div>	
@@ -3382,7 +3382,7 @@ estrange	estréɪndʒ<div>（動）引き離す、疎遠にする</div>
 domineering	dɑməní(ə)rɪŋ<div>（形）横柄な、傲慢な</div>	
 credulous	krédʒʊləs<div>（形）軽々しく信じがちな、信じやすくて</div>	
 gullible	gˈʌləbl<div>（形）だまされやすい</div>	
-agony	ˈægəni<div>（名）激しい苦痛、苦悩</div>	
+agony	ˈægəni<div>（名）激痛、苦悩</div><div>※ギリシャ語の「戦い、悩み」が語源</div>	
 mettle	méṭl<div>（名）勇気</div>	
 brag	brˈæg<div>（動）自慢する</div>	
 cajole	kədʒóʊl<div>（動）甘言で釣る（釣ろうとする）</div>	
@@ -3941,3 +3941,74 @@ spire	"spάɪɚ<div>（名）尖塔</div><div>※突端（屋根）が細く尖�
 pigment	pígmənt<div>（名）絵の具</div>	
 insipid	ɪnsípɪd<div>（形）味気ない、おもしろみのない</div>	
 facsimile	fæksíməli<div>（名）模写、ファックス</div>	
+sensory nerve	sénsəri&nbsp;nˈɚːv<br><div>（名）知覚神経</div>	
+deaf	déf<div>（形）耳の聞こえない</div>	
+auditory	ˈɔːdət`ɔːri<div>（形）耳の、聴覚の</div>	
+hearing aid	hí(ə)rɪŋ&nbsp;éɪd<br><div>（名）補聴器</div>	
+pore	pˈɔɚ<div>（名）毛穴</div>	
+platelet	pléɪtlət<div>（名）血小板</div><div>※血液を固まらせる役目をする</div>	
+clot	klάt<div>（動）（血・牛乳などを）凝固させる</div><div><div>（名）（血などの）かたまり</div></div>	
+hormone	hˈɔɚmoʊn<div>（名）ホルモン</div>	
+esophagus	ɪsάfəgəs<div>（名）食道</div>	
+liver	lívɚ<div>（名）肝臓</div>	
+stethoscope	stéθəskòʊp<div>（名）聴診器</div>	
+rib	ríb<div>（名）肋骨（ろっこつ）</div>	
+gullet	gˈʌlɪt<div>（名）食道</div>	
+duodenum	d(j)ùːədíːnəm<div>（名）十二指腸</div>	
+rectum	réktəm<div>（名）直腸</div>	
+spleen	<div>splíːn<br></div><div>（名）脾臓（ひぞう）</div>※白血球・リンパ球の一部を造り、古くなった赤血球や白血球を破壊するなどの機能も持つ	
+anus	éɪnəs<div>（名）肛門</div>	
+bladder	blˈædɚ<div>（名）膀胱</div>	
+palm	pάːm<div>（名）手のひら</div>	
+lest	lést<div>（接）〜しないように</div><div><br></div><div>Hide it lest he see it.</div><div>彼に見られるといけないから、それを隠しなさい。</div>	
+bluish	blúːɪʃ<div>（形）青みがかった</div>	
+tinge	tíndʒ<div>（名）色合い</div>	
+jaundice	dʒˈɔːndɪs<div>（名）黄疸（おうだん）</div><div>※血液中のビリルビンという色素が増えて外見上、黄色くなる状態</div>	
+pallor	pˈælɚ<div>（名）（顔・肌の不健康な）青白さ</div>	
+measles	míːzlz<div>（名）はしか</div><div>※幼児に多いウイルス性の急性伝染病の一種。発熱し、紅色の斑点(はんてん)のような発疹(ほっしん)が皮膚や粘膜にできる</div>	
+smallpox	ˈsmɔˌlpɑks<div>（名）天然痘</div>	
+infancy	ínfənsi<div>（名）幼年時代</div>	
+perspiration	p`ɚːspəréɪʃən<div>（名）発汗</div>	
+goose flesh	ˈɡuːsˌflɛʃ<div>（名）（寒さ・恐怖などによる）鳥肌</div>	
+mutant	mjúːtnt<div>（形）突然変異による</div>	
+anesthesia	`ænəsθíːʒə<div>（名）麻酔</div>	
+acupuncture	ˈækjʊp`ʌŋ(k)tʃɚ<div>（名）鍼（はり）治療</div>	
+marijuana	m`ærə(h)wάːnə<div>（名）マリファナ</div>	
+cocaine	koʊkéɪn<div>（名）コカイン</div>	
+heroin	héroʊɪn<div>（名）ヘロイン</div>	
+rabies	réɪbiːz<div>（名）狂犬病、恐水病</div>	
+mumps	mˈʌmps<div>（名）おたふくかぜ</div>	
+diphtheria	dɪfθí(ə)riə<div>（名）ジフテリア</div><div>※ジフテリア菌による急性感染症</div>	
+typhoid	tάɪfɔɪd<div>（名）腸チフス</div><div>※サルモネラの一種であるチフス菌によって引き起こされる感染症の一種</div>	
+cholera	kάlərə<div>（名）コレラ</div><div>※コレラ菌が小腸をおかし、下痢と嘔吐が激しいと極度の脱水症状になる</div>	
+polio	póʊliòʊ<div>（名）小児麻痺</div><div>※子ども（特に5歳以下）がかかることが多く、麻痺などを起こすことのある病気</div>	
+pneumonia	n(j)uːmóʊnjə<div>（名）肺炎</div>	
+tetanus	téṭənəs<div>（名）破傷風</div><div>※土中の破傷風菌が傷口からはいって起こる病気。高熱を発し、痙攣(けいれん)を起こし、重症のものは数時間で死ぬ</div>	
+whooping cough	ˈwupɪŋ&nbsp;kˈɔːf<div>（名）百日咳</div><div>※特有のけいれん性の咳発作（痙咳発作）を特徴とする急性気道感染症。咳が治まるまで約100日間（3ヵ月程度）続くことから、百日咳と呼ばれる</div>	
+dysentery	dísntèri<div>（名）赤痢</div><div>※赤痢菌・赤痢アメーバが飲食物について大腸にはいり、腸粘膜をおかして激しい下痢を起こし血便を出す病気</div>	
+malaria	məlé(ə)riə<div>（名）マラリア</div><div>※熱帯地方に多く、高熱の発作などを起こす</div>	
+chickenpox	tʃík(ə)npάks<div>（名）水ぼうそう</div>	
+arthritis	ɑɚθrάɪṭɪs<div>（名）関節炎</div>	
+spasm	spˈæzm<div>（名）ひきつけ</div><div>※痙攣。特に、小児の発作的な全身痙攣</div>	
+nosebleed	ˈnoˌzblid<div>（名）鼻血</div>	
+ointment	ˈɔɪntmənt<div>（名）軟膏</div>	
+gauze	gˈɔːz<div>（名）ガーゼ</div>	
+adhesive plaster	ædhíːsɪv&nbsp;plˈæstɚ<br><div>（名）絆創膏</div>	
+gash	gˈæʃ<div>（名）切り傷</div>	
+vaccinate	vˈæksənèɪt<div>（動）予防接種する</div>	
+scurvy	skˈɚːvi<div>（名）壊血病</div><div>※ビタミンCの不足が原因で起こる病気。症状は骨境界部での出血や、骨折、歯の発生障害など</div>	
+pulse	pˈʌls<div>（名）脈拍</div><div>（動）脈打つ</div>	
+first aid	<div>éɪd<br></div>（名）応急手当	
+artificial respiration	rèspəréɪʃən<div>（名）人工呼吸</div>	
+athlete's foot	ˈæˌθlits<div>（名）水虫</div>	
+yellow fever	jéloʊ<div>（名）黄熱病</div><div>※急性ウイルス性出血熱のひとつ</div>	
+redden	rédn<div>（動）赤くなる</div>	
+blister	blístɚ<div>（動）水ぶくれになる</div><div>（名）水ぶくれ</div>	
+coma	kóʊmə<div>（名）昏睡状態</div>	
+dislocation	dìsloʊkéɪʃən<div>（名）脱臼</div>	
+rabid	rˈæbɪd<div>（形）狂犬病にかかった</div>	
+skunk	skˈʌŋk<div>（名）スカンク</div>	
+feverish	fíːv(ə)rɪʃ<div>（形）熱のある</div>	
+delirium	dɪlí(ə)riəm<div>（名）（一時的）精神錯乱</div>	
+convulsion	kənvˈʌlʃən<div>（名）痙攣</div>	
+dumb	dˈʌm<div>（形）口のきけない</div>	
