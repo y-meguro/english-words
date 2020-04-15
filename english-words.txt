@@ -63,7 +63,7 @@ proverb	<div>prάvɚːb<br></div>ことわざ
 germ	<div>dʒˈɚːm<br></div>細菌	
 eloquent	<div>éləkwənt<br></div>雄弁な	
 enact	<div>ɪnˈækt<br></div>立法化する	
-herd	<div>hˈɚːd<br></div>（牛や豚などの）群れ	
+herd	<div>hˈɚːd<br></div>（名）（牛や豚などの）群れ	
 nerve	<div>nˈɚːv<br></div>神経	
 gross	<div>gróʊs<br></div>総計	
 deficient	<div>dɪfíʃənt<br></div>（形）不足した、不十分な	
@@ -887,7 +887,7 @@ transcript	<div>trˈænskrɪpt<br></div>成績証明書、写し
 report to	<div>rɪpˈɔɚt<br></div>〜に直属する、〜の下で働く、〜に報告義務のある	
 curriculum vitae	[kəríkjʊləm víːtɑɪ]<div>CV、履歴書</div>	
 shortlist	選抜候補者リスト<div>※発音記号がない</div>	
-probation	<div>proʊbéɪʃən<br></div>見習い期間	
+probation	<div>proʊbéɪʃən<br></div>（名）見習い期間、執行猶予	
 subsidize	[sˈʌbsədὰɪz]<div>補助金を払う</div>	
 pay slip	給与明細書	
 severance payment	<div>[sév(ə)rəns]</div>解雇手当、離職手当	
@@ -1356,7 +1356,7 @@ envoy	<div>[énvɔɪ]</div>（名）外交使節、特使
 air（風に当てる以外の動詞の意味は？）	<div>éɚ<br></div>（他）放送する、風に当てる	
 anchorperson	<div>[ǽŋkərpə`rsən]</div>報道番組の司会者	
 petty crimes	<div>péṭi<br></div>軽犯罪	
-imprisonment	[ɪmpríznmənt]<div>（名）禁固、収監</div>	
+imprisonment	[ɪmpríznmənt]<div>（名）禁固、禁固刑、収監</div>	
 corruption	<div>[kərˈʌpʃən]</div>（名）汚職、腐敗	
 bribery	[brάɪb(ə)ri]<div>（名）贈収賄、汚職</div>	
 robbery	[rάb(ə)ri]<div>（名）強盗</div>	
@@ -3173,7 +3173,7 @@ gauche	<div>góʊʃ<br></div>（形）不器用な、ぎこちない、気の利
 misconstrue	mɪskənˈstruː<div>（動）誤って解釈する、誤解する</div>	
 pierce	píɚs<div>（動）突き通す、穴を開ける</div>	
 homage	(h)άmɪdʒ<div>（名）敬意、服従</div>	
-conformity	kənfˈɔɚməṭi<div>（名）一致、調和</div>	
+conformity	kənfˈɔɚməṭi<div>（名）一致、調和、服従</div>	
 frivolity	frɪvάləṭi<div>（名）浅はか、軽薄</div>	
 exodus	éksədəs<div>（名）大移動、大量出国</div>	
 conditioned reflex	kʌˈndɪʃʌnd ríːfleks<br><div>（名）条件反射</div>	
@@ -3845,3 +3845,29 @@ theocracy	θiάkrəsi<div>（名）神権政治</div><div>※国家の政体の1
 aristocracy	`ærɪstάkrəsi<div>（名）貴族政治</div>	
 tyrant	tάɪ(ə)rənt<div>（名）暴君、専制君主</div><div>※専制政治とは、支配者が独断で思いのままに事を決する政治</div>	
 fascist	fˈæʃɪst<div>（名）ファシズム支持者</div><div>※ファシズム: 権力で労働者階級を押さえ、外国に対しては侵略政策をとる独裁制</div>	
+law code	lˈɔː<div>（名）法典</div>	
+the accused	əˈkjuːzd<div>（名）（刑事）被告人</div>	
+capital punishment	kˈæpəṭl&nbsp;pˈʌnɪʃmənt<br><div>（名）死刑</div>	
+rape	réɪp<div>（動）強姦する</div><div>（名）強姦</div>	
+arson	άɚsn<div>（名）放火</div>	
+prostitution	prὰstət(j)úːʃən<div>（名）売春</div>	
+abortion	əbˈɔɚʃən<div>（名）妊娠中絶</div>	
+antiabortion law	ˈæntiʌˈbɔrʃʌn（アクセントànti・abórtion）<div>（名）中絶禁止法</div>	
+pregnancy	prégnənsi<div>（名）妊娠</div>	
+conception（概念・構想以外の名詞）	kənsépʃən<div>（名）受胎、概念、構想</div>	
+vigilance	vídʒələns<div>（名）警戒</div>	
+liquor	líkɚ<div>（名）酒類</div>	
+domesticated	dəméstɪkèɪṭɪd<div>（形）飼いならした、家庭的な</div>	
+herd animal	hˈɚːd<div>（名）（群をなす）家畜動物</div>	
+Caucasoid	kˈɔːkəs`ɔɪd<div>（名）コーカソイド人種</div><div>※身体的特徴に基づく歴史的人種分類概念の一つ。これに分類される人々の主要な居住地はヨーロッパ、西アジア、北アフリカ、西北インドである。</div>	
+Mongoloid	mάŋgəl`ɔɪd<div>（名）モンゴル人種</div><div>※身体的特徴に基づく歴史的人種分類概念の一つ。モンゴロイドは、東アジア・東南アジアを中心に、中央アジア・南北アメリカ大陸・太平洋諸島及びアフリカ近辺のマダガスカル島に分布する。</div>	
+Negroid	níːgrɔɪd<div>（名）ネグロイド人種</div><div>※身体的特徴に基づく歴史的人種分類概念の一つ。 日本では一般に黒色人種・黒人と同義に理解される。</div>	
+melting pot	ˈmɛltɪŋ&nbsp;pάt<br><div>（名）（人種の）るつぼ</div>	
+caste	kˈæst<div>（名）カースト制</div><div>※castと発音同じ</div>	
+stratification	str`æṭəfɪkéɪʃən<div>（名）階層化</div>	
+divinely	dɪˈvaɪnli<div>（副）神のように</div>	
+ordain	ɔɚdéɪn<div>（動）（神が）定める</div>	
+Hebrew	híːbruː<div>（名）ヘブライ人</div><div>※東地中海岸で活動したセム語族に属する民族。一神教信仰のユダヤ教を信仰。自らはイスラエル人と称し、他民族からはユダヤ人と言われた。</div>	
+harshly	ˈhɑːʃli<div>（副）厳しく、手荒く</div>	
+deportation	dìːpɔɚtéɪʃən<div>（名）国外追放</div>	
+extermination	ɪkst`ɚːmənéɪʃən<div>（名）絶滅</div>	
