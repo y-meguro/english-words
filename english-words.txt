@@ -963,7 +963,7 @@ freebie	[ˈfribi]<div>試供品、無料の景品</div>
 through(by) word of mouth	口コミで	
 down market	大衆層市場<div>※up marketが高所得層市場</div>	
 saturation	<div>s`ætʃʊréɪʃən<br></div>飽和（状態）	
-demographic	[dèməgrˈæfɪk]<div>人口統計の</div>	
+demographic	[dèməgrˈæfɪk]<div>（形）人口統計の</div>	
 loss leader	<div>lˈɔːs<br></div>目玉商品	
 haggle	[hˈægl]<div>（自）値切る</div><div>（名）値段交渉</div>	
 back order	取り寄せ注文、入荷待ち	
@@ -4040,3 +4040,19 @@ credit（信頼・名声・クレジット以外の名詞）	krédɪt<div>（名
 residence hall	rézədns<div>（名）学生寮</div>	
 dweller	ˈdwɛlɝ<div>（名）住人</div>	
 bracket	brˈækɪt<div>（名）階層</div><div>※curly bracketsで波括弧、box bracketsで角括弧、round bracketsで丸括弧、angle bracketsで山括弧</div>	
+precipitously	ˌpriˈsɪpɪtʌsli<div>（副）急激に</div>	
+take the place of 〜	〜の代わりをする	
+yarn	jάɚn<div>（名）紡ぎ糸</div>	
+finished goods	ˈfɪnɪʃt<div>（名）完成品</div>	
+internal combustion engine	kəmbˈʌstʃən<br><div>（名）内燃機関</div><div>※内燃機関とは、シリンダなど機関内においてガソリンなどの燃料を燃焼させ、それによって発生した燃焼ガスを用いて直接に機械仕事を得る原動機</div>	
+the assembly line	əsémbli<br><div>（名）流れ作業</div>	
+nitrate	nάɪtreɪt<div>（名）硝酸塩</div>	
+livestock farming	lάɪvstάk<div>（名）牧畜（業）</div><div>※牧場で馬・牛・羊などを飼い育てふやす仕事</div>	
+charcoal	tʃάɚkòʊl<div>（名）炭、木炭</div>	
+demographer	dɪmάgrəfɚ<div>（名）人口学者</div>	
+get across（渡る、越える以外）	（考えなどを）理解される<div><br></div><div>Our coach is not very good at getting his ideas across.</div><div>コーチは自分の考えを伝えるのがあまり上手ではありません。</div>	
+get away with	〜を（罰を受けないで）やってのける<div><br></div><div>get away with cheating</div><div>ごまかしてそのままうまく通す</div>	
+get down	書き留める	
+get over	（病気などから）回復する	
+look out for	〜に気を付ける	
+go about	（仕事などに） 専念する	
