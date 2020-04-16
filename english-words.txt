@@ -454,7 +454,7 @@ preliminary	<div>prɪlímənèri<br></div>仮の、暫定の、本番前の
 steadily	<div>stédəli<br></div>（副）着実に、規則的に	
 controversial	<div>kὰntrəvˈɚːʃəl<br></div>（形）議論を引き起こす、議論の的になる	
 understaffed	<div>ˈʌndɝˌstæft<br></div>人手不足の	
-legislation	<div>lèdʒɪsléɪʃən<br></div>法律、法制化	
+legislation	<div>lèdʒɪsléɪʃən<br></div>（名）法律、法制化	
 plumber	<div>plˈʌmɚ<br></div>配管工	
 welder	<div>ˈwɛldɝ<br></div>溶接工	
 civil engineer	<div>sív(ə)l&nbsp;èndʒəníɚ<br></div>土木技師	
@@ -738,7 +738,7 @@ posh	<div>pάʃ<br></div>贅沢な、豪華な、おしゃれな
 plush	<div>plˈʌʃ<br></div>豪華な、おしゃれな	
 upscale	<div>ˈʌˌpskel<br></div>上層階層向けの、豪華な	
 lucrative	<div>[lúːkrəṭɪv]</div>儲かる、得な	
-tertiary	<div>tˈɚːʃièri<br></div>第三の	
+tertiary	<div>tˈɚːʃièri<br></div>（形）第三の	
 budget（形容詞の意味は？）	<div>bˈʌdʒɪt<br></div>（形）安価な、お得な<div>（名）予算</div><div>（動）予算に計上する</div>	
 elastic	<div>ɪlˈæstɪk<br></div>弾力性のある、融通の利く	
 telecommute	<div>ˈtɛlʌkʌˌmjut<br></div>在宅勤務をする	
@@ -766,7 +766,7 @@ notorious	<div>noʊtˈɔːriəs<br></div>悪名高い
 abound	<div>əbάʊnd<br></div>（自）（場所などに）たくさんある	
 bona fide	<div>ˈbonʌ&nbsp;faɪd<br></div>正真正銘の、善意の	
 phony	<div>fóʊni<br></div>にせの、偽りの	
-terse	<div>[tˈɚːs]<br></div>簡潔な、簡明な	
+terse	<div>[tˈɚːs]<br></div>（形）簡潔な、簡明な	
 frail	<div>fréɪl<br></div>（形）虚弱な、もろい	
 flimsy	<div>flímzi<br></div>（形）もろい、見え透いた	
 ensuing	<div>ˈɛnsuɪŋ<br></div>次の、続いて起こる	
@@ -4069,3 +4069,20 @@ fall back on	頼る
 fall on	（曜日などに）当たる<div><br></div><div>Christmas falls on a Sunday this year.</div><div>今年クリスマスは日曜日に当たります</div>	
 drop out of	（学校などを）止める	
 pull up（引き抜く以外の意味）	（車などが）止まる、引き抜く	
+add up to	詰まるところ〜となる	
+allow for	<div>əlάʊ<br></div>考慮に入れる	
+answer for	責任を負う	
+care for（世話する以外）	好む、世話する<div><br></div><div>Would you care for something cold?</div><div>なにか冷たいものをお飲みになりますか？</div>	
+drive at	意図する<div><br></div><div>We had a hard time figuring out what he was driving at.</div><div>私たちには彼が何を言おうとしているのかを理解するのはとても大変でした。</div>	
+fool around	ふざける	
+leave out	除外する	
+mix up（混ぜ合わせる以外の意味）	混同する、混ぜ合わせる	
+talk into ...ing	説得して...させる<div><br></div><div>Kate is going to talk her father into buying a new bicycle.</div><div>ケートは新しい自転車を買ってくれるように父親を説得するつもりです。</div>	
+think over	熟考する	
+use up	使い果たす	
+in case	〜だといけないから<div><br></div><div>You had better close the window in case it gets windy.</div><div>風が強くなるといけないから、窓を閉めたほうが良いよ。</div>	
+at heart	心の底では<div><br></div><div>Joe spent many years working at the shop, but at heart he was a writer.</div><div>ジョーはそのお店で何年も働いていたが、根は作家だった。</div>	
+at home（「在宅して」「くつろいで」以外の意味）	精通して、在宅して、くつろいで	
+at loose ends	定職がなくて、ぶらぶらして	
+at odds	争って	
+on no account	決して〜しない	
