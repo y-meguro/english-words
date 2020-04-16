@@ -758,7 +758,7 @@ compulsory	<div>kəmpˈʌls(ə)ri<br></div>義務的な、強制的な
 obligatory	<div>[əblígət`ɔːri]</div>義務的な、強制的な	
 serial	<div>sí(ə)riəl<br></div>（形）連続する、連載の、連番の<div>（名）連載</div>	
 intense	<div>[ɪnténs]</div>激しい、情熱的な	
-intensify	<div>ɪnténsəfὰɪ<br></div>（他）強くする<div>（自）強くなる</div>	
+intensify	<div>ɪnténsəfὰɪ<br></div>（他）強める、激化する<div>（自）強くなる</div>	
 ardent	<div>άɚdnt<br></div>（形）熱心な、情熱的な	
 outlying	<div>ˈaʊˌtlaɪɪŋ<br></div>（形）辺鄙な、枝葉末節の	
 juror	<div>dʒˈʊ(ə)rɚ<br></div>陪審員	
@@ -1522,7 +1522,7 @@ shoddy	[ʃάdi]<div>（形）粗雑な、安物の</div>
 erode	[ɪróʊd]<div>（動）むしばむ、腐食する、侵食する</div>	
 profusely	[prəˈfjusli]<div>（副）深く、豊富に</div>	
 cursory	[kˈɚːs(ə)ri]<div>（形）大まかな、せっかちの、ぞんざいな</div>	
-disperse	[dɪspˈɚːs]<div>（動）分散させる</div>	
+disperse	[dɪspˈɚːs]<div>（動）分散させる、散らす</div>	
 overturn	[òʊvɚtˈɚːn]<div>横転させる、ひっくり返す</div>	
 degrade	[dɪgréɪd]<div>（動）（格や品位を）落とす、（面目を）失わせる</div>	
 whirl	[(h)wˈɚːl]<div>（動）ぐるぐる回る、旋回させる、渦巻く</div>	
@@ -2999,7 +2999,7 @@ meek	míːk<div>（形）柔和な、おとなしい</div>
 mixed breed	bríːd<div>（名）雑種</div>	
 summon	sˈʌmən<div>（動）召喚する、要求する</div>	
 mediocre	mìːdióʊkɚ<div>（形）並の、二流の、良くも悪くもない</div>	
-bourgeois	bˈʊɚʒwɑː<div>（名）中産階級の人、ブルジョア</div><div>（形）中産階級の、資本主義の</div>	
+bourgeois	bˈʊɚʒwɑː<div>（名）ブルジョア</div><div>（形）ブルジョアの<br>※中世においては中産階級、マルクス主義においては資本家階級を指す<br></div>	
 salutary	sˈæljʊtèri<div>（形）ためになる、有益な、健康に良い</div>	
 hue	hjúː<div>（名）色、色合い</div>	
 indolent	índələnt<div>（形）怠惰な</div>	
@@ -3264,7 +3264,7 @@ piling	ˈpaɪlɪŋ<div>（名）（通例 〜s）（集合的に）杭、杭打�
 resin	rézn<div>（名）樹脂、松ヤニ</div>	
 moratorium	m`ɔːrətˈɔːriəm<div>（名）（政府などによる弁済に関する）一時停止、支払猶予</div>	
 tenet	ténɪt<div>（名）教義、主義</div>	
-delude	dɪlúːd<br><div>（動）だます、欺く</div>	
+delude	dɪlúːd<br><div>（動）惑わす、だます、欺く</div>	
 swine	swάɪn<div>（名）ブタ、不快なもの</div>	
 chisel	tʃízl<div>（動）（像などを）彫る、不正をする</div><div>（名）のみ</div>	
 rescind	rɪsínd<div>（動）（法律や契約などを）無効にする、取り消す</div>	
@@ -3287,7 +3287,7 @@ income distribution	dìstrəbjúːʃən<div>（名）所得配分</div>
 ration	rˈæʃən<div>（名）支給、配給</div><div>（動）配給する</div>	
 culpable	kˈʌlpəbl<div>（形）とがめられるべき</div>	
 stagger	stˈægɚ<div>（動）よろめく、よろめかせる、ためらう</div>	
-excrete	ekskríːt<div>（動）排泄する</div><div><br></div>	
+excrete	ekskríːt<div>（動）排泄する</div>	
 bombastic	bɑmbˈæstɪk<div>（形）大げさな、大言壮語の</div>	
 ibis	άɪbɪs<div>（名）（鳥の）トキ</div>	
 clockwise	ˈklɒkwaɪz<div>（形・副）時計周りの（に）</div>	
@@ -3787,7 +3787,7 @@ rectangular solid	rektˈæŋgjʊlɚ&nbsp;sάlɪd<br><div>（名）直方体</div
 Paleolithic Age	pèɪliəlíθɪk<div>（名）旧石器時代</div>	
 sow	sóʊ<div>（動）（種を）まく</div>	
 weave	wíːv<div>（動）織る</div>	
-the Old Testament	<div>téstəmənt<br></div>（名）旧約聖書	
+the Old Testament	<div>téstəmənt<br></div>（名）旧約聖書<div>※旧約聖書は、ユダヤ教およびキリスト教の正典。「旧約聖書」という呼称は旧約の成就としての『新約聖書』を持つキリスト教の立場からのもので、ユダヤ教では旧約聖書が唯一の「聖書」である。そのためユダヤ教では旧約聖書とは呼ばれず、単に聖書と呼ばれる</div>	
 biblical	bíblɪk(ə)l<div>（形）聖書の</div>	
 version（「版」以外の名詞）	vˈɚːʒən<div>（名）説明、解釈、版</div>	
 fluorine	flˈʊ(ə)riːn<div>（名）フッ素</div>	
@@ -3822,7 +3822,7 @@ inflation	ɪnfléɪʃən<div>（名）インフレーション、膨張</div>
 imposition	ìmpəzíʃən<div>（名）課税</div>	
 mercantilism	"mˈɚːkəntìːlìzm<div>（名）重商主義</div><div>※（<span style=""color: rgb(34, 34, 34);"">富国強兵のために）外国貿易を盛んにして国富を増そうとする経済政策とその理論</span></div>"	
 laissez-faire	lèseɪféɚ<div>（名）自由放任主義</div>	
-bourgeoisie	b`ʊɚʒwɑːzíː<div>（名）ブルジョア階級、資本家階級</div>	
+bourgeoisie	b`ʊɚʒwɑːzíː<div>（名）ブルジョア階級</div><div>※中世においては中産階級、マルクス主義においては資本家階級を指す</div>	
 proletariat	pròʊləté(ə)riət<div>（名）プロレタリアート（労働者）</div>	
 communism	kάmjʊnìzm<div>（名）共産主義</div>	
 oligopoly	ὰləgάpəli<div>（名）売り手寡占（かせん）</div><div>※1つの市場の大部分を、少数の売り手で占めてしまうこと</div>	
@@ -3937,7 +3937,7 @@ syncopation	sìŋkəpéɪʃən<div>（名）シンコペーション</div><div>�
 youth-oriented	júːθ&nbsp;ˈɔːriənṭɪd<div>（名）若者志向の</div>	
 arch	άɚtʃ<div>（名）アーチ</div>	
 domed	domd<div>（形）ドーム状の</div>	
-spire	"spάɪɚ<div>（名）尖塔</div><div>※突端（屋根）が細く尖った形をしている塔のこと</div><div><img src=""sp.jpeg""><br></div>"	
+spire	"spάɪɚ<div>（名）尖塔（せんとう）</div><div>※突端（屋根）が細く尖った形をしている塔のこと</div><div><img src=""sp.jpeg""><br></div>"	
 pigment	pígmənt<div>（名）絵の具</div>	
 insipid	ɪnsípɪd<div>（形）味気ない、おもしろみのない</div>	
 facsimile	fæksíməli<div>（名）模写、ファックス</div>	
@@ -4012,3 +4012,31 @@ feverish	fíːv(ə)rɪʃ<div>（形）熱のある</div>
 delirium	dɪlí(ə)riəm<div>（名）（一時的）精神錯乱</div>	
 convulsion	kənvˈʌlʃən<div>（名）痙攣</div>	
 dumb	dˈʌm<div>（形）口のきけない</div>	
+ecologist	ɪkάlədʒɪst<div>（名）生態学者</div>	
+cleanse	klénz<div>（動）清潔にする、洗う</div>	
+exploitation	èksplɔɪtéɪʃən<div>（名）開発</div>	
+economize	ɪkάnəmὰɪz<div>（動）節約する</div>	
+fatality	feɪtˈæləṭi<div>（名）不運、死亡者</div>	
+coastal	kóʊstl<div>（形）沿岸の</div>	
+mill	míl<div>（名）工場</div>	
+DDT	díːdìːtíː<div>（名）ディーディーティー（殺虫剤）</div>	
+PCB（polychlorinated biphenyl）	píːsìːbíː /&nbsp;ˌpɑˌliˈklɔrɪˌnetɪd&nbsp;ˈbɪfʌnʌl<div>（名）ポリ塩化ビフェニール</div><div>※プラスチックの製造などに使われている化合物</div>	
+evacuation	ɪv`ækjuéɪʃən<div>（名）避難</div>	
+suburban	səbˈɚːb(ə)n<div>（形）郊外の</div>	
+pollutant	pəlúːtnt<div>（名）汚染物質</div>	
+irritability	ìrəṭəbíləṭi<div>（名）短気</div>	
+monogamy	mənάgəmi<div>（名）単婚性</div><div>※一組の男女によって取結ばれる婚姻形態</div>	
+polygamy	pəlígəmi<div>（名）複婚性</div><div>※一夫多妻または一妻多夫</div>	
+heterosexuality	hèṭəroʊsèkʃuˈæləṭi<div>（名）異性愛</div>	
+homosexuality	hòʊməsèkʃuˈæləṭi<div>（名）同性愛</div>	
+naughty	nˈɔːṭi<div>（形）いたずらな</div>	
+gerontology	dʒèrəntάlədʒi<div>（名）老年学</div><div>※老年期の変化・特徴・問題などを研究する</div>	
+aging	éɪdʒɪŋ<div>（名）老化</div>	
+grade point average	ˈæv(ə)rɪdʒ<div>（名）GPA</div>	
+dean	díːn<div>（名）学部長</div>	
+cumulative	kjúːmjʊləṭɪv<div>（名）累積の</div>	
+secondary school	sék(ə)ndèri<br><div>（名）中等学校（日本の中高等学校）</div>	
+credit（信頼・名声・クレジット以外の名詞）	krédɪt<div>（名）履修単位、信頼、名声、クレジット</div>	
+residence hall	rézədns<div>（名）学生寮</div>	
+dweller	ˈdwɛlɝ<div>（名）住人</div>	
+bracket	brˈækɪt<div>（名）階層</div><div>※curly bracketsで波括弧、box bracketsで角括弧、round bracketsで丸括弧、angle bracketsで山括弧</div>	
