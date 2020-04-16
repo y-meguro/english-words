@@ -1976,7 +1976,7 @@ be sick of 〜	〜にうんざりしている
 set about 〜	〜に取りかかる	
 in no time	すぐに	
 wind up with 〜	<div>wínd<br></div>〜に終わる	
-take up 〜	（問題などを）取り上げる	
+take up 〜	（問題などを）取り上げる、（時間・場所などを）取る	
 make for 〜	〜に向かう、〜に寄与する<div><br></div><div>He made for the door.</div><div>彼はドアの方へ進んだ</div>	
 far from 〜	〜するどころでなく、決して〜ない	
 straighten up 〜	<div>stréɪtn<br></div>〜を整頓する	
@@ -2269,7 +2269,7 @@ go Dutch	<div>dˈʌtʃ<br></div>割り勘にする
 cast aside 〜	（友達などと）関係を絶つ、〜を見捨てる	
 hit on(upon) 〜	〜をふと思いつく	
 get back at 〜	〜に仕返しをする	
-tell on 〜	（体に）こたえる、〜のことを告げ口する	
+tell on 〜	（体に）こたえる、〜のことを告げ口する、影響を与える	
 be reduced to rubble	<div>rɪˈdjuːst<br></div>がれきとなる	
 do one's part	役目を果たす、本文を尽くす	
 be subject to 〜（影響を受けやすい以外の意味）	〜する可能性がある、〜（の影響）を受けやすい、〜を必要とする	
@@ -2296,7 +2296,7 @@ lay an egg	<div>léɪ<br></div>卵を産む
 be incapable of doing	〜できない	
 fill in 〜（記入する以外の意味）	〜に詳しく知らせる、〜に記入する	
 on purpose	<div>pˈɚːpəs<br></div>わざと	
-give away 〜	〜を寄付する、〜をただで与える	
+give away 〜	〜を寄付する、〜をただで与える、（秘密などを）漏らす	
 stay up	（夜遅くまで）寝ずに起きている	
 save the day	窮地を救う、勝利へ導く、成功をもたらす	
 drop by	立ち寄る	
@@ -2314,7 +2314,7 @@ That's the last straw.	<div>strˈɔː<br></div>もう勘弁できない
 give 〜 a lift(ride)	〜を車に乗せる	
 as good as the next	どれにも劣らず良い	
 give it time	時間をかける、時が熟すのを待つ	
-hold 〜 over	〜を持続させる	
+hold 〜 over	〜を持続させる、延期する	
 stick one's neck out	<div>stík<br></div>あえて危険を冒す	
 at odds with each other	互いに反目しあって	
 be a far cry from 〜	〜とはかなり異なっている	
@@ -2830,7 +2830,7 @@ see after 〜	〜の世話をする
 give the green light to 〜	〜に許可を与える	
 tell 〜 apart	〜を見分ける、〜を区別する	
 come of age	成年に達する	
-come up to 〜	〜まで達する	
+come up to 〜	〜まで達する、（基準に）添う	
 as a matter of fact	実を言うと、それどころか	
 take hold	根付く、確固としたものとなる	
 go so far as to do	〜さえする	
@@ -4056,3 +4056,16 @@ get down	書き留める
 get over	（病気などから）回復する	
 look out for	〜に気を付ける	
 go about	（仕事などに） 専念する	
+put by	貯金する	
+make off with	〜を持ち逃げする	
+make over	作り直す	
+call down	叱る	
+hold out	なくならない、続く	
+hold up	かざす、遅らせる	
+bring around	（人の）意識を戻らせる	
+run out（「走って外へ出る」以外の意味）	（契約期間が）切れる、走って外へ出る	
+set in	（気候などが）始まる<div><br></div><div>The cold weather has set in.</div><div>寒い気候となった。</div>	
+fall back on	頼る	
+fall on	（曜日などに）当たる<div><br></div><div>Christmas falls on a Sunday this year.</div><div>今年クリスマスは日曜日に当たります</div>	
+drop out of	（学校などを）止める	
+pull up（引き抜く以外の意味）	（車などが）止まる、引き抜く	
