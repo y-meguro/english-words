@@ -191,7 +191,7 @@ spine	<div>spάɪn<br></div>脊柱、背骨
 intimate	<div>ínṭəmət<br></div>（形）熟知した、親密な、仲の良い、内々の、私事の<div>※ intimates だと女性の下着類（名詞）</div>	
 edible	<div>édəbl<br></div>食べられる	
 engrave	<div>engréɪv<br></div>（動）（石などに文字や図案を）彫る、刻む	
-sediment	<div>sédəmənt<br></div>堆積物、沈殿物	
+sediment	<div>sédəmənt<br></div>（名）堆積物、沈殿物	
 nostril	<div>nάstrəl<br></div>鼻孔	
 hostile	<div>hάstl<br></div>敵意のある	
 deliberately	<div>dɪlíb(ə)rətli<br></div>故意に、わざと、慎重に	
@@ -335,7 +335,7 @@ swell	<div>swél<br></div>（動）（打撲・病気などで）腫れる、膨
 sprain	<div>spréɪn<br></div>捻挫（ねんざ）する<br>	
 reign	<div>réɪn<br></div>統治する	
 anguish	<div>ˈæŋɡwɪʃ<br></div>（名）苦痛、悲しみ	
-upset	<div>`ʌpsét<br></div>（動）駄目にする、転覆させる<div>（形）怒って、動揺して</div>	
+upset（動と形それぞれ）	<div>`ʌpsét<br></div>（動）駄目にする、転覆させる<div>（形）怒って、動揺して</div>	
 shiver	<div>ʃívɚ<br></div>（動）（寒さで）震える<div>（名）震え、悪寒</div>	
 pivotal	<div>pívəṭl<br></div>（形）中心となる	
 chronicle	<div>krάnɪkl<br></div>年代記、記録	
@@ -551,7 +551,7 @@ inaugural	<div>[ɪnˈɔːgjʊrəl]</div>最初の、初開催の
 installment	<div>ɪnstˈɔːlmənt<br></div>分割払いの1回分	
 redeemable	<div>rɪdíːməbl<br></div>（現金や商品と）交換可能な	
 streamline	<div>ˈstriˌmlaɪn<br></div>合理化する、簡略化する	
-insulation	<div>ìnsəléɪʃən<br></div>（音、熱、電気等を）防ぐこと	
+insulation	<div>ìnsəléɪʃən<br></div>（名）（音、熱、電気等を）防ぐこと	
 intact	<div>[ɪntˈækt]</div>傷がない	
 turnover	<div>tə'rnòuvər<br></div>離職率、（一定期間の）売上高	
 deteriorate	<div>dɪtí(ə)riərèɪt<br></div>（自）悪化する<div>（他）悪化させる</div>	
@@ -578,7 +578,7 @@ mural	<div>mjˈʊ(ə)rəl<br></div>（名）壁画<div>（形）壁の</div>
 proprietor	<div>prəprάɪəṭɚ<br></div>オーナー、所有者	
 stagnant	<div>stˈægnənt<br></div>（形）停滞した、よどんだ、活気がない	
 stringent	<div>stríndʒənt<br></div>（形）非常に厳しい、厳格な	
-testimonial	<div>[tèstəmóʊniəl]</div>（名）推薦文、推薦の声、証明書	
+testimonial	<div>[tèstəmóʊniəl]</div>（名）証明書、推薦文、推薦の声	
 turnout	<div>tə'rnàut<br></div>（名）参加者数、来場者数	
 waive	<div>wéɪv<br></div>（動）（権利や条件を）放棄する、差し控える、適用しない	
 faucet	<div>fˈɔːsɪt<br></div>（名）蛇口	
@@ -623,7 +623,7 @@ insistent	<div>[ɪnsístənt]</div>譲らない、しつこい
 necessitate	<div>nɪsésətèɪt<br></div>必要とする、やむなく〜させる	
 resumption	<div>rɪzˈʌm(p)ʃən<br></div>再開、回復	
 utter	<div>ˈʌṭɚ<br></div>（動）口に出す、声に出す<div>（形）まったくの、完全な</div>	
-prophesy	<div>[prάfəsὰɪ]</div>予言する	
+prophesy	<div>prάfəsὰɪ</div>（動）予言する	
 impeach	<div>ɪmpíːtʃ<br></div>（動）弾劾する、告発する、問いただす	
 embezzle	<div>embézl<br></div>横領する	
 gauge	<div>発音 [géɪdʒ]</div>（動）（長さなどを）測定する<div>（名）標準寸法、計量器</div>	
@@ -800,7 +800,7 @@ break out	勃発する、（突然）始まる
 pal	<div>pˈæl<br></div>仲間、友人	
 seduction	<div>[sɪdˈʌkʃən]</div>（名）誘惑、そそのかし	
 lure	<div>lˈʊɚ<br></div>（名）魅力、引きつけるもの<div>（動）誘惑する</div>	
-penchant	<div>[péntʃənt]</div>傾向、強い好み	
+penchant	<div>[péntʃənt]</div>（名）傾向、強い好み	
 remuneration	<div>[rɪmjùːnəréɪʃən]</div>報酬、給与	
 dispute	<div>[dɪspjúːt]</div>（名）論争<div>（動）論争する</div>	
 posture	<div>pάstʃɚ<br></div>姿勢、態度	
@@ -1222,8 +1222,8 @@ taper off	<div>téɪpɚ<br></div>（雨などが）上がる、先細りにな�
 bundle up（束にする以外の動詞の意味）	<div>bˈʌndl<br></div>厚着をする	
 overcast（形容詞、動詞それぞれの意味は？）	<div>ˈɔʊvɚ.kæst<br></div>（形）曇った<div>（動）覆い隠す、陰らせる</div>	
 precipitation	[prɪsìpətéɪʃən]<div>降水（量）</div>	
-downpour	<div>[ˈdaʊnpɔr]</div>豪雨	
-downfall	<div>ˈdaʊˌnfɔl<br></div>（大量の）雨・雪	
+downpour	<div>[ˈdaʊnpɔr]</div>（名）豪雨	
+downfall	<div>ˈdaʊˌnfɔl<br></div>（名）（大量の）雨・雪	
 torrential	[tɔːrénʃəl]<div>（形）激しい、猛烈な</div>	
 sleet	<div>slíːt<br></div>（名）凍雨	
 muggy	<div>[mˈʌgi]</div>（形）蒸し暑い	
@@ -1297,7 +1297,7 @@ stature	[stˈætʃɚ]<div>（名）身長、背丈</div>
 build（名詞の意味は？）	<div>bíld<br></div>（名）体格、体つき<div>（動）建設する、組み立てる</div>	
 organ	<div>[ˈɔɚg(ə)n]</div>（名）臓器、器官、オルガン	
 kidney	[kídni]<div>腎臓</div>	
-intestine	[ɪntéstɪn]<div>腸</div>	
+intestine	[ɪntéstɪn]<div>（名）腸</div>	
 pancreas	[pˈæŋkriəs]<div>すい臓</div>	
 vein	<div>véɪn<br></div>（名）静脈	
 artery	<div>[άɚṭəri]</div>動脈	
@@ -1372,7 +1372,7 @@ courtyard	[ˈkoːt.jaːd]<div>中庭</div>
 cathedral	[kəθíːdrəl]<div>聖堂、教会</div>	
 ledge	[lédʒ]<div>（出窓などにある建物の）出っ張り</div>	
 facade	[fəsάːd]<div>（名）（建物の堂々とした）正面</div>	
-guttering	"[ˈgʌtɝɪŋ]<div>雨どい（<span style=""color: rgb(34, 34, 34);"">屋根面を流れる雨水を集め、地上あるいは下水に導くための装置</span>）</div>"	
+guttering	"ˈgʌtɝɪŋ<div>（名）雨どい（<span style=""color: rgb(34, 34, 34);"">屋根面を流れる雨水を集め、地上あるいは下水に導くための装置</span>）</div>"	
 corridor	[kˈɔːrədɚ]<div>（ホテル・アパート・ビルなどでいくつもの部屋の出入り口をもっている）廊下<br></div>	
 barn	[bάɚn]<div>納屋、物置</div>	
 ramp	<div>rˈæmp<br></div>傾斜路、（高速道路の）ランプ	
@@ -1802,7 +1802,7 @@ erratic	[ɪrˈæṭɪk]<div>（形）不規則な、とっぴな</div>
 petty	[péṭi]<div>（形）（通例限定用法）ささいな、小規模な、価値の少ない、取るに足らない</div>	
 latency period	<div>léɪtnsi<br></div>（名）（病気の）潜伏期間	
 faction	[fˈækʃən]<div>（名）党派、派閥</div>	
-woe	[wóʊ]<div>（名）（通例 〜s）悲痛、苦悩、災難</div>	
+woe	wóʊ<div>（名）（通例 〜s）悲痛、苦悩、災難</div>	
 equivocal	[ɪkwívək(ə)l]<div>（形）はっきりしない、両義にとれる</div>	
 afflict	[əflíkt]<div>（動）悩ます、苦しめる</div>	
 despise	[dɪspάɪz]<div>（動）軽蔑する、ばかにする</div>	
@@ -2767,7 +2767,7 @@ beat around the bush	bˈʊʃ<div>（主に否定文で）遠回しに言う</div
 day after day	来る日も来る日も、毎日	
 by virtue of 〜	vˈɚːtʃuː<div>〜のおかげで、〜という理由で、〜の力で</div>	
 so 〜 as to do	〜にも…する<div><br></div><div>Mary was so kind as to give me a copy of her notes.</div><div>メアリーは親切にも、ノートのコピーを私にくれた</div>	
-leave out 〜	〜を無視する、〜を抜かす	
+leave out 〜	〜を無視する、除外する	
 as it is	あるがままに	
 run down	流れ落ちる、（バッテリーなどが）切れる	
 do 〜 good	〜のためになる	
@@ -3186,13 +3186,13 @@ protocol（プロトコル以外の名詞）	próʊṭək`ɔːl<div>（名）外
 sinewy	sín(j)uːi<div>（形）筋骨たくましい、筋っぽい</div>	
 miserly	ˈmaɪzəɹlɪ<div>（形）欲深い、けちな</div>	
 gentility	dʒentíləṭi<div>（名）しつけの良さ、上品さ、洗練、家柄の良さ</div>	
-brusque	bruːsk<div>（形）にべもない、ぶっきらぼうの、無愛想な</div>	
+brusque	bruːsk<div>（形）ぶっきらぼうの、無愛想な</div>	
 graphic（「グラフィックの」以外の形容詞は？）	<div>grˈæfɪk<br></div>（形）生々しい、生き生きとした、図表を用いた、グラフィックの	
 engross	ɪngróʊs<div>（動）（通例受身形で）没頭する、夢中にさせる</div>	
 gestation period	dʒestéɪʃən<br><div>（名）妊娠期間</div>	
 fodder	fάdɚ<div>（名）（干し草・わらなどの）家畜の飼料、かいば、まぐさ</div>	
 adulation	<div>`ædʒʊléɪʃən<br></div>（名）お世辞、追従、賛美	
-degradation	<div>dègrədéɪʃən<br></div>（名）格下げ、降格、（品位などの）下落、墜落	
+degradation	<div>dègrədéɪʃən<br></div>（名）格下げ、降格、墜落	
 amphitheater	ˈæmfəθìːəṭɚ<div>（名）（古代ローマなどの）円形劇場、円形盆地</div>	
 interstellar	ˌɪntɝˈstɛlɝ<div>（形）恒星間の、星と星の間の</div>	
 gray matter	gréɪ&nbsp;mˈæṭɚ<br><div>（名）（脳の）灰白質</div>	
@@ -3337,7 +3337,7 @@ diplomatic（「外交の」以外の形容詞）	dìpləmˈæṭɪk<div>（形�
 volition	voʊlíʃən<div>（名）意志、意欲、決意</div>	
 provident	prάvədnt<div>（形）用心深い、将来を配慮した、倹約な</div>	
 dispose	dɪspóʊz<div>（動）配列する、配置する、気にさせる</div>	
-disposition	dìspəzíʃən<div>（名）性質、気質、傾向、配置、配列</div>	
+disposition	dìspəzíʃən<div>（名）性質、傾向、配置</div>	
 impervious to	<div>ìmpˈɚːviəs<br></div>影響されないで、無感覚で、鈍感で	
 intrinsic	ìntrínsɪk<div>（形）固有の、本来備わっている</div>	
 utilitarian	juːtìləté(ə)riən<div>（形）功利的な、実利の</div>	
@@ -3492,7 +3492,7 @@ weighty	wéɪṭi<div>（形）重い、有力な</div>
 skimpy	skímpi<div>（形）乏しい、小さい</div>	
 invariably	ìnvé(ə)riəbli<div>（副）いつも、常に</div>	
 bough	bάʊ<div>（名）（木の）大枝</div>	
-brier	brάɪɚ<div>（名）いばら</div>	
+brier	brάɪɚ<div>（名）いばら</div><div>※briarでもいばら</div>	
 den	dén<div>（名）（動物の住む）穴</div>	
 waterway	ˈwɔtɝˌwe<div>（名）運河</div>	
 cattle	kˈæṭl<div>（名）家畜、牛</div>	
@@ -3527,7 +3527,7 @@ china	tʃάɪnə<div>（名）陶器</div>
 thoroughfare	θˈɚːrəfèɚ<div>（名）道路、通り</div>	
 wrinkle	ríŋkl<div>（名）しわ</div>	
 trickery	trík(ə)ri<div>（名）ぺてん、詐欺</div>	
-frenzy	frénzi<div>（名）逆上、乱心</div>	
+frenzy	frénzi<div>（名）逆上、乱心、熱狂</div>	
 hush	hˈʌʃ<div>（名）静寂</div><div>（動）静かにさせる</div>	
 knack	nˈæk<div>（名）技巧</div>	
 amalgam	əmˈælgəm<div>（名）混合物</div>	
@@ -3667,7 +3667,7 @@ louse	lάʊs<div>（名）シラミ</div>
 locust	lóʊkəst<div>（名）バッタ、イナゴ</div>	
 grasshopper	grˈæshὰpɚ<div>（名）キリギリス</div>	
 centipede	sénṭəpìːd<div>（名）ムカデ</div>	
-scale（「目盛り」「縮尺」「天秤」以外の名詞）	（名）うろこ、目盛り、縮尺、天秤	
+scale（「目盛り」「縮尺」「天秤」以外の名詞）	skéɪl<br>（名）うろこ、目盛り、縮尺、天秤	
 gill	gíl<div>（名）えら</div>	
 sperm	spˈɚːm<div>（名）精液</div>	
 fertilize（「肥やす」「肥料にする」以外の動詞）	fˈɚːṭəlὰɪz<div>（動）受精する、肥やす、肥料にする</div>	
@@ -4060,14 +4060,14 @@ put by	貯金する
 make off with	〜を持ち逃げする	
 make over	作り直す	
 call down	叱る	
-hold out	なくならない、続く	
+hold out	持ちこたえる、続く	
 hold up	かざす、遅らせる	
 bring around	（人の）意識を戻らせる	
 run out（「走って外へ出る」以外の意味）	（契約期間が）切れる、走って外へ出る	
 set in	（気候などが）始まる<div><br></div><div>The cold weather has set in.</div><div>寒い気候となった。</div>	
 fall back on	頼る	
 fall on	（曜日などに）当たる<div><br></div><div>Christmas falls on a Sunday this year.</div><div>今年クリスマスは日曜日に当たります</div>	
-drop out of	（学校などを）止める	
+drop out of	（学校などを）やめる	
 pull up（引き抜く以外の意味）	（車などが）止まる、引き抜く	
 add up to	詰まるところ〜となる	
 allow for	<div>əlάʊ<br></div>考慮に入れる	
@@ -4075,7 +4075,6 @@ answer for	責任を負う
 care for（世話する以外）	好む、世話する<div><br></div><div>Would you care for something cold?</div><div>なにか冷たいものをお飲みになりますか？</div>	
 drive at	意図する<div><br></div><div>We had a hard time figuring out what he was driving at.</div><div>私たちには彼が何を言おうとしているのかを理解するのはとても大変でした。</div>	
 fool around	ふざける	
-leave out	除外する	
 mix up（混ぜ合わせる以外の意味）	混同する、混ぜ合わせる	
 talk into ...ing	説得して...させる<div><br></div><div>Kate is going to talk her father into buying a new bicycle.</div><div>ケートは新しい自転車を買ってくれるように父親を説得するつもりです。</div>	
 think over	熟考する	
@@ -4154,3 +4153,37 @@ take turns	交替する<div><br></div><div>Since it was a long way to New York, 
 tear down	téɚ<div>壊す</div>	
 tip off	（秘密で）教える	
 under the weather	wéðɚ<div>気分が優れない</div>	
+hindsight	ˈhaɪndsaɪt<div>（名）後知恵</div>	
+prophetic	prəféṭɪk<div>（形）予言者の</div>	
+fanatical	fənˈæṭɪk(ə)l<div>（形）熱狂的な</div>	
+eviction	ɪvíkʃən<div>（名）追い立て</div>	
+rave	réɪv<div>（動）夢中でしゃべる</div>	
+claustrophobic	kl`ɔːstrəfóʊbɪk<div>（形）閉所恐怖症の</div>	
+rickety	ríkəṭi<div>（形）がたがたの、ぐらぐらする</div>	
+decisively	dɪˈsaɪsɪvli<div>（副）決定的に、きっぱりと</div>	
+superette	sùːpərét<div>（名）小型スーパーマーケット</div>	
+cheapskate	ˈtʃiˌpsket<div>（名）けちん坊</div>	
+swivel	swív(ə)l<div>（動）回転させる</div><div>（名）（回転椅子などの）台</div>	
+pout	pάʊt<div>（動）口をとがらす</div><div>（名）口をとがらすこと</div>	
+creaky	kríːki<div>（形）きしむ</div>	
+submission	səbmíʃən<div>（名）服従、従順</div>	
+trillion	tríljən<div>（名）1兆</div>	
+sputter	spˈʌṭɚ<div>（動）パチパチ音を立てる</div>	
+resilient	rɪzíljənt<div>（形）はね返る、快活な</div>	
+needy	níːdi<div>（形）貧乏な</div>	
+derelict	dérəlìkt<div>（名）浮浪者</div>	
+adage	ˈædɪdʒ<div>（名）金言</div>	
+bean-counter	<div>bíːn&nbsp;kάʊnṭɚ<br></div>（名）数字の計算ばかりしている人	
+tattered	tˈæṭɚd<div>（形）ぼろぼろの</div>	
+bully	bˈʊli<div>（名）いじめっ子</div>	
+subconscious	sʌˈbkɑnʃʌs<div>（形）潜在意識の</div>	
+groom	grúːm<div>（動）手入れする、訓練する</div>	
+crumble	krˈʌmbl<div>（動）ぼろぼろにくずれる</div>	
+suburbia	səbˈɚːbiə<div>（名）郊外</div>	
+demean	dɪmíːn<div>（動）品位を落とす</div>	
+naught	nˈɔːt<div>（名）無、無価値</div>	
+compound	kɑmpάʊnd<div>（動）混ぜ合わせる、度を増す</div>	
+cramped	kræmpt<div>（形）狭苦しい</div>	
+ostracism	άstrəsìzm<div>（名）追放</div>	
+preach	príːtʃ<div>（動）説教をする</div>	
+shaky	ʃéɪki<div>（形）揺れる</div>	
