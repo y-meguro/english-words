@@ -4187,3 +4187,15 @@ cramped	kræmpt<div>（形）狭苦しい</div>
 ostracism	άstrəsìzm<div>（名）追放</div>	
 preach	príːtʃ<div>（動）説教をする</div>	
 shaky	ʃéɪki<div>（形）揺れる</div>	
+tenuous	ténjuəs<div>（形）薄い、弱々しい</div>	
+crook（曲げる以外の意味は？）	krˈʊk<div>（動）盗む、曲げる</div>	
+outsmart	ˈaʊˌtsmɑrt<div>（動）知恵で負かす、裏をかく</div>	
+coffer	kˈɔːfɚ<div>（名）金庫、財源</div>	
+intimidation	<div>ɪntìmədéɪʃən<br></div>（名）脅し、脅迫	
+scoff	skάf<div>（動）あざ笑う、ばかにする</div>	
+bold	bóʊld<div>（形）大胆な、勇敢な</div>	
+doodad	dúːd`æd<div>（名）つまらない飾り物</div>	
+escrow	eskróʊ<div>（名）条件付き捺印証書</div>	
+versed	vˈɚːst<div>（形）熟達して</div>	
+silly	síli<div>（形）愚かな、ばかな</div>	
+spooky	spúːki<div>（形）気味の悪い、幽霊のような</div>	
