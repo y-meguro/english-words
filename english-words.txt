@@ -294,7 +294,7 @@ Temperate Zone	<div>témp(ə)rət<br></div>（the〜）温帯
 injustice	<div>ìndʒˈʌstɪs<br></div>不正、不法	
 fabricate	<div>fˈæbrɪkèɪt<br></div>作り上げる、でっちあげる、製作する	
 rub	<div>rˈʌb<br></div>（動）こする、摩擦する<div>（名）（通例 a〜）こすること</div>	
-affair	<div>əféɚ<br></div>事件、事柄、（〜s）業務	
+affair	<div>əféɚ<br></div>（名）事件、事柄、（〜s）業務	
 burgeon	<div>bˈɚːdʒən<br></div>（動）急速に発展する、芽生える<div>（名）新芽</div>	
 peasant	<div>péznt<br></div>（名）農民	
 lunatic	<div>lúːnətìk<br></div>（形）狂気じみた、ばかげた	
@@ -357,7 +357,7 @@ beak	<div>bíːk<br></div><div>（鳥などの）くちばし<br></div>
 prescription	<div>prɪskrípʃən<br></div>処方箋、規定	
 vegetation	<div>vèdʒətéɪʃən<br></div>（一地域の）植生、（ある地域全ての）植物、草木	
 hatch	<div>hˈætʃ<br></div>（動）孵化させる<div>（名）孵化、ハッチ、ふた</div>	
-weary	<div>wí(ə)ri<br></div>疲れ果てた	
+weary	<div>wí(ə)ri<br></div>（形）疲れ果てた	
 wasp	<div>wάsp<br></div>（名）スズメバチ、ジガバチ	
 detach	<div>dɪtˈætʃ<br></div>分離する	
 horticulture	<div>hˈɔɚṭək`ʌltʃɚ<br></div>園芸（学）	
@@ -747,7 +747,7 @@ indifferent	<div>ɪndíf(ə)rənt<br></div>（形）無関心な、冷淡な、�
 lukewarm	<div>lúːkwˈɔɚm<br></div>（形）無関心な、生ぬるい、いいかげんな	
 terrific	<div>tərífɪk<br></div>素晴らしい、ものすごい	
 fabulous	<div>fˈæbjʊləs<br></div>すばらしい、信じられないほどの	
-apprehensive	<div>[`æprɪhénsɪv]</div>心配な、懸念して	
+apprehensive	<div>`æprɪhénsɪv</div>（形）心配な、懸念して	
 subjective	<div>səbdʒéktɪv<br></div>主観的な	
 subject（形容詞の意味は？）	<div>sˈʌbdʒɪkt<br></div>（形）〜を被りやすい、〜次第である<div>（動）服従させる、（嫌な目に）あわせる</div><div>（名）主題、主語、対象</div>	
 sensual	<div>sénʃuəl<br></div>（形）肉感的な、体に感じる	
@@ -4210,3 +4210,8 @@ cynic	sínɪk<div>（名）皮肉屋</div>
 dismay	dɪsméɪ<div>（動）うろたえさせる、狼狽させる</div>	
 attain	ətéɪn<div>（動）成し遂げる、達成する</div>	
 weakling	wíːklɪŋ<div>（名）弱虫、虚弱者</div>	
+wobble	<div>wάbl<br></div>（動）ぐらぐらする、よろよろ歩く	
+steward	st(j)úːɚd<div>（名）執事</div>	
+burglarize	bˈɚːglərὰɪz<div>（動）泥棒に入る、押し入る</div>	
+dominion	dəmínjən<div>（名）支配権、領土</div>	
+clause	klˈɔːz<div>（名）節、条項</div>	
