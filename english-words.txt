@@ -459,7 +459,7 @@ plumber	<div>plˈʌmɚ<br></div>配管工
 welder	<div>ˈwɛldɝ<br></div>溶接工	
 civil engineer	<div>sív(ə)l&nbsp;èndʒəníɚ<br></div>土木技師	
 veterinarian	<div>vèṭərəné(ə)riən<br></div>獣医	
-locksmith	<div>ˈlɑˌksmɪθ<br></div>鍵屋	
+locksmith	<div>ˈlɑˌksmɪθ<br></div>（名）鍵屋	
 courier	<div>[kˈʊriɚ]</div>宅配業者、添乗員	
 auditor	<div>ˈɔːdəṭɚ<br></div>（名）会計監査官	
 attorney	<div>ətˈɚːni<br></div><div>（名）弁護士、代理人</div>	
@@ -485,7 +485,7 @@ detergent	<div>dɪtˈɚːdʒənt<br></div>洗剤
 prestigious	<div>prestídʒəs<br></div>（形）権威のある、誉れ高い、一流の、社会的地位の高い	
 misplace	<div>mɪˈsples<br></div>紛失する、置き忘れる	
 subsidiary	<div>[səbsídièri]</div>（名）子会社、補助員<div>（形）補助的な、補助金による</div>	
-disruption	<div>dɪsrˈʌpʃən<br></div>混乱、妨げ、途絶、遮断	
+disruption	<div>dɪsrˈʌpʃən<br></div>（名）混乱、分裂	
 incur	<div>ɪnkˈɚː<br></div>（損失や罰金などを）受ける、被る、負担する	
 tentative	<div>ténṭəṭɪv<br></div>仮の	
 apprentice	<div>əprénṭɪs<br></div>（名）見習い、実習生	
@@ -4018,7 +4018,7 @@ exploitation	èksplɔɪtéɪʃən<div>（名）開発</div>
 economize	ɪkάnəmὰɪz<div>（動）節約する</div>	
 fatality	feɪtˈæləṭi<div>（名）不運、死亡者</div>	
 coastal	kóʊstl<div>（形）沿岸の</div>	
-mill	míl<div>（名）工場</div>	
+mill（名詞の意味は？）	míl<div>（名）工場</div>	
 DDT	díːdìːtíː<div>（名）ディーディーティー（殺虫剤）</div>	
 PCB（polychlorinated biphenyl）	píːsìːbíː /&nbsp;ˌpɑˌliˈklɔrɪˌnetɪd&nbsp;ˈbɪfʌnʌl<div>（名）ポリ塩化ビフェニール</div><div>※プラスチックの製造などに使われている化合物</div>	
 evacuation	ɪv`ækjuéɪʃən<div>（名）避難</div>	
@@ -4215,3 +4215,15 @@ steward	st(j)úːɚd<div>（名）執事</div>
 burglarize	bˈɚːglərὰɪz<div>（動）泥棒に入る、押し入る</div>	
 dominion	dəmínjən<div>（名）支配権、領土</div>	
 clause	klˈɔːz<div>（名）節、条項</div>	
+pathogen	pˈæθədʒən<div>（名）病原体</div>	
+dyspnea	dís(p)niə<div>（名）呼吸困難</div>	
+myalgia	maɪˈældʒə<div>（名）筋肉痛</div>	
+county	kάʊnṭi<div>（名）州、群</div>	
+dissemination	dɪsèmənéɪʃən<div>（名）散布、普及、宣伝</div>	
+amenable	əmíːnəbl<div>（形）快く従って</div>	
+spatial	spéɪʃəl<div>（形）空間の</div><div>※spacialも「空間的な」</div>	
+epidemiology	èpədèmiálədʒi<div>（名）疫学</div>	
+encephalitis	ɪnsèfəlάɪṭɪs<div>（名）脳炎</div>	
+hitherto	híðɚtùː<div>（副）今までは</div>	
+henceforth	hɛnsˈfɔɹθ<div>（副）これからは</div>	
+conducive	kənd(j)úːsɪv<div>（形）（〜の）助けになって</div><div><br></div><div>It's not conducive to the public good.</div><div>それは公共の利益にならない。</div>	
