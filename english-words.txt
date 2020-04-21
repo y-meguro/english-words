@@ -4227,3 +4227,8 @@ encephalitis	ɪnsèfəlάɪṭɪs<div>（名）脳炎</div>
 hitherto	híðɚtùː<div>（副）今までは</div>	
 henceforth	hɛnsˈfɔɹθ<div>（副）これからは</div>	
 conducive	kənd(j)úːsɪv<div>（形）（〜の）助けになって</div><div><br></div><div>It's not conducive to the public good.</div><div>それは公共の利益にならない。</div>	
+woefully	wóʊfəli<div>（副）嘆かわしいほどに、ひどく</div>	
+mortality	mɔɚtˈæləṭi<div>（名）死亡率</div>	
+denaturation	dē-ˌnā-chə-ˈrā-shən（発音記号これしかない）<div>（名）変性</div>	
+anneal	əníːl<div>（動）（鋼・ガラスなどを）焼き戻す</div>	
+ground glass	<div>grάʊnd<br></div>（名）すりガラス	
