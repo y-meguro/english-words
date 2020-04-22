@@ -344,7 +344,7 @@ dove	<div>dˈʌv<br></div>鳩
 usher	<div>ˈʌʃɚ<br></div>（動）〜の先触れとなる、到来を告げる、案内する<div>（名）（劇場の）案内係</div>	
 banish	<div>bˈænɪʃ<br></div>（他）追放する、追い払う	
 fatigue	<div>[fətíːg]</div>（名）（心身の相当な）疲れ<div>（動）とても疲れさせる</div>	
-omnivore	<div>ɑ'mnivɔ`ːr<br></div>（人間などのように）雑食性の動物	
+omnivore	<div>άmnivɔ̀ːr<br></div>（人間などのように）雑食性の動物	
 tremor	<div>[trémɚ]</div>（名）（声などの）震え、（地面などの）震動<div>（自）震える</div>	
 tomb	<div>[túːm]</div>墓	
 fauna	<div>fˈɔːnə<br></div>（ある地方・時代の）動物相	
@@ -789,7 +789,7 @@ presumably	<div>prizúːməbli<br></div>おそらく、思うには
 high-profile	人目を引く、知名度の高い	
 top-notch	<div>nάtʃ<br></div>一流の、最高の	
 stunning	<div>ˈstʌnɪŋ<br></div>びっくりするような、素晴らしい	
-irrevocable	<div>[ìrévəkəbl]</div>（形）解約不能の、取り消しできない、取り返しのつかない	
+irrevocable	<div>[ìrévəkəbl]</div>（形）解約不能の、取り返しのつかない	
 allegiance	<div>[əlíːdʒəns]</div>忠誠（心）、忠実	
 opportunistic	"<div>ɑ:pɜ:ˌtu:ˈnɪstɪk<br></div>日和見主義の（<span style=""color: rgb(34, 34, 34);"">形勢をうかがって、どちらでも自分の都合のよい方につこうとする態度をとること</span>）"	
 at hand	目前に迫った、手近に	
@@ -1298,7 +1298,7 @@ build（名詞の意味は？）	<div>bíld<br></div>（名）体格、体つき
 organ	<div>[ˈɔɚg(ə)n]</div>（名）臓器、器官、オルガン	
 kidney	[kídni]<div>腎臓</div>	
 intestine	[ɪntéstɪn]<div>（名）腸</div>	
-pancreas	[pˈæŋkriəs]<div>すい臓</div>	
+pancreas	[pˈæŋkriəs]<div>（名）すい臓</div>	
 vein	<div>véɪn<br></div>（名）静脈	
 artery	<div>[άɚṭəri]</div>動脈	
 temple（名詞で寺以外の意味）	<div>témpl<br></div>（名）こめかみ、寺	
@@ -1314,7 +1314,7 @@ thigh	[θάɪ]<div>太もも</div>
 buttocks	[ˈbʌtəks]<div>尻</div><div>※bottomも尻の意味を持つ</div>	
 self-esteem	<div>estíːm<br></div>自尊心	
 furious	<div>[fjˈʊ(ə)riəs]</div>（形）激怒した、憤慨した	
-strain	<div>stréɪn<br></div>（名）精神的緊張、ストレス、種族<div>（動）引っ張る、引き締める</div>	
+strain（ストレス以外の名詞）	<div>stréɪn<br></div>（名）種族、精神的緊張、ストレス<div>（動）引っ張る、引き締める</div>	
 overwhelmed	<div>ˌovɝˈwɛlmd<br></div>（形）打ちのめされた、困惑した	
 diversion（転換以外の名詞）	<div>[dɪvˈɚːʒən]</div>（名）気晴らし、気分転換、娯楽、転換	
 day trip	日帰り旅行	
@@ -1584,7 +1584,7 @@ accumulate	<div>əkjúːmjʊlèɪt<br></div>（動）集める、（お金など
 appease	[əpíːz]<div>（動）なだめる、譲歩する、満たす</div>	
 cruel	[krúːəl]<div>（形）残酷な</div>	
 cosmic	<div>[kάzmɪk]</div>（形）宇宙の	
-insolent	"[íns(ə)lənt]<div>（形）横柄な、傲慢な、無礼な<img src=""insolent.jpeg""></div>"	
+insolent	"[íns(ə)lənt]<div>（形）横柄な、傲慢な、無礼な</div><div><img src=""insolent.jpeg""></div>"	
 abruptly	<div>əbrˈʌptli<br></div>（副）突然に	
 invert	[ɪnvˈɚːt]<div>（動）逆にする、転化する</div>	
 oblique	[oʊblíːk]<div>（形）斜めの、遠回しな</div>	
@@ -2930,7 +2930,7 @@ suspend（「延期する」「一時停止する」以外の動詞）	<div>səs
 vehement	víːəmənt<div>（形）熱狂的な、激烈な</div>	
 agreeable	əgríːəbl<div>（形）快適な、快い、賛成して</div>	
 gracious	gréɪʃəs<div>（形）丁重な、親切な、慈悲深い</div>	
-adherent	ædhí(ə)rənt<div>（名）支持者</div><div>（形）粘着性の</div>	
+adherent（名詞・形容詞それぞれ）	ædhí(ə)rənt<div>（名）支持者</div><div>（形）粘着性の</div>	
 modulate	mάdʒʊlèɪt<div>（動）調整する</div>	
 despicable	déspɪkəbl<div>（形）いやしむべき、卑劣な</div>	
 genial	dʒíːnjəl<div>（形）愛想の良い、温和な</div>	
@@ -4063,7 +4063,7 @@ call down	叱る
 hold out	持ちこたえる、続く	
 hold up	かざす、遅らせる	
 bring around	（人の）意識を戻らせる	
-run out（「走って外へ出る」以外の意味）	（契約期間が）切れる、走って外へ出る	
+run out（「走って外へ出る」「尽きる」以外の意味）	（契約期間が）切れる、走って外へ出る	
 set in	（気候などが）始まる<div><br></div><div>The cold weather has set in.</div><div>寒い気候となった。</div>	
 fall back on	頼る	
 fall on	（曜日などに）当たる<div><br></div><div>Christmas falls on a Sunday this year.</div><div>今年クリスマスは日曜日に当たります</div>	
@@ -4169,7 +4169,7 @@ creaky	kríːki<div>（形）きしむ</div>
 submission	səbmíʃən<div>（名）服従、従順</div>	
 trillion	tríljən<div>（名）1兆</div>	
 sputter	spˈʌṭɚ<div>（動）パチパチ音を立てる</div>	
-resilient	rɪzíljənt<div>（形）はね返る、快活な</div>	
+resilient	rɪzíljənt<div>（形）はね返る、快活な、回復力のある</div>	
 needy	níːdi<div>（形）貧乏な</div>	
 derelict	dérəlìkt<div>（名）浮浪者</div>	
 adage	ˈædɪdʒ<div>（名）金言</div>	
@@ -4232,3 +4232,53 @@ mortality	mɔɚtˈæləṭi<div>（名）死亡率</div>
 denaturation	dē-ˌnā-chə-ˈrā-shən（発音記号これしかない）<div>（名）変性</div>	
 anneal	əníːl<div>（動）（鋼・ガラスなどを）焼き戻す</div>	
 ground glass	<div>grάʊnd<br></div>（名）すりガラス	
+virology	vɑɪrάlədʒi<div>（名）ウイルス学</div>	
+sedation	sɪdéɪʃən<div>（名）（鎮静剤による）鎮静作用</div>	
+cereal（シリアル以外の名詞）	sí(ə)riəl<div>（名）穀物、シリアル</div>	
+wheat	(h)wíːt<div>（名）小麦</div>	
+for all intents and purposes	<div>ˌɪˈntɛnts<br></div>あらゆる点で、事実上	
+kernel	kˈɚːnl<div>（名）穀粒（こくつぶ）</div><div>※米や麦など、穀物類の粒</div>	
+if ever	（たとえ〜にしても）極めてまれ	
+infertile	ìnfˈɚːṭl<div>（形）豊かでない、生殖力のない</div>	
+soil	sˈɔɪl<div>（名）土、土地</div>	
+virulent	vír(j)ʊlənt<div>（形）猛毒のある</div>	
+optimally	<div>ɑ'ptəməli<br></div>（形）最適に	
+baboon	bæbúːn<div>（名）ヒヒ</div><div>※ヒヒ属に属する哺乳類の総称<br></div>	
+neocortex	nìoukɔ'rteks<br>（名）新皮質<div>※合理的で分析的な思考や、言語機能をつかさどる脳の部位</div>	
+undertake	`ʌndɚtéɪk<div>（動）引き受ける、着手する</div>	
+munch	mˈʌntʃ<div>（動）（あごを強く動かし、）むしゃむしゃ食う</div>	
+cortex	kˈɔɚteks<div>（名）皮質</div><div>※大脳・小脳の表層を作る灰白質部</div>	
+forage	fˈɔːrɪdʒ<div>（動）（食べ物などを）探し回る</div><div>（名）まぐさ、かいば</div>	
+trek	trék<div>（名）旅行</div><div>（動）のろのろ旅行する</div>	
+contention	kənténʃən<div>（名）争い、論争、主張</div>	
+twofold	ˈtuˈfold<div>（形）2倍の</div>	
+trudge	trˈʌdʒ<div>（動）てくてく歩く</div>	
+ostensibly	ɑsténsəbli<div>（副）表面上は</div>	
+streambed	<div>stríːmbèd<br></div>（名）河床（かしょう）<div>※川の底の地盤</div>	
+parched	pɑrtʃt<div>（形）乾ききった</div>	
+brutal	brúːṭl<div>（形）冷酷な、（天候などが、耐えられないほど）厳しい</div>	
+microbes	mάɪkroʊb<div>（名）微生物</div>	
+mite	mάɪt<div>（名）ダニ</div>	
+slushy	slˈʌʃi<div>（形）雪解けの</div>	
+miniature	míniətʃ`ʊɚ<div>（名）ミニチュア、縮小模型</div>	
+forbiddingly	fərbɪ́dɪŋgli<div>（副）人を寄せ付けないほどに</div>	
+alkaline	ˈælkəlɪn<div>（形）アルカリ（性）の</div>	
+soda（ソーダ以外の名詞）	<div>sóʊdə<br></div>（名）ナトリウム化合物、ソーダ<div>※炭酸水は昔、重曹（炭酸水素ナトリウム）を利用して作られていた。そこから炭酸水はソーダと名付けれた</div>	
+excrement	ékskrəmənt<div>（名）排泄物</div>	
+stratospheric	str`æṭəsfí(ə)rɪk<div>（形）成層圏の</div>	
+anthropology	<div>`ænθrəpάlədʒi<br></div>（名）人類学	
+parallel（「平行する」以外の動詞）	pˈærəlèl<div>（動）類似する、平行する</div><div>（名）平行線</div><div>（形）平行の</div>	
+be akin to	<div>əkín<br></div>似ている	
+insatiable	ìnséɪʃəbl<div>（形）飽くことを知らない</div>	
+pharmacology	fὰɚməkάlədʒi<div>（名）薬理学</div>	
+more often than not	たいてい	
+inherently	ɪnˈhɛrəntli<div>（副）本質的に、生得的に</div>	
+inexhaustible	ìnɪgzˈɔːstəbl<div>（形）無尽蔵の、疲れを知らない</div>	
+posit	pάzɪt<div>（動）仮定する</div><div>（名）仮定</div>	
+superficial	sùːpɚfíʃəl<div>（形）表面の、浅薄な</div>	
+unwittingly	ʌnˈwɪtɪŋli<div>（副）無意識に</div>	
+blasphemy	blˈæsfəmi<div>（名）神への不敬、冒涜</div>	
+desecrate	désɪkrèɪt<div>（動）神聖を汚す</div>	
+unsettle	`ʌnséṭl<div>（動）乱す、心を乱す</div>	
+horrify	hˈɔːrəfὰɪ<div>（動）怖がらせる</div>	
+strip away	stríp<div>奪い取る</div>	
