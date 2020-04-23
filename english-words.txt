@@ -665,7 +665,7 @@ stipulate	<div>[stípjʊlèɪt]</div>（動）（法律や契約として）規�
 suck	<div>sˈʌk<br></div>吸う、吸い込む	
 mingle	<div>míŋgl<br></div>（他）混ぜる<div>（自）交流する</div>	
 amalgamate	<div>[əmˈælgəmèɪt]</div>合併する、融合する	
-overstate	<div>ˌoʊ.vɚˈsteɪt<br></div>誇張して話す	
+overstate	<div>ˌoʊ.vɚˈsteɪt<br></div>（動）誇張して話す	
 classy	<div>klˈæsi<br></div>高級な、おしゃれな	
 persevere	<div>[p`ɚːsəvíɚ]</div>根気よくやり通す	
 tolerant	<div>tάl(ə)rənt<br></div>（形）寛大な	
@@ -711,7 +711,7 @@ culminate	<div>kˈʌlmənèɪt<br></div>ついに（ある状態に）達する�
 pertain	<div>[pɚtéɪn]</div>（自）〜に付属する、関係する	
 jeopardize	<div>ˈdʒɛpɝˌdaɪz<br></div>危うくする、危険に晒す、台無しにする	
 imperil	<div>ɪmpérəl<br></div>危険に晒す	
-pertinent	<div>pˈɚːtənənt<br></div>（形）妥当な、関連する、適切な	
+pertinent	<div>pˈɚːtənənt<br></div>（形）適切な、関連する	
 indigenous	<div>[ɪndídʒənəs]</div>（形）原産の、土着の	
 plausible	<div>plˈɔːzəbl<br></div>（形）もっともらしい、まことしやかな	
 indispensable	<div>ìndɪspénsəbl<br></div>必要不可欠な	
@@ -1361,7 +1361,7 @@ corruption	<div>[kərˈʌpʃən]</div>（名）汚職、腐敗
 bribery	[brάɪb(ə)ri]<div>（名）贈収賄、汚職</div>	
 robbery	[rάb(ə)ri]<div>（名）強盗</div>	
 prosecutor	[prάsɪkjùːṭɚ]<div>（名）検事</div>	
-bar（バー、棒以外の名詞）	<div>bάɚ<br></div>（名）法曹界、バー、棒	
+bar（バー、棒以外の名詞と動詞）	<div>bάɚ<br></div>（名）法曹界、バー、棒<div>（動）禁止する</div>	
 plaintiff	[pléɪnṭɪf]<div>（名）原告</div>	
 defendant	[dɪféndənt]<div>（名）被告</div>	
 litigation	[lìṭəgéɪʃən]<div>（名）訴訟</div>	
@@ -2019,7 +2019,7 @@ spectrum	[spéktrəm]<div>（名）スペクトル、波長、範囲</div>
 partisan	[pάɚṭɪzn]<div>（名）熱心な支持者、同志</div><div>（形）党派心の強い</div>	
 metabolism	[mətˈæbəlìzm]<div>（名）代謝作用、新陳代謝</div>	
 frigid	[frídʒɪd]<div>（形）極寒の、寒さが激しい</div>	
-pervasive	[pɚvéɪsɪv]<div>（形）隅々に広がった、浸透する、充満する</div>	
+pervasive	[pɚvéɪsɪv]<div>（形）普及する、浸透する、充満する、</div>	
 doom	[dúːm]<div>（動）運命づける</div>	
 erupt	[ɪrˈʌpt]<div>（動）噴火する、爆発する</div>	
 arbitrary（任意の以外の形容詞）	[άɚbətrèri]<div>（形）独断的な、恣意的な、任意の</div>	
@@ -2890,7 +2890,7 @@ credo	kríːdoʊ<div>（名）信条</div>
 mundane	m`ʌndéɪn<div>（形）ありふれた、日常の、現世の</div>	
 distraught	dɪstrˈɔːt<div>（形）狼狽した、気もそぞろの</div>	
 plenary	plíːnəri<div>（形）全員出席の、完全な、絶対的な</div>	
-rampant	rˈæmp(ə)nt<div>（形）激しい、流行する、はびこる</div><div>※自由奔放に広がるイメージ</div>	
+rampant	rˈæmp(ə)nt<div>（形）激しい、はびこる</div><div>※自由奔放に広がるイメージ</div>	
 venomous snake	vénəməs<div>（名）毒ヘビ</div>	
 spew	spjúː<div>（動）（煙などを）吐き出す</div>	
 cram	krˈæm<div>（動）詰め込む</div>	
@@ -3434,7 +3434,7 @@ deft	déft<div>（形）器用な、手際の良い</div>
 dull	dˈʌl<div>（形）鈍い、なまくらの、鈍感な</div>	
 enigmatic	ènɪgmˈæṭɪk<div>（形）謎の（ような）</div>	
 worn-out	<div>wˈɔɚn<br></div>（形）使い古した、疲れ果てた	
-flamboyant	flæmbˈɔɪənt<div>（形）燃えるような、けばけばしい</div>	
+flamboyant	flæmbˈɔɪənt<div>（形）燃えるような、けばけばしい、（言動などが）派手やかな</div>	
 gaudy	gˈɔːdi<div>（形）けばけばしい</div>	
 showy	ʃóʊi<div>（形）華やかな、けばけばしい</div>	
 hasty	héɪsti<div>（形）急な、早まった</div>	
@@ -4242,11 +4242,11 @@ if ever	（たとえ〜にしても）極めてまれ
 infertile	ìnfˈɚːṭl<div>（形）豊かでない、生殖力のない</div>	
 soil	sˈɔɪl<div>（名）土、土地</div>	
 virulent	vír(j)ʊlənt<div>（形）猛毒のある</div>	
-optimally	<div>ɑ'ptəməli<br></div>（形）最適に	
+optimally	<div>'ɑptəməli</div>（形）最適に	
 baboon	bæbúːn<div>（名）ヒヒ</div><div>※ヒヒ属に属する哺乳類の総称<br></div>	
 neocortex	nìoukɔ'rteks<br>（名）新皮質<div>※合理的で分析的な思考や、言語機能をつかさどる脳の部位</div>	
 undertake	`ʌndɚtéɪk<div>（動）引き受ける、着手する</div>	
-munch	mˈʌntʃ<div>（動）（あごを強く動かし、）むしゃむしゃ食う</div>	
+munch	mˈʌntʃ<div>（動）（あごを強く動かし）むしゃむしゃ食う</div>	
 cortex	kˈɔɚteks<div>（名）皮質</div><div>※大脳・小脳の表層を作る灰白質部</div>	
 forage	fˈɔːrɪdʒ<div>（動）（食べ物などを）探し回る</div><div>（名）まぐさ、かいば</div>	
 trek	trék<div>（名）旅行</div><div>（動）のろのろ旅行する</div>	
@@ -4282,3 +4282,30 @@ desecrate	désɪkrèɪt<div>（動）神聖を汚す</div>
 unsettle	`ʌnséṭl<div>（動）乱す、心を乱す</div>	
 horrify	hˈɔːrəfὰɪ<div>（動）怖がらせる</div>	
 strip away	stríp<div>奪い取る</div>	
+meet（名詞の意味は？）	míːt<div>（名）競技会、大会</div>	
+extracurricular	èkstrəkərɪ́kjələr<div>（系）課外の</div>	
+don't mention it	<div>ménʃən<br></div>どういたしまして	
+set the stage for	お膳立てをする	
+overstatement	ˈovɝˌstetmʌnt<div>（名）誇張して言うこと</div>	
+larger than life	とても堂々とした	
+in keeping with	（〜を）踏まえて	
+exaggeration	ɪgz`ædʒəréɪʃən<div>（名）誇張</div>	
+braggart	brˈægɚt<div>（名）自慢屋</div>	
+for peanuts	ˈpinʌts<div>ただみたいな値段</div>	
+joint（関節・継ぎ目以外の名詞）	dʒˈɔɪnt<div>（名）安酒場、関節、継ぎ目</div>	
+strike it rich	<div>strάɪk<br></div>大金持ちになる	
+back then	<div>bˈæk<br></div>その当時	
+embarrassing	ɪˈmbɛrʌsɪŋ<div>（形）当惑させるような、やっかいな</div>	
+leery	lí(ə)ri<div>（形）疑い深い</div>	
+take at face value	額面通りに受け取る	
+lyricist	lírɪsɪst<div>（名）作詞家</div>	
+file a suit	<div>súːt<br></div>訴訟を起こす	
+lock out	<div>lάk<br></div>締め出す	
+avenue（大通り以外の名詞）	ˈævən(j)ùː<div>（名）手段、大通り</div>	
+heir	éɚ<div>（名）相続人</div>	
+bring a suit	<div>súːt<br></div>告訴する	
+self-effacing	ɪˈfesɪŋ<div>（形）控えめな</div>	
+surly	sˈɚːli<div>（形）無愛想な</div>	
+disgrace	dɪsgréɪs<div>（名）不名誉</div>	
+fraudulently	ˈfrɔdulʌntli<div>（副）不正に</div>	
+effectively（「有効に」以外の副詞）	ɪˈfɛktɪvli<div>（副）事実上</div>	
