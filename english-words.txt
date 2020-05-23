@@ -127,8 +127,8 @@ faint（動詞と形容詞の意味それぞれ）	<div>féɪnt<br></div>（動�
 ferment	<div>fɚ(ː)mént<br></div>（動）発酵させる、動揺させる<div>（名）発酵、動揺</div><div><br></div><div>ferment&nbsp;grapes</div><div>ブドウを発酵させる<br></div>	
 discern	<div>dɪsˈɚːn<br></div>見分ける、（〜であることが）わかる	
 geyser	<div>gάɪzɚ<br></div>間欠泉	
-impermeable	<div>ìmpˈɚːmiəbl<br></div>（形）（水や光などを）通さない、不浸透性の	
-brink	<div>bríŋk<br></div>（名）縁、際	
+impermeable	<div>ìmpˈɚːmiəbl<br></div>（形）（水や光などを）通さない、不浸透性の<div><br></div><div>water impermeable sheet</div><div>遮水シート</div>	
+brink	<div>bríŋk<br></div>（名）縁、際<div><br></div><div>The company&nbsp;is on&nbsp;the&nbsp;brink&nbsp;of&nbsp;bankruptcy.<br></div><div>その会社は倒産寸前である。<br></div>	
 jolly	<div>dʒάli<br></div>楽しい、愉快な	
 configuration	<div>kənfìgjʊréɪʃən<br></div>配置、形状	
 hostility	<div>hɑstíləṭi<br></div>敵意	
@@ -183,7 +183,7 @@ Frigid Zone	<div>frídʒɪd<br></div>（the 〜）寒帯
 hibernate	<div>hάɪbɚnèɪt<br></div>（動物が）冬眠する、冬ごもりする	
 figurative	<div>fígjʊrəṭɪv<br></div>（形）比喩的な、（絵などで）表現した<div><br></div><div>a&nbsp;figurative&nbsp;use of&nbsp;a word</div><div>言葉の比喩的な用法<br></div>	
 autonomy	<div>ɔːtάnəmi<br></div>（名）自治（権）、自主性、自律	
-shed	<div>ʃéd<br></div>（動）（葉や羽などを）落とす、（光などを）放つ<div>（名）小屋</div>	
+shed	<div>ʃéd<br></div>（動）（葉や羽などを）落とす、（光などを）放つ<div>（名）小屋</div><div><br></div><div><div><div>Trees&nbsp;shed&nbsp;their&nbsp;leaves&nbsp;in&nbsp;autumn.</div><div>木は秋に葉を落とす</div></div></div>	
 jury	<div>[dʒˈʊ(ə)ri]</div>陪審（員団）、審査員団	
 riot	<div>rάɪət<br></div>暴動	
 delinquent	<div>dɪlíŋkwənt<br></div>非行の、義務不履行（怠慢）の	
@@ -241,7 +241,7 @@ condensation	<div>kὰndenséɪʃən<br></div>（名）凝結、（凝結した�
 chronic	<div>krάnɪk<br></div>慢性の	
 arable	<div>ˈærəbl</div>（形）耕作に適した、耕地向きの<div><br></div><div>arable&nbsp;land<br></div><div>耕地</div>	
 colloquial	<div>kəlóʊkwiəl<br></div>口語的な、会話的な	
-indict	<div>ɪndάɪt<br></div>（動）起訴する、告発する	
+indict	<div>ɪndάɪt<br></div>（動）起訴する、告発する<div><br></div><div>indict&nbsp;a&nbsp;person&nbsp;for&nbsp;murder</div><div>人を殺人罪で起訴する<br></div>	
 insult	<div>[ínsʌlt]</div>（動）辱める	
 squirrel	<div>skwˈɚːrəl<br></div>リス	
 deceive	<div>dɪsíːv<br></div>（動）だます、思い違いをする<div><br></div><div>I&nbsp;never&nbsp;deceive&nbsp;my&nbsp;friends.<br>私は友人をだましたりしない。<br></div>	
@@ -304,7 +304,7 @@ ballot	<div>bˈælət<br></div>（名）投票<div>（動）投票する</div>
 carbohydrate	<div>kὰɚboʊhάɪdreɪt<br></div>炭水化物	
 livestock	<div>lάɪvstάk<br></div>家畜	
 absurd	<div>əbsˈɚːd<br></div>（形）ばかばかしい、不合理な	
-weather（動詞の意味は？）	<div>wéðɚ<br></div>（動）風化させる、風雨にさらす<div>（名）天候</div>	
+weather（動詞の意味は？）	<div>wéðɚ<br></div>（動）風化させる、風雨にさらす<div>（名）天候</div><div><br></div><div>weather&nbsp;wood</div><div>木材を外気にあてて干す<br></div>	
 urbane	<div>ɚːbéɪn<br></div>洗練された、都会風の、垢抜けした	
 tremble	<div>trémbl<br></div>（恐怖、地震などで）震える	
 imminent	<div>ímənənt</div>（形）今にも起こりそうな、差し迫った、切迫した<div><br></div><div><div><div>imminent&nbsp;danger</div><div>差し迫った危険</div></div></div>	
@@ -486,7 +486,7 @@ prestigious	<div>prestídʒəs<br></div>（形）名声のある、一流の
 misplace	<div>mɪˈsples<br></div>紛失する、置き忘れる	
 subsidiary	<div>[səbsídièri]</div>（名）子会社、補助員<div>（形）補助的な、補助金による</div>	
 disruption	<div>dɪsrˈʌpʃən<br></div>（名）混乱、分裂、破壊<div><br></div><div>My new job caused a disruption in my sleep pattern.</div><div>私の新しい仕事は、睡眠パターンを乱しました。<br></div>	
-incur	<div>ɪnkˈɚː<br></div>（損失や罰金などを）受ける、被る、負担する	
+incur	<div>ɪnkˈɚː<br></div>（動）（損失や罰金などを）受ける、被る、負担する<div><br></div><div>incur a debt<br>負債を負う<br></div>	
 tentative	<div>ténṭəṭɪv<br></div>（形）仮の<div><br></div><div>a&nbsp;tentative&nbsp;theory<br></div><div>仮説</div>	
 apprentice	<div>əprénṭɪs<br></div>（名）見習い、実習生<div><br></div><div>a&nbsp;carpenter's apprentice<br></div><div>大工見習い</div>	
 overwhelmingly	<div>ˌovɝˈwɛlmɪŋli<br></div>圧倒的に	
@@ -593,7 +593,7 @@ liaison	<div>[líːəzὰn]</div>連絡係、連絡
 objectionable	<div>əbdʒékʃ(ə)nəbl<br></div>不快な、気に障る	
 repave	<div>rɪpéɪv<br></div>再舗装する	
 shortcoming	<div>ˈʃɔˌrtkʌmɪŋ<br></div>欠点、短所	
-viable	<div>vάɪəbl<br></div>実行可能な	
+viable	<div>vάɪəbl<br></div>（形）実行可能な<div><br></div><div>Make a viable plan to solve the problem.</div><div>その問題を解決する実行可能な計画を立てなさい。<br></div>	
 memorabilia	<div>mèmərəbíliə<br></div>記念品、思い出の品	
 deplete	<div>dɪplíːt<br></div>使い果たす、激減させる	
 jeopardy	<div>dʒépɚdi<br></div>危機、危険	
@@ -664,7 +664,7 @@ tardiness	<div>ˈtɑrdinʌs<br></div>（名）遅刻<div><br></div><div>I&nbsp;a
 stipulate	<div>[stípjʊlèɪt]</div>（動）（法律や契約として）規定する、明記する、要求する<div><br></div><div>The&nbsp;material is&nbsp;not of&nbsp;the&nbsp;stipulated&nbsp;quality.</div><div>その材料は契約どおりの品質のものではない。<br></div>	
 suck	<div>sˈʌk<br></div>吸う、吸い込む	
 mingle	<div>míŋgl<br></div>（他）混ぜる<div>（自）交流する、混じる</div><div><br></div><div>He&nbsp;mingled&nbsp;with&nbsp;the crowd&nbsp;in the&nbsp;streets.<br>彼は街中の雑踏にまぎれ込んだ。<br></div>	
-amalgamate	<div>[əmˈælgəmèɪt]</div>合併する、融合する	
+amalgamate	<div>əmˈælgəmèɪt</div>（動）合併する、融合する<div><br></div><div>Small companies often have to amalgamate to survive.</div><div>小規模な企業は生き残るために合併しなければならないことも多い。<br></div>	
 overstate	<div>ˌoʊ.vɚˈsteɪt<br></div>（動）誇張して話す	
 classy	<div>klˈæsi<br></div>高級な、おしゃれな	
 persevere	<div>p`ɚːsəvíɚ</div>（動）根気よくやり通す<div><br></div><div>He&nbsp;persevered&nbsp;with his work.<br>彼は仕事を我慢強くやり通した<br></div>	
@@ -719,7 +719,7 @@ cutthroat	<div>ˈkʌˌtθrot<br></div>熾烈な、弱肉強食の
 conspicuous	<div>kənspíkjuəs<br></div>（形）著名な、人目を引く、はっきり見える	
 focal	<div>[fóʊk(ə)l]</div>（形）焦点の当たった、重要な	
 reciprocal	<div>rɪsíprək(ə)l<br></div>互恵的な、相補的な	
-prone	<div>próʊn<br></div>（形）〜しがちな、うつぶせの	
+prone	<div>próʊn<br></div>（形）〜しがちな、うつぶせの<div><br></div><div>He's&nbsp;prone&nbsp;to get&nbsp;angry.<br></div><div>彼は怒りっぽい。<br></div>	
 susceptible	<div>səséptəbl<br></div>影響されやすい、感染しやすい	
 generosity	<div>dʒènərάsəṭi<br></div>寛大（な行為）	
 benevolent	<div>[bənévələnt]</div>情け深い、優しい	
@@ -823,7 +823,7 @@ environs	<div>ɪnvάɪ(ə)rənz<br></div>近郊、郊外、周囲
 nuisance	[n(j)úːsns]<div>迷惑な人、もの</div>	
 preoccupation	<div>prìːὰkjʊpéɪʃən<br></div>夢中、関心事、先入観	
 absorption	<div>əbsˈɔɚpʃən<br></div>（名）熱中、没頭<div><br></div><div>absorption&nbsp;in one's&nbsp;studies<br></div><div>研究への没頭<br></div>	
-impetus	<div>[ímpəṭəs]</div>機動力、推進力	
+impetus	<div>ímpəṭəs</div>（名）機動力、推進力<div><br></div><div>give impetus to&nbsp;political reform<br>政治改革に弾みを与える<br></div>	
 tribute	<div>tríbjuːt<br></div>賛辞、尊敬	
 commendation	<div>kὰməndéɪʃən<br></div>賞賛（の言葉）、推奨	
 epidemic	<div>èpɪdémɪk</div>（形）伝染性の、流行している<div>（名）伝染病の発生、（よくないものの）流行</div>	
@@ -1179,7 +1179,7 @@ intake	<div>[ˈɪˌntek]</div>（名）摂取
 littering	<div>ˈlɪtɝɪŋ<br></div>（名）ゴミのポイ捨て	
 incineration	<div>[ɪnsìnəréɪʃən]</div>（名）（ゴミの）焼却	
 landfill	[ˈlænd.fɪl]<div>埋め立てゴミ処理場</div>	
-sewage	[súːɪdʒ]<div>汚水、下水</div>	
+sewage	súːɪdʒ<div>（名）汚水、下水</div><div><br></div><div>sewage disposal<br>下水処理<br></div>	
 smorgasbord	[smˈɔɚgəsb`ɔɚd]<div>（名）バイキング（方式）</div>	
 treat（名詞の意味は？）	<div>tríːt<br></div>（名）ごちそう、もてなし、楽しみ<div>（他）扱う、みなす、治療する</div><div>（自）扱う、交渉する、おごる</div>	
 entree	[άːntreɪ]<div>主菜、メインディッシュ</div>	
@@ -1456,7 +1456,7 @@ bountiful	<div>[bάʊnṭif(ə)l]</div>（形）豊富な、物惜しみしな�
 inhale	<div>[ɪnhéɪl]</div>（動）吸い込む、吸入する	
 crane（クレーン以外の名詞）	<div>kréɪn<br></div>（鳥の）鶴、クレーン	
 inflame	ɪnfléɪm<div>（動）（情熱などを）かき立てる、燃え上がらせる</div><div><br></div><div>Inflame&nbsp;one's patriotism.<br></div><div>愛国心を煽る。<br></div>	
-meager	<div>[míːgɚ]</div>（形）乏しい、貧弱な、痩せた	
+meager	<div>míːgɚ</div>（形）乏しい、貧弱な、痩せた<div><br></div><div>a&nbsp;meager&nbsp;meal</div><div>乏しい食事<br></div>	
 tripe	[trάɪp]<div>（名）くだらないもの</div>	
 prawn	[prˈɔːn]<div>（名）クルマエビ</div>	
 offset（オフセット以外）	[ˈɔːfsèt]<div>（動）相殺する</div><div>（名）相殺するもの</div>	
@@ -1600,7 +1600,7 @@ spur	[spˈɚː]<div>（動）刺激する</div><div>（名）拍車</div>
 wrath	[rˈæθ]<div>（名）激怒</div>	
 obliterate	[əblíṭərèɪt]<div>（動）完全に破壊する、消す</div><div><br></div><div>obliterate&nbsp;all&nbsp;traces&nbsp;of<div>～の痕跡を消し去る</div></div>	
 apathy	[ˈæpəθi]<div>（名）無感動、無関心</div>	
-intervene	[ìnṭɚvíːn]<div>（動）仲裁をする、（間に）入る</div>	
+intervene	ìnṭɚvíːn<div>（動）仲裁をする、（間に）入る</div><div><br></div><div><div><div>intervene&nbsp;between quarreling&nbsp;parties</div><div>仲たがいしている双方の仲裁に入る</div></div></div>	
 defiance	[dɪfάɪəns]<div>（名）挑戦</div>	
 leukemia	[luːkíːmiə]<div>（名）白血病</div>	
 meddle	[médl]<div>（動）干渉する、手出しをする</div><div><br></div><div>Don't&nbsp;meddle&nbsp;in&nbsp;other people's&nbsp;affairs.</div><div>他人のことにおせっかいは無用。<br></div>	
@@ -1758,7 +1758,7 @@ anonymity	[`ænəníməṭi]<div>（名）匿名者、無名であること</div
 coniferous tree	[koʊníf(ə)rəs]<div>（名）針葉樹</div>	
 smother	smˈʌðɚ<div>（動）窒息させる、（火などを）消す、（感情などを）抑える</div><div><br></div><div><div><div>She&nbsp;smothered&nbsp;her&nbsp;own&nbsp;baby&nbsp;with a pillow.</div><div>彼女は自分の赤ん坊をまくらで窒息死させた。</div></div></div>	
 tangle	[tˈæŋgl]<div>（動）紛糾させる</div>	
-celestial	[səléstʃəl]<div>（形）天の、空の、天体の</div>	
+celestial	səléstʃəl<div>（形）天の、空の、天体の</div><div><br></div><div>a&nbsp;celestial&nbsp;body</div><div>天体<br></div>	
 dine	<div>dάɪn<br></div>（動）食事する	
 heredity	[hɪrédəṭi]<div>（名）遺伝</div><div><br></div><div>depend&nbsp;on&nbsp;heredity<div>遺伝によって決まる</div></div>	
 aberration	`æbəréɪʃən<div>（名）異常、常軌を逸すること</div><div><br></div><div>regarded&nbsp;as an&nbsp;aberration<div>異常と見なされる</div></div>	
@@ -1847,9 +1847,9 @@ smuggle	[smˈʌgl]<div>（動）密輸する</div>
 embargo	[ɪmbάɚgoʊ]<div>（名）禁止、拘留</div><div>（動）（通商を）停止する、出（入）港禁止を命ずる</div>	
 thorn	[θˈɔɚn]<div>（名）（バラなどの）とげ</div>	
 induce	[ɪnd(j)úːs]<div>（動）誘発する</div>	
-glimpse	[glím(p)s]<div>（名）ちらりと見えること</div><div>（動）ちらりと見る</div>	
+glimpse	glím(p)s<div>（名）ちらりと見えること</div><div>（動）ちらりと見る</div><div><br></div><div>I&nbsp;only&nbsp;caught&nbsp;a&nbsp;glimpse&nbsp;of the&nbsp;speeding&nbsp;car.</div><div>疾走していく車の姿をちらりと見ただけだった。<br></div>	
 sanction	[sˈæŋ(k)ʃən]<div>（名）認可、賛成、（通例 〜s）制裁</div>	
-luminary	[lúːmənèri]<div>（名）発光体、権威者、名士</div>	
+luminary	lúːmənèri<div>（名）発光体、権威者</div><div><br></div><div>The&nbsp;luminary&nbsp;is a&nbsp;white paper&nbsp;bag&nbsp;with a&nbsp;candle&nbsp;inside.<br></div><div>明かりは、中にろうそくが入っている白い紙袋です。<br></div>	
 rehabilitate	[rìː(h)əbílətèɪt]<div>（動）（けが人などの）健康を元通りにする、修復する</div>	
 rhetoric	[réṭərɪk]<div>（名）効果的な話し方、修辞学</div>	
 gastric ulcer	[gˈæstrɪk ˈʌlsɚ]<div>（名）胃潰瘍</div>	
@@ -1941,7 +1941,7 @@ trough	trˈɔːf<div>（名）（波などの）谷間、（景気などの）�
 pathetic	[pəθéṭɪk]<div>（形）痛ましい、哀れを誘う、みじめな、もの悲しい</div><div><br></div><div>She&nbsp;looks&nbsp;pathetic.<br></div><div>彼女が可哀想です。</div>	
 growl	[grάʊl]<div>（動）（犬などが）うなる、怒鳴り声で言う</div>	
 expiration	[èkspəréɪʃən]<div>（名）（契約期間などの）満了、満期</div>	
-perfunctory	[pɚfˈʌŋ(k)təri]<div>（形）いい加減な、やる気のない</div>	
+perfunctory	pɚfˈʌŋ(k)təri<div>（形）いい加減な、やる気のない</div><div><br></div><div>a&nbsp;perfunctory&nbsp;teacher</div><div>やる気のない教師<br></div>	
 forerunner	[ˈfɔˌrʌnɝ]<div>（名）先駆者、前身、前ぶれ</div>	
 right angle	（名）直角	
 ponder	[pάndɚ]<div>（動）熟考する</div>	
@@ -1996,14 +1996,14 @@ the odds are against 〜	形勢は〜に不利だ、〜に勝算はない
 before long	まもなく	
 hurl	[hˈɚːl]<div>（動）強く投げつける、放り投げる</div>	
 principal（校長以外の名詞）	[prínsəp(ə)l]<div>（名）（利子に対して）元金、校長</div><div>（形）主要な</div>	
-concur	kənkˈɚː<div>（動）一致する、同時に起こる<br><br><div><div>Our&nbsp;opinions&nbsp;concurred&nbsp;on that&nbsp;point.</div><div>その点では我々の意見は一致した。</div></div></div>	
+concur	kənkˈɚː<div>（動）一致する、同時に起こる、協力する<br><br><div><div>Our&nbsp;opinions&nbsp;concurred&nbsp;on that&nbsp;point.</div><div>その点では我々の意見は一致した。</div></div></div>	
 rigor	rígɚ<div>（名）厳しさ、過酷さ、厳密さ</div><div><br></div><div>the full&nbsp;rigor of&nbsp;the law<br>法の厳しさ<br></div>	
 arduously	[άɚdʒuəsli]<div>（副）骨を折って、苦労して</div>	
 imposing	[ˌɪˈmpozɪŋ]<div>（形）印象的な、人目を引く、堂々とした</div>	
 inertia	[ɪnˈɚːʃə]<div>（名）慣性、惰性、不活発、ものぐさ</div>	
 imprudent	ìmprúːdnt<div>（形）軽率な、思慮の浅い、無分別な</div><div><br></div><div>imprudent&nbsp;behavior</div><div>軽率なふるまい<br></div>	
 perspire	[pɚspάɪɚ]<div>（動）発汗する、汗をかく</div>	
-extol	[ɪkstóʊl]<div>（動）褒めちぎる、激賞する</div>	
+extol	ɪkstóʊl<div>（動）褒めちぎる、激賞する</div><div><br></div><div><div><div>extol the&nbsp;virtues&nbsp;of&nbsp;one's&nbsp;children</div><div>その人の子供たちの長所を絶賛する</div></div></div>	
 irreparable	[ìrép(ə)rəbl]<div>（形）（損害・損傷などが）修復できない、取り返しのつかない</div>	
 emit	[iːmít]<div>（動）（ガス・光・熱などを）発する、放出する</div>	
 dump	[dˈʌmp]<div>（動）投棄する、棄てる</div>	
@@ -2029,7 +2029,7 @@ heed	híːd<div>（動）耳を傾ける、注意する</div><div>（名）注�
 apprehend	[`æprɪhénd]<div>（動）懸念する、恐れる、理解する</div>	
 roost	rúːst<div>（名）ねぐら、とまり木</div><div><br></div><div>to leave&nbsp;the&nbsp;roost<br></div><div>ねぐらを離れる<br></div>	
 ignite	[ɪgnάɪt]<div>（動）点火する</div>	
-adversary	[ˈædvɚsèri]<div>（名）敵、対戦相手</div>	
+adversary	ˈædvɚsèri<div>（名）敵、対戦相手</div><div><br></div><div>challenge&nbsp;one's&nbsp;adversary<br></div><div>敵に挑戦する<br></div>	
 denounce	[dɪnάʊns]<div>（動）公然と非難する</div>	
 particle	pάɚṭɪkl<div>（名）微粒子、細片</div><div><br></div><div>particles&nbsp;of&nbsp;sand</div><div>砂粒<br></div>	
 foe	fóʊ<div>（名）敵、かたき</div><div><br></div><div>a political&nbsp;foe<br>政敵<br></div>	
@@ -2089,7 +2089,7 @@ captivity	[kæptívəṭi]<div>（名）捕らわれの身、隷属、拘留</di
 turmoil	tˈɚːmɔɪl<div>（名）騒ぎ、騒動、混乱</div><div><br></div><div><div><div>mental&nbsp;turmoil</div><div>精神的動揺</div></div></div>	
 languish	lˈæŋgwɪʃ<div>（動）みじめな生活をする、しぼむ、元気がなくなる</div><div><br></div><div>The&nbsp;trees&nbsp;are&nbsp;languishing&nbsp;from lack of&nbsp;rain.</div><div>雨不足で木々が弱ってきている。<br></div>	
 uniformity	[jùːnəfˈɔɚməṭi]<div>（名）均一なこと、画一性</div>	
-constituency	[kənstítʃuənsi]<div>（名）（集合的に）有権者、選挙区</div>	
+constituency	kənstítʃuənsi<div>（名）（集合的に）有権者、選挙区</div><div><br></div><div>He&nbsp;has a&nbsp;solid&nbsp;constituency.<br></div><div>彼は地盤が固い<br></div>	
 narrative	[nˈærəṭɪv]<div>（形）物語風の</div><div>（名）物語、話術</div>	
 banal	bənˈæl<div>（形）ありふれた、陳腐な</div><div><br></div><div>a&nbsp;banal question</div><div>陳腐な質問<br></div>	
 contend	[kənténd]<div>（動）（困難などに）対処する、主張する</div>	
@@ -2105,7 +2105,7 @@ mating season	[ˈmetɪŋ]<div>（名）繁殖期、交尾期</div>
 corrosive	[kəróʊsɪv]<div>（形）腐食性の、侵食する、むしばむ</div>	
 ameliorate	əmíːljərèɪt<div>（動）改善する</div>	
 atrophy	ˈætrəfi<div>（名）（医学用語で）委縮、退化、衰退</div><div>（動）委縮する、衰退させる</div>	
-precinct	príːsɪŋ(k)t<div>（名）選挙区、管区、境界、周囲</div>	
+precinct	príːsɪŋ(k)t<div>（名）選挙区、管区、境界、周囲</div><div><br></div><div>Shrine&nbsp;precinct<br></div><div>境内</div>	
 assimilate	əsíməlèɪt<div>（動）同化する、消化吸収する<br></div><div><br></div><div>assimilate&nbsp;food</div><div>食物を吸収する<br></div>	
 motor neuron	<div>móʊṭɚ n(j)ˈʊ(ə)rɑn<br></div>（名）運動ニューロン	
 allay	æléɪ<div>（動）静める、和らげる</div><div><br></div><div>allay&nbsp;one's&nbsp;excitement</div><div>興奮を静める<br></div>	
@@ -2129,7 +2129,7 @@ vagrant	véɪgrənt<div>（名）路上生活者</div><div>（形）浮浪する
 come out（咲く以外の意味）	出る、出版される<div><br></div><div>The stars came out one by one.</div><div>星が一つまた一つと現れた。</div>	
 give in	降参する	
 do more harm than good	有害無益である	
-at (on) short notice	突然に、急に	
+at (on) short notice	突然に、急に<div><br></div><div>I can't&nbsp;give&nbsp;you&nbsp;an answer&nbsp;at&nbsp;short&nbsp;notice.<br></div><div>すぐには回答できません。<br></div>	
 devote oneself to 〜	<div>dɪvóʊt<br></div>〜に専念する、〜に打ち込む	
 pick 〜 up on one's own	〜を自分自身で身につける	
 hang around (about)	あてもなくぶらつく	
@@ -2171,7 +2171,7 @@ leeway	ˈliˌwe<div>（名）余裕、ゆとり、（強風で船などが進路
 postulate	pάstʃʊlèɪt<div>（動）仮定する、要求する</div><div><br></div><div>pάstʃʊlət<br></div><div>（名）仮定、基礎条件</div>	
 emanate	émənèɪt<div>（動）（光・気体・考えなどが）発する、出る</div><div><br></div><div>Water&nbsp;emanates&nbsp;from this&nbsp;hole in the ground.</div><div>水は地面のこの穴から出て来る。<br></div>	
 convection	kənvékʃən<div>（名）（熱などの）対流</div>	
-contravene	kὰntrəvíːn<div>（動）違反する、（法律・習慣などを）破る</div>	
+contravene	kὰntrəvíːn<div>（動）違反する、（法律・習慣などを）破る</div><div><br></div><div>contravene&nbsp;the&nbsp;rules<br></div><div>規則に違反する</div>	
 wane	wéɪn<div>（動）衰える、（月が）欠ける</div>	
 ridge	"rídʒ<div>（名）尾根</div><div><br></div><div><img src=""paste-c14ae3d3cf8a3f7b81470545bed1bad901013e96.jpg""><br></div>"	
 culprit	kˈʌlprɪt<div>（名）犯罪者、被告人</div>	
@@ -2185,9 +2185,9 @@ opportune	ὰpɚt(j)úːn<div>（形）ちょうど良い、適切な、好都�
 acquiesce	`ækwiés<div>（動）（いやいやながら）従う、黙認する</div><div><br></div><div>acquiesce in&nbsp;a&nbsp;decision<br>決定に従う<br></div>	
 inane	ɪnéɪn<div>（形）ばかげた、空虚な</div><div><br></div><div>an&nbsp;inane&nbsp;remark</div><div>ばかげた言葉<br></div>	
 gratify	grˈæṭəfὰɪ<div>（動）喜ばせる、満足させる</div>	
-fiat	fíːæt<div>（名）（権力者の）命令、布告</div>	
+fiat	fíːæt<div>（名）（権力者の）命令、布告</div><div><br></div><div>issue&nbsp;a&nbsp;fiat<br></div><div>命令を発する<br></div>	
 engaging	ɪˈngedʒɪŋ<div>（形）（人を）引きつける、魅力がある</div>	
-decoy	díːkɔɪ<div>（名）おとり</div>	
+decoy	díːkɔɪ<div>（名）おとり</div><div><br></div><div>a&nbsp;police&nbsp;decoy</div><div>おとりの刑事<br></div>	
 fumigate	fjúːməgèɪt<div>（動）（くん蒸）消毒する</div>	
 invulnerable	ìnvˈʌln(ə)rəbl<div>（形）傷つくことのない、不死身の</div>	
 tyranny	tírəni<div>（名）暴政、専制政治</div>	
@@ -2202,7 +2202,7 @@ admonition	`ædməníʃən<div>（名）訓戒、警告</div>
 poignancy	pˈɔɪnjənsi<div>（名）鋭さ、感動</div>	
 odyssey	άdəsi<div>（名）冒険旅行、長期の放浪</div><div><br></div><div>The&nbsp;protagonist&nbsp;continued&nbsp;the&nbsp;odyssey&nbsp;with his father.<br></div><div>主人公は父親と一緒に放浪の旅を続けた。<br></div>	
 typify	típ(ə)fὰɪ<div>（動）代表する、典型となる</div>	
-ruthless	rúːθləs<div>（形）無情な、冷酷な</div>	
+ruthless	rúːθləs<div>（形）無情な、冷酷な</div><div><br></div><div>a&nbsp;ruthless&nbsp;killer</div><div>冷酷な殺人鬼<br></div>	
 vagabond	vˈægəbὰnd<div>（名）放浪者、さすらい人、路上生活者</div><div>（形）放浪する、さすらいの</div>	
 negation	nɪgéɪʃən<div>（名）否定、否認、打ち消し</div>	
 blanch	blˈæntʃ<div>（動）（恐怖などで）青ざめる、漂白する</div><div><br></div><div>blanch&nbsp;with fear</div><div>恐怖で青ざめる<br></div>	
@@ -2226,7 +2226,7 @@ charisma	kərízmə<div>（名）カリスマ的素質、教祖的存在</div>
 pluck	plˈʌk<div>（動）摘む、引き抜く、むしり取る</div><div><br></div><div>pluck&nbsp;a&nbsp;gray hair<br></div><div>白髪を抜く<br></div>	
 contingent	kəntíndʒənt<div>（形）臨時の、偶発的な</div><div><br></div><div>contingent&nbsp;expenses</div><div>臨時費<br></div>	
 coalesce	kòʊəlés<div>（動）連合する、合体する</div><div><br></div><div>coalesce&nbsp;into&nbsp;large&nbsp;units<div>合体して大きな集団になる</div></div>	
-ceremonious	sèrəmóʊniəs<div>（形）儀式ばった、おごそかな</div>	
+ceremonious	sèrəmóʊniəs<div>（形）儀式ばった、おごそかな</div><div><br></div><div>perform a&nbsp;ceremonious&nbsp;bow<br></div><div>儀式ばったお辞儀をする<br></div>	
 let 〜 off（降ろす以外の意味）	〜を許す、（車などから人を）降ろす	
 stand up for 〜	〜の味方をする	
 hand out 〜	〜を配布する	
@@ -2277,7 +2277,7 @@ catch on to 〜	〜を理解する
 go off	（ガスや電気が）突然止まる、（目覚まし時計などが）突然鳴り出す	
 set forth 〜	〜を説明する、〜を概説する<div><br></div><div>a&nbsp;speech&nbsp;to&nbsp;set&nbsp;forth&nbsp;one's&nbsp;opinion<br></div><div>所信を表明するために行う演説<br></div>	
 loathe	lóʊð<div>（動）ひどく嫌う</div>	
-contrite	kάntrɑɪt<div>（形）一時の、短期の、（滞在などが）短い</div>	
+contrite	kάntrɑɪt<div>（形）罪を深く悔いている、悔恨の</div><div><br></div><div>contrite&nbsp;tears<br></div><div>悔恨の涙<br></div>	
 deter	dɪtˈɚː<div>（動）抑制する、怖がらせて〜させない</div><div><br></div><div>deter&nbsp;bad&nbsp;behavior<div>悪い行いを防ぐ</div></div>	
 snare	snéɚ<div>（動）わなで捕らえる</div><div>（名）わな</div><div><br></div><div>to fall&nbsp;into a&nbsp;snare<br></div><div>計略にはまる<br></div>	
 prospector	prάspektɚ<div>（名）（鉱山の）探鉱者、試掘者</div>	
@@ -2306,7 +2306,7 @@ day in and day out	来る日も来る日も
 shed light on 〜	<div>ʃéd<br></div>〜を明らかにする、〜にヒントを与える	
 close in (on 〜)	（〜を）包囲する、（〜に）近づく	
 for a rainy day	まさかの時に備えて	
-take in 〜	〜を理解する、（受身形で）だまされる	
+take in 〜	〜を理解する、（受身形で）だまされる<div><br></div><div><div><div>take in&nbsp;a&nbsp;lecture</div><div>講演の内容をのみこむ</div></div></div>	
 show off 〜	〜を見せびらかす	
 change hands	持ち主が変わる、やり取りされる	
 go into 〜	〜を徹底的に調べる	
@@ -2325,7 +2325,7 @@ affidavit	`æfədéɪvɪt<div>（名）宣誓供述書</div>
 hindmost	háɪndmòʊst<div>（形）最後部の</div>	
 subterranean	s`ʌbtəréɪniən<div>（形）地下の、地中の、隠れた</div><div><br></div><div>a&nbsp;subterranean&nbsp;stream</div><div>地下の水流<br></div>	
 caprice	kəpríːs<div>（名）気まぐれ、移り気</div>	
-scant	skˈænt<div>（形）乏しい、不十分な</div>	
+scant	skˈænt<div>（形）乏しい、不十分な</div><div><br></div><div>a&nbsp;scant&nbsp;supply of water</div><div>不十分な水の供給<br></div>	
 impotent	ímpətnt<div>（形）無力な、無益な</div>	
 severance	sév(ə)rəns<div>（名）切断、分離、契約解除</div><div><br></div><div>severance&nbsp;of&nbsp;connection&nbsp;or&nbsp;relation<br></div><div>関係を絶つ<br></div>	
 swindle	swíndl<div>（動）（金品を）だまし取る、詐欺を働く</div><div>（名）詐欺、ぺてん</div><div><br></div><div>I'm&nbsp;not so&nbsp;easily&nbsp;swindled.</div><div>私はそうたやすくはぺてんにかからないよ。<br></div>	
@@ -2427,7 +2427,7 @@ steadfast	stédf`æst<div>（形）忠実な、しっかりした</div>
 amnesty	ˈæmnəsti<div>（名）恩赦</div><div><br></div><div>grant an amnesty to&nbsp;political prisoners<br>政治犯に恩赦を行う<br></div>	
 piety	pάɪəṭi<div>（名）信心、敬けん、敬けんな行い</div>	
 quiver	kwívɚ<div>（動）震える、揺れる</div>	
-wear away(off)	摩滅する	
+wear away(off)	摩滅する<div><br></div><div>The&nbsp;soles&nbsp;wear&nbsp;away.<br></div><div>靴の底がだんだん減る。<br></div>	
 A is to B what(as) C is to D	AのBに対する関係は、CのDに対する関係に等しい	
 give off 〜	（光・音・においなどを）放つ<div><br></div><div>These&nbsp;plants&nbsp;give off&nbsp;a&nbsp;terrible&nbsp;smell.</div><div>これらの植物はひどい悪臭を放つ.<br></div>	
 come to light	明るみに出る	
@@ -2585,7 +2585,7 @@ destitute	"déstət(j)ùːt<div>（形）困窮した、欠いている</div><di
 cryptic	kríptɪk<div>（形）秘密の、隠された、謎めいた</div>	
 accomplice	əkάmplɪs<div>（名）共犯者</div>	
 propensity	prəpénsəṭi<div>（名）傾向、性向</div>	
-jurisprudence	dʒ`ʊ(ə)rɪsprúːdns<div>（名）法学、法律学</div>	
+jurisprudence	dʒ`ʊ(ə)rɪsprúːdns<div>（名）法学、法律学</div><div><br></div><div>the faculty&nbsp;of&nbsp;jurisprudence<br></div><div>大学の法学部</div>	
 perseverance	p`ɚːsəví(ə)rəns<div>（名）忍耐、根気、不屈の努力</div><div><br></div><div>She has&nbsp;intelligence&nbsp;plus&nbsp;perseverance.<br></div><div>彼女は知性に加えて根気もある。</div>	
 sedentary	sédntèri<div>（形）固着性の、定住性の、座っている</div>	
 digression	dɑɪgréʃən<div>（名）（主題から）脱線すること</div>	
@@ -2757,7 +2757,7 @@ by means of 〜	〜を用いて、〜の助けで
 think nothing of 〜	〜を苦にしない、何とも思わない	
 make good	うまくやる、成功する、（約束を）果たす<div><br></div><div>He&nbsp;made&nbsp;good in&nbsp;business.</div><div>彼は商売に成功した。<br></div>	
 be free from 〜	（苦痛などが）ない	
-hang on	頑張る、（電話などを切らないで）待つ	
+hang on	頑張る、（電話などを切らないで）待つ<div><br></div><div>Please&nbsp;hang on&nbsp;while&nbsp;I&nbsp;get&nbsp;your&nbsp;folder.</div><div>どうぞ、私がフォルダを得る間切らずにおいてください。<br></div>	
 keep one's word	約束を守る	
 be beneficial to 〜	bènəfíʃəl<div>〜に有益である</div>	
 save one's breath	（言っても無駄なので）黙っている	
@@ -2769,7 +2769,7 @@ by virtue of 〜	vˈɚːtʃuː<div>〜のおかげで、〜という理由で、
 so 〜 as to do	〜にも…する<div><br></div><div>Mary was so kind as to give me a copy of her notes.</div><div>メアリーは親切にも、ノートのコピーを私にくれた</div>	
 leave out 〜	〜を無視する、除外する	
 as it is	あるがままに	
-run down	流れ落ちる、（バッテリーなどが）切れる	
+run down	流れ落ちる、（バッテリーなどが）切れる<div><br></div><div><div><div>The&nbsp;batteries&nbsp;in this&nbsp;radio&nbsp;are&nbsp;running&nbsp;down.</div><div>このラジオの電池は切れかけている。</div></div></div>	
 do 〜 good	〜のためになる	
 want for 〜	〜が足りない、〜に欠ける	
 burn the midnight oil	夜遅くまで勉強する	
@@ -2957,7 +2957,7 @@ fraternal society	frətˈɚːnl<div>（名）（大学などの）友愛組合</
 fresco	"fréskoʊ<div>（名）フレスコ画法、フレスコ壁画</div><div><br></div><div><img src=""fr.jpg""><br></div>"	
 avert	əvˈɚːt<div>（動）（視線・考えなどを）そらす、そむける、よける</div><div><br></div><div><div><div>She&nbsp;averted&nbsp;her&nbsp;eyes&nbsp;from the&nbsp;terrible&nbsp;sight.</div><div>彼女はその恐ろしい光景から目をそむけた。</div></div></div>	
 succulent	sˈʌkjʊlənt<div>（名）（サボテンなどの）多肉植物</div>	
-parity	pˈærəṭi<div>（名）同等、均等、等価、平価</div>	
+parity	pˈærəṭi<div>（名）同等、均等、等価</div><div><br></div><div>parity&nbsp;of&nbsp;treatment<br></div><div>均等待遇<br></div>	
 bequeath	bɪkwíːð<div>（動）遺贈する</div>	
 anachronism	ənˈækrənìzm<div>（名）時代錯誤</div>	
 roster	rάstɚ<div>（名）名簿</div>	
@@ -2997,7 +2997,7 @@ causal	kˈɔːzl<div>（形）原因となる、原因の</div>
 phonetics	fənéṭɪks<div>（名）音声学、発声学</div>	
 meek	míːk<div>（形）柔和な、おとなしい</div>	
 mixed breed	bríːd<div>（名）雑種</div>	
-summon	sˈʌmən<div>（動）召喚する、要求する</div>	
+summon	sˈʌmən<div>（動）召喚する、要求する</div><div><br></div><div>Those&nbsp;students&nbsp;were&nbsp;summoned&nbsp;into the&nbsp;presence&nbsp;of the&nbsp;principal.<br></div><div>その生徒たちは校長の前に呼び出された。<br></div>	
 mediocre	mìːdióʊkɚ<div>（形）並の、二流の、良くも悪くもない</div>	
 bourgeois	bˈʊɚʒwɑː<div>（名）ブルジョア</div><div>（形）ブルジョアの<br>※中世においては中産階級、マルクス主義においては資本家階級を指す<br></div>	
 salutary	sˈæljʊtèri<div>（形）ためになる、有益な、健康に良い</div><div><br></div><div><div><div>a&nbsp;salutary&nbsp;experience</div><div>ためになる経験</div></div></div>	
@@ -3007,7 +3007,7 @@ reactionary	riˈækʃənèri<div>（名）反動主義者、保守主義者</div
 muddle	mˈʌdl<div>（動）混乱させる、ごたまぜにする、もたもたする</div><div><br></div><div><div><div>I&nbsp;often&nbsp;muddle&nbsp;up&nbsp;their names.</div><div>彼らの名前はしばしば混同してしまう。</div></div></div>	
 obelisk	άbəlìsk<div>（名）オベリスク（古代エジプトの記念碑）</div>	
 protozoa	ˌprotʌˈzoʌ<div>（名）原生動物</div>	
-complicity	kəmplísəṭi<div>（名）共謀、共犯</div>	
+complicity	kəmplísəṭi<div>（名）共謀、共犯</div><div><br></div><div><div><div>complicity&nbsp;in a&nbsp;crime</div><div>共犯関係</div></div></div>	
 astute	əst(j)úːt<div>（形）明敏な、抜け目のない</div><div><br></div><div>He is&nbsp;an&nbsp;astute&nbsp;man.<br></div><div>彼は鋭い人間だ。<br></div>	
 polygon	pάligὰn<div>（名）多角形</div>	
 delineate	dɪlínièɪt<div>（動）（輪郭を）描く、図で表す</div>	
@@ -3042,7 +3042,7 @@ immobility	ìmoʊbíləṭi<div>（名）不動、静止</div>
 dispassionate	dìspˈæʃ(ə)nət<div>（形）冷静な</div>	
 dwindle	dwíndl<div>（動）だんだん衰える、小さくなる</div><div><br></div><div>The&nbsp;population&nbsp;is&nbsp;dwindling.</div><div>人口はどんどん減少している。<br></div>	
 astrology	əstrάlədʒi<div>（名）占星術</div><div><br></div><div>daily&nbsp;astrology<div>毎日の星占い</div></div>	
-straddle	strˈædl<div>（動）（馬などに）またがる、両足を広げる</div>	
+straddle	strˈædl<div>（動）（馬などに）またがる、両足を広げる</div><div><br></div><div>straddle&nbsp;a horse</div><div>馬にまたがる<br></div>	
 fallible	fˈæləbl<div>（形）間違いを起こすことがある、誤りやすい</div>	
 ascetic	æséṭɪk<div>（形）禁欲的な、苦行の</div><div>（名）苦行僧</div>	
 aver	əvˈɚː<div>（動）断言する、明言する</div><div><br></div><div>aver&nbsp;a&nbsp;fact<div>事実を断言する</div></div>	
@@ -3104,7 +3104,7 @@ inborn	ˈɪˌnbɔrn<div>（形）生まれつきの、生来の</div>
 wizardry	wízɚdri<div>（名）魔法、魔術</div>	
 twitter	twíṭɚ<div>（名）（鳥の）さえずり、おしゃべり</div><div>（動）（小鳥が）さえずる</div>	
 sublime	səblάɪm<div>（形）荘厳な、最高の、崇高な</div>	
-repulse	rɪpˈʌls<div>（動）撃退する、はねつける</div><div>（名）撃退、拒絶</div>	
+repulse	rɪpˈʌls<div>（動）撃退する、はねつける</div><div>（名）撃退、拒絶</div><div><br></div><div>repulse&nbsp;the enemy<br></div><div>敵を退ける<br></div>	
 pastoral	pˈæstərəl<div>（形）牧歌的な、羊飼いの</div>	
 summation	sʌméɪʃən<div>（名）合計、要約</div>	
 taste bud	bˈʌd<div>（名）（舌の上にある味覚器官）味蕾（みらい）</div>	
@@ -3310,9 +3310,9 @@ infinitesimal	ɪnfìnətésəm<div>（形）微小の</div>
 deed	díːd<div>（名）行為、功業、権利証書</div><div><br></div><div>do a good&nbsp;deed</div><div>善行をする<br></div>	
 nimble	nímbl<div>（形）すばやい、理解の早い</div>	
 commotion	kəmóʊʃən<div>（名）動揺、騒動</div>	
-ado	ədúː<div>（名）騒ぎ、骨折り</div>	
+ado	ədúː<div>（名）騒ぎ、骨折り</div><div><br></div><div><div><div>He&nbsp;made&nbsp;much&nbsp;ado&nbsp;about&nbsp;it.</div><div>彼はそのことでそんなに大騒ぎした。</div></div></div>	
 tumult	t(j)úːmʌlt<div>（名）騒ぎ、騒動</div><div><br></div><div>The&nbsp;tumult&nbsp;has&nbsp;subsided.<br></div><div>騒動が静まった<br></div>	
-portray	pɔɚtréɪ<div>（動）描く</div>	
+portray	pɔɚtréɪ<div>（動）描く</div><div><br></div><div>The&nbsp;author&nbsp;portrays&nbsp;the&nbsp;campus&nbsp;as a&nbsp;very pleasant&nbsp;place.</div><div>その著者は学園を非常に楽しい場所として描写している。<br></div>	
 devour	dɪvάʊɚ<div>（動）むさぼり食う、滅ぼす</div>	
 stingy	stíndʒi<div>（形）けちな、みみっちい</div><div><br></div><div><div><div>a&nbsp;stingy&nbsp;person</div><div>けちな人</div></div></div>	
 deceitful	dɪsíːtf(ə)l<div>（形）詐欺の、偽りの</div><div><br></div><div>deceitful&nbsp;advertising</div><div>欺瞞的な広告<br></div>	
@@ -3320,7 +3320,7 @@ underhanded（「人手不足の」以外の形容詞）	`ʌndɚhˈændɪd<div>�
 deceptive	dɪséptɪv<div>（形）人を欺くような</div><div><br></div><div>Appearances&nbsp;are&nbsp;very often&nbsp;deceptive.</div><div>見かけは往々にして当てにならない.<br></div>	
 delusive	dɪlúːsɪv<div>（形）人を惑わせる</div>	
 imperceptible	ìmpɚséptəbl<div>（形）気づかれないほどの、微細な</div>	
-vouch for	<div>vάʊtʃ<br></div>保証する、請け合う、引き受ける	
+vouch for	<div>vάʊtʃ<br></div>（動）保証する、請け合う、引き受ける<div><br></div><div>to&nbsp;vouch&nbsp;for&nbsp;one's&nbsp;identity<br></div><div>身元などを保証する<br></div>	
 detest	dɪtést<div>（動）ひどく嫌う</div><div><br></div><div>He&nbsp;detests&nbsp;spiders.</div><div>彼はクモが大嫌いです。<br></div>	
 detestable	dɪtéstəbl<div>（形）大嫌いな、嫌でたまらない</div>	
 abominable	əbάm(ə)nəbl<div>（形）忌まわしい、実に嫌な、不快な</div>	
@@ -3438,7 +3438,7 @@ flamboyant	flæmbˈɔɪənt<div>（形）燃えるような、けばけばしい
 gaudy	gˈɔːdi<div>（形）けばけばしい</div><div><br></div><div>a&nbsp;gaudy&nbsp;dress</div><div>けばけばしいドレス<br></div>	
 showy	ʃóʊi<div>（形）華やかな、けばけばしい</div>	
 hasty	héɪsti<div>（形）急な、早まった</div><div><br></div><div>have a&nbsp;hasty&nbsp;breakfast</div><div>急いで朝食をとる<br></div>	
-tardy	tάɚdi<div>（形）のろい、遅い</div>	
+tardy	tάɚdi<div>（形）のろい、遅い</div><div><br></div><div>tardy&nbsp;progress<br></div><div>遅々とした進歩<br></div>	
 prolonged	prʌˈlɔŋd<div>（形）長期の、長引く</div><div><br></div><div>a&nbsp;prolonged&nbsp;period of time<br></div><div>長期間</div>	
 limber	límbɚ<div>（形）しなやかな、柔軟な</div><div><br></div><div>have&nbsp;a&nbsp;limber&nbsp;body<div>体がしなやかだ</div></div>	
 wretched	rétʃɪd<div>（形）みじめな、哀れな</div>	
@@ -3510,7 +3510,7 @@ dank	dˈæŋk<div>（形）湿った</div><div><br></div><div>dank&nbsp;rain for
 moldy	móʊldi<div>（形）かび臭い</div>	
 musty	mˈʌsti<div>（形）かび臭い</div><div><br></div><div>musty&nbsp;ideas<br></div><div>古くさい考え</div>	
 liquefied	ˈlɪkwʌˌfaɪd<div>（形）溶けた</div><div><br></div><div>liquefied petroleum gas</div><div>液化石油ガス<br></div>	
-abode	əbóʊd<div>（名）家</div>	
+abode	əbóʊd<div>（名）家</div><div><br></div><div>take up&nbsp;one's&nbsp;abode</div><div>住居を定める<br></div>	
 bosom	bˈʊzəm<div>（名）（特に女性の）胸</div>	
 cane	kéɪn<div>（名）杖</div>	
 couch	kάʊtʃ<div>（名）長椅子</div>	
@@ -3658,7 +3658,7 @@ fang	fˈæŋ<div>（名）毒牙、きば</div>
 liquefy	líkwəfὰɪ<div>（動）液化する、溶かす</div>	
 respiratory	résp(ə)rət`ɔːri<div>（形）呼吸の</div><div><br></div><div>a&nbsp;respiratory&nbsp;disease</div><div>呼吸器疾患<br></div>	
 excretion	ekskríːʃən<div>（名）排泄</div>	
-metamorphosis	mèṭəmˈɔɚfəsɪs<div>（名）変形、変態</div>	
+metamorphosis	mèṭəmˈɔɚfəsɪs<div>（名）変形、変態</div><div><br></div><div>the&nbsp;metamorphosis&nbsp;of&nbsp;tadpoles&nbsp;into&nbsp;frogs</div><div>おたまじゃくしのカエルへの変態<br></div>	
 chrysalis	krísəlɪs<div>（名）（蛾や蝶の）さなぎ</div>	
 imago	ɪmάːgoʊ<div>（名）成虫</div>	
 flea	"flíː<div>（名）（昆虫の）のみ</div><div><br></div><div><img src=""paste-ba89eb9c874943b249ce212636af6c3c92e8874e.jpg""><br></div>"	
@@ -3748,7 +3748,7 @@ frame of reference	<div>fréɪm<br></div>（名）理論構成の枠組み
 the Middle Ages	（名）中世	
 metalloid	métəlɔ`id<div>（名）半金属</div>	
 nonmetal	nɑnmétl<div>（名）非金属</div>	
-antiquity	æntíkwəṭi<div>（名）古代</div>	
+antiquity	æntíkwəṭi<div>（名）古代</div><div><br></div><div>remains&nbsp;of&nbsp;antiquity<br></div><div>古代の遺跡<br></div>	
 lead（発音はléd、名詞の意味は）	léd<div>（名）鉛</div><div>（形）鉛の</div>	
 coating	kóʊtṭɪŋ<div>（名）上塗り</div>	
 rust	<div>rˈʌst<br></div><div>（動）さびる</div>（名）さび	
@@ -3947,7 +3947,7 @@ auditory	ˈɔːdət`ɔːri<div>（形）耳の、聴覚の</div><div><br></div><
 hearing aid	hí(ə)rɪŋ&nbsp;éɪd<br><div>（名）補聴器</div>	
 pore	pˈɔɚ<div>（名）毛穴</div>	
 platelet	pléɪtlət<div>（名）血小板</div><div>※血液を固まらせる役目をする</div>	
-clot	klάt<div>（動）（血・牛乳などを）凝固させる</div><div><div>（名）（血などの）かたまり</div></div>	
+clot	klάt<div>（動）（血・牛乳などを）凝固させる</div><div><div>（名）（血などの）かたまり</div></div><div><br></div><div>a&nbsp;clot&nbsp;of&nbsp;blood</div><div>血のかたまり<br></div>	
 hormone	hˈɔɚmoʊn<div>（名）ホルモン</div>	
 esophagus	ɪsάfəgəs<div>（名）食道</div>	
 liver	lívɚ<div>（名）肝臓</div>	
@@ -4052,7 +4052,7 @@ charcoal	tʃάɚkòʊl<div>（名）炭、木炭</div>
 demographer	dɪmάgrəfɚ<div>（名）人口学者</div>	
 get across（渡る、越える以外）	（考えなどを）理解される<div><br></div><div>Our coach is not very good at getting his ideas across.</div><div>コーチは自分の考えを伝えるのがあまり上手ではありません。</div>	
 get away with	〜を（罰を受けないで）やってのける<div><br></div><div>get away with cheating</div><div>ごまかしてそのままうまく通す</div>	
-get down	書き留める	
+get down	書き留める<div><br></div><div>get a&nbsp;story&nbsp;down&nbsp;on paper</div><div>物語を紙面に書き取る<br></div>	
 get over	（病気などから）回復する	
 look out for	〜に気を付ける	
 go about	（仕事などに） 専念する	
@@ -4084,7 +4084,7 @@ at heart	心の底では<div><br></div><div>Joe spent many years working at the 
 at home（「在宅して」「くつろいで」以外の意味）	精通して、在宅して、くつろいで<div><div><div><br>I'm&nbsp;quite&nbsp;at home&nbsp;with children.</div><div>子供たちのあしらいにはよく慣れています。</div></div></div>	
 at loose ends	定職がなくて、ぶらぶらして	
 at odds	争って<div><br></div><div>He's&nbsp;at&nbsp;odds&nbsp;with her over the matter.<br></div><div>その問題では彼は彼女と反目している。<br></div>	
-on no account	決して〜しない	
+on no account	決して〜しない<div><br></div><div>On no account&nbsp;forget to&nbsp;lock the door.</div><div>絶対にドアにかぎをかけ忘れるな。<br></div>	
 for all 〜	〜にもかかわらず<div><br></div><div>For all his wealth, he doesn't seem very happy.</div><div>富があるのにもかかわらず、彼はそれほど幸せそうには思えません。</div>	
 for anything	絶対〜しない<div><br></div><div>A wise man would not act in such a way for anything.</div><div>賢明な人だったら、絶対にそんなことはしないでしょう。</div>	
 for the life of one	どうしても<div><br></div><div>For the life of me, I couldn't remember where I had put my wallet.</div><div>どこに財布を置き忘れたのかどうしても思い出せないんだ。</div>	
@@ -4197,14 +4197,14 @@ bold	bóʊld<div>（形）大胆な、勇敢な</div>
 doodad	dúːd`æd<div>（名）つまらない飾り物</div>	
 escrow	eskróʊ<div>（名）条件付き捺印証書</div>	
 versed	vˈɚːst<div>（形）熟達して</div>	
-silly	síli<div>（形）愚かな、ばかな</div>	
+silly	síli<div>（形）愚かな、ばかな</div><div><br></div><div>silly&nbsp;behavior</div><div>愚かなふるまい<br></div>	
 spooky	spúːki<div>（形）気味の悪い、幽霊のような</div>	
 stiffen	stíf(ə)n<div>（動）かたくする、こわばらせる</div><div><br></div><div>stiffen&nbsp;one's&nbsp;resolve<br></div><div>決意を固める<br></div>	
 backpedal	ˈbæˌkpɛdʌl<div>（動）撤回する、引っ込める</div>	
 jot down	dʒάt<div>メモする</div>	
 fume	fjúːm<div>（動）腹を立てる</div><div><br></div><div><div><div>My father&nbsp;always&nbsp;fumed&nbsp;about the&nbsp;slowness&nbsp;of the&nbsp;buses.</div><div>父はいつもバスが遅いといってぷりぷりした。</div></div></div>	
 fruitcake（フルーツケーキ以外の意味）	ˈfɹuːt.keɪk<div>（名）頭のいかれたやつ、フルーツケーキ</div>	
-osmosis	ɑzmóʊsɪs<div>（名）浸透、（知識などが）徐々に普及すること</div>	
+osmosis	ɑzmóʊsɪs<div>（名）浸透、（知識などが）徐々に普及すること</div><div><br></div><div>absorb&nbsp;water&nbsp;by&nbsp;osmosis<div>水を少しずつ吸収する</div></div>	
 surrender	səréndɚ<div>（動）降参する、放棄する</div><div><br></div><div><div><div>We&nbsp;shall&nbsp;never&nbsp;surrender.</div><div>絶対に降参はしない。</div></div></div>	
 cynic	sínɪk<div>（名）皮肉屋</div>	
 dismay	dɪsméɪ<div>（動）うろたえさせる、狼狽させる</div><div><br></div><div>She was&nbsp;dismayed&nbsp;at the&nbsp;news.<br>彼女はその知らせを聞いてあわてふためいた。<br></div>	
@@ -4220,7 +4220,7 @@ dyspnea	dís(p)niə<div>（名）呼吸困難</div><div><br></div><div>She&nbsp;
 myalgia	maɪˈældʒə<div>（名）筋肉痛</div>	
 county	kάʊnṭi<div>（名）州、群</div>	
 dissemination	dɪsèmənéɪʃən<div>（名）散布、普及、宣伝</div><div><br></div><div>dissemination&nbsp;of&nbsp;education<div>教育の普及</div></div>	
-amenable	əmíːnəbl<div>（形）快く従って</div>	
+amenable	əmíːnəbl<div>（形）快く従って</div><div><br></div><div><div><div>a&nbsp;person&nbsp;amenable&nbsp;to&nbsp;reason</div><div>道理に従う人</div></div></div>	
 spatial	spéɪʃəl<div>（形）空間の</div><div>※spacialも「空間的な」</div>	
 epidemiology	èpədèmiálədʒi<div>（名）疫学</div>	
 encephalitis	ɪnsèfəlάɪṭɪs<div>（名）脳炎</div>	
@@ -4252,7 +4252,7 @@ forage	fˈɔːrɪdʒ<div>（動）（食べ物などを）探し回る</div><div
 trek	trék<div>（名）旅行</div><div>（動）のろのろ旅行する</div>	
 contention	kənténʃən<div>（名）争い、論争、主張</div><div><br></div><div>an&nbsp;issue in&nbsp;contention<br></div><div>論争中の問題</div>	
 twofold	ˈtuˈfold<div>（形）2倍の</div>	
-trudge	trˈʌdʒ<div>（動）てくてく歩く</div>	
+trudge	trˈʌdʒ<div>（動）てくてく歩く</div><div><br></div><div><div><div>He&nbsp;trudged&nbsp;20&nbsp;miles&nbsp;through&nbsp;deep&nbsp;snow.</div><div>彼は深い雪の中を&nbsp;20&nbsp;マイルもとぼとぼと歩いていった。</div></div></div>	
 ostensibly	ɑsténsəbli<div>（副）表面上は</div>	
 streambed	<div>stríːmbèd<br></div>（名）河床（かしょう）<div>※川の底の地盤</div>	
 parched	pɑrtʃt<div>（形）乾ききった</div><div><br></div><div>parched&nbsp;desert<div>乾いた砂漠</div></div>	
@@ -4360,3 +4360,8 @@ overhear	òʊvɚhíɚ<div>（動）（話し手に気づかれずに）ふと耳
 populous	pάpjʊləs<div>（形）人口密度の高い、人口の多い</div>	
 mainstay	ˈmejnstej<div>（名）頼みの綱</div><div><br></div><div>cultural mainstay</div><div>主要文化</div>	
 termite	<div>tˈɚːmɑɪt<br></div>（名）シロアリ	
+baffle	bˈæfl<div>（動）困惑させる</div><div><br></div><div>This&nbsp;puzzle&nbsp;baffles&nbsp;me.</div><div>このパズルには降参だ。<br></div>	
+perpetrator	pə́ːrpətrèɪtər<div>（名）犯人</div>	
+picket	píkɪt<div>（動）デモを行う</div><div>（名）デモ隊員、杭</div>	
+wreck（動詞の意味は？）	rék<div>（動）難破させる、めちゃめちゃに破壊する</div><div>（名）難破、破滅</div>	
+emulsion	ɪmˈʌlʃən<div>（名）乳液</div>	
