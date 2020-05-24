@@ -197,7 +197,7 @@ hostile	<div>hάstl<br></div>（形）敵意のある<div><br></div><div>a&nbsp;
 deliberately	<div>dɪlíb(ə)rətli<br></div>故意に、わざと、慎重に	
 candid	<div>kˈændɪd<br></div>（形）公平な、素直な<div><br></div><div>a&nbsp;candid&nbsp;decision<br></div><div>公平な決定<br></div>	
 intellect	<div>ínṭəlèkt<br></div>知力、知性、（the 〜s）知識人	
-judicial	<div>dʒuːdíʃəl<br></div>（形）司法の、裁判の	
+judicial	<div>dʒuːdíʃəl<br></div>（形）司法の、裁判の<div><br></div><div>judicial&nbsp;process<br></div><div>裁判手続<br></div>	
 perimeter	<div>pəríməṭɚ<br></div>（名）（図形の）周囲<div><br></div><div>What&nbsp;is&nbsp;the&nbsp;perimeter&nbsp;of&nbsp;this&nbsp;polygon?</div><div>この多角形の周囲の長さはどのくらいか。<br></div>	
 barley	<div>bάɚli<br></div>（名）大麦	
 pessimism	<div>pésəmìzm<br></div>悲観主義	
@@ -503,7 +503,7 @@ incorporate	<div>ɪnkˈɔɚpərèɪt<br></div>取り入れる、組み込む、�
 lapse	<div>lˈæps<br></div>（動）失効する、うっかりミスをする<div>（名）過失、時の経過</div>	
 picturesque	<div>pìktʃərésk<br></div>絵のように美しい	
 withstand	<div>wɪθstˈænd<br></div>耐える	
-aspiring	<div>əspάɪ(ə)rɪŋ<br></div>〜志望の、〜になろうとする	
+aspiring	<div>əspάɪ(ə)rɪŋ<br></div>（形）〜志望の、〜になろうとする<div><br></div><div>Around&nbsp;this time,&nbsp;he&nbsp;started&nbsp;aspiring&nbsp;to&nbsp;travel&nbsp;abroad.<br></div><div>この頃から、海外旅行を希求する。<br></div>	
 assorted	<div>əsˈɔɚṭɪd<br></div>（形）詰め合わせの、様々な、類別した	
 obstruct	<div>əbstrˈʌkt<br></div>（道路や視界を）ふさぐ、さえぎる、妨害する	
 fierce	<div>fíɚs<br></div>（形）熾烈な、激しい<div><br></div><div>a&nbsp;fierce&nbsp;tiger</div><div>獰猛なトラ<br></div>	
@@ -716,7 +716,7 @@ indigenous	<div>ɪndídʒənəs</div>（形）原産の、土着の<div><br></di
 plausible	<div>plˈɔːzəbl<br></div>（形）もっともらしい、まことしやかな<div><br></div><div>His&nbsp;explanation&nbsp;seemed&nbsp;plausible&nbsp;enough.<br></div><div>彼の説明は十分にもっともらしくみえた。<br></div>	
 indispensable	<div>ìndɪspénsəbl<br></div>必要不可欠な	
 cutthroat	<div>ˈkʌˌtθrot<br></div>熾烈な、弱肉強食の	
-conspicuous	<div>kənspíkjuəs<br></div>（形）著名な、人目を引く、はっきり見える	
+conspicuous	<div>kənspíkjuəs<br></div>（形）著名な、人目を引く、はっきり見える<div><br></div><div>a&nbsp;conspicuous&nbsp;star<br></div><div>よく見える星<br></div>	
 focal	<div>[fóʊk(ə)l]</div>（形）焦点の当たった、重要な	
 reciprocal	<div>rɪsíprək(ə)l<br></div>互恵的な、相補的な	
 prone	<div>próʊn<br></div>（形）〜しがちな、うつぶせの<div><br></div><div>He's&nbsp;prone&nbsp;to get&nbsp;angry.<br></div><div>彼は怒りっぽい。<br></div>	
@@ -848,7 +848,7 @@ dialect	<div>[dάɪəlèkt]</div>方言、地方語
 bin	<div>bín<br></div>（名）物入れ、ゴミ入れ、容器	
 receptacle	<div>rɪséptəkl<br></div>（名）容器、貯蔵所<div><br></div><div>receptacle&nbsp;of&nbsp;waste<div>ごみ箱</div></div>	
 malnutrition	<div>ˌmælnuˈtrɪʃʌn<br></div>栄養失調	
-malpractice	<div>mæˈlpræktʌs<br></div>不正行為、医療過誤	
+malpractice	<div>mæˈlpræktʌs<br></div>（名）不正行為、医療過誤<div><br></div><div>a&nbsp;malpractice suit<br>誤診訴訟<br></div>	
 maltreatment	<div>mæˈltritmʌnt<br></div>虐待、冷遇	
 setback	<div>sétbæ`k<br></div>挫折、後退、障害	
 mishap	[mísh`æp]<div>災難、不運</div>	
@@ -1786,7 +1786,7 @@ credence	[kríːdns]<div>（名）信用</div>
 flux	[flˈʌks]<div>（名）流れ、（金属を溶けやすくするために用いる）フラックス</div>	
 solitary	[sάlətèri]<div>（形）孤独の</div>	
 hinder	híndɚ<div>（動）妨害する</div><div><br></div><div>The&nbsp;mud&nbsp;hindered&nbsp;the&nbsp;advance of&nbsp;the troops.</div><div>泥道で軍の前進が手間取った。<br></div>	
-divergent	[dɪvˈɚːdʒənt]<div>（形）異なる、分岐する</div>	
+divergent	dɪvˈɚːdʒənt<div>（形）異なる、分岐する</div><div><br></div><div><div><div>divergent&nbsp;opinions</div><div>異論</div></div></div>	
 anomaly	ənάməli<div>（名）変則、例外</div><div><br></div><div>anomaly&nbsp;detection<div>異常検出</div></div>	
 proximity	[prɑksíməṭi]<div>（名）近接</div>	
 amicable	[ˈæmɪkəbl]<div>（形）友好的な</div>	
@@ -2060,7 +2060,7 @@ strife	strάɪf<div>（名）争い、不和、衝突</div><div><br></div><div><
 standpoint	[stˈæn(d)p`ɔɪnt]<div>（名）見地、観点</div>	
 paleontology	[pèɪliɑntάlədʒi]<div>（名）古生物学</div>	
 haunt	hˈɔːnt<div>（動）たびたび訪れる、（幽霊などが）出没する</div><div><br></div><div>He&nbsp;haunts&nbsp;bars.</div><div>彼は酒場によく行く。<br></div>	
-uneasy	[`ʌníːzi]<div>（形）不安な</div>	
+uneasy	`ʌníːzi<div>（形）不安な</div><div><br></div><div>an&nbsp;uneasy&nbsp;feeling</div><div>不安感<br></div>	
 lick	[lík]<div>（動）なめる</div>	
 censure	sénʃɚ<div>（名）非難、不信任</div><div>（動）非難する</div><div><br></div><div>The government&nbsp;was&nbsp;censured&nbsp;for its negligence.</div><div>政府は怠慢を非難された.<br></div>	
 crude	[krúːd]<div>（形）生の、粗野な、未完成の、大雑把な</div>	
@@ -2599,7 +2599,7 @@ unaided eye	`ʌnéɪdɪd<div>（名）肉眼、裸眼</div>
 regime	reʒíːm<div>（名）政治体制、政府、政権</div><div><br></div><div>under&nbsp;a new&nbsp;regime<br></div><div>新政権の下に<br></div>	
 astral	ˈæstrəl<div>（形）星の、星形の、星についての</div>	
 lichen	lάɪk(ə)n<div>（名）（岩などに付く）コケ、（植物の）地衣類</div>	
-stammer	stˈæmɚ<div>（動）口ごもる</div><div>（名）口ごもり、どもること</div>	
+stammer	stˈæmɚ<div>（動）口ごもる</div><div>（名）口ごもり、どもること</div><div><br></div><div>to&nbsp;stammer&nbsp;out&nbsp;something<br></div><div>どもって言う<br></div>	
 transcribe	trænskrάɪb<div>（動）書き写す、複写する</div><div><br></div><div>transcribe&nbsp;a&nbsp;taped&nbsp;interview<div>録音されたインタビューを文字に書き写す</div></div>	
 incessant	ɪnsésnt<div>（形）絶え間ない、ひっきりなしの</div>	
 moat	móʊt<div>（名）堀</div>	
@@ -3309,7 +3309,7 @@ ostentation	ὰstəntéɪʃən<div>（名）見せびらかすこと、誇示</d
 infinitesimal	ɪnfìnətésəm<div>（形）微小の</div>	
 deed	díːd<div>（名）行為、功業、権利証書</div><div><br></div><div>do a good&nbsp;deed</div><div>善行をする<br></div>	
 nimble	nímbl<div>（形）すばやい、理解の早い</div>	
-commotion	kəmóʊʃən<div>（名）動揺、騒動</div>	
+commotion	kəmóʊʃən<div>（名）動揺、騒動</div><div><br></div><div>cause&nbsp;a&nbsp;commotion<br></div><div>騒動を起こす<br></div>	
 ado	ədúː<div>（名）騒ぎ、骨折り</div><div><br></div><div><div><div>He&nbsp;made&nbsp;much&nbsp;ado&nbsp;about&nbsp;it.</div><div>彼はそのことでそんなに大騒ぎした。</div></div></div>	
 tumult	t(j)úːmʌlt<div>（名）騒ぎ、騒動</div><div><br></div><div>The&nbsp;tumult&nbsp;has&nbsp;subsided.<br></div><div>騒動が静まった<br></div>	
 portray	pɔɚtréɪ<div>（動）描く</div><div><br></div><div>The&nbsp;author&nbsp;portrays&nbsp;the&nbsp;campus&nbsp;as a&nbsp;very pleasant&nbsp;place.</div><div>その著者は学園を非常に楽しい場所として描写している。<br></div>	
