@@ -331,7 +331,7 @@ lessen	<div>lésn<br></div>減らす、小さくする
 prescribe	<div>prɪskrάɪb<br></div>（動）処方する、（…の）処方を書く、（…を）（規則・方針として）定める、規定する	
 perch	<div>pˈɚːtʃ<br></div>（名）（鳥かごなどの）止まり木<div>（動）（鳥が）止まる</div>	
 chore	<div>tʃˈɔɚ<br></div>日常の雑用	
-swell	<div>swél<br></div>（動）（打撲・病気などで）腫れる、膨張する、増大する	
+swell	<div>swél<br></div>（動）（打撲・病気などで）腫れる、膨張する、増大する<div><br></div><div>His&nbsp;leg&nbsp;began&nbsp;to&nbsp;swell.</div><div>彼の足ははれだした。<br></div>	
 sprain	<div>spréɪn<br></div>（動）捻挫（ねんざ）する<br><div><br></div><div>sprain&nbsp;one's&nbsp;ankle</div><div>足首をくじく<br></div>	
 reign	<div>réɪn<br></div>統治する	
 anguish	<div>ˈæŋɡwɪʃ<br></div>（名）苦痛、悲しみ<div><br></div><div>She&nbsp;has been&nbsp;in anguish&nbsp;over her&nbsp;mother's&nbsp;illness.<br>彼女は母親の病気にひどく苦しんでいる。<br></div>	
@@ -532,7 +532,7 @@ abridged	<div>ʌˈbrɪdʒd<br></div>（形）要約された、短縮された
 compatible	<div>kəmpˈæṭəbl<br></div>（形）相性がいい、互換性がある、共存できる	
 endorse	<div>ɪndˈɔɚs<br></div>推薦する、支持する、裏書きする	
 keenly	<div>ˈkinli<br></div>痛烈に、鋭く	
-plaque	<div>plˈæk<br></div>盾	
+plaque	<div>plˈæk<br></div>（名）盾、歯垢	
 dilute	<div>dɑɪlúːt<br></div>（動）薄める<div><br></div><div>dilute&nbsp;whiskey&nbsp;with&nbsp;water</div><div>ウイスキーを水で薄める<br></div>	
 centerpiece	<div>ˈsɛntɝˌpis<br></div>（名）中心に置かれる装飾品、中心になるもの	
 oversight	<div>ˈovɝˌsaɪt<br></div>（名）見落とし、手落ち、監視<div><br></div><div>It&nbsp;was&nbsp;an&nbsp;oversight&nbsp;on&nbsp;my&nbsp;part.<br></div><div>それは僕の手落ちだ。<br></div>	
@@ -627,7 +627,7 @@ prophesy	<div>prάfəsὰɪ</div>（動）予言する
 impeach	<div>ɪmpíːtʃ<br></div>（動）弾劾する、告発する、問いただす<div><br></div><div>The&nbsp;mayor&nbsp;was&nbsp;impeached&nbsp;for&nbsp;bribery.<br>市長は収賄で告発された。<br></div>	
 embezzle	<div>embézl<br></div>横領する	
 gauge	<div>発音 [géɪdʒ]</div>（動）（長さなどを）測定する<div>（名）標準寸法、計量器</div>	
-adjourn	<div>ədʒˈɚːn<br></div>（動）（会議を）休会とする、延期する	
+adjourn	<div>ədʒˈɚːn<br></div>（動）（会議を）休会とする、延期する<div><br></div><div>The&nbsp;members&nbsp;of the&nbsp;club&nbsp;voted&nbsp;to&nbsp;adjourn&nbsp;the meeting&nbsp;until&nbsp;the following&nbsp;week.</div><div>クラブの会員一同は翌週まで延会することを投票で決めた。<br></div>	
 reckon	<div>rék(ə)n<br></div>憶測する、ざっと計算する、思う	
 withhold	<div>wɪθhóʊld<br></div>（動）保留する、天引きする<div><br></div><div>withhold&nbsp;consent</div><div>承諾を差し控える<br></div>	
 negligence	<div>néglɪdʒəns<br></div>（名）怠慢、過失<div><br></div><div>negligence&nbsp;of&nbsp;one's duty</div><div>職務怠慢<br></div>	
@@ -1545,7 +1545,7 @@ verse	"[vˈɚːs]<div>（名）韻文（<span style=""color: rgb(34, 34, 34);"">
 salvation	[sælvéɪʃən]<div>（名）救済</div>	
 herald	[hérəld]<div>（名）先触れ、先駆者</div><div>（動）先触れをする、布告をする</div>	
 dew	[d(j)úː]<div>（名）露</div>	
-renounce	<div>[rɪnάʊns]</div><div>（動）（権利を）放棄する、絶交する</div>	
+renounce	<div>rɪnάʊns</div><div>（動）（権利を）放棄する、絶交する</div><div><br></div><div><div><div>Japan&nbsp;has&nbsp;renounced&nbsp;war.</div><div>日本は戦争を放棄している。</div></div></div>	
 lofty	<div>lˈɔːfti<br></div>（形）崇高な、高慢な、非情に高い	
 dune	<div>[d(j)úːn]</div>（名）砂丘	
 philanthropist	"[<span style=""color: rgb(34, 34, 34);"">filǽnθrəpist</span>]<div>（名）博愛主義者</div>"	
@@ -1767,7 +1767,7 @@ exert	[ɪgzˈɚːt]<div>（動）努力する、用いる、発揮する、（�
 illusive	[ɪlúːsɪv]<div>（形）錯覚を起こさせる、幻想的な</div>	
 stockpile	[ˈstɑˌkpaɪl]<div>（動）備蓄する</div><div>（名）備蓄</div>	
 greenback	[ˈgriˌnbæk]<div>（名）米ドル紙幣</div>	
-coercion	[koʊˈɚːʒən]<div>（名）強制、威圧</div>	
+coercion	koʊˈɚːʒən<div>（名）強制、威圧</div><div><br></div><div>they&nbsp;didn't&nbsp;have to&nbsp;use&nbsp;coercion</div><div>彼らは強制する必要はなかった<br></div>	
 plenitude	plénət(j)ùːd<div>（名）十分、豊富</div><div><br></div><div>The country&nbsp;has a&nbsp;plenitude&nbsp;of&nbsp;natural&nbsp;resources.<br></div><div>その国には豊富な天然資源がある。<br></div>	
 jurisdiction	[dʒ`ʊ(ə)rɪsdíkʃən]<div>（名）（司法などの）管轄権</div>	
 dissident	dísədnt<div>（名）反体制派（の人）</div><div>（形）意見を異にする</div><div><br></div><div>a&nbsp;dissident&nbsp;voice<br></div><div>反対意見</div>	
@@ -1913,7 +1913,7 @@ posterity	[pɑstérəṭi]<div>（名）（one's 〜）子孫、（集合的に�
 saturate	[sˈætʃʊrèɪt]<div>（動）すっかり濡らす、満たす、飽和させる</div>	
 fanaticism	fənˈæṭəsìzm<div>（名）熱狂、狂信</div><div><br></div><div>religious&nbsp;fanaticism<div>（宗教的）狂信</div></div>	
 presumption	[prɪzˈʌm(p)ʃən]<div>（名）推測、推定</div>	
-suffocate	sˈʌfəkèɪt<div>（動）窒息する（させる）</div>	
+suffocate	sˈʌfəkèɪt<div>（動）窒息する（させる）</div><div><br></div><div>She was&nbsp;suffocated&nbsp;by the&nbsp;smoke.</div><div>彼女は煙で息が詰まった。<br></div>	
 mystical	[místɪk(ə)l]<div>（形）神秘的な、神秘主義の</div>	
 forbearance	[fɔɚbé(ə)rəns]<div>（名）差し控えること、忍耐、寛容</div>	
 monumental	[mὰnjʊménṭl]<div>（形）（程度が）途方も無い、壮大な、記念碑の</div>	
@@ -2550,7 +2550,7 @@ regale	rɪgéɪl<div>（動）喜ばせる、楽しませる</div><div><br></div
 debilitate	dɪbílətèɪt<div>（動）衰弱させる</div><div><br></div><div>debilitate&nbsp;the&nbsp;government<div>政府を弱体化する</div></div>	
 staunch	stˈɔːntʃ<div>（形）しっかりした、丈夫な</div><div><br></div><div>a&nbsp;staunch&nbsp;friend<br></div><div>頼もしい友人</div>	
 laconic	ləkάnɪk<div>（形）簡潔な、簡明な</div><div><br></div><div>laconic&nbsp;reply<div>簡潔な返答</div></div>	
-intractable	ìntrˈæktəbl<div>（形）手に負えない、強情な</div>	
+intractable	ìntrˈæktəbl<div>（形）手に負えない、強情な</div><div><br></div><div>an&nbsp;intractable problem<br>手に負えない問題<br></div>	
 furtively	ˈfɜːtɪvli<div>（副）こっそりと、ひそかに</div>	
 loom	lúːm<div>（動）そびえる、（織機で）織る</div><div>（名）織機</div><div><br></div><div>a&nbsp;loom&nbsp;that is&nbsp;operated&nbsp;while&nbsp;sitting<br></div><div>座ったまま操作する織機<br></div>	
 impartial	ìmpάɚʃəl<div>（形）公平な</div>	
@@ -3230,7 +3230,7 @@ polarize	póʊlərὰɪz<div>（動）二分する、分極化する、分裂さ
 flagrant	fléɪgrənt<div>（形）目に余る、名うての</div>	
 precursor	prɪkˈɚːsɚ<div>（名）先駆者、前兆</div>	
 noxious	nάkʃəs<div>（形）有害な、健康に悪い</div>	
-annihilate	ənάɪəlèɪt<div>（動）全滅させる、負かす、（法律などを）無効にする</div>	
+annihilate	ənάɪəlèɪt<div>（動）全滅させる、負かす、（法律などを）無効にする</div><div><br></div><div>annihilate&nbsp;the enemy's&nbsp;army</div><div>敵軍を全滅させる<br></div>	
 acquit	əkwít<div>（動）無罪を言い渡す、（義務から）解放する</div><div><br></div><div><div><div>acquit&nbsp;a&nbsp;defendant</div><div>被告人を放免する</div></div></div>	
 glutton	glˈʌtn<div>（名）大食漢、熱心な人</div>	
 pathos	péɪθɑs<div>（名）哀感、哀調</div>	
@@ -3494,7 +3494,7 @@ invariably	ìnvé(ə)riəbli<div>（副）いつも、常に</div>
 bough	"bάʊ<div>（名）（木の）大枝</div><div><br></div><div><img src=""bo (1).jpeg""><br></div>"	
 brier	brάɪɚ<div>（名）いばら</div><div>※briarでもいばら</div>	
 den	dén<div>（名）（動物の住む）穴</div>	
-waterway	ˈwɔtɝˌwe<div>（名）運河</div>	
+waterway	"ˈwɔtɝˌwe<div>（名）運河</div><div><br></div><div><img src=""paste-45ff14aa8e4b2e70ab4ed1df33793b08fff7d36a.jpg""><br></div>"	
 cattle	kˈæṭl<div>（名）家畜、牛</div><div><br></div><div>cattle&nbsp;and&nbsp;sheep<br></div><div>牛と羊</div>	
 dawn	"dˈɔːn<div>（名）夜明け</div><div><br></div><div><img src=""da.jpeg""><br></div>"	
 foliage	fóʊliɪdʒ<div>（名）木の葉</div>	
