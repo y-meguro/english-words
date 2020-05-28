@@ -282,7 +282,7 @@ seize	<div>síːz</div>（動）（敵陣などを）奪う、捕まえる、掴
 terrestrial	<div>təréstriəl</div>（形）陸生の、地球の<div><br></div><div>terrestrial&nbsp;heat</div><div>地熱<br></div>	
 honeycomb	<div>ˈhʌniːkəʊm<br></div>蜂の巣状のもの、ミツバチの巣	
 cluster	<div>klˈʌstɚ<br></div>（名）房、集団、群れ<div>（動）群生する</div>	
-excavate	<div>[ékskəvèɪt]</div>（動）発掘する、穴を掘る	
+excavate	<div>ékskəvèɪt</div>（動）発掘する、穴を掘る<div><br></div><div>My dream&nbsp;is to&nbsp;excavate&nbsp;a&nbsp;dinosaur&nbsp;fossil.<br></div><div>私の夢は、恐竜の化石を発掘することです。<br></div>	
 curator	<div>kjˈʊ(ə)reɪṭɚ<br></div>（図書館・美術館などの）館長、管理者	
 limb	<div>lím<br></div>（名）手足<div><br></div><div>a tall&nbsp;man&nbsp;with&nbsp;long&nbsp;limbs<br>手足の長い背の高い男<br></div>	
 dim	<div>dím<br></div>かすんだ	
@@ -1960,7 +1960,7 @@ indulge	[ɪndˈʌldʒ]<div>（動）甘やかす、（〜oneself）満喫する<
 capricious	[kəpríʃəs]<div>（形）気まぐれな、移り気な</div>	
 introvert	[ˈɪntroˌvɝt]<div>（形）内向的な</div><div>（名）内向性の人</div>	
 extrovert	[ˈɛkstrʌˌvɝt]<div>（形）外向的な</div><div>（名）外向性の人</div>	
-retract	[rɪtrˈækt]<div>（動）取り消す、引っ込める</div>	
+retract	rɪtrˈækt<div>（動）取り消す、引っ込める</div><div><br></div><div>to&nbsp;retract&nbsp;a promise<br></div><div>約束を撤回する<br></div>	
 monetary	mάnətèri<div>（形）通貨の、金融上の、金銭の</div><div><br></div><div>the&nbsp;monetary&nbsp;system</div><div>貨幣制度<br></div>	
 concord	kάnkɔɚd<div>（名）一致、調和、協調</div><div><br></div><div>The two political parties were in concord over the trade issue.</div><div>両党は貿易問題で意見が一致していた。<br></div>	
 rebel	réb(ə)l<div>（名）反逆者</div><div><br></div><div>rɪbél<br></div><div>（動）反乱を起こす</div>	
@@ -2494,7 +2494,7 @@ find fault (with 〜)	（〜の）あらを探す、（〜を）非難する
 eat out	外食をする	
 be inferior to 〜	<div>ɪnfí(ə)riɚ<br></div>〜より劣っている	
 all the more(better) because(for) 〜	〜なのでなおさら（…である）	
-get(be) carried away with 〜	〜に夢中になる	
+get(be) carried away with 〜	〜に夢中になる<div><br></div><div>Don't&nbsp;get&nbsp;carried&nbsp;away&nbsp;with your success.<br></div><div>うまくいったからといって図に乗ってはだめだ。<br></div>	
 take turns doing	交代で〜をする	
 look after 〜	〜の世話をする	
 The jury(verdict) is still out.	dʒˈʊ(ə)ri /&nbsp;vˈɚːdɪkt<div>まだ結論は出されていない</div>	
@@ -4016,7 +4016,7 @@ ecologist	ɪkάlədʒɪst<div>（名）生態学者</div>
 cleanse	klénz<div>（動）清潔にする、洗う</div>	
 exploitation	èksplɔɪtéɪʃən<div>（名）開発</div>	
 economize	ɪkάnəmὰɪz<div>（動）節約する</div>	
-fatality	feɪtˈæləṭi<div>（名）不運、死亡者</div>	
+fatality	feɪtˈæləṭi<div>（名）不運、死亡者</div><div><br></div><div><div><div>Traffic accidents&nbsp;cause&nbsp;many&nbsp;fatalities.</div><div>交通事故で死ぬ者が多い。</div></div></div>	
 coastal	kóʊstl<div>（形）沿岸の</div>	
 mill（名詞の意味は？）	míl<div>（名）工場</div>	
 DDT	díːdìːtíː<div>（名）ディーディーティー（殺虫剤）</div>	
