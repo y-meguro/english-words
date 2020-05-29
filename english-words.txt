@@ -643,7 +643,7 @@ affection	<div>əfékʃən<br></div>（名）愛情、影響<div>※愛情の意
 allure	<div>əlˈʊɚ<br></div>（動）魅惑する、そそのかす<div>（名）魅惑</div><div><br></div><div><div><div>He&nbsp;was&nbsp;allured&nbsp;by&nbsp;her voice.</div><div>彼は彼女の声に魅惑された。</div></div></div>	
 entice	<div>entάɪs<br></div>（動）誘う、誘惑する<div><br></div><div>The man&nbsp;enticed&nbsp;the girl&nbsp;away from&nbsp;home.<br>その男は少女をそそのかして家出させた。<br></div>	
 promulgate	<div>[prάməlgèɪt]</div>（動）公布する	
-diffuse	<div>dɪfjúːz<br></div>（他）広める、（光などを）発散する<div>（自）広がる</div>	
+diffuse	<div>dɪfjúːz<br></div>（他）広める、（光などを）発散する<div>（自）広がる</div><div><br></div><div>diffuse&nbsp;heat<br>熱を放散する<br></div>	
 cite	<div>sάɪt<br></div>（動）例証する、引用する<div><br></div><div>His&nbsp;analysis&nbsp;has&nbsp;often&nbsp;been cited.<br>彼の分析はよく引用される。<br></div>	
 excel	<div>eksél<br></div>（動）より優れている、抜きん出る	
 penetrate	<div>pénətrèɪt</div>（動）貫通する、浸透する<div><br></div><div>A&nbsp;bullet&nbsp;penetrated&nbsp;his chest.<br>弾丸が彼の胸部を貫通した。<br></div>	
@@ -1013,7 +1013,7 @@ subsidy	<div>[sˈʌbsədi]</div>（政府の）補助金
 quay	"kíː<div>（名）埠頭</div><div><br></div><div>fasten&nbsp;a&nbsp;ship to&nbsp;a&nbsp;quay<br></div><div>船を波止場につなぐ<br></div><div><br></div><div><img src=""paste-8685aefd0fe20635ec6ae7b93145583e588027a2.jpg""><br></div>"	
 tariff	<div>[tˈærɪf]</div>関税、関税率	
 crippling	<div>ˈkrɪpʌlɪŋ<br></div>深刻な影響を与える、打撃となる	
-recession	<div>rɪséʃən<br></div>（名）景気後退、後退	
+recession	<div>rɪséʃən<br></div>（名）景気後退、後退<div><br></div><div><div><div>a&nbsp;severe&nbsp;recession</div><div>深刻な不景気</div></div></div>	
 depression	"<div>[dɪpréʃən]</div>（名）不況、不景気、憂鬱<div><img src=""depression.jpeg""><br></div>"	
 sentiment	<div>sénṭəmənt</div>（名）意見、心情<div><br></div><div>the sentiment&nbsp;of&nbsp;pity<br>哀れみの情<br></div>	
 virtuous cycle	<div>vˈɚːtʃuəs<br></div>好循環	
@@ -1236,7 +1236,7 @@ seismic	[sάɪzmɪk]<div>（形）地震の</div>
 avalanche	[ˈævəl`æntʃ]<div>雪崩</div>	
 landslide	<div>[ˈlænd.slaɪd]</div>地滑り	
 meteorology	[mìːṭiərάlədʒi]<div>（名）気象学</div>	
-temperate	<div>témp(ə)rət<br></div>（形）節制のある、温和な	
+temperate	<div>témp(ə)rət<br></div>（形）節制のある、温和な<div><br></div><div><div><div>Be&nbsp;temperate&nbsp;in&nbsp;eating&nbsp;and drinking.</div><div>飲食は控えめに。</div></div></div>	
 inland（名詞の意味は？）	[ínl`ænd]<div>（名）内陸地方</div><div>（形）内陸の</div>	
 plain（名詞の意味は？）	<div>pléɪn<br></div>（名）平原、平野<div>（形）明白な、無地の</div>	
 archipelago	[ὰɚkəpéləgòʊ]<div>列島、群島</div>	
@@ -1631,7 +1631,7 @@ finesse	[fənés]<div>（名）技巧、巧妙な処理、策略</div>
 conifer	[kάnəfɚ]<div>（名）球果植物、針葉樹</div>	
 tractable	<div>trˈæktəbl<br></div>（形）扱いやすい、従順な、細工しやすい	
 stalk	[stˈɔːk]<div>（名）茎</div><div>（動）忍び寄る、ストーカー行為をする</div>	
-husbandry	[hˈʌzbəndri]<div>（名）農業、耕作、節約、家計のやりくり</div>	
+husbandry	hˈʌzbəndri<div>（名）農業、耕作、節約、家計のやりくり</div><div><br></div><div>implements&nbsp;of&nbsp;husbandry<br></div><div>農業の道具<br></div>	
 torture	tˈɔɚtʃɚ<div>（名）拷問、苦痛</div><div><br></div><div>They&nbsp;put&nbsp;him&nbsp;to&nbsp;torture.<br>彼らは彼を拷問にかけた。<br></div>	
 momentous	[moʊménṭəs]<div>（形）重大な、重要な</div>	
 grass roots	（the 〜）草の根（運動）	
@@ -1881,7 +1881,7 @@ censor	sénsɚ<div>（動）検閲する</div><div><br></div><div>This magazine&
 outgoing（出発する以外の形容詞）	<div>ˈaʊˌtgoɪŋ<br></div>（形）社交的な、外向的な<div><br></div><div>He is&nbsp;outgoing.<br></div><div>彼は外向的だ。<br></div>	
 fortress	[fˈɔɚtrəs]<div>（名）要塞、とりで</div>	
 gloomy	[glúːmi]<div>（形）憂鬱な</div>	
-lieu	[lúː]<div>（名）場所</div>	
+lieu	lúː<div>（名）場所</div><div><br></div><div>in&nbsp;lieu&nbsp;of<div>～の代わりに</div></div>	
 preeminent	priːémənənt<div>（形）卓越した、優位の</div>	
 inflate	[ɪnfléɪt]<div>（動）膨らませる、物価をつり上げる</div>	
 incomprehensible	[ìnkὰmprɪhénsəbl]<div>（形）理解できない、わかりにくい</div>	
@@ -2006,7 +2006,7 @@ perspire	[pɚspάɪɚ]<div>（動）発汗する、汗をかく</div>
 extol	ɪkstóʊl<div>（動）褒めちぎる、激賞する</div><div><br></div><div><div><div>extol the&nbsp;virtues&nbsp;of&nbsp;one's&nbsp;children</div><div>その人の子供たちの長所を絶賛する</div></div></div>	
 irreparable	[ìrép(ə)rəbl]<div>（形）（損害・損傷などが）修復できない、取り返しのつかない</div>	
 emit	[iːmít]<div>（動）（ガス・光・熱などを）発する、放出する</div>	
-dump	[dˈʌmp]<div>（動）投棄する、棄てる</div>	
+dump	dˈʌmp<div>（動）投棄する、棄てる</div><div><br></div><div><div><div>The&nbsp;truck&nbsp;dumped&nbsp;the&nbsp;gravel&nbsp;on the&nbsp;road.</div><div>トラックは砂利を道路にどさりと下ろした。</div></div></div>	
 bedrock	[ˈbɛˌdrɑk]<div>（名）基盤、基礎、根底</div>	
 pathology	[pəθάlədʒi]<div>（名）病理学</div>	
 scramble	[skrˈæmbl]<div>（動）よじ登る、先を争う</div><div>（名）よじ登ること、奪い合い</div>	
@@ -2468,7 +2468,7 @@ save（前置詞の意味は？）	sèɪv<div>（前）〜を除けば、〜の�
 hold one's tongue	<div>tˈʌŋ<br></div>黙っている	
 back and forth	<div>fˈɔɚθ<br></div>行ったり来たり、あちこちへ、行きつ戻りつ	
 read up on 〜	〜をよく調べる	
-get at 〜	（事実など）を知る、〜を突き止める、〜をほのめかす、〜を意味する	
+get at 〜	（事実など）を知る、〜を突き止める、〜をほのめかす、〜を意味する<div><br></div><div>It's impossible&nbsp;to&nbsp;get at&nbsp;the truth.</div><div>その真相を知ることはできない。<br></div>	
 free of charge	<div>tʃάɚdʒ<br></div>無料で	
 see eye to eye (with 〜)	（通例否定文で）（〜と）意見が一致する、（〜）と気が合う	
 keep a straight face	（笑いを抑えて）真顔でいる	
@@ -2700,7 +2700,7 @@ snap out of 〜	〜から気持ちを切り替える、〜から立ち直る
 off the mark	的を外れて	
 disputatious	dìspjʊtéɪʃəs<div>（形）論争好きな</div>	
 fitful	fítf(ə)l<div>（形）断続的な、気まぐれの</div>	
-protract	proʊtrˈækt<div>（動）長引かせる</div>	
+protract	proʊtrˈækt<div>（動）長引かせる</div><div><br></div><div>They&nbsp;protracted&nbsp;their&nbsp;visit&nbsp;for some weeks.</div><div>彼らは数週間滞在期間を延ばした。<br></div>	
 sniff	sníf<div>（動）鼻でくんくん嗅ぐ</div><div><br></div><div><div><div>The dog&nbsp;sniffed&nbsp;at the&nbsp;bone.</div><div>犬はくんくんその骨のにおいをかいだ。</div></div></div>	
 apex	éɪpeks<div>（名）頂点</div>	
 senile	síːnɑɪl<div>（形）ぼけた、老齢による</div>	
@@ -3459,7 +3459,7 @@ ambulate	ˈæmbjʊlèɪt<div>（動）歩く、動き回る</div><div><br></div>
 hobble	hάbl<div>（動）不格好に歩く、よろよろ歩く</div><div><br></div><div><div><div>hobble&nbsp;along&nbsp;on a&nbsp;cane</div><div>つえを頼りによたよた歩く</div></div></div>	
 limp	límp<div>（動）（歩行が不自由で）片足を引きずる</div><div>（名）片足を引きずって歩くこと</div><div><br></div><div>to&nbsp;walk with&nbsp;a&nbsp;limp<br></div><div>びっこをひいて歩く<br></div>	
 tread	tréd<div>（動）歩く、行く、強く踏む</div>	
-trample	trˈæmpl<div>（動）踏みつける、踏みつぶす</div>	
+trample	trˈæmpl<div>（動）踏みつける、踏みつぶす</div><div><br></div><div>trample&nbsp;the law&nbsp;under foot<br></div><div>法を踏みにじる<br></div>	
 launder	lˈɔːndɚ<div>（動）洗濯する</div>	
 annex	ənéks<div>（動）付加する、併合する</div><div><br></div><div><div><div>annex&nbsp;notes</div><div>注を付加する</div></div></div>	
 gnaw	nˈɔː ※発音注意<div>（動）ガリガリかじる、噛み切る</div>	
@@ -3527,7 +3527,7 @@ china	tʃάɪnə<div>（名）陶器</div>
 thoroughfare	θˈɚːrəfèɚ<div>（名）道路、通り</div><div><br></div><div>No&nbsp;thoroughfare<br></div><div>通行禁止<br></div>	
 wrinkle	ríŋkl<div>（名）しわ</div><div>（動）しわを寄せる</div><div><br></div><div>You've&nbsp;got&nbsp;wrinkles&nbsp;round&nbsp;your eyes.</div><div>あなたは目の周りに小じわができてきた。<br></div>	
 trickery	trík(ə)ri<div>（名）ぺてん、詐欺</div><div><br></div><div>fall a victim to&nbsp;trickery<br></div><div>ペテンにかかる<br></div>	
-frenzy	frénzi<div>（名）逆上、乱心、熱狂</div>	
+frenzy	frénzi<div>（名）逆上、乱心、熱狂</div><div><br></div><div><div><div>drive a&nbsp;person&nbsp;to frenzy</div><div>人を逆上させる</div></div></div>	
 hush	hˈʌʃ<div>（名）静寂</div><div>（動）静かにさせる</div>	
 knack	nˈæk<div>（名）技巧</div>	
 amalgam	əmˈælgəm<div>（名）混合物</div>	
@@ -3807,7 +3807,7 @@ the Industrial Revolution	ɪndˈʌstriəl&nbsp;rèvəlúːʃən<br><div>（名�
 a host of	<div>hóʊst<br></div>多くの	
 boredom	bˈɔɚdəm<div>（名）退屈</div>	
 the Bering Strait	ˈbɛrɪŋ&nbsp;stréɪt<div>（名）ベーリング海峡</div>	
-impel	ɪmpél<div>（動）（感情などを）駆り立てる</div>	
+impel	ɪmpél<div>（動）（感情などを）駆り立てる</div><div><br></div><div><div><div>He&nbsp;was&nbsp;impelled&nbsp;by&nbsp;strong&nbsp;passion.</div><div>彼は激しい情熱に駆り立てられた。</div></div></div>	
 plantation	plæntéɪʃən<div>（名）植民地</div>	
 Puritan	pjˈʊ(ə)rətn<div>（名）ピューリタン、清教徒</div><div>※十六世紀後半、イギリス国教会に反抗して起こったプロテスタントの一派。清浄に生活することを主張した。</div>	
 patriotism	péɪtriətìzm<div>（名）愛国心</div>	
@@ -4276,7 +4276,7 @@ inherently	ɪnˈhɛrəntli<div>（副）本質的に、生得的に</div><div><b
 inexhaustible	ìnɪgzˈɔːstəbl<div>（形）無尽蔵の、疲れを知らない</div>	
 posit	pάzɪt<div>（動）仮定する</div><div>（名）仮定</div>	
 superficial	sùːpɚfíʃəl<div>（形）表面の、浅薄な</div>	
-unwittingly	ʌnˈwɪtɪŋli<div>（副）無意識に</div>	
+unwittingly	ʌnˈwɪtɪŋli<div>（副）無意識に</div><div><br></div><div>He&nbsp;unwittingly&nbsp;entered&nbsp;the&nbsp;ladies'&nbsp;toilet.</div><div>彼はそれと知らずに婦人用トイレに入ってしまった。<br></div>	
 blasphemy	blˈæsfəmi<div>（名）神への不敬、冒涜</div>	
 desecrate	désɪkrèɪt<div>（動）神聖を汚す</div><div><br></div><div>desecrate a&nbsp;cemetery</div><div>墓地を冒涜する<br></div>	
 unsettle	`ʌnséṭl<div>（動）乱す、心を乱す</div><div><br></div><div>This&nbsp;strike&nbsp;may&nbsp;unsettle&nbsp;the economy.</div><div>このストライキで経済が乱れるかもしれない。<br></div>	
