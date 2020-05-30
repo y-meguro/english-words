@@ -271,7 +271,7 @@ brisk	<div>brísk<br></div>（形）きびきびした、活気のある
 fungus	<div>fˈʌŋgəs<br></div>（名）（キノコ・カビ・酵母などの）菌類	
 oak	<div>óʊk<br></div>オーク（カシの木など）	
 obedient	<div>oʊbíːdiənt<br></div>従順な	
-sting	<div>stíŋ<br></div>（動）刺す<div>（名）刺すこと</div>	
+sting	<div>stíŋ<br></div>（動）刺す<div>（名）刺すこと</div><div><br></div><div>She was&nbsp;stung&nbsp;by&nbsp;a bee.</div><div>彼女はハチに刺された。<br></div>	
 absorb	<div>əbsˈɔɚb<br></div><div>（動）夢中にさせる、吸収する</div>	
 attributable	<div>ətríbjʊṭəbl<br></div>（形）原因が〜のせいとされる	
 intangible	<div>ìntˈændʒəbl<br></div>触ることのできない、無形の	
@@ -581,7 +581,7 @@ stringent	<div>stríndʒənt<br></div>（形）非常に厳しい、厳格な
 testimonial	<div>[tèstəmóʊniəl]</div>（名）証明書、推薦文、推薦の声	
 turnout	<div>tə'rnàut<br></div>（名）参加者数、来場者数	
 waive	<div>wéɪv<br></div>（動）（権利や条件を）放棄する、差し控える、適用しない<div><br></div><div>Hanako&nbsp;will&nbsp;waive&nbsp;her&nbsp;inheritance&nbsp;from her father.<br></div><div>花子は父の遺産について相続放棄するつもりだ。<br></div>	
-faucet	<div>fˈɔːsɪt<br></div>（名）蛇口	
+faucet	<div>fˈɔːsɪt<br></div>（名）蛇口<div><br></div><div>turn on a&nbsp;faucet</div><div>蛇口をひねって（水などを）出す<br></div>	
 amendment	<div>əmén(d)mənt<br></div>（名）改正、修正	
 consolidate	<div>kənsάlədèɪt<br></div>（動）統合する<div><br></div><div>consolidate&nbsp;two&nbsp;companies&nbsp;into one</div><div>二つの会社を一つに統合する<br></div>	
 vigorous	<div>víg(ə)rəs<br></div>（形）活気のある、精力的な<div><br></div><div>vigorous&nbsp;in&nbsp;body&nbsp;and&nbsp;in mind</div><div>心身ともに壮健な<br></div>	
@@ -637,7 +637,7 @@ apprise	<div>əprάɪz<br></div>（動）知らせる、通知する
 render（描写する以外）	<div>réndɚ<br></div>提供する、与える	
 depict	<div>dɪpíkt<br></div>描写する、叙述する	
 scrutinize	<div>skrúːṭənὰɪz<br></div>綿密に調べる	
-set off	始動する、作動する	
+set off	始動させる、出発する	
 embark on	<div>ɪmbάɚk<br></div>〜に乗り出す、〜を開始する	
 affection	<div>əfékʃən<br></div>（名）愛情、影響<div>※愛情の意味でよく使われる</div><div><br></div><div><div><div>his&nbsp;affection&nbsp;for his wife</div><div>彼の妻への愛情</div></div></div>	
 allure	<div>əlˈʊɚ<br></div>（動）魅惑する、そそのかす<div>（名）魅惑</div><div><br></div><div><div><div>He&nbsp;was&nbsp;allured&nbsp;by&nbsp;her voice.</div><div>彼は彼女の声に魅惑された。</div></div></div>	
@@ -754,7 +754,7 @@ sensual	<div>sénʃuəl<br></div>（形）肉感的な、体に感じる<div><br
 perpetual	<div>pɚpétʃuəl<br></div>（形）終身の、永続する	
 acute	<div>əkjúːt<br></div>（形）激しい、急性の<div><br></div><div>acute&nbsp;pain</div><div>激痛<br></div>	
 low-key	控えめな、（感情などを）抑えた	
-compulsory	<div>kəmpˈʌls(ə)ri<br></div>義務的な、強制的な	
+compulsory	<div>kəmpˈʌls(ə)ri<br></div>（形）義務的な、強制的な<div><br></div><div><div><div>compulsory&nbsp;execution</div><div>強制執行</div></div></div>	
 obligatory	<div>[əblígət`ɔːri]</div>義務的な、強制的な	
 serial	<div>sí(ə)riəl<br></div>（形）連続する、連載の、連番の<div>（名）連載</div>	
 intense	<div>ɪnténs</div>（形）激しい、情熱的な<div><br></div><div>intense&nbsp;heat</div><div>酷暑<br></div>	
@@ -824,7 +824,7 @@ nuisance	[n(j)úːsns]<div>迷惑な人、もの</div>
 preoccupation	<div>prìːὰkjʊpéɪʃən<br></div>夢中、関心事、先入観	
 absorption	<div>əbsˈɔɚpʃən<br></div>（名）熱中、没頭<div><br></div><div>absorption&nbsp;in one's&nbsp;studies<br></div><div>研究への没頭<br></div>	
 impetus	<div>ímpəṭəs</div>（名）機動力、推進力<div><br></div><div>give impetus to&nbsp;political reform<br>政治改革に弾みを与える<br></div>	
-tribute	<div>tríbjuːt<br></div>賛辞、尊敬	
+tribute	<div>tríbjuːt<br></div>（名）賛辞、尊敬<div><br></div><div>pay tribute<br>賛辞を表する<br></div>	
 commendation	<div>kὰməndéɪʃən<br></div>賞賛（の言葉）、推奨	
 epidemic	<div>èpɪdémɪk</div>（形）伝染性の、流行している<div>（名）伝染病の発生、（よくないものの）流行</div>	
 endemic	<div>endémɪk<br></div>（名）風土病<div>（形）（地域）固有の</div>	
@@ -1162,7 +1162,7 @@ premium（名詞の意味は？）	<div>príːmiəm<br></div>（名）保険料�
 coverage（範囲以外の意味）	<div>kˈʌv(ə)rɪdʒ<br></div>（保険の）保証金額、保証範囲	
 contribution（寄付、寄付金以外の意味）	<div>kὰntrəbjúːʃən<br></div>保険料、掛け金、負担（金）、寄付、寄付金	
 paid-up	（形）（保険金などを）支払い済みの	
-annuity	<div>[ən(j)úːəṭi]</div>（名）年金（額）、年金保険投資	
+annuity	<div>ən(j)úːəṭi</div>（名）年金（額）、年金保険投資<div><br></div><div>a life&nbsp;annuity<br>終身年金<br></div>	
 set aside（put aside）	〜を積み立てる、〜を蓄える	
 tax break	税制優遇措置、税控除	
 deforestation	<div>dìːf`ɔːrɪstéɪʃən<br></div>森林破壊、山林伐採	
@@ -1252,7 +1252,7 @@ clothespin	<div>[kˈlouzpìn]</div>洗濯バサミ
 watering can	<div>ˈwɔtɝɪŋ<br></div>じょうろ	
 screwdriver	[ˈskruˌdraɪvɝ]<div>ねじ回し、スクリュードライバー（ウォッカとオレンジジュースのカクテル）</div>	
 nail（爪以外の名詞）	<div>néɪl<br></div>（名）くぎ、爪<div><br></div><div>hammer a&nbsp;nail&nbsp;into&nbsp;a board</div><div>板にくぎを打つ<br></div>	
-pliers	<div>[plάɪɚz]</div>ペンチ<div>※複数で使う</div>	
+pliers	<div>plάɪɚz</div>（名）ペンチ<div>※複数で使う</div><div><br></div><div>a pair of&nbsp;pliers<br>ペンチ1丁<br></div>	
 adolescence	[`ædəlésns]<div>思春期、未成年期</div>	
 toddler	ˈtɑdlɝ<div>（名）幼児、よちよち歩きの赤ちゃん</div><div><br></div><div>an&nbsp;active&nbsp;toddler<br></div><div>活発な幼児<br></div>	
 stroller	<div>ˈstrolɝ<br></div>（折りたたみ式の）乳母車<div>※普通の乳母車はbaby buggyや単にbuggyと言う</div>	
@@ -1378,7 +1378,7 @@ barn	bάɚn<div>（名）納屋、物置</div>
 ramp	<div>rˈæmp<br></div>傾斜路、（高速道路の）ランプ	
 hydrant	[hάɪdrənt]<div>消火栓</div>	
 shade	<div>ʃéɪd<br></div>（名）日陰<div>（動）暗くする</div>	
-hedge	<div>hédʒ<br></div>（名）生け垣、垣根	
+hedge	<div>hédʒ<br></div>（名）生け垣、垣根<div><br></div><div>There is&nbsp;a&nbsp;hedge around&nbsp;the garden.<br>庭の周りには生け垣がある。<br></div>	
 puddle	[pˈʌdl]<div>（名）水たまり</div>	
 stall	[stˈɔːl]<div>露店、屋台、馬屋</div><div>※肩掛けのストールはstole</div>	
 face away from each other	互いに顔を逆側に向ける	
@@ -1922,7 +1922,7 @@ haphazard	h`æphˈæzɚd<div>（形）でたらめの、偶然の、行きあた
 precede	[prɪsíːd]<div>（動）先導する、先んじる</div>	
 soothe	[súːð]<div>（動）和らげる、なだめる</div><div><br></div><div>to&nbsp;soothe&nbsp;pain<br></div><div>傷みをおさえ静めること</div>	
 reservoir	[rézɚvwὰɚ]<div>（名）貯水池、貯蔵所</div>	
-propriety	[prəprάɪəṭi]<div>（名）礼儀正しさ、作法、適切さ</div>	
+propriety	prəprάɪəṭi<div>（名）礼儀正しさ、作法、適切さ</div><div><br></div><div>behave&nbsp;with propriety<br>礼儀正しくふるまう<br></div>	
 footnote	[ˈfʊˌtnot]<div>（名）脚注</div>	
 outnumber	[aʊˈtnʌmbɝ]<div>（動）数で勝る、多い</div>	
 curtail	[kɚːtéɪl]<div>（動）削減する、短縮する</div>	
@@ -2227,7 +2227,7 @@ pluck	plˈʌk<div>（動）摘む、引き抜く、むしり取る</div><div><br
 contingent	kəntíndʒənt<div>（形）臨時の、偶発的な</div><div><br></div><div>contingent&nbsp;expenses</div><div>臨時費<br></div>	
 coalesce	kòʊəlés<div>（動）連合する、合体する</div><div><br></div><div>coalesce&nbsp;into&nbsp;large&nbsp;units<div>合体して大きな集団になる</div></div>	
 ceremonious	sèrəmóʊniəs<div>（形）儀式ばった、おごそかな</div><div><br></div><div>perform a&nbsp;ceremonious&nbsp;bow<br></div><div>儀式ばったお辞儀をする<br></div>	
-let 〜 off（降ろす以外の意味）	〜を許す、（車などから人を）降ろす	
+let 〜 off（降ろす以外の意味）	〜を許す、（車などから人を）降ろす<div><br></div><div>Technically he was speeding, but the officer let him off with a verbal warning.</div><div>厳密に言えば彼はスピード違反をしていたのですが、その警官は口頭の警告だけで彼を許してあげました。<br></div>	
 stand up for 〜	〜の味方をする	
 hand out 〜	〜を配布する	
 learn 〜 by heart	〜を暗記する	
@@ -2738,7 +2738,7 @@ tributary	tríbjʊtèri<div>（名）（川の）支流</div>
 snarl	snάɚl<div>（動）怒鳴る、うなる</div>	
 detrimental	dètrəménṭl<div>（形）有害な、不利益な</div>	
 abate	əbéɪt<div>（動）和らげる、減ずる、無効にする</div><div><br></div><div>abate a tax</div><div>税を軽減する</div>	
-nurture	nˈɚːtʃɚ<div>（動）はぐくむ、しつける、育てる</div>	
+nurture	nˈɚːtʃɚ<div>（動）はぐくむ、しつける、育てる</div><div><br></div><div>nurture&nbsp;love</div><div>愛をはぐくむ<br></div>	
 replete	rɪplíːt<div>（形）豊富に備えた、満腹した</div>	
 repudiate	rɪpjúːdièɪt<div>（動）拒絶（拒否）する</div><div><br></div><div>repudiate&nbsp;an&nbsp;offer<br>申し出を断る<br></div>	
 outcry	ˈaʊˌtkraɪ<div>（名）叫び声、怒鳴り声</div><div><br></div><div>in a&nbsp;vehement&nbsp;outcry<br></div><div>熱心な叫び声で</div>	
@@ -2807,7 +2807,7 @@ put forward 〜	（考えなどを）提唱する、（行事などを）早め�
 run over	立ち寄る、（車が人などを）ひく	
 leave no stone unturned	（目的達成のために）あらゆる手段を尽くす	
 by nature	生まれつき<div><br></div><div>She's&nbsp;artistic&nbsp;by nature.</div><div>彼女は生まれつき芸術的な素質を持っている。<br></div>	
-call out 〜	〜を招集する	
+call out 〜	〜を招集する<div><br></div><div><div><div>The National&nbsp;Guard&nbsp;was&nbsp;called out&nbsp;to deal with&nbsp;the riot.</div><div>暴動を抑えるために国防軍の出動が命じられた。</div></div></div>	
 at large	全体として、一般の、自由の身で	
 get through to 〜	（電話などで）〜に連絡を取る、〜に理解させる	
 congratulate A on B	AにBのことでお祝いを言う	
@@ -2909,7 +2909,7 @@ franchise（「フランチャイズ制」以外の名詞）	frˈæntʃɑɪz<div
 humus	(h)júːməs<div>（名）腐植土</div>	
 synchronous	síŋkrənəs<div>（形）同時の</div>	
 extrude	ekstrúːd<div>（動）押し出す、（型から押し出して）成形する</div><div><br></div><div><div><div>The&nbsp;snail&nbsp;extruded&nbsp;its horns.</div><div>カタツムリは角を出した。</div></div></div>	
-euphemism	júːfəmìzm<div>（名）婉曲な表現</div>	
+euphemism	"júːfəmìzm<div>（名）婉曲な表現</div><div><br></div><div>""Pass away"" is a&nbsp;euphemism for ""die.""<br>「世を去る」は「死ぬ」の遠回しな言い方である。<br></div>"	
 compound eye	kɑmpάʊnd<div>（名）（昆虫の）複眼</div>	
 comatose	kóʊmətòʊs<div>（形）昏睡状態の、無気力な</div>	
 demise	dɪmάɪz<div>（名）消滅</div>	
@@ -2988,7 +2988,7 @@ incarnation	ìnkɑɚnéɪʃən<div>（名）化身、権化、具体化</div><di
 garble	gάɚbl<div>（動）誤って伝える、（事実などを）曲げる</div>	
 engender	ɪndʒéndɚ<div>（動）生じる、発生させる</div><div><br></div><div><div><div><div><div>Compassion&nbsp;often&nbsp;engenders&nbsp;love.</div><div>同情からよく恋愛が生まれる。</div></div></div></div></div>	
 stud（スタッド以外の名詞）	stˈʌd<div>（名）種馬、びょう、スタッド</div>	
-devious	díːviəs<div>（形）遠回りの、曲がりくねった</div>	
+devious	díːviəs<div>（形）遠回りの、曲がりくねった</div><div><br></div><div>take a devious route<br>回り道をする<br></div>	
 crescendo	krəʃéndoʊ<div>（名）次第に増すこと、クレッシェンド（の楽節）</div><div>（動）次第に強まる</div><div>（副・形）クレッシェンドで（の）</div>	
 forsake	fɚséɪk<div>（動）（悪習などを）やめる、放棄する、見捨てる</div><div><br></div><div>My friends&nbsp;will not&nbsp;forsake&nbsp;me.<br>友達は私を見放すことはないだろう。<br></div>	
 diagonal	dὰɪˈægənl<div>（名）対角線</div>	
@@ -3393,7 +3393,7 @@ cringe	kríndʒ<div>（動）（恐怖で）すくむ、畏縮する</div><div><
 sicken（「病気になる」以外の動詞）	sík(ə)n<br><div>（動）うんざりする、嫌になる、病気になる</div>	
 falter	fˈɔːltɚ<div>（動）つまずく、よろめく、ひるむ</div><div><br></div><div>You&nbsp;shouldn't&nbsp;falter in&nbsp;your&nbsp;determination&nbsp;to finish&nbsp;the job.<br>一度やると決めたら最後までやりなさい。<br></div>	
 implore	ɪmplˈɔɚ<div>（動）懇願する、嘆願する</div><div><br></div><div>He&nbsp;implored&nbsp;her&nbsp;to marry&nbsp;him.</div><div>彼は彼女に自分と結婚してほしいと懇願した。<br></div>	
-incense	ínsens<div>（動）ひどく立腹させる</div>	
+incense	ínsens<div>（動）ひどく立腹させる</div><div><br></div><div><div><div>She was&nbsp;incensed&nbsp;by&nbsp;his&nbsp;conduct.</div><div>彼女は彼の行為に激怒した。</div></div></div>	
 satirize	sˈæṭərὰɪz<div>（動）風刺する</div><div><br></div><div><div><div>satirize&nbsp;society</div><div>社会を風刺する</div></div></div>	
 wilt	wílt<div>（動）しぼむ、しおれる、元気がなくなる</div><div><br></div><div>the&nbsp;flowers&nbsp;wilted</div><div>しおれた花<br></div>	
 wince	wíns<div>（動）ひるむ、たじろぐ</div><div><br></div><div>He&nbsp;winced&nbsp;at the&nbsp;thought.</div><div>そう思うと彼はひるんだ。<br></div>	
@@ -3473,7 +3473,7 @@ slap	slˈæp<div>（動）平手でたたく</div><div>（名）ピシャリと�
 slay	sléɪ<div>（動）殺害する、笑い転げさせる</div><div><br></div><div>I will&nbsp;slay&nbsp;any man&nbsp;who&nbsp;lags&nbsp;behind!<br></div><div>遅れる者は殺してくれよう</div>	
 slaughter	slˈɔːṭɚ<div>（動）（動物を）屠殺する</div><div>（名）畜殺、屠殺、虐殺</div><div><br></div><div>slaughter&nbsp;animals&nbsp;for food</div><div>食料にするために動物を屠殺する<br></div>	
 rip	ríp<div>（動）切り裂く、引き裂く</div>	
-unwind	`ʌnwάɪnd<div>（動）（巻いたものを）ほどく、巻き戻す</div>	
+unwind	`ʌnwάɪnd<div>（動）（巻いたものを）ほどく、巻き戻す</div><div><br></div><div>unwind&nbsp;a&nbsp;bandage</div><div>包帯をほどく<br></div>	
 unravel	`ʌnrˈæv(ə)l<div>（動）ほどく、解く、解明する</div><div><br></div><div>unravel&nbsp;a&nbsp;mystery<br></div><div>神秘を解明する<br></div>	
 vanquish	vˈæŋkwɪʃ<div>（動）征服する、破る、負かす</div>	
 warp	wˈɔɚp<div>（動）そらせる、ねじる、ゆがめる</div>	
