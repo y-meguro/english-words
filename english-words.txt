@@ -100,7 +100,7 @@ cherish	<div>tʃérɪʃ<br></div>（愛情をこめて）大事にする、か�
 infamous	<div>ínfəməs<br></div>（形）悪名高い、不名誉な	
 resolute	<div>rézəlùːt<br></div>断固とした、固く決心した	
 Venus	<div>víːnəs<br></div>金星	
-nourish	<div>nˈɚːrɪʃ<br></div>養う、肥料をやる	
+nourish	<div>nˈɚːrɪʃ<br></div>（動）養う、肥料をやる<div><br></div><div>The baby&nbsp;was&nbsp;nourished&nbsp;only&nbsp;with&nbsp;mother's&nbsp;milk.<br>その子は母乳だけで育てられた。<br></div>	
 spectacular	<div>spektˈækjʊlɚ<br></div>壮観な	
 autobiography	<div>`ɔːṭəbɑɪάgrəfi<br></div>（名）自叙伝	
 shabby	<div>ʃˈæbi<br></div>（形）みすぼらしい<div><br></div><div><div><div>a&nbsp;shabby&nbsp;old man</div><div>みすぼらしいなりをした老人</div></div></div>	
@@ -576,7 +576,7 @@ exemplary	<div>egzémpləri<br></div>（形）模範的な<div><br></div><div>ex
 gala	<div>géɪlə<br></div>祝祭、祭り	
 mural	<div>mjˈʊ(ə)rəl<br></div>（名）壁画<div>（形）壁の</div>	
 proprietor	<div>prəprάɪəṭɚ<br></div>オーナー、所有者	
-stagnant	<div>stˈægnənt<br></div>（形）停滞した、よどんだ、活気がない	
+stagnant	<div>stˈægnənt<br></div>（形）停滞した、よどんだ、活気がない<div><br></div><div>Business&nbsp;is&nbsp;stagnant.<br></div><div>景気が沈滞している。<br></div>	
 stringent	<div>stríndʒənt<br></div>（形）非常に厳しい、厳格な	
 testimonial	<div>[tèstəmóʊniəl]</div>（名）証明書、推薦文、推薦の声	
 turnout	<div>tə'rnàut<br></div>（名）参加者数、来場者数	
@@ -1513,7 +1513,7 @@ ingenious	[ɪndʒíːnjəs]<div>（形）才能のある、独創的な、器用
 replenish	[rɪplénɪʃ]<div>（動）補給する、再び満たす</div>	
 succinct	[sʌksíŋ(k)t]<div>（形）簡潔な、ずばりの</div>	
 poach	póʊtʃ<div>（動）密漁する</div><div><br></div><div>to&nbsp;poach&nbsp;for&nbsp;seals<br></div><div>ラッコを密猟する<br></div>	
-inscribe	[ɪnskrάɪb]<div>（動）（文字などを）刻む、記す</div>	
+inscribe	ɪnskrάɪb<div>（動）（文字などを）刻む、記す</div><div><br></div><div>inscribe&nbsp;names&nbsp;on a&nbsp;war memorial<br></div><div>戦争記念碑に氏名を刻む<br></div>	
 mercy	<div>mˈɚːsi<br></div>（名）慈悲、哀れみ	
 savory	[séɪv(ə)ri]<div>（形）食欲をそそる、味の良い</div>	
 continental shelf	<div>kὰnṭənénṭl&nbsp;ʃélf<br></div>大陸棚	
@@ -1557,7 +1557,7 @@ shrewd	[ʃrúːd]<div>（形）賢い、抜け目のない</div>
 reckless	<div>rékləs<br></div>（形）無謀な、向こう見ずの	
 diverge	[dɪvˈɚːdʒ]<div>（動）（意見などが）異なる、分かれる、分岐する、発散する</div>	
 lethal	[líːθ(ə)l]<div>（形）致死の</div>	
-potent	[póʊtnt]<div>（形）有力な、（酒が）強い、力強い</div>	
+potent	póʊtnt<div>（形）有力な、（酒が）強い、力強い</div><div><br></div><div>potent&nbsp;liquor<br></div><div>強い酒<br></div>	
 aggression	<div>əgréʃən<br></div>（名）侵害、攻撃	
 composure	<div>kəmpóʊʒɚ<br></div>（名）落ち着き、平静<div><br></div><div>keep one's composure<br>落ち着いている<br></div>	
 levy	<div>lévi<br></div>（動）徴収する、賦課する	
@@ -1769,7 +1769,7 @@ stockpile	[ˈstɑˌkpaɪl]<div>（動）備蓄する</div><div>（名）備蓄</
 greenback	[ˈgriˌnbæk]<div>（名）米ドル紙幣</div>	
 coercion	koʊˈɚːʒən<div>（名）強制、威圧</div><div><br></div><div>they&nbsp;didn't&nbsp;have to&nbsp;use&nbsp;coercion</div><div>彼らは強制する必要はなかった<br></div>	
 plenitude	plénət(j)ùːd<div>（名）十分、豊富</div><div><br></div><div>The country&nbsp;has a&nbsp;plenitude&nbsp;of&nbsp;natural&nbsp;resources.<br></div><div>その国には豊富な天然資源がある。<br></div>	
-jurisdiction	[dʒ`ʊ(ə)rɪsdíkʃən]<div>（名）（司法などの）管轄権</div>	
+jurisdiction	dʒ`ʊ(ə)rɪsdíkʃən<div>（名）（司法などの）管轄権</div><div><br></div><div>It is&nbsp;my&nbsp;jurisdiction.<br></div><div>それは私の管轄だ。<br></div>	
 dissident	dísədnt<div>（名）反体制派（の人）</div><div>（形）意見を異にする</div><div><br></div><div>a&nbsp;dissident&nbsp;voice<br></div><div>反対意見</div>	
 enlightenment	[inláitənmənt]<div>（名）啓発、啓蒙</div>	
 evergreen	[évɚgrìːn]<div>（形）常緑の</div><div>（名）常緑樹</div>	
@@ -2401,7 +2401,7 @@ indignation	ìndɪgnéɪʃən<div>（名）怒り、憤り、義憤</div><div><b
 torment	tˈɔɚment<div>（名）苦痛</div><div>（動）苦しめる</div><div><br></div><div>be in torment<br>苦しんでいる<br></div>	
 attentive	əténṭɪv<div>（形）気を配った、注意深い、大切にする</div><div><br></div><div>an&nbsp;attentive&nbsp;reader</div><div>注意深い読者<br></div>	
 filmy	fílmi<div>（形）（布などが）非情に薄い、薄膜状の、かすんだ</div>	
-physiological	fìziəlάdʒɪk(ə)l<div>（形）生理学上の</div>	
+physiological	fìziəlάdʒɪk(ə)l<div>（形）生理学上の</div><div><br></div><div>That is&nbsp;a&nbsp;physiological&nbsp;phenomenon.<br></div><div>それは生理的な現象です。<br></div>	
 taciturn	tˈæsət`ɚːn<div>（形）無言の、むっつりした</div>	
 infiltrate	ɪnfíltreɪt<div>（動）潜入する、浸透する、染み込む</div><div><br></div><div>They&nbsp;infiltrated&nbsp;men&nbsp;into&nbsp;enemy&nbsp;territory.<br>彼らは兵を敵地に潜入させた。<br></div>	
 aorta	eɪˈɔɚṭə<div>（名）大動脈</div>	
@@ -2415,7 +2415,7 @@ till	tíl<div>（動）耕す</div>
 irreverence	ìrév(ə)rəns<div>（名）不敬、非礼、軽視</div><div><br></div><div>an&nbsp;attitude&nbsp;of&nbsp;irreverence<br></div><div>不敬な態度</div>	
 pit	pít<div>（動）（against 〜）（〜と）対抗させる、穴を開ける</div><div>（名）くぼみ</div>	
 brazen	bréɪzn<div>（形）厚かましい、真ちゅうの</div>	
-incidence	ínsədns<div>（名）負担、（事故や病気などの）発生、（影響の）範囲</div>	
+incidence	ínsədns<div>（名）負担、（事故や病気などの）発生、（影響の）範囲</div><div><br></div><div>the&nbsp;incidence of&nbsp;a tax<br>税のかかる範囲<br></div>	
 salvage	sˈælvɪdʒ<div>（名）海難救助、（沈没船の）引き揚げ</div><div>（動）救助する</div>	
 countermeasure	ˈkaʊntɝˌmɛʒɝ<div>（名）対応策</div>	
 urine	jˈʊ(ə)rɪn<div>（名）尿</div>	
@@ -2604,7 +2604,7 @@ transcribe	trænskrάɪb<div>（動）書き写す、複写する</div><div><br>
 incessant	ɪnsésnt<div>（形）絶え間ない、ひっきりなしの</div>	
 moat	móʊt<div>（名）堀</div>	
 checkered	ˈtʃɛkɝd<div>（形）波乱万丈の、変化に富んだ</div>	
-animosity	`ænəmάsəṭi<div>（名）憎しみ、敵意</div>	
+animosity	`ænəmάsəṭi<div>（名）憎しみ、敵意</div><div><br></div><div>have animosity&nbsp;against&nbsp;a&nbsp;person</div><div>人に恨みを抱く<br></div>	
 innocuous	ɪnάkjuəs<div>（形）無害の</div><div><br></div><div>innocuous&nbsp;snakes</div><div>無毒のヘビ<br></div>	
 exonerate	ɪgzάnərèɪt<div>（動）免除する、解放する</div><div><br></div><div>exonerate&nbsp;a&nbsp;person from&nbsp;blame<br></div><div>人を非難から免れさせる<br></div>	
 climactic	klɑɪmˈæktɪk<div>（形）最高潮の、クライマックスの</div>	
@@ -3047,7 +3047,7 @@ fallible	fˈæləbl<div>（形）間違いを起こすことがある、誤り�
 ascetic	æséṭɪk<div>（形）禁欲的な、苦行の</div><div>（名）苦行僧</div>	
 aver	əvˈɚː<div>（動）断言する、明言する</div><div><br></div><div>aver&nbsp;a&nbsp;fact<div>事実を断言する</div></div>	
 artifice	άɚṭəfɪs<div>（名）策略、巧妙さ</div>	
-drudgery	drˈʌdʒ(ə)ri<div>（名）退屈なつらい仕事、骨折り仕事、雑役</div>	
+drudgery	drˈʌdʒ(ə)ri<div>（名）退屈なつらい仕事、骨折り仕事、雑役</div><div><br></div><div>I am tired&nbsp;of&nbsp;drudgery.<br></div><div>あくせく働くのがいやになった。<br></div>	
 manor	mˈænɚ<div>（名）荘園（制度）</div>	
 fluffy	flˈʌfi<div>（形）毛羽立った、ふわふわとした</div>	
 vicarious	vɑɪké(ə)riəs<div>（形）（他人の経験を通して）自分のことのように感じられる、代理の</div><div><br></div><div>His&nbsp;success&nbsp;gave&nbsp;her&nbsp;vicarious&nbsp;pleasure.</div><div>彼の成功に彼女はわがことのように喜びを感じた。<br></div>	
@@ -3318,7 +3318,7 @@ stingy	stíndʒi<div>（形）けちな、みみっちい</div><div><br></div><d
 deceitful	dɪsíːtf(ə)l<div>（形）詐欺の、偽りの</div><div><br></div><div>deceitful&nbsp;advertising</div><div>欺瞞的な広告<br></div>	
 underhanded（「人手不足の」以外の形容詞）	`ʌndɚhˈændɪd<div>（形）秘密の、こそこそした、人手不足の</div><div><br></div><div>an&nbsp;underhanded&nbsp;scheme<br></div><div>たくらみ</div>	
 deceptive	dɪséptɪv<div>（形）人を欺くような</div><div><br></div><div>Appearances&nbsp;are&nbsp;very often&nbsp;deceptive.</div><div>見かけは往々にして当てにならない.<br></div>	
-delusive	dɪlúːsɪv<div>（形）人を惑わせる</div>	
+delusive	dɪlúːsɪv<div>（形）人を惑わせる</div><div><br></div><div>Appearances&nbsp;are&nbsp;delusive.<br></div><div>外見は当てにならぬ。<br></div>	
 imperceptible	ìmpɚséptəbl<div>（形）気づかれないほどの、微細な</div>	
 vouch for	<div>vάʊtʃ<br></div>（動）保証する、請け合う、引き受ける<div><br></div><div>to&nbsp;vouch&nbsp;for&nbsp;one's&nbsp;identity<br></div><div>身元などを保証する<br></div>	
 detest	dɪtést<div>（動）ひどく嫌う</div><div><br></div><div>He&nbsp;detests&nbsp;spiders.</div><div>彼はクモが大嫌いです。<br></div>	
@@ -3489,7 +3489,7 @@ offspring	ˈɑfsprɪŋ<div>（名）（人・動物の）子、子孫</div>
 captive	kˈæptɪv<div>（形）とらわれの</div><div>（名）捕虜、監禁されている人</div>	
 speck	spék<div>（名）小さな粒</div>	
 weighty	wéɪṭi<div>（形）重い、有力な</div>	
-skimpy	skímpi<div>（形）乏しい、小さい</div>	
+skimpy	skímpi<div>（形）乏しい、小さい</div><div><br></div><div>a&nbsp;skimpy&nbsp;meal</div><div>粗末な食事<br></div>	
 invariably	ìnvé(ə)riəbli<div>（副）いつも、常に</div>	
 bough	"bάʊ<div>（名）（木の）大枝</div><div><br></div><div><img src=""bo (1).jpeg""><br></div>"	
 brier	brάɪɚ<div>（名）いばら</div><div>※briarでもいばら</div>	
