@@ -137,7 +137,7 @@ sovereign	<div>[sάv(ə)rən]</div>（名）主権者、君主<div>（形）主�
 pier	<div>píɚ</div>（名）桟橋、埠頭<div><br><div>a&nbsp;landing&nbsp;pier</div><div>（上陸用）桟橋<br></div></div>	
 contemplate	<div>kάnṭəmplèɪt<br></div>熟考する	
 frantic	<div>frˈænṭɪk<br></div>（形）熱狂した、狂乱した	
-arid	<div>[ˈærɪd]</div>（形）乾燥した、不毛の、（話などが）つまらない	
+arid	<div>ˈærɪd</div>（形）乾燥した、不毛の、（話などが）つまらない<div><br></div><div>an&nbsp;arid&nbsp;climate</div><div>乾燥した地方<br></div>	
 combustible	<div>kəmbˈʌstəbl<br></div>（形）可燃性の、燃えやすい<div>（名）（通例〜s）可燃物</div>	
 estuary	"<div>éstʃuèri<br></div>（名）河口<div><br></div><div><img src=""paste-02a30e77e1f3122dec30243ba984e3d422b16c4a.jpg""><br></div>"	
 vent	<div>vént<br></div>（名）（液体や気体が抜ける）穴、通気口	
@@ -450,7 +450,7 @@ freight elevator	<div>fréɪt&nbsp;éləvèɪṭɚ<br></div>貨物用エレベ�
 panel（パネル以外）	<div>pˈænl<br></div>グループ、パネル	
 strive	<div>strάɪv<br></div>（動）懸命に努力する、戦う<div><br></div><div>He&nbsp;strove&nbsp;for&nbsp;success in&nbsp;the business&nbsp;world.<br>彼はビジネス界で成功しようと懸命になった<br></div>	
 checkout（チェックアウト以外）	<div>tˈʃekàut<br></div>レジ、チェックアウト	
-preliminary	<div>prɪlímənèri<br></div>仮の、暫定の、本番前の	
+preliminary	<div>prɪlímənèri<br></div>（形）仮の、暫定の、本番前の<div><br></div><div><div><div>a&nbsp;preliminary&nbsp;examination</div><div>予備試験</div></div></div>	
 steadily	<div>stédəli<br></div>（副）着実に、規則的に	
 controversial	<div>kὰntrəvˈɚːʃəl<br></div>（形）議論を引き起こす、議論の的になる	
 understaffed	<div>ˈʌndɝˌstæft<br></div>人手不足の	
@@ -479,7 +479,7 @@ municipal	<div>mjuːnísəp(ə)l<br></div>市の、市営の
 culinary	<div>[kˈʌlənèri]</div>料理の	
 attire	<div>ətάɪɚ<br></div><div>（名）服装</div>	
 furnished	<div>ˈfɝnɪʃt<br></div>家具付きの	
-acclaimed	<div>ʌˈklemd<br></div>（形）絶賛されている	
+acclaimed	<div>ʌˈklemd<br></div>（形）絶賛されている<div><br></div><div>They&nbsp;acclaimed&nbsp;him their leader.<br></div><div>彼を指導者として歓呼で迎えた。<br></div>	
 correspondence	<div>k`ɔːrəspάndəns<br></div>（名）やり取り、文通、一致、調和、対応	
 detergent	<div>dɪtˈɚːdʒənt<br></div>洗剤	
 prestigious	<div>prestídʒəs<br></div>（形）名声のある、一流の	
@@ -693,7 +693,7 @@ eradicate	<div>ɪrˈædəkèɪt<br></div>（病気・社会問題などを）根
 dismiss	<div>dɪsmís<br></div>（動）解散させる、解雇する	
 dismissal	<div>dɪsmísl<br></div>（名）解散、解雇、却下<div><br></div><div>a letter&nbsp;of&nbsp;dismissal<br></div><div>解雇状</div>	
 abandon	<div>əbˈændən<br></div>（動）見捨てる、断念する<div>※abundant（əbˈʌndənt）は「豊富な」</div>	
-diminish	<div>dɪmínɪʃ<br></div>減少させる	
+diminish	<div>dɪmínɪʃ<br></div>（動）減少させる<div><br></div><div>Illness&nbsp;had&nbsp;seriously&nbsp;diminished&nbsp;his strength.</div><div>病気のため彼の力はひどく衰えていた<br></div>	
 pharmaceutical	<div>[fὰɚməsúːṭɪk(ə)l]</div>医薬品の	
 take shelter	<div>ʃéltɚ<br></div>避難する	
 vacate	<div>[véɪkeɪt]</div>（動）明け渡す	
@@ -1190,7 +1190,7 @@ deli	デリカッセン（delicatessenの短縮語）<div>惣菜やサラダな�
 fare（名詞で、運賃・乗客以外の意味）	<div>féɚ<br></div>（名）料理、運賃、乗客<div>（動）暮らす</div>	
 relish	<div>[rélɪʃ]</div>（名）風味、香り<div>（動）おいしく食べる、楽しむ</div>	
 feast	<div>fíːst<br></div>（名）ごちそう、祝宴	
-greasy	<div>[gríːsi]</div>（形）脂っこい	
+greasy	<div>gríːsi</div>（形）脂っこい<div><br></div><div>This&nbsp;food&nbsp;is&nbsp;greasy.</div><div>この食べ物は脂っこい。<br></div>	
 best by 〜	賞味期限は〜まで	
 picky	<div>píki<br></div>（形）好き嫌いが多い	
 saute	<div>[sɔːtéɪ]</div>（他）少量の油で炒める、ソテーにする	
@@ -1636,7 +1636,7 @@ torture	tˈɔɚtʃɚ<div>（名）拷問、苦痛</div><div><br></div><div>They&
 momentous	[moʊménṭəs]<div>（形）重大な、重要な</div>	
 grass roots	（the 〜）草の根（運動）	
 affliction	<div>əflíkʃən<br></div>（名）苦痛、災難<div><br></div><div>a&nbsp;severe&nbsp;affliction<br></div><div>厳しい苦痛</div>	
-extort	[ɪkstˈɔɚt]<div>（動）強要する、無理強いする</div>	
+extort	ɪkstˈɔɚt<div>（動）強要する、無理強いする</div><div><br></div><div>They&nbsp;extorted&nbsp;money&nbsp;from&nbsp;the executive&nbsp;by&nbsp;threatening&nbsp;to reveal&nbsp;his&nbsp;past&nbsp;to the company&nbsp;boss.</div><div>彼らは、会社社長に彼の過去明らかにすると脅迫することにより、金を役員から強奪した。<br></div>	
 tame	[téɪm]<div>（動）調教する</div><div>（形）飼いならされた、退屈な</div>	
 segregation	[sègrɪgéɪʃən]<div>（名）人種差別、（人種）隔離</div>	
 heterogeneous	[hèṭərədʒíːniəs]<div>（形）（異種）混成の、異成分からなる、不均質の</div>	
@@ -2033,7 +2033,7 @@ adversary	ˈædvɚsèri<div>（名）敵、対戦相手</div><div><br></div><div
 denounce	[dɪnάʊns]<div>（動）公然と非難する</div>	
 particle	pάɚṭɪkl<div>（名）微粒子、細片</div><div><br></div><div>particles&nbsp;of&nbsp;sand</div><div>砂粒<br></div>	
 foe	fóʊ<div>（名）敵、かたき</div><div><br></div><div>a political&nbsp;foe<br>政敵<br></div>	
-counterfeit	[kάʊnṭɚfìt]<div>（形）偽造の</div>	
+counterfeit	kάʊnṭɚfìt<div>（形）偽造の</div><div><br></div><div>a&nbsp;counterfeit&nbsp;diamond</div><div>模造ダイヤ<br></div>	
 proliferation	[prəlìfəréɪʃən]<div>（名）急増、拡散</div><div><br></div><div>the&nbsp;proliferation&nbsp;of&nbsp;nuclear weapons<br></div><div>核兵器拡散</div>	
 dissolution	[dìsəlúːʃən]<div>（名）消滅、分解</div>	
 reminiscence	[rèmənísns]<div>（名）回想、追憶、思い出</div>	
@@ -2082,7 +2082,7 @@ thatch	"θˈætʃ<div>（名）わらぶき屋根、屋根ふき材（わら、�
 maneuver	[mən(j)úːvɚ]<div>（名）（車などの）巧みな操縦、作戦行動</div><div>（動）巧みに動かす、巧みに操る</div>	
 antipathy	[æntípəθi]<div>（名）嫌悪、反感</div>	
 indigestion	[ìndɑɪdʒéstʃən]<div>（名）消化不良</div>	
-obsess	[əbsés]<div>（動）（受身形で）（妄想・固定観念などに）取り憑かれる、悩まされる</div>	
+obsess	əbsés<div>（動）（受身形で）（妄想・固定観念などに）取り憑かれる、悩まされる</div><div><br></div><div><div><div>She was&nbsp;obsessed&nbsp;by fear of&nbsp;death.</div><div>彼女は死の恐怖に取りつかれていた。</div></div></div>	
 armored	[ˈɑrmɝd]<div>（形）装甲した</div>	
 condone	kəndóʊn<div>（動）許す、大目に見る</div><div><br></div><div>condone&nbsp;someone's&nbsp;behavior<div>（人）の態度を容認する</div></div>	
 captivity	[kæptívəṭi]<div>（名）捕らわれの身、隷属、拘留</div>	
@@ -2125,7 +2125,7 @@ scour	skάʊɚ<div>（動）ごしごし洗う</div><div><br></div><div>scour&nb
 fiasco	fiˈæskoʊ<div>（名）（みじめな結末に終わる）大失敗</div>	
 viviparity	vìvəpǽrəti<div>（名）胎生</div>	
 abstinence	ˈæbstənəns<div>（名）禁欲、自制</div><div><br></div><div>abstinence&nbsp;from&nbsp;pleasure<br></div><div>快楽を断つこと<br></div>	
-vagrant	véɪgrənt<div>（名）路上生活者</div><div>（形）浮浪する</div>	
+vagrant	véɪgrənt<div>（名）路上生活者</div><div>（形）浮浪する</div><div><br></div><div><div><div>vagrant&nbsp;tribes</div><div>放浪民族</div></div></div>	
 come out（咲く以外の意味）	出る、出版される<div><br></div><div>The stars came out one by one.</div><div>星が一つまた一つと現れた。</div>	
 give in	降参する	
 do more harm than good	有害無益である	
@@ -2164,7 +2164,7 @@ morose	məróʊs<div>（形）不機嫌な、むっつりした</div><div><br></
 agitate	ˈædʒətèɪt<div>（動）動揺させる、扇動する</div>	
 congenial	kəndʒíːnjəl<div>（形）気の合う、性分に合った、快適な</div>	
 copious	kóʊpiəs<div>（形）多量の、（作家などが）多作の</div><div><br></div><div><div><div>copious&nbsp;profits</div><div>莫大な利益</div></div></div>	
-ebb	éb<div>（動）衰える、潮が引く</div><div>（名）（通例 the 〜）引き潮</div>	
+ebb	éb<div>（動）衰える、潮が引く</div><div>（名）（通例 the 〜）引き潮</div><div><br></div><div>His&nbsp;life&nbsp;was&nbsp;ebbing&nbsp;away.</div><div>彼は次第に衰えつつあった。<br></div>	
 topple	tάpl<div>（動）倒す、頭から倒れる、よろめく</div><div><br></div><div>The whole&nbsp;stack of&nbsp;goods&nbsp;toppled&nbsp;over.</div><div>積み重ねた商品が全部ひっくり返った。<br></div>	
 atypical	eɪtípik(ə)l<div>（形）異常な、型にはまらない</div><div><br></div><div>Her&nbsp;radiological&nbsp;appearance&nbsp;was&nbsp;atypical.<br></div><div>彼女のレントゲン画像は異常だ。<br></div>	
 leeway	ˈliˌwe<div>（名）余裕、ゆとり、（強風で船などが進路から）風下にそれること</div>	
@@ -2282,7 +2282,7 @@ deter	dɪtˈɚː<div>（動）抑制する、怖がらせて〜させない</div
 snare	snéɚ<div>（動）わなで捕らえる</div><div>（名）わな</div><div><br></div><div>to fall&nbsp;into a&nbsp;snare<br></div><div>計略にはまる<br></div>	
 prospector	prάspektɚ<div>（名）（鉱山の）探鉱者、試掘者</div>	
 murky	mˈɚːki<div>（形）（川や水が）濁っている、暗くて陰気な</div><div><br></div><div>He&nbsp;has a&nbsp;murky&nbsp;past.<br></div><div>彼には後ろめたい過去がある。<br></div>	
-accrue	əkrúː<div>（動）（利子などを）獲得する</div>	
+accrue	əkrúː<div>（動）（利子などを）獲得する</div><div><br></div><div>Four‐percent&nbsp;interest&nbsp;will&nbsp;accrue&nbsp;on&nbsp;your savings.</div><div>あなたの貯金には4%の利子がつきます。<br></div>	
 abdicate	ˈæbdɪkèɪt<div>（動）捨てる、放棄する</div><div><br></div><div>abdicate&nbsp;the throne<br></div><div>退位する</div>	
 wrench（動詞の意味は？）	réntʃ<div>（動）ねじる、くじく</div><div>（名）ねじれ、ひねり、レンチ、つらさ</div>	
 overpowering	ˈovɝˈpaʊrɪŋ<div>（形）耐え難い、抗しきれない</div>	
@@ -2381,7 +2381,7 @@ womb	wúːm<div>（名）子宮</div>
 cog	kάg<div>（名）歯車、（歯車の）歯</div>	
 coax	kóʊks<div>（動）説得して〜させる、なだめる</div>	
 simulated	símjʊlèɪṭɪd<div>（形）模造の、まねた</div>	
-tint	tínt<div>（名）色合い</div>	
+tint	tínt<div>（名）色合い</div><div><br></div><div>autumnal tints</div><div>秋色<br></div>	
 excise	éksɑɪz<div>（動）摘出する、切り取る</div><div><br></div><div>The tumor must be excised and the surrounding tissue removed.&nbsp;</div><div>その腫瘍を摘出し、その周囲組織は切除されなければならない。<br></div>	
 phosphorus	fάsf(ə)rəs<div>（名）リン</div>	
 rococo	rəkóʊkoʊ<div>（名）ロココ様式</div>	
@@ -2887,7 +2887,7 @@ arrow tip	ˈæroʊ<div>（名）矢じり</div>
 cataclysm	kˈæṭəklìzm<div>（名）社会的大変動、激変、大洪水</div><div><br></div><div>The bonds between these two countries were strengthened by the cataclysm of World War II.</div><div>第2次世界大戦という大変動によりこれら両国の絆が強められた。<br></div>	
 deride	dɪrάɪd<div>（動）あざける、ばかにする</div><div><br></div><div>deride&nbsp;a&nbsp;person as&nbsp;a&nbsp;fool</div><div>人をばかだと愚弄する<br></div>	
 credo	kríːdoʊ<div>（名）信条</div>	
-mundane	m`ʌndéɪn<div>（形）ありふれた、日常の、現世の</div>	
+mundane	m`ʌndéɪn<div>（形）ありふれた、日常の、現世の</div><div><br></div><div>a&nbsp;pretty&nbsp;mundane&nbsp;life</div><div>かなり平々凡々な生活<br></div>	
 distraught	dɪstrˈɔːt<div>（形）狼狽した、気もそぞろの</div><div><br></div><div>emotionally&nbsp;distraught<div>感情的に混乱した</div></div>	
 plenary	plíːnəri<div>（形）全員出席の、完全な、絶対的な</div>	
 rampant	rˈæmp(ə)nt<div>（形）激しい、はびこる</div><div>※自由奔放に広がるイメージ</div><div><br></div><div>a rampant&nbsp;growth of&nbsp;weeds</div><div>雑草が猛烈に成長すること<br></div>	
@@ -3381,7 +3381,7 @@ cadence	kéɪdns<div>（名）韻律、リズム、抑揚</div>
 estrange	estréɪndʒ<div>（動）引き離す、疎遠にする</div>	
 domineering	dɑməní(ə)rɪŋ<div>（形）横柄な、傲慢な</div>	
 credulous	krédʒʊləs<div>（形）軽々しく信じがちな、信じやすくて</div><div><br></div><div>a&nbsp;credulous&nbsp;person</div><div>ばか正直な人<br></div>	
-gullible	gˈʌləbl<div>（形）だまされやすい</div>	
+gullible	gˈʌləbl<div>（形）だまされやすい</div><div><br></div><div>at that&nbsp;early age&nbsp;she had been gullible and&nbsp;in love</div><div>若い時に、彼女はだまされやすく、恋に落ちた<br></div>	
 agony	ˈægəni<div>（名）激痛、苦悩</div><div>※ギリシャ語の「戦い、悩み」が語源</div><div><br></div><div>He&nbsp;was in&nbsp;agony with his&nbsp;broken&nbsp;heart.<br>彼は失恋で苦しみもがいていた。<br></div>	
 mettle	méṭl<div>（名）勇気</div>	
 brag	brˈæg<div>（動）自慢する</div>	
@@ -3417,7 +3417,7 @@ savage	sˈævɪdʒ<div>（形）どう猛な、残忍な、荒涼とした、未
 bashful	bˈæʃf(ə)l<div>（形）内気な、恥ずかしがりの</div>	
 sly	slάɪ<div>（形）ずるい、悪賢い</div><div><br></div><div>a&nbsp;sly&nbsp;person<br></div><div>ずるい人</div>	
 cunning	kˈʌnɪŋ<div>（形）狡猾な、ずるい、悪賢い</div>	
-sober	sóʊbɚ<div>（形）しらふの、冷静な</div>	
+sober	sóʊbɚ<div>（形）しらふの、冷静な</div><div><br></div><div><div><div>become sober</div><div>酔いがさめる</div></div></div>	
 spartan（形容詞の意味は？）	spάɚtn<div>（形）質実剛健な、厳格な、スパルタ式の</div><div>（名）（古代）スパルタ人、剛勇な人</div>	
 sullen	sˈʌlən<div>（形）むっつりした、不機嫌な、陰気な</div>	
 wicked	wíkɪd<div>（形）不道徳な、不正な、意地悪な</div>	
