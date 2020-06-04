@@ -260,7 +260,7 @@ convex	<div>kὰnvéks<br></div>（名）凸面<div>（形）凸状の</div>
 clam	<div>klˈæm<br></div>（ハマグリなどの）二枚貝	
 pact	<div>pˈækt<br></div>条約	
 dwarf	<div>dwˈɔɚf<br></div>（動）（対照的に）小さく見せる<div>（名）小人</div>	
-dorsal	<div>dˈɔɚsl<br></div>背面にある	
+dorsal	<div>dˈɔɚsl<br></div>（形）背面にある<div><br></div><div>a&nbsp;dorsal&nbsp;fin</div><div>背びれ<br></div>	
 vanish	<div>vˈænɪʃ<br></div>（自）消える、見えなくなる	
 cobblestone street	<div>ˈkɑbʌˌlston<br></div>石で舗装された道	
 tilt	<div>tílt<br></div>（動）傾かせる、傾く<div>（名）傾き</div><div><br></div><div>She&nbsp;tilted&nbsp;her&nbsp;head to&nbsp;one side.<br>彼女は首をかしげた。<br></div>	
@@ -367,7 +367,7 @@ lung	<div>lˈʌŋ<br></div>（脊椎動物の）肺
 lid	<div>líd<br></div>（名）（容器の）ふた<div><br></div><div>jar&nbsp;lid<br></div><div>びんのふた<br></div>	
 drill（ドリル以外の意味）	<div>dríl<br></div>（名）訓練<div>（動）訓練を行う、穴を開ける<br></div>	
 outskirts	<div>άʊtsk`ɚːts<br></div>（the〜）郊外、周辺	
-incline	<div>ɪnklάɪn<br></div>（受身形で）〜したいと思う、〜する気がある	
+incline	<div>ɪnklάɪn<br></div>（動）（受身形で）〜したいと思う、〜する気がある<div><br></div><div>The letter&nbsp;inclined&nbsp;her&nbsp;to set&nbsp;off&nbsp;at&nbsp;once.</div><div>その手紙を見て彼女はすぐ出発したいという気持ちになった。<br></div>	
 hatred	<div>héɪtrəd<br></div>憎しみ	
 prevalent	<div>prév(ə)lənt<br></div>（病気が）蔓延している、普及している	
 polar bear	<div>póʊlɚ<br></div>北極グマ	
@@ -1009,7 +1009,7 @@ cash on delivery（COD）	代引き、代金引換え払い
 forwarder	<div>[ˈfɔrwɝdɝ]</div>運送業者	
 pallet	<div>pˈælət<br></div>パレット（貨物を乗せるためのフォークリフト用の荷台）	
 dolly	<div>[dάli]</div>台車	
-subsidy	<div>[sˈʌbsədi]</div>（政府の）補助金	
+subsidy	<div>sˈʌbsədi</div>（名）（政府の）補助金<div><br></div><div><div><div>a&nbsp;subsidy&nbsp;for&nbsp;agriculture</div><div>農業助成金</div></div></div>	
 quay	"kíː<div>（名）埠頭</div><div><br></div><div>fasten&nbsp;a&nbsp;ship to&nbsp;a&nbsp;quay<br></div><div>船を波止場につなぐ<br></div><div><br></div><div><img src=""paste-8685aefd0fe20635ec6ae7b93145583e588027a2.jpg""><br></div>"	
 tariff	<div>[tˈærɪf]</div>関税、関税率	
 crippling	<div>ˈkrɪpʌlɪŋ<br></div>深刻な影響を与える、打撃となる	
@@ -1328,7 +1328,7 @@ pageant	"<div>pˈædʒənt</div><div>（名）野外劇、歴史衣装をまと�
 concession stand	[kənséʃən]<div>（場内の）売店</div>	
 rain check	雨天順延券、（売り切れ商品の）後日購入券<div>※「次回の機会」という意味で誘いを断る時などに使える</div>	
 blockbuster	<div>[blάkb`ʌstɚ]</div>（映画・音楽・本などの）大ヒット作	
-sequel	<div>[síːkwəl]</div>（映画などの）続編	
+sequel	<div>síːkwəl</div><div>（名）（映画などの）続編<br></div><div><br></div><div>I am eager&nbsp;to see&nbsp;this&nbsp;movie's&nbsp;sequel!<br></div><div>私はこの映画の続編を熱望しています！<br></div>	
 protagonist	<div>[proʊtˈægənɪst]</div>主人公、主役	
 villain	[vílən]<div>悪役</div>	
 multiplex（名詞の意味は？）	<div>[mˈʌltəplèks]</div>（名）シネマコンプレックス（同一の施設に複数のスクリーンがある映画館）<div>（形）多様な、複合の</div>	
@@ -1402,7 +1402,7 @@ take notes	記録を取る
 throw a party	<div>θróʊ<br></div>パーティーを開く	
 inhibit	[ɪnhíbɪt]<div>（動）抑制する、禁止する</div>	
 morale	[mərˈæl]<div>（名）勤労意欲、士気</div>	
-as of	〜付で、〜時点で	
+as of	〜付で、〜時点で<div><br></div><div>as of&nbsp;May 1</div><div>5月1日現在<br></div>	
 at a loss	当惑して、迷って<div><br></div><div>She&nbsp;is at a loss what&nbsp;to&nbsp;do.</div><div>彼女はどうしてよいのやら途方に暮れている。<br></div>	
 at the cost of	〜を犠牲にして	
 by all means	どんなことがあっても、ぜひとも	
@@ -1676,7 +1676,7 @@ emancipate	ɪmˈænsəpèɪt<div>（動）解放する、自由にする</div><d
 simultaneous	[sὰɪm(ə)ltéɪniəs]<div>（形）同時に起こる</div>	
 quarry	[kwˈɔːri]<div>（動）（石などを）切り出す、（事実などを）探し出す</div><div>（名）石切場、採石場</div>	
 pasteurization	[p`æstʃərɪzéɪʃən]<div>（名）低温殺菌、加熱殺菌</div>	
-hay	[héɪ]<div>（名）干し草</div>	
+hay	héɪ<div>（名）干し草</div><div><br></div><div>make hay<br>干し草を作る<br></div><div>※成句で「チャンスを生かす」の意味もある</div>	
 unearth	[`ʌnˈɚːθ]<div>（動）（事実・証拠などを）明るみに出す、発掘する、掘り出す</div>	
 runoff	[rʌ'nɔ`f]<div>（名）地面を流れる雨水、排水、決勝戦</div>	
 sodium	[sóʊdiəm]<div>（名）ナトリウム</div>	
@@ -2085,7 +2085,7 @@ indigestion	[ìndɑɪdʒéstʃən]<div>（名）消化不良</div>
 obsess	əbsés<div>（動）（受身形で）（妄想・固定観念などに）取り憑かれる、悩まされる</div><div><br></div><div><div><div>She was&nbsp;obsessed&nbsp;by fear of&nbsp;death.</div><div>彼女は死の恐怖に取りつかれていた。</div></div></div>	
 armored	[ˈɑrmɝd]<div>（形）装甲した</div>	
 condone	kəndóʊn<div>（動）許す、大目に見る</div><div><br></div><div>condone&nbsp;someone's&nbsp;behavior<div>（人）の態度を容認する</div></div>	
-captivity	[kæptívəṭi]<div>（名）捕らわれの身、隷属、拘留</div>	
+captivity	kæptívəṭi<div>（名）捕らわれの身、監禁</div><div><br></div><div>hold a&nbsp;person&nbsp;in&nbsp;captivity</div><div>人を監禁する<br></div>	
 turmoil	tˈɚːmɔɪl<div>（名）騒ぎ、騒動、混乱</div><div><br></div><div><div><div>mental&nbsp;turmoil</div><div>精神的動揺</div></div></div>	
 languish	lˈæŋgwɪʃ<div>（動）みじめな生活をする、しぼむ、元気がなくなる</div><div><br></div><div>The&nbsp;trees&nbsp;are&nbsp;languishing&nbsp;from lack of&nbsp;rain.</div><div>雨不足で木々が弱ってきている。<br></div>	
 uniformity	[jùːnəfˈɔɚməṭi]<div>（名）均一なこと、画一性</div>	
@@ -2919,7 +2919,7 @@ disoriented	dɪˈsɔriˌɛntɪd<div>（形）道に迷って</div>
 stately	stéɪtli<div>（形）威厳のある、堂々とした</div>	
 jurist	dʒˈʊ(ə)rɪst<div>（名）弁護士、法学者</div>	
 sect	sékt<div>（名）（宗教などの）一派、宗派</div>	
-defy	dɪfάɪ<div>（動）挑戦する、ものともしない、無視する</div>	
+defy	dɪfάɪ<div>（動）無視する、挑戦する</div><div><br></div><div>You&nbsp;should not&nbsp;defy the law.<br>法律を無視してはいけない。<br></div>	
 inordinate	ɪnˈɔɚd(ə)nət<div>（形）過度の</div><div><br></div><div>an&nbsp;inordinate&nbsp;demand</div><div>法外な要求<br></div>	
 disparity	dɪspˈærəṭi<div>（名）相違、不同、不釣り合い</div><div><br></div><div>the&nbsp;disparity&nbsp;between&nbsp;the rich and the poor<br></div><div>貧富のはなはだしい差異<br></div>	
 itinerant	ɑɪtín(ə)rənt<div>（形）巡回する、遍歴の</div><div>（名）遍歴者</div>	
@@ -3063,7 +3063,7 @@ hireling（名詞の意味は？）	hάɪɚlɪŋ<div>（名）雇われ人、働
 rejuvenate	rɪdʒúːvənèɪt<div>（動）活性化させる、元気を回復させる、（人を）若返らせる、若返る</div>	
 harrow	hˈæroʊ<div>（動）開墾する、悩ます</div>	
 prune	prúːn<div>（動）（木の枝などを）刈り込む、（毛並みなどを）整える</div>	
-congenital	kɑndʒénɪṭl<div>（形）（病気などが）先天的な、生まれつきの</div>	
+congenital	kɑndʒénɪṭl<div>（形）（病気などが）先天的な、生まれつきの</div><div><br></div><div>congenital&nbsp;appearance<br></div><div>生まれつきの容姿<br></div>	
 protrude	proʊtrúːd<div>（動）突き出る、突き出す</div><div><br></div><div>protrude&nbsp;one's lips<br></div><div>口をとがらす</div>	
 slick	slík<div>（形）滑りやすい、しゃれた</div>	
 effervescent	èfɚvésnt<div>（形）活気に満ちた、興奮した</div>	
@@ -4209,7 +4209,7 @@ surrender	səréndɚ<div>（動）降参する、放棄する</div><div><br></di
 cynic	sínɪk<div>（名）皮肉屋</div>	
 dismay	dɪsméɪ<div>（動）うろたえさせる、狼狽させる</div><div><br></div><div>She was&nbsp;dismayed&nbsp;at the&nbsp;news.<br>彼女はその知らせを聞いてあわてふためいた。<br></div>	
 attain	ətéɪn<div>（動）成し遂げる、達成する</div><div><br></div><div>He&nbsp;attained&nbsp;full&nbsp;success.</div><div>彼は十分な成功を収めた<br></div>	
-weakling	wíːklɪŋ<div>（名）弱虫、虚弱者</div>	
+weakling	wíːklɪŋ<div>（名）弱虫、虚弱者</div><div><br></div><div>a&nbsp;big&nbsp;weakling<br></div><div>うどの大木<br></div>	
 wobble	<div>wάbl<br></div>（動）ぐらぐらする、よろよろ歩く<div><br></div><div>This&nbsp;chair&nbsp;wobbles.</div><div>このいすはぐらつく。<br></div>	
 steward	st(j)úːɚd<div>（名）執事</div>	
 burglarize	bˈɚːglərὰɪz<div>（動）泥棒に入る、押し入る</div>	
