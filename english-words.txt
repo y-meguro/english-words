@@ -21,7 +21,7 @@ nebula	<div>nébjʊlə<br></div>星雲
 algae	<div>ˈældʒiː<br></div>（海藻などの）藻類	
 hostage	<div>hάstɪdʒ<br></div>人質	
 beehive	<div>ˈbiːhaɪv<br></div>（名）ハチの巣	
-primate	<div>prάɪmət<br></div>霊長類、大司教	
+primate	<div>prάɪmət<br></div>（名）霊長類、大司教<div><br></div><div>an&nbsp;animal&nbsp;that is&nbsp;classified&nbsp;as a&nbsp;primate<br></div><div>霊長目に分類される動物<br></div>	
 deficit	<div>défəsɪt<br></div>赤字	
 surplus	<div>sˈɚːplʌs<br></div>（名）黒字、余り<div>（形）余分な</div>	
 artifact	<div>άɚṭɪf`ækt<br></div>（名）人工遺物、加工品<div><br></div><div>a historical&nbsp;artifact<br></div><div>古くから伝わる由緒ある物<br></div>	
@@ -267,7 +267,7 @@ tilt	<div>tílt<br></div>（動）傾かせる、傾く<div>（名）傾き</div
 catalyst	<div>kˈæṭəlɪst<br></div>（名）触媒	
 advent	<div>ˈædvent<br></div>（名）（the 〜）到来、（the A-）降臨	
 predatory	<div>prédət`ɔːri<br></div>捕食性の	
-brisk	<div>brísk<br></div>（形）きびきびした、活気のある	
+brisk	<div>brísk<br></div>（形）きびきびした、活気のある<div><br></div><div>doing&nbsp;a&nbsp;brisk business</div><div>商売が繁盛している<br></div>	
 fungus	<div>fˈʌŋgəs<br></div>（名）（キノコ・カビ・酵母などの）菌類	
 oak	<div>óʊk<br></div>オーク（カシの木など）	
 obedient	<div>oʊbíːdiənt<br></div>従順な	
@@ -566,7 +566,7 @@ discreetly	<div>dɪˈskritli<br></div>分別を持って、思慮深く
 entail	<div>entéɪl<br></div>（動）必要とする、〜を伴う<div><br></div><div>What does this&nbsp;move&nbsp;entail?</div><div>この移動は何を伴いますか？<br></div>	
 fluctuation	<div>fl`ʌktʃuéɪʃən<br></div>変動	
 foremost	<div>fˈɔɚmòʊst<br></div>最高の、トップの	
-imperative	<div>ɪmpérəṭɪv<br></div>急を要する、非常に重要な	
+imperative	<div>ɪmpérəṭɪv<br></div>（形）急を要する、非常に重要な<div><br></div><div>It is&nbsp;imperative&nbsp;for you&nbsp;to take&nbsp;this medicine.<br>この薬は必ず飲まなければいけません。<br></div>	
 meticulously	<div>mʌˈtɪkjʌlʌsli<br></div><div>（副）細心の注意を払って、几帳面に、綿密に<br></div><div><br></div><div>The&nbsp;arrangements&nbsp;were&nbsp;made&nbsp;meticulously.<br></div><div>念入りに準備がなされた。<br></div>	
 outreach	<div>ˈaʊˌtritʃ<br></div>福祉活動、支援活動	
 <div>tenure<br></div>	<div>[ténjɚ]<br></div>（名）在職期間、（財産・地位などの）保有	
@@ -735,7 +735,7 @@ makeshift	<div>ˈmeɪkˌʃɪft<br></div>間に合わせの、代用の
 premature	<div>prìːmət(j)ˈʊɚ<br></div>未成熟の、時期尚早の	
 immature	<div>[ìmət(j)ˈʊɚ]</div>未成熟の、未完成の	
 posh	<div>pάʃ<br></div>（形）贅沢な、豪華な、おしゃれな<div><br></div><div>a&nbsp;posh&nbsp;hotel</div><div>豪華なホテル<br></div>	
-plush	<div>plˈʌʃ<br></div>豪華な、おしゃれな	
+plush	<div>plˈʌʃ<br></div>（形）豪華な、おしゃれな<div><br></div><div>a&nbsp;plush&nbsp;hotel</div><div>豪華なホテル<br></div>	
 upscale	<div>ˈʌˌpskel<br></div>（形）上層階層向けの、豪華な	
 lucrative	<div>lúːkrəṭɪv</div>（形）儲かる、得な<div><br></div><div>a&nbsp;lucrative&nbsp;job</div><div>金になる仕事<br></div>	
 tertiary	<div>tˈɚːʃièri<br></div>（形）第三の	
@@ -772,7 +772,7 @@ flimsy	<div>flímzi<br></div>（形）もろい、見え透いた
 ensuing	<div>ˈɛnsuɪŋ<br></div>次の、続いて起こる	
 cozy	<div>kóʊzi<br></div>（形）居心地の良い、温かい雰囲気の<div><br></div><div>a&nbsp;cozy&nbsp;little&nbsp;restaurant</div><div>居心地のよいこぢんまりしたレストラン<br></div>	
 impeccable	<div>ɪmpékəbl<br></div>（形）欠点のない、非の打ち所がない	
-impeccably	<div>ɪmpékəbli<br></div>（副）申し分なく	
+impeccably	<div>ɪmpékəbli<br></div>（副）申し分なく、完璧に<div><br></div><div>She was&nbsp;impeccably&nbsp;dressed in&nbsp;the latest&nbsp;fashion.</div><div>彼女は最新流行の服を完璧に着こなしていた。<br></div>	
 unparalleled	<div>`ʌnpˈærəlèld<br></div>無比の、前代未聞の	
 municipality	<div>mjuːnìsəpˈæləṭi<br></div>地方自治体	
 myriad	<div>míriəd<br></div>無数の、おびただしい	
@@ -837,7 +837,7 @@ perk	<div>pˈɚːk<br></div>特典、（給与以外の）手当、臨時収入
 compassion	<div>kəmpˈæʃən<br></div>（名）思いやり、同情、憐れみ	
 wrangle	<div>rˈæŋgl<br></div>（名）口論、論争<div>（自）言い争う</div>	
 retaliation	<div>[rɪt`æliéɪʃən]</div>報復、仕返し	
-vengeance	[véndʒəns]<div>報復、復讐</div>	
+vengeance	véndʒəns<div>（名）報復、復讐</div><div><br></div><div>take&nbsp;vengeance&nbsp;on a&nbsp;person</div><div>（ある事のために）人に復讐をする<br></div>	
 zeal	<div>zíːl<br></div>（名）熱意、熱中<div><br></div><div>He&nbsp;showed&nbsp;a&nbsp;great&nbsp;zeal for&nbsp;the work.<br>彼はその仕事に大変な熱意を示した。<br></div>	
 friction	<div>fríkʃən<br></div>あつれき、摩擦	
 glitch	<div>glítʃ<br></div>（名）故障、誤作動<div><br></div><div>It looks like we have a little glitch in the system.</div><div>システムにちょっと異常が発生したようです。<br></div>	
@@ -1462,7 +1462,7 @@ prawn	[prˈɔːn]<div>（名）クルマエビ</div>
 offset（オフセット以外）	[ˈɔːfsèt]<div>（動）相殺する</div><div>（名）相殺するもの</div>	
 tan	<div>tˈæn<br></div>（名）日焼けした色<div>（形）日焼けした<br><div>（動）日焼けさせる</div></div>	
 hardy（頑丈な以外の形容詞）	<div>hάɚdi<br></div>（形）（動植物が）耐寒性の、頑丈な、勇敢な	
-placate	<div>[pléɪkeɪt]</div>（動）なだめる、和らげる	
+placate	<div>pléɪkeɪt</div>（動）なだめる、和らげる<div><br></div><div>placate&nbsp;the&nbsp;angry&nbsp;shoppers<div>怒っている買い物客をなだめる</div></div>	
 sea anemone	[ənéməni]<div>イソギンチャク</div>	
 homogeneous	[hòʊmədʒíːniəs]<div>（形）均質の、同種の</div>	
 inundate	[ínəndèɪt]<div>（通例受身形で）殺到する、水浸しにする、氾濫する</div>	
@@ -1479,7 +1479,7 @@ admonish	[ædmάnɪʃ]<div>（動）忠告する</div>
 loquacious	[loʊkwéɪʃəs]<div>（形）おしゃべりの、話し好きな</div>	
 conviction	[kənvíkʃən]<div>確信、有罪判決</div>	
 transplant	"[<span style=""color: rgb(34, 34, 34);"">trǽnsplæ̀nt</span>]<div>（名）（臓器などの）移植</div><div><br></div><div>[<span style=""color: rgb(34, 34, 34);"">træ̀nsplǽnt</span>]</div><div>（動）移植する</div>"	
-amity	<div>[ǽməti]</div>（名）友好、親善	
+amity	<div>ǽməti</div>（名）友好、親善<div><br></div><div>a&nbsp;treaty of peace&nbsp;and&nbsp;amity</div><div>和親条約<br></div>	
 astronomical	[`æstrənάmɪk(ə)l]<div>（形）（数量などが）膨大な、天文（学）の</div>	
 attrition	ətríʃən<div>（名）（人員などの）自然減、磨滅、消耗</div><div><br></div><div>a war&nbsp;of&nbsp;attrition</div><div>消耗戦<br></div>	
 platypus	[plˈæṭɪpəs]<div>カモノハシ</div>	
@@ -1775,7 +1775,7 @@ enlightenment	[inláitənmənt]<div>（名）啓発、啓蒙</div>
 evergreen	[évɚgrìːn]<div>（形）常緑の</div><div>（名）常緑樹</div>	
 levity	[lévəṭi]<div>（名）軽薄、不謹慎</div>	
 wharf	[(h)wˈɔɚf]<div>（名）埠頭</div>	
-descend	[dɪsénd]<div>（動）下る、受け継がれる</div>	
+descend	dɪsénd<div>（動）下る、受け継がれる</div><div><br></div><div>He&nbsp;descended from&nbsp;the&nbsp;mountain&nbsp;at&nbsp;dawn.</div><div>彼は明け方に山から下りてきた。<br></div>	
 outlook	[άʊtl`ʊk]<div>（名）外観、眺望</div>	
 defame	dɪféɪm<div>（動）中傷する</div><div><br></div><div>to&nbsp;defame&nbsp;a&nbsp;person's&nbsp;reputation<br></div><div>名誉を損じる</div>	
 buoy	[búːi]<div>（動）（下落しないように）支える、浮かす</div><div>（名）ブイ</div>	
@@ -2138,7 +2138,7 @@ back away	遠ざかる<div><br></div><div>I will&nbsp;back&nbsp;away&nbsp;from t
 amount to 〜	総計〜になる、〜に達する	
 go by	（時が）経つ<div><br></div><div>time&nbsp;goes&nbsp;by<br></div><div>時間が経つ<br></div>	
 wear out	<div>wéɚ<br></div>〜を使い古す、〜を疲れ果てさせる<div><br></div><div>to&nbsp;wear&nbsp;out&nbsp;clothes<br></div><div>着古す<br></div>	
-make up (〜)	仲直りする、〜を構成する	
+make up (〜)	仲直りする、〜を構成する、埋め合わせる	
 on top of 〜	〜に加えて	
 behind the times	時代遅れの	
 let down 〜	〜を失望させる、〜を裏切る	
@@ -2544,7 +2544,7 @@ encompass	ɪnkˈʌmpəs<div>（動）含む、取り囲む</div>
 abject	ˈæbdʒɛkt<div>（形）惨めな、軽蔑に値する</div><div><br></div><div><div><div>an&nbsp;abject&nbsp;liar</div><div>卑劣なうそつき</div></div></div>	
 personify	pɚsάnəfὰɪ<div>（動）体現する、人格化する</div>	
 complacent	kəmpléɪsnt<div>（形）自己満足の、悦に入った</div><div><br></div><div>he&nbsp;had&nbsp;become&nbsp;complacent&nbsp;after years&nbsp;of&nbsp;success.</div><div>彼は、数年の成功の後に自己満足した。<br></div>	
-rustic	rˈʌstɪk<div>（形）素朴な、田舎の、田園の</div>	
+rustic	rˈʌstɪk<div>（形）素朴な、田舎の、田園の</div><div><br></div><div>a rustic&nbsp;house<br>田舎家<br></div>	
 equitable	ékwəṭəbl<div>（形）公平な、公正な、正当な</div><div><br></div><div>an&nbsp;equitable&nbsp;price</div><div>公正な価格<br></div>	
 regale	rɪgéɪl<div>（動）喜ばせる、楽しませる</div><div><br></div><div>He&nbsp;regaled&nbsp;us&nbsp;with a&nbsp;great&nbsp;feast.<br>彼はすばらしいごちそうで私たちをもてなしてくれた。<br></div>	
 debilitate	dɪbílətèɪt<div>（動）衰弱させる</div><div><br></div><div>debilitate&nbsp;the&nbsp;government<div>政府を弱体化する</div></div>	
@@ -2971,7 +2971,7 @@ viral	vάɪ(ə)rəl<div>（形）ウイルス性の</div>
 inkling	íŋklɪŋ<div>（名）うすうす感づくこと、ほのめかし</div>	
 agglomeration	əglὰməréɪʃən<div>（名）固まりになること、塊</div>	
 conditioning	kəndíʃ(ə)nɪŋ<div>（名）条件付け</div>	
-infuse	ɪnfjúːz<div>（動）（希望などで）満たす、（思想などを）染み込ませる</div>	
+infuse	ɪnfjúːz<div>（動）（希望などで）満たす、（思想などを）染み込ませる</div><div><br></div><div>The captain&nbsp;infused&nbsp;the will&nbsp;to win&nbsp;into&nbsp;the whole&nbsp;team.<br>キャプテンはチーム全員に勝利への意欲を起こさせた。<br></div>	
 Occident	άksədnt<div>（名）（the 〜）西洋</div>	
 gainsay	geɪnséɪ<div>（動）（人の意見などを）否定する</div>	
 amorphous	əmˈɔɚfəs<div>（形）無定形の、あいまいな、非結晶質の</div>	
@@ -3054,7 +3054,7 @@ vicarious	vɑɪké(ə)riəs<div>（形）（他人の経験を通して）自分
 eerie	í(ə)ri<div>（形）不気味な、気味の悪い</div>	
 Pluto	<div>plúːtou<br></div>（名）冥王星	
 mercurial	mɚːkjˈʊ(ə)riəl<div>（形）変わりやすい、移り気の</div>	
-condescend	kὰndɪsénd<div>（動）恩着せがましい態度をとる、へりくだる</div>	
+condescend	kὰndɪsénd<div>（動）恩着せがましい態度をとる、へりくだる</div><div><br></div><div>He&nbsp;condescends&nbsp;to no&nbsp;one.</div><div>彼はどんな人にもへりくだるようなことをしない。<br></div>	
 inarticulate	ìnɑɚtíkjʊlət<div>（形）はっきりしない、（発音が）不明瞭な</div>	
 nuke	n(j)úːk<div>（名）核兵器</div><div>（動）核攻撃する</div>	
 indisputable	ìndɪspjúːṭəbl<div>（形）明白な、確実な、議論の余地のない</div>	
@@ -3324,7 +3324,7 @@ vouch for	<div>vάʊtʃ<br></div>（動）保証する、請け合う、引き�
 detest	dɪtést<div>（動）ひどく嫌う</div><div><br></div><div>He&nbsp;detests&nbsp;spiders.</div><div>彼はクモが大嫌いです。<br></div>	
 detestable	dɪtéstəbl<div>（形）大嫌いな、嫌でたまらない</div>	
 abominable	əbάm(ə)nəbl<div>（形）忌まわしい、実に嫌な、不快な</div>	
-plea	plíː<div>（名）嘆願、請願</div>	
+plea	plíː<div>（名）嘆願、請願</div><div><br></div><div><div><div>make&nbsp;a&nbsp;plea&nbsp;for&nbsp;help</div><div>助けを嘆願する</div></div></div>	
 conspire	kənspάɪɚ<div>（動）陰謀を企てる、共謀する</div>	
 assuredly	əʃˈʊ(ə)rɪdli<div>（副）自信をもって、確かに</div>	
 cutback	cút・bàck（発音記号なかったので音節だけ）<div>（名）減少、削減</div><div><br></div><div>Many&nbsp;factories&nbsp;have made&nbsp;production&nbsp;cutbacks.</div><div>生産を縮小している工場が多い。<br></div>	
@@ -4306,7 +4306,7 @@ heir	éɚ<div>（名）相続人</div>
 bring a suit	<div>súːt<br></div>告訴する	
 self-effacing	ɪˈfesɪŋ<div>（形）控えめな</div>	
 surly	sˈɚːli<div>（形）無愛想な</div><div><br></div><div>a&nbsp;surly&nbsp;waiter<br></div><div>無愛想なウエイター<br></div>	
-disgrace	dɪsgréɪs<div>（名）不名誉</div>	
+disgrace	dɪsgréɪs<div>（名）不名誉</div><div><br></div><div>The&nbsp;divorce&nbsp;was a&nbsp;disgrace&nbsp;to the&nbsp;royal&nbsp;family.</div><div>その離婚は王室の恥だった。<br></div>	
 fraudulently	ˈfrɔdulʌntli<div>（副）不正に</div>	
 effectively（「有効に」以外の副詞）	ɪˈfɛktɪvli<div>（副）事実上</div>	
 clincher	ˈklɪntʃɝ<div>（名）決め手</div>	
@@ -4365,3 +4365,11 @@ perpetrator	pə́ːrpətrèɪtər<div>（名）犯人</div>
 picket	píkɪt<div>（動）デモを行う</div><div>（名）デモ隊員、杭</div>	
 wreck（動詞の意味は？）	rék<div>（動）難破させる、めちゃめちゃに破壊する</div><div>（名）難破、破滅</div>	
 emulsion	ɪmˈʌlʃən<div>（名）乳液</div>	
+interlude	ínṭɚlùːd<div>（名）幕間（まくあい）</div>	
+snippet	snípɪt<div>（名）切れ端、断片</div><div><br></div><div><div><div>snippets of information</div><div>断片的な情報</div></div></div>	
+auspice	ˈɔːspɪs<div>（名）保護</div><div><br></div><div>under the auspices of the company</div><div>その会社の主催で<br></div>	
+hiatus	hɑɪéɪṭəs<div>（名）すき間、ひび</div><div><br></div><div>We&nbsp;will&nbsp;take&nbsp;a&nbsp;hiatus&nbsp;from&nbsp;fan&nbsp;activities&nbsp;for a&nbsp;while.<br></div><div>しばらく同人活動を休止します<br></div>	
+interoperability	<div>ìntərɔ̀pərəbíləti<br></div>（名）相互運用性	
+contemporaneous	kəntèmpəréɪniəs<div>（形）同時存在の</div>	
+get on the bandwagon	勝ち馬に乗る、時流に乗る	
+guerrilla	<div>ɡəˈɹɪlə<br></div>（名）ゲリラ兵	
