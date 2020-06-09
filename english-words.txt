@@ -474,7 +474,7 @@ lumber	<div>lˈʌmbɚ</div>（名）材木、製材<div><br></div><div>saw lumbe
 compartment	<div>kəmpάɚtmənt<br></div>一区画	
 showcase（動詞の意味は？）	<div>ˈʃoˌkes<br></div>（動）披露する<div>（名）お披露目の場、ショーケース</div>	
 discontinued	<div>[dɪskʌˈntɪnjud]</div>（製造・販売が）終了した	
-excerpt	<div>éksɚːpt<br></div>抜粋、引用	
+excerpt	<div>éksɚːpt<br></div>（名）抜粋、引用<div>（動）抜粋する<br><div><br></div><div>excerpt&nbsp;a passage&nbsp;from a&nbsp;book</div><div>本から一節を抜粋する<br></div></div>	
 municipal	<div>mjuːnísəp(ə)l<br></div>市の、市営の	
 culinary	<div>[kˈʌlənèri]</div>料理の	
 attire	<div>ətάɪɚ<br></div><div>（名）服装</div>	
@@ -494,7 +494,7 @@ proceeds	<div>próʊsiːdz<br></div>（名）収益<div><br></div><div>net&nbsp;
 inclement	<div>ìnklémənt</div>（形）荒れ模様の、（寒さまたは風雨のために）不良な<div><br></div><div>an&nbsp;inclement&nbsp;climate</div><div>荒れ模様の気候<br></div>	
 anecdote	<div>ˈænɪkdòʊt<br></div>（名）逸話	
 intermission	<div>ìnṭɚmíʃən<br></div>休憩時間	
-solicit	<div>səlísɪt<br></div>求める、嘆願する	
+solicit	<div>səlísɪt<br></div>（動）求める、嘆願する<div><br></div><div>solicit&nbsp;a&nbsp;donation</div><div>寄付を募る<br></div>	
 commemorate	<div>kəmémərèɪt<br></div>（記念日や人を）祝う、記念する	
 applicable	<div>ˈæplɪkəbl<br></div>（形）適用される、当てはまる<div><br></div><div>The rule&nbsp;is&nbsp;applicable&nbsp;to&nbsp;this case.</div><div>その規則はこの場合に当てはまる。<br></div>	
 commend	<div>kəménd<br></div>ほめる	
@@ -552,7 +552,7 @@ installment	<div>ɪnstˈɔːlmənt<br></div>分割払いの1回分
 redeemable	<div>rɪdíːməbl<br></div>（現金や商品と）交換可能な	
 streamline	<div>ˈstriˌmlaɪn<br></div>合理化する、簡略化する	
 insulation	<div>ìnsəléɪʃən<br></div>（名）（音、熱、電気等を）防ぐこと<div><br></div><div>A&nbsp;house&nbsp;with&nbsp;good&nbsp;insulation&nbsp;keeps&nbsp;in the&nbsp;heat.<br></div><div>ちゃんと断熱した家は熱を逃さない。<br></div>	
-intact	<div>[ɪntˈækt]</div>傷がない	
+intact	<div>ɪntˈækt</div>（形）傷がない<div><br></div><div>The&nbsp;room&nbsp;was&nbsp;left&nbsp;intact after his death.<br>彼の死後も部屋はそのままの形で残されていた。<br></div>	
 turnover	<div>tə'rnòuvər<br></div>離職率、（一定期間の）売上高<div><br></div><div>reduce&nbsp;the&nbsp;labor&nbsp;turnover</div><div>労働者の転職率を下げる<br></div>	
 deteriorate	<div>dɪtí(ə)riərèɪt<br></div>（自）悪化する<div>（他）悪化させる</div>	
 sturdy	<div>stˈɚːdi<br></div>頑丈な、丈夫な	
@@ -780,7 +780,7 @@ antagonistic	<div>ænt`ægənístɪk</div>（形）対立する、敵対する<d
 averse	<div>əvˈɚːs<br></div>（形）反対して、嫌って<div><br></div><div><div><div>She's&nbsp;averse&nbsp;to&nbsp;our plan.</div><div>彼女は我々の計画に反対している。</div></div></div>	
 bustling	<div>ˈbʌsʌlɪŋ<br></div>（形）活気のある、にぎわいのある、忙しそうな	
 hectic	<div>héktɪk<br></div>猛烈に忙しい	
-superfluous	<div>[sʊpˈɚːfluəs]</div>余分な、不必要な	
+superfluous	<div>sʊpˈɚːfluəs</div>（形）余分な、不必要な<div><br></div><div>superfluous&nbsp;words<br></div><div>無駄な言葉<br></div>	
 deputy	<div>[dépjʊṭi]</div>代理の、副〜	
 filthy	<div>fílθi<br></div>（形）不潔な、わいせつな、下品な<div><br></div><div>The&nbsp;kitchen&nbsp;is&nbsp;absolutely&nbsp;filthy.</div><div>台所はよごれほうだいだ。<br></div>	
 dispensable	<div>dɪspénsəbl<br></div>（形）〜なしで済ませられる<div><br></div><div>the&nbsp;members&nbsp;of a&nbsp;group&nbsp;or&nbsp;staff&nbsp;who are&nbsp;superfluous&nbsp;or&nbsp;dispensable<br></div><div>余分な人員<br></div>	
@@ -1919,7 +1919,7 @@ forbearance	[fɔɚbé(ə)rəns]<div>（名）差し控えること、忍耐、�
 monumental	[mὰnjʊménṭl]<div>（形）（程度が）途方も無い、壮大な、記念碑の</div>	
 pueblo	[puébloʊ]<div>（名）プエブロ族（米国南西部に住む北米先住民）、レンガ造りの北米先住民の集落</div>	
 haphazard	h`æphˈæzɚd<div>（形）でたらめの、偶然の、行きあたりばったりの</div><div><br></div><div>a&nbsp;haphazard&nbsp;plan of action<br></div><div>でたらめな行動計画<br></div>	
-precede	[prɪsíːd]<div>（動）先導する、先んじる</div>	
+precede	prɪsíːd<div>（動）先導する、先んじる</div><div><br></div><div>The band&nbsp;preceded&nbsp;the parade.</div><div>楽隊はパレードを先導した。</div>	
 soothe	[súːð]<div>（動）和らげる、なだめる</div><div><br></div><div>to&nbsp;soothe&nbsp;pain<br></div><div>傷みをおさえ静めること</div>	
 reservoir	[rézɚvwὰɚ]<div>（名）貯水池、貯蔵所</div>	
 propriety	prəprάɪəṭi<div>（名）礼儀正しさ、作法、適切さ</div><div><br></div><div>behave&nbsp;with propriety<br>礼儀正しくふるまう<br></div>	
@@ -3013,7 +3013,7 @@ polygon	pάligὰn<div>（名）多角形</div>
 delineate	dɪlínièɪt<div>（動）（輪郭を）描く、図で表す</div>	
 concoct	kənkάkt<div>（動）調合する、でっち上げる、陰謀などをたくらむ</div><div><br></div><div>He&nbsp;concocts&nbsp;wonderful&nbsp;soups.</div><div>彼は（工夫を凝らして）おいしいスープを作る。<br></div>	
 ephemeral	ɪfém(ə)rəl<div>（形）つかの間の、1日限りの</div><div><br></div><div>an&nbsp;ephemeral&nbsp;life<br></div><div>はかない命<br></div>	
-lethargic	ləθάɚdʒɪk<div>（形）眠気を誘う、眠い</div>	
+lethargic	ləθάɚdʒɪk<div>（形）眠気を誘う、無気力な</div><div><br></div><div>The&nbsp;hot weather&nbsp;made&nbsp;me&nbsp;feel&nbsp;lethargic.</div><div>暑くて無気力になった。<br></div>	
 gastronomy	gæstrάnəmi<div>（名）美食法、食道楽</div>	
 patronize	péɪtrənὰɪz<div>（動）ひいきにする、保護する</div>	
 manifold	mˈænəfòʊld<div>（形）多数の、多面的な</div>	
@@ -3383,7 +3383,7 @@ domineering	dɑməní(ə)rɪŋ<div>（形）横柄な、傲慢な</div>
 credulous	krédʒʊləs<div>（形）軽々しく信じがちな、信じやすくて</div><div><br></div><div>a&nbsp;credulous&nbsp;person</div><div>ばか正直な人<br></div>	
 gullible	gˈʌləbl<div>（形）だまされやすい</div><div><br></div><div>at that&nbsp;early age&nbsp;she had been gullible and&nbsp;in love</div><div>若い時に、彼女はだまされやすく、恋に落ちた<br></div>	
 agony	ˈægəni<div>（名）激痛、苦悩</div><div>※ギリシャ語の「戦い、悩み」が語源</div><div><br></div><div>He&nbsp;was in&nbsp;agony with his&nbsp;broken&nbsp;heart.<br>彼は失恋で苦しみもがいていた。<br></div>	
-mettle	méṭl<div>（名）勇気</div>	
+mettle	méṭl<div>（名）勇気</div><div><br></div><div><div><div>show one's&nbsp;mettle</div><div>気概を示す</div></div></div>	
 brag	brˈæg<div>（動）自慢する</div>	
 cajole	kədʒóʊl<div>（動）甘言で釣る（釣ろうとする）</div>	
 coddle	kάdl<div>（動）甘やかす</div><div><br></div><div>You&nbsp;coddle&nbsp;yourself&nbsp;too&nbsp;much.<br></div><div>君は身体を大切にし過ぎる<br></div>	
