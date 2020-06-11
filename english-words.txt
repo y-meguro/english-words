@@ -377,7 +377,7 @@ contrary	<div>kάntreri<br></div>（性質などが）反対の
 transfusion	<div>trænsfjúːʒən<br></div>輸血	
 terra	<div>ˈtɛˌrɑ<br></div>土、大地	
 fossil	<div>fάsl<br></div>化石	
-stir	<div>stˈɚː<br></div>（液体などを）かき混ぜる、（かすかに）動かす	
+stir	<div>stˈɚː<br></div>（動）（液体などを）かき混ぜる、（かすかに）動かす	
 steer	<div>[stíɚ]</div>（船などの）舵を取る	
 damp	<div>dˈæmp<br></div>（不快な）湿気のある	
 nest	<div>nést<br></div>（名）巣<div>（動）巣ごもる</div><div><br></div><div>a&nbsp;wasps'&nbsp;nest<br></div><div>ハチの巣<br></div>	
@@ -4373,3 +4373,8 @@ interoperability	<div>ìntərɔ̀pərəbíləti<br></div>（名）相互運用�
 contemporaneous	kəntèmpəréɪniəs<div>（形）同時存在の</div>	
 get on the bandwagon	勝ち馬に乗る、時流に乗る	
 guerrilla	<div>ɡəˈɹɪlə<br></div>（名）ゲリラ兵	
+trip（動詞の意味は？）	tríp<div>（動）つまずく</div><div><br></div><div><div><div>Be careful&nbsp;not to&nbsp;trip.</div><div>つまずかないように気をつけなさい。</div></div></div>	
+tow	tˈəʊ<div>（動）牽引する</div>	
+lean（「寄りかかる」以外の動詞）	líːn<div>（動）かがむ</div>	
+wheel（「車輪」以外の名詞）	wíːl<div>（名）ハンドル、車輪</div>	
+impoverished	ˌɪˈmpɑvrɪʃt<div>（動）貧しい</div>	
