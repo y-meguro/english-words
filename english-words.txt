@@ -162,7 +162,7 @@ flammable	<div>flˈæməbl<br></div>可燃性の
 improvise	<div>[ímprəvὰɪz]</div>即興で演奏する、即席に作る	
 granite	"<div>grˈænɪt<br></div>（名）花こう岩<div><br></div><div><img src=""gr.jpeg""><br></div>"	
 enzyme	<div>énzɑɪm<br></div>酵素	
-viscosity	<div>vɪskάsəṭi<br></div>粘着性、粘度、粘性	
+viscosity	<div>vɪskάsəṭi<br></div>（名）粘着性、粘度、粘性<div><br></div><div>a&nbsp;substance&nbsp;with&nbsp;great&nbsp;viscosity<br></div><div>粘性の大きい物質<br></div>	
 glue	<div>glúː<br></div>（名）接着剤、にかわ、のり<div>（動）接着剤でつける</div>	
 rhinoceros	<div>[rɑɪnάs(ə)rəs]</div>サイ	
 tease	<div>tíːz<br></div>からかう	
@@ -261,7 +261,7 @@ clam	<div>klˈæm<br></div>（ハマグリなどの）二枚貝
 pact	<div>pˈækt<br></div>条約	
 dwarf	<div>dwˈɔɚf<br></div>（動）（対照的に）小さく見せる<div>（名）小人</div>	
 dorsal	<div>dˈɔɚsl<br></div>（形）背面にある<div><br></div><div>a&nbsp;dorsal&nbsp;fin</div><div>背びれ<br></div>	
-vanish	<div>vˈænɪʃ<br></div>（自）消える、見えなくなる	
+vanish	<div>vˈænɪʃ<br></div>（自）消える、見えなくなる<div><br></div><div>The man&nbsp;vanished&nbsp;in the&nbsp;crowd.</div><div>男は人込みの中で見えなくなった。<br></div>	
 cobblestone street	<div>ˈkɑbʌˌlston<br></div>石で舗装された道	
 tilt	<div>tílt<br></div>（動）傾かせる、傾く<div>（名）傾き</div><div><br></div><div>She&nbsp;tilted&nbsp;her&nbsp;head to&nbsp;one side.<br>彼女は首をかしげた。<br></div>	
 catalyst	<div>kˈæṭəlɪst<br></div>（名）触媒	
@@ -619,7 +619,7 @@ file for	申請する、申し込む
 adopt（採用する以外の意味）	<div>ədάpt<br></div>（動）養子にする	
 toast（パンのトースト以外）	<div>tóʊst<br></div>（名）乾杯<div>（動）乾杯する</div>	
 affordable	<div>əfˈɔɚdəbl<br></div>（形）手頃な価格の	
-insistent	<div>[ɪnsístənt]</div>譲らない、しつこい	
+insistent	<div>ɪnsístənt</div>（形）譲らない、しつこい<div><br></div><div>an&nbsp;insistent&nbsp;demand</div><div>執拗な要求<br></div>	
 necessitate	<div>nɪsésətèɪt<br></div>必要とする、やむなく〜させる	
 resumption	<div>rɪzˈʌm(p)ʃən<br></div>（名）再開、回復<div><br></div><div>Are you&nbsp;anxiously&nbsp;awaiting&nbsp;the&nbsp;resumption&nbsp;of school?<br></div><div>あなたは学校の再開を待ち望んでいますか。<br></div>	
 utter	<div>ˈʌṭɚ<br></div>（動）口に出す、声に出す<div>（形）まったくの、完全な</div><div><br></div><div>utter&nbsp;darkness</div><div>真っ暗やみ<br></div>	
@@ -819,7 +819,7 @@ craving	<div>ˈkrevɪŋ<br></div>（名）渇望、欲求<div><br></div><div>hav
 savor	<div>séɪvɚ<br></div>（名）風味、におい、楽しみ<div>（動）賞味する</div>	
 aptitude	<div>ˈæptət(j)ùːd<br></div>（名）才能、素質、適性<div><br></div><div><div><div>He&nbsp;has an&nbsp;aptitude&nbsp;for languages.</div><div>彼には語学の才がある。</div></div></div>	
 prodigy	<div>prάdədʒi</div>（名）神童、天才<div><br></div><div>a&nbsp;child prodigy</div><div>神童<br></div>	
-environs	<div>ɪnvάɪ(ə)rənz<br></div>近郊、郊外、周囲	
+environs	<div>ɪnvάɪ(ə)rənz<br></div>（名）近郊、郊外、周囲<br><br><div>London&nbsp;and its&nbsp;environs</div><div>ロンドンおよびその近郊<br></div>	
 nuisance	[n(j)úːsns]<div>迷惑な人、もの</div>	
 preoccupation	<div>prìːὰkjʊpéɪʃən<br></div>夢中、関心事、先入観	
 absorption	<div>əbsˈɔɚpʃən<br></div>（名）熱中、没頭<div><br></div><div>absorption&nbsp;in one's&nbsp;studies<br></div><div>研究への没頭<br></div>	
@@ -850,7 +850,7 @@ receptacle	<div>rɪséptəkl<br></div>（名）容器、貯蔵所<div><br></div>
 malnutrition	<div>ˌmælnuˈtrɪʃʌn<br></div>栄養失調	
 malpractice	<div>mæˈlpræktʌs<br></div>（名）不正行為、医療過誤<div><br></div><div>a&nbsp;malpractice suit<br>誤診訴訟<br></div>	
 maltreatment	<div>mæˈltritmʌnt<br></div>虐待、冷遇	
-setback	<div>sétbæ`k<br></div>挫折、後退、障害	
+setback	<div>sétbæ`k<br></div>（名）挫折、後退、障害<div><br></div><div>He&nbsp;had a&nbsp;setback&nbsp;in&nbsp;his business.</div><div>彼は商売で挫折した。<br></div>	
 mishap	[mísh`æp]<div>災難、不運</div>	
 outfit	<div>άʊtfìt<br></div>服装（一式）、装備（一式）	
 inception	<div>ɪnsépʃən<br></div>始まり、発端	
@@ -1092,7 +1092,7 @@ janitor	<div>[dʒˈænəṭɚ]</div>用務員、清掃作業員
 stint	<div>stínt<br></div>（名）（一定期間に割り当てられた）仕事、任務<div><br></div><div>do a&nbsp;stint&nbsp;in the army</div><div>（一定期間）兵役に服する</div>	
 run errands	[ˈɛrʌndz]<div>お使いに出かける</div>	
 punch in	<div>pˈʌntʃ<br></div>出社のタイムカードを押す<div>punch out だと退社のタイムカードを押す</div>	
-recess	<div>[ríːses]<br></div>（名）休憩	
+recess	<div>ríːses<br></div>（名）休憩<div><br></div><div>take&nbsp;an&nbsp;hour's&nbsp;recess&nbsp;for&nbsp;lunch</div><div>昼食に&nbsp;1 時間の休み時間をとる<br></div>	
 answering machine	留守番電話	
 letter pads	<div>pædz<br></div>便箋	
 stationery	<div>stéɪʃənèri<br></div>文房具、便箋	
@@ -1853,7 +1853,7 @@ luminary	lúːmənèri<div>（名）発光体、権威者</div><div><br></div><d
 rehabilitate	[rìː(h)əbílətèɪt]<div>（動）（けが人などの）健康を元通りにする、修復する</div>	
 rhetoric	[réṭərɪk]<div>（名）効果的な話し方、修辞学</div>	
 gastric ulcer	[gˈæstrɪk ˈʌlsɚ]<div>（名）胃潰瘍</div>	
-equilibrium	[ìːkwəlíbriəm]<div>（名）釣り合い、均衡、バランス、心の平穏</div>	
+equilibrium	ìːkwəlíbriəm<div>（名）釣り合い、均衡、バランス、心の平穏</div><div><br></div><div>political&nbsp;equilibrium</div><div>政治的均衡<br></div>	
 underpin	[ˌʌn.dɚˈpɪn]<div>（動）（比喩的に）支える、補強する</div>	
 sporadic	spərˈædɪk<div>（形）散発的な、時々起こる</div><div><br></div><div>sporadic&nbsp;showers<div>散発的なにわか雨</div></div>	
 idiosyncrasy	[ìdiəsíŋkrəsi]<div>（名）特異性、独特な性癖</div>	
@@ -2141,7 +2141,7 @@ wear out	<div>wéɚ<br></div>〜を使い古す、〜を疲れ果てさせる<di
 make up (〜)	仲直りする、〜を構成する、埋め合わせる	
 on top of 〜	〜に加えて	
 behind the times	時代遅れの	
-let down 〜	〜を失望させる、〜を裏切る	
+let down 〜	〜を失望させる、〜を裏切る<div><br></div><div>I was&nbsp;let&nbsp;down.<br></div><div>落胆した。<br></div>	
 bring down 〜	〜を倒す	
 be obliged to A for B	<div>əblάɪdʒd<br></div>BについてAに感謝している	
 keep 〜 to oneself	〜を他に明かさない、〜を独り占めする	
@@ -2409,7 +2409,7 @@ infraction	ɪnfrˈækʃən<div>（名）（法律・規制などの）違反、�
 constituent	kənstítʃuənt<div>（形）構成する、選挙権のある</div>	
 abhor	əbhˈɔɚ<div>（動）嫌う</div>	
 rupture	rˈʌptʃɚ<div>（名）破裂、不和</div><div>（動）破裂させる、裂く</div>	
-mire	mάɪɚ<div>（名）ぬかるみ、泥沼</div><div>（動）泥にはまる、苦境に陥れる</div>	
+mire	mάɪɚ<div>（名）ぬかるみ、泥沼</div><div>（動）泥にはまる、苦境に陥れる</div><div><br></div><div>stick in&nbsp;the&nbsp;mire<br></div><div>ぬかるみにはまり込む<br></div>	
 streak	stríːk<div>（動）すばやく動く、筋を付ける</div><div>（名）細長い線、一線</div>	
 till	tíl<div>（動）耕す</div>	
 irreverence	ìrév(ə)rəns<div>（名）不敬、非礼、軽視</div><div><br></div><div>an&nbsp;attitude&nbsp;of&nbsp;irreverence<br></div><div>不敬な態度</div>	
