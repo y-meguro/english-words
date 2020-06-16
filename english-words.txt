@@ -569,7 +569,7 @@ foremost	<div>fˈɔɚmòʊst<br></div>最高の、トップの
 imperative	<div>ɪmpérəṭɪv<br></div>（形）急を要する、非常に重要な<div><br></div><div>It is&nbsp;imperative&nbsp;for you&nbsp;to take&nbsp;this medicine.<br>この薬は必ず飲まなければいけません。<br></div>	
 meticulously	<div>mʌˈtɪkjʌlʌsli<br></div><div>（副）細心の注意を払って、几帳面に、綿密に<br></div><div><br></div><div>The&nbsp;arrangements&nbsp;were&nbsp;made&nbsp;meticulously.<br></div><div>念入りに準備がなされた。<br></div>	
 outreach	<div>ˈaʊˌtritʃ<br></div>福祉活動、支援活動	
-<div>tenure<br></div>	<div>[ténjɚ]<br></div>（名）在職期間、（財産・地位などの）保有	
+<div>tenure<br></div>	<div>ténjɚ<br></div>（名）在職期間、（財産・地位などの）保有<div><br></div><div><div><div>during&nbsp;one's&nbsp;tenure&nbsp;of&nbsp;office</div><div>在職期間中</div></div></div>	
 versatile	<div>vˈɚːsəṭl<br></div>多才な	
 alleviate	<div>[əlíːvièɪt]</div>（動）和らげる、軽減する	
 exemplary	<div>egzémpləri<br></div>（形）模範的な<div><br></div><div>exemplary&nbsp;conduct</div><div>模範的な行為<br></div>	
@@ -2733,7 +2733,7 @@ nitric acid	nάɪtrɪk<div>（名）硝酸</div>
 frustrate	frˈʌstreɪt<div>（動）失望させる、（計画や努力などを）挫折させる、やる気をくじく</div>	
 disinterested	dìsíntrəstɪd<div>（形）公平な、私心のない、興味のない</div>	
 intimidate	ɪntímədèɪt<div>（動）威嚇する、脅迫する</div>	
-adjoin	ədʒˈɔɪn<div>（動）隣接する</div>	
+adjoin	ədʒˈɔɪn<div>（動）隣接する</div><div><br></div><div>Canada&nbsp;adjoins&nbsp;the&nbsp;U.S.</div><div>カナダは合衆国に隣り合っている。<br></div>	
 tributary	tríbjʊtèri<div>（名）（川の）支流</div>	
 snarl	snάɚl<div>（動）怒鳴る、うなる</div>	
 detrimental	dètrəménṭl<div>（形）有害な、不利益な</div>	
@@ -3169,7 +3169,7 @@ inscrutable	ìnskrúːṭəbl<div>（形）不可思議な、計り知れない�
 sprawl	sprˈɔːl<div>（動）（都市などが無計画に）広がる、手足を伸ばして寝る</div><div><br></div><div><div><div>He&nbsp;was&nbsp;sprawling&nbsp;on the&nbsp;sofa.</div><div>彼はソファーに手足を伸ばして横になっていた.</div></div></div>	
 beneficiary	bènəfíʃièri<div>（名）恩恵（利益）を受ける人、（年金などの）受取人</div>	
 irrational number	ìrˈæʃ(ə)nəl<div>（名）無理数</div>	
-gauche	<div>góʊʃ<br></div>（形）不器用な、ぎこちない、気の利かない	
+gauche	<div>góʊʃ<br></div>（形）不器用な、ぎこちない、気の利かない<div><br></div><div>too&nbsp;gauche&nbsp;to leave the room&nbsp;when the&nbsp;conversation&nbsp;became&nbsp;intimate</div><div>会話が親密になったとき、部屋を出ることができないくらいぎこちない<br></div>	
 misconstrue	mɪskənˈstruː<div>（動）誤って解釈する、誤解する</div>	
 pierce	píɚs<div>（動）突き通す、穴を開ける</div>	
 homage	(h)άmɪdʒ<div>（名）敬意、服従</div><div><br></div><div>pay homage to…<br></div><div>…に敬意を表する<br></div>	
@@ -3419,7 +3419,7 @@ sly	slάɪ<div>（形）ずるい、悪賢い</div><div><br></div><div>a&nbsp;sl
 cunning	kˈʌnɪŋ<div>（形）狡猾な、ずるい、悪賢い</div>	
 sober	sóʊbɚ<div>（形）しらふの、冷静な</div><div><br></div><div><div><div>become sober</div><div>酔いがさめる</div></div></div>	
 spartan（形容詞の意味は？）	spάɚtn<div>（形）質実剛健な、厳格な、スパルタ式の</div><div>（名）（古代）スパルタ人、剛勇な人</div>	
-sullen	sˈʌlən<div>（形）むっつりした、不機嫌な、陰気な</div>	
+sullen	sˈʌlən<div>（形）むっつりした、不機嫌な、陰気な</div><div><br></div><div>words&nbsp;spoken&nbsp;in a&nbsp;sullen&nbsp;manner<br></div><div>ふてくされた言葉<br></div>	
 wicked	wíkɪd<div>（形）不道徳な、不正な、意地悪な</div>	
 amiss	əmís<div>（形）不都合で、（具合）悪く</div><div><br></div><div>something&nbsp;is&nbsp;amiss</div><div>何かが悪い<br></div>	
 arduous	άɚdʒuəs<div>（形）困難な、骨の折れる</div>	
@@ -3516,9 +3516,9 @@ cane	kéɪn<div>（名）杖</div>
 couch	kάʊtʃ<div>（名）長椅子</div>	
 dungeon	dˈʌndʒən<div>（名）牢</div>	
 fowl	"fάʊl<div>（名）家禽</div><div>※<span style=""color: rgb(34, 34, 34);"">その肉・卵・羽毛などを利用するために飼育する鳥の総称</span></div>"	
-hatchet	hˈætʃɪt<div>（名）手斧</div>	
+hatchet	"hˈætʃɪt<div>（名）手斧</div><div><br></div><div><img src=""paste-8425e25760e5bf8ece14a02d0b8aa323e381992a.jpg""><br></div>"	
 hide（「隠れ場所」以外の名詞）	hάɪd<div>（名）皮、皮膚、隠れ場所</div><div>（動）隠す、隠れる</div>	
-mallet	mˈælɪt<div>（名）木槌（きづち）</div>	
+mallet	"mˈælɪt<div>（名）木槌（きづち）</div><div><br></div><div><img src=""paste-d42d7117b600fa9cff760b172d7278b613c51bc1.jpg""><br></div>"	
 means（「方法」「手段」以外の名詞）	míːnz<div>（名）収入、方法、手段</div>	
 mitten	mítn<div>（名）手袋、ミトン</div>	
 doze	dóʊz<div>（名）うたた寝<br><div>（動）ちょっと眠る</div></div>	
