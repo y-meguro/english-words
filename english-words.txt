@@ -374,7 +374,7 @@ polar bear	<div>póʊlɚ<br></div>北極グマ
 competent	<div>kάmpətnt<br></div>有能な	
 soak	<div>sóʊk<br></div>（しばしば受身形で）ずぶぬれになる、ぬれる、（液体に）浸す	
 contrary	<div>kάntreri<br></div>（性質などが）反対の	
-transfusion	<div>trænsfjúːʒən<br></div>輸血	
+transfusion	<div>trænsfjúːʒən<br></div>（名）輸血<div><br></div><div>blood&nbsp;transfusion</div><div>輸血<br></div>	
 terra	<div>ˈtɛˌrɑ<br></div>土、大地	
 fossil	<div>fάsl<br></div>化石	
 stir	<div>stˈɚː<br></div>（動）（液体などを）かき混ぜる、（かすかに）動かす	
@@ -729,7 +729,7 @@ suffice	<div>səfάɪs</div>（動）充分である、足りる<div><br></div><
 forthcoming	<div>f`ɔɚθkˈʌmɪŋ<br></div>来たるべき、近づきつつある	
 adept	<div>ədépt<br></div>（形）熟練した、精通した	
 industrious	<div>[ɪndˈʌstriəs]</div>勤勉な、熱心な	
-interim	<div>[ínṭərɪm]</div>当座の、仮の	
+interim	<div>ínṭərɪm</div>（形）当座の、仮の<div><br></div><div><div><div>an&nbsp;interim&nbsp;certificate</div><div>仮証書</div></div></div>	
 provisional	<div>prəvíʒ(ə)nəl<br></div>（形）仮の、臨時の<div><br></div><div><div><div>a&nbsp;provisional&nbsp;treaty</div><div>仮条約</div></div></div>	
 makeshift	<div>ˈmeɪkˌʃɪft<br></div>間に合わせの、代用の	
 premature	<div>prìːmət(j)ˈʊɚ<br></div>未成熟の、時期尚早の	
@@ -904,7 +904,7 @@ dividend	[dívədènd]<div>配当</div>
 loan-loss provisions	<div>prʌˈvɪʒʌnz<br></div>貸倒引当金	
 income statement	<div>ínkəm<br></div>P/L、損益計算書	
 close the book	決算する	
-ledger	<div>[lédʒɚ]</div>台帳、元帳	
+ledger	<div>lédʒɚ</div>（名）台帳、元帳<div><br></div><div>a&nbsp;ledger&nbsp;balance</div><div>元帳残高<br></div>	
 bottom line	最終損益<div>※ the bottom line だと「一番重要な点」の意味となる</div>	
 accounts receivable	売掛金	
 depreciation	<div>dɪprìːʃiéɪʃən<br></div>（有形固定資産の）減価償却	
@@ -1551,7 +1551,7 @@ dune	<div>[d(j)úːn]</div>（名）砂丘
 philanthropist	"[<span style=""color: rgb(34, 34, 34);"">filǽnθrəpist</span>]<div>（名）博愛主義者</div>"	
 stoop	<div>stúːp<br></div>（動）かがむ、堕落する<div><br></div><div>He&nbsp;stooped&nbsp;down&nbsp;and&nbsp;picked up&nbsp;a pencil.</div><div>彼はかがんで鉛筆を拾いあげた。<br></div>	
 seclusion	[sɪklúːʒən]<div>（名）隔離、孤立、引きこもること、僻地</div>	
-aloft	<div>[əlˈɔːft]</div>（副）高く、上に	
+aloft	<div>əlˈɔːft</div>（副）高く、上に<div><br></div><div>the good&nbsp;news&nbsp;sent&nbsp;her&nbsp;spirits&nbsp;aloft</div><div>よい知らせは、彼女の気分を高揚させた<br></div>	
 tranquil	trˈæŋkwəl<div>（形）穏やかな</div><div><br></div><div>a tranquil&nbsp;pond<br>静かな池<br></div>	
 shrewd	[ʃrúːd]<div>（形）賢い、抜け目のない</div>	
 reckless	<div>rékləs<br></div>（形）無謀な、向こう見ずの	
@@ -1597,7 +1597,7 @@ indecisive	[ìndɪsάɪsɪv]<div>（形）優柔不断の</div>
 ritual	[rítʃuəl]<div>（名）儀式</div><div>（形）儀式の</div>	
 conceive	[kənsíːv]<div>（動）（計画などを）思いつく、想像する</div>	
 spur	[spˈɚː]<div>（動）刺激する</div><div>（名）拍車</div>	
-wrath	[rˈæθ]<div>（名）激怒</div>	
+wrath	rˈæθ<div>（名）激怒</div><div><br></div><div>His&nbsp;wrath&nbsp;fell&nbsp;on&nbsp;her.<br></div><div>彼の怒りは彼女に向けられた。<br></div>	
 obliterate	[əblíṭərèɪt]<div>（動）完全に破壊する、消す</div><div><br></div><div>obliterate&nbsp;all&nbsp;traces&nbsp;of<div>～の痕跡を消し去る</div></div>	
 apathy	[ˈæpəθi]<div>（名）無感動、無関心</div>	
 intervene	ìnṭɚvíːn<div>（動）仲裁をする、（間に）入る</div><div><br></div><div><div><div>intervene&nbsp;between quarreling&nbsp;parties</div><div>仲たがいしている双方の仲裁に入る</div></div></div>	
