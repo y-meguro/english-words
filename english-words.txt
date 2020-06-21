@@ -175,7 +175,7 @@ statute	<div>stˈætʃuːt<br></div>（名）法令<div><br></div><div>the&nbsp;
 dictator	<div>díkteɪṭɚ<br></div>独裁者	
 cactus	<div>kˈæktəs<br></div>サボテン	
 abduction	<div>æbdˈʌkʃən<br></div>（名）誘拐	
-arrogant	<div>[ˈærəg(ə)nt]</div>（形）傲慢な	
+arrogant	<div>ˈærəg(ə)nt</div>（形）傲慢な<div><br></div><div>an&nbsp;arrogant&nbsp;official</div><div>横柄な役人<br></div>	
 primordial	<div>prɑɪmˈɔɚdiəl<br></div>原始の、最初の、本源的な	
 strait	<div>stréɪt<br></div>（しばしば〜sで単数扱い）海峡	
 optical	<div>άptɪk(ə)l<br></div>視覚の、光学の	
@@ -775,7 +775,7 @@ impeccable	<div>ɪmpékəbl<br></div>（形）欠点のない、非の打ち所�
 impeccably	<div>ɪmpékəbli<br></div>（副）申し分なく、完璧に<div><br></div><div>She was&nbsp;impeccably&nbsp;dressed in&nbsp;the latest&nbsp;fashion.</div><div>彼女は最新流行の服を完璧に着こなしていた。<br></div>	
 unparalleled	<div>`ʌnpˈærəlèld<br></div>無比の、前代未聞の	
 municipality	<div>mjuːnìsəpˈæləṭi<br></div>地方自治体	
-myriad	<div>míriəd<br></div>無数の、おびただしい	
+myriad	<div>míriəd<br></div>（形）無数の、おびただしい<div><br></div><div>myriads of&nbsp;stars</div><div>無数の星<br></div>	
 antagonistic	<div>ænt`ægənístɪk</div>（形）対立する、敵対する<div><br></div><div>Their&nbsp;views&nbsp;are&nbsp;antagonistic&nbsp;to&nbsp;each other.<br></div><div>二人の説は相いれぬ<br></div>	
 averse	<div>əvˈɚːs<br></div>（形）反対して、嫌って<div><br></div><div><div><div>She's&nbsp;averse&nbsp;to&nbsp;our plan.</div><div>彼女は我々の計画に反対している。</div></div></div>	
 bustling	<div>ˈbʌsʌlɪŋ<br></div>（形）活気のある、にぎわいのある、忙しそうな	
@@ -2396,7 +2396,7 @@ laud	lˈɔːd<div>（名）賛美、賞賛</div><div>（動）賞賛する</div>
 insubordinate	ìnsəbˈɔɚdənət<div>（形）従順でない、反抗的な、言うことを聞かない</div>	
 unkempt	"`ʌnkém(p)t<div>（形）だらしない</div><div><br></div><div>unkempt&nbsp;appearance<div>だらしのない風采</div></div><div><br></div><div><img src=""paste-7e688cbf5b995cf0771c76f38fa42a5a3298ed08.jpg""><br></div>"	
 euphonious	juːfóʊniəs<div>（形）響きの良い、耳に快い、音色の美しい</div>	
-transcend	trænsénd<div>（動）超える、勝る</div>	
+transcend	trænsénd<div>（動）超える、勝る</div><div><br></div><div>The&nbsp;genius of&nbsp;Shakespeare&nbsp;transcends&nbsp;that of&nbsp;all other&nbsp;English&nbsp;poets.</div><div>シェイクスピアの才能は他のすべての英国詩人にまさる。<br></div>	
 indignation	ìndɪgnéɪʃən<div>（名）怒り、憤り、義憤</div><div><br></div><div>arouse&nbsp;the indignation&nbsp;of the&nbsp;people<br>人々の怒りを引き起こす<br></div>	
 torment	tˈɔɚment<div>（名）苦痛</div><div>（動）苦しめる</div><div><br></div><div>be in torment<br>苦しんでいる<br></div>	
 attentive	əténṭɪv<div>（形）気を配った、注意深い、大切にする</div><div><br></div><div>an&nbsp;attentive&nbsp;reader</div><div>注意深い読者<br></div>	
@@ -2543,7 +2543,7 @@ buoyancy	bˈɔɪənsi<div>（名）浮力</div>
 encompass	ɪnkˈʌmpəs<div>（動）含む、取り囲む</div>	
 abject	ˈæbdʒɛkt<div>（形）惨めな、軽蔑に値する</div><div><br></div><div><div><div>an&nbsp;abject&nbsp;liar</div><div>卑劣なうそつき</div></div></div>	
 personify	pɚsάnəfὰɪ<div>（動）体現する、人格化する</div>	
-complacent	kəmpléɪsnt<div>（形）自己満足の、悦に入った</div><div><br></div><div>he&nbsp;had&nbsp;become&nbsp;complacent&nbsp;after years&nbsp;of&nbsp;success.</div><div>彼は、数年の成功の後に自己満足した。<br></div>	
+complacent	kəmpléɪsnt<div>（形）自己満足の、悦に入った</div><div><br></div><div>He&nbsp;had&nbsp;become&nbsp;complacent&nbsp;after years&nbsp;of&nbsp;success.</div><div>彼は、数年の成功の後に自己満足した。<br></div>	
 rustic	rˈʌstɪk<div>（形）素朴な、田舎の、田園の</div><div><br></div><div>a rustic&nbsp;house<br>田舎家<br></div>	
 equitable	ékwəṭəbl<div>（形）公平な、公正な、正当な</div><div><br></div><div>an&nbsp;equitable&nbsp;price</div><div>公正な価格<br></div>	
 regale	rɪgéɪl<div>（動）喜ばせる、楽しませる</div><div><br></div><div>He&nbsp;regaled&nbsp;us&nbsp;with a&nbsp;great&nbsp;feast.<br>彼はすばらしいごちそうで私たちをもてなしてくれた。<br></div>	
@@ -2730,7 +2730,7 @@ altruistic	`æltruístɪk<div>（形）利他的な</div>
 marshal	mάɚʃəl<div>（名）（陸・空軍の）司令官</div>	
 flip	flíp<div>（動）指先ではじく</div>	
 nitric acid	nάɪtrɪk<div>（名）硝酸</div>	
-frustrate	frˈʌstreɪt<div>（動）失望させる、（計画や努力などを）挫折させる、やる気をくじく</div>	
+frustrate	frˈʌstreɪt<div>（動）失望させる、（計画や努力などを）挫折させる、やる気をくじく</div><div><br></div><div>He&nbsp;was&nbsp;frustrated&nbsp;in&nbsp;his ambition.</div><div>彼の野望はくじかれた。<br></div>	
 disinterested	dìsíntrəstɪd<div>（形）公平な、私心のない、興味のない</div>	
 intimidate	ɪntímədèɪt<div>（動）威嚇する、脅迫する</div>	
 adjoin	ədʒˈɔɪn<div>（動）隣接する</div><div><br></div><div>Canada&nbsp;adjoins&nbsp;the&nbsp;U.S.</div><div>カナダは合衆国に隣り合っている。<br></div>	
@@ -3084,7 +3084,7 @@ assiduous	əsídʒuəs<div>（形）精を出す、勤勉な、根気のある</
 perceptive	pɚséptɪv<div>（形）洞察力の鋭い、知覚力のある</div><div><br></div><div>perceptive&nbsp;discussion<div>鋭い考察</div></div>	
 enervate	énɚvèɪt<div>（動）衰える、力を弱める、気力を奪う</div><div><br></div><div>feel&nbsp;enervated<br>がっくりする<br></div>	
 benefactor	bénəf`æktɚ<div>（名）恩人、（慈善事業などの）後継者</div>	
-resurgent	rɪsˈɚːdʒənt<div>（形）蘇る、生き返る、再起（復活）した</div>	
+resurgent	rɪsˈɚːdʒənt<div>（形）蘇る、生き返る、再起（復活）した</div><div><br></div><div>resurgent&nbsp;nationalism<br></div><div>ナショナリズムの復活<br></div>	
 translucent	trænslúːsnt<div>（形）（光を通す）半透明の</div>	
 ventilate	vénṭəlèɪt<div>（動）換気を行う</div>	
 subduct	"səbdʌ́kt<div>（動）（プレートが他のプレートの）下に潜り込む、のぞく、除去する</div><div><br></div><div><img src=""su.jpeg""><br></div>"	
@@ -3093,7 +3093,7 @@ chamber	tʃéɪmbɚ<div>（名）（生物体内の）小室、（the 〜）（�
 ventral fin	véntrəl&nbsp;fín<div>（名）腹ビレ</div>	
 keynote	ˈkiˌnot<div>（名）主旨、要旨</div><div>（動）強調する</div>	
 perturb	pɚtˈɚːb<div>（動）不安にする、心配させる、混乱させる</div><div><br></div><div>She was&nbsp;much&nbsp;perturbed&nbsp;by&nbsp;her son's&nbsp;illness.</div><div>彼女は息子の病気にすっかりあわててしまった.<br></div>	
-disseminate	dɪsémənèɪt<div>（動）普及させる、まき散らす</div>	
+disseminate	dɪsémənèɪt<div>（動）普及させる、まき散らす</div><div><br></div><div>to forget&nbsp;to&nbsp;disseminate&nbsp;information<br></div><div>（情報を）広く流布することを忘れる<br></div>	
 hew	hjúː<div>（動）切る、切り倒す</div>	
 taxonomy	tæksάnəmi<div>（名）生物分類学</div>	
 introspective	ìntrəspéktɪv<div>（形）内省的な、内省の</div>	
@@ -3275,7 +3275,7 @@ acclimate	ˈækləmèɪt<div>（動）慣れる、慣らす、適応する</div>
 untangle	`ʌntˈæŋgl<div>（動）解決する、ほどく</div>	
 denominator	dɪnάmənèɪṭɚ<div>（名）（分数の）分母</div>	
 daunt	dˈɔːnt<div>（動）威圧する、（気力を）くじく、ひるむ</div><div><br></div><div>She was&nbsp;daunted&nbsp;by&nbsp;a new&nbsp;environment.<br>彼女は新しい環境にひるんだ。<br></div>	
-sidereal	sɑɪdí(ə)riəl<div>（形）恒星の、星の、星座の</div>	
+sidereal	sɑɪdí(ə)riəl<div>（形）恒星の、星の、星座の</div><div><br></div><div>a&nbsp;sidereal period<br>恒星周期<br></div>	
 bicker	bíkɚ<div>（動）口論する</div>	
 homestead	ˈhoˌmstɛd<div>（名）自営農場、家屋敷</div>	
 torrent	tˈɔːrənt<div>（名）急流、（〜s）土砂降り</div><div><br></div><div>torrents&nbsp;of&nbsp;lava</div><div>どっと流れ出した溶岩<br></div>	
@@ -4378,3 +4378,12 @@ tow	tˈəʊ<div>（動）牽引する</div>
 lean（「寄りかかる」以外の動詞）	líːn<div>（動）かがむ</div>	
 wheel（「車輪」以外の名詞）	wíːl<div>（名）ハンドル、車輪</div>	
 impoverished	ˌɪˈmpɑvrɪʃt<div>（動）貧しい</div>	
+reindeer	"réɪndìɚ<div>（名）トナカイ</div><div><br></div><div><img src=""paste-7c6773da8f0f8f9950a8f44d8362af75c4191b78.jpg""><br></div>"	
+antler	ˈæntlɚ<div>（名）（シカの）枝角</div>	
+logogram	<div>ˈlɔːɡəɡɹæm<br></div>（名）表語文字	
+syllabic	sɪlˈæbɪk<div>（名）音節を表す文字</div><div>（形）音節の</div>	
+pronoun	próʊnὰʊn<div>（名）代名詞</div>	
+rain forest	<div>ˈraɪˌnfɔrʌst<br></div>（名）熱帯雨林	
+lush	lˈʌʃ<div>（形）青々とした、豪華な</div><div><br></div><div>The&nbsp;mountains&nbsp;are a&nbsp;lush&nbsp;green&nbsp;in&nbsp;summer.<br></div><div>夏の山では目に見えるものはすべて緑一色です。<br></div>	
+cloudburst	ˈklaʊˌdbɝst<div>（名）（突然の）豪雨</div>	
+crusty	krˈʌsti<div>（形）表面が堅い、気難しい</div>	
