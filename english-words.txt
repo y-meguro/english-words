@@ -95,7 +95,7 @@ drizzle	<div>drízl<br></div>（名）霧雨<div>（動）霧雨が降る</div>
 immunity	<div>ɪmjúːnəṭi<br></div>免疫	
 pump	<div>pˈʌmp<br></div>（名）ポンプ<div>（動）ポンプで水をくむ</div>	
 undermine	<div>ˈʌndɝˌmaɪn<br></div>（動）侵食する、（名声などを）傷つける、衰えさせる、下を掘る	
-pristine	<div>prístiːn<br></div>損なわれていない、原子の、汚れていない	
+pristine	<div>prístiːn<br></div>（形）損なわれていない、原子の、汚れていない<div><br></div><div>We&nbsp;want to&nbsp;keep&nbsp;this mountain&nbsp;pristine.<br></div><div>私たちはこの山を美しく保ちたいです。<br></div>	
 cherish	<div>tʃérɪʃ<br></div>（愛情をこめて）大事にする、かわいがる	
 infamous	<div>ínfəməs<br></div>（形）悪名高い、不名誉な	
 resolute	<div>rézəlùːt<br></div>断固とした、固く決心した	
@@ -699,7 +699,7 @@ take shelter	<div>ʃéltɚ<br></div>避難する
 vacate	<div>[véɪkeɪt]</div>（動）明け渡す	
 relinquish	<div>rɪlíŋkwɪʃ<br></div>（動）放棄する、断念する、緩める<div><br></div><div>relinquish&nbsp;one's&nbsp;claim</div><div>要求を放棄する<br></div>	
 preside	<div>[prɪzάɪd]</div>統括する、議長を務める	
-detain	<div>dɪtéɪn<br></div>拘束する、引き留める	
+detain	<div>dɪtéɪn<br></div>（動）拘束する、引き留める<div><br></div><div>The police&nbsp;detained&nbsp;the suspect&nbsp;for&nbsp;further&nbsp;questioning.</div><div>警察はさらに尋問するために容疑者を拘留した。<br></div>	
 detention	<div>dɪténʃən<br></div>拘束	
 tap（軽く叩く以外の意味）	<div>tˈæp<br></div>利用する、開発する	
 reprimand	<div>[réprəm`ænd]</div>（動）（業務上で）叱責する<div>（名）叱責</div>	
@@ -3105,7 +3105,7 @@ wizardry	wízɚdri<div>（名）魔法、魔術</div>
 twitter	twíṭɚ<div>（名）（鳥の）さえずり、おしゃべり</div><div>（動）（小鳥が）さえずる</div>	
 sublime	səblάɪm<div>（形）荘厳な、最高の、崇高な</div>	
 repulse	rɪpˈʌls<div>（動）撃退する、はねつける</div><div>（名）撃退、拒絶</div><div><br></div><div>repulse&nbsp;the enemy<br></div><div>敵を退ける<br></div>	
-pastoral	pˈæstərəl<div>（形）牧歌的な、羊飼いの</div>	
+pastoral	pˈæstərəl<div>（形）牧歌的な、羊飼いの</div><div><br></div><div>a&nbsp;pastoral&nbsp;poem</div><div>牧歌<br></div>	
 summation	sʌméɪʃən<div>（名）合計、要約</div>	
 taste bud	bˈʌd<div>（名）（舌の上にある味覚器官）味蕾（みらい）</div>	
 deterrent	dɪtˈɚːrənt<div>（名）妨害物、戦争抑止力</div>	
@@ -3229,7 +3229,7 @@ decry	dɪkrάɪ<div>（動）非難する、けなす</div>
 polarize	póʊlərὰɪz<div>（動）二分する、分極化する、分裂させる</div>	
 flagrant	fléɪgrənt<div>（形）目に余る、名うての</div>	
 precursor	prɪkˈɚːsɚ<div>（名）先駆者、前兆</div>	
-noxious	nάkʃəs<div>（形）有害な、健康に悪い</div>	
+noxious	nάkʃəs<div>（形）有害な、健康に悪い</div><div><br></div><div>noxious&nbsp;chemicals</div><div>有害な化学物質<br></div>	
 annihilate	ənάɪəlèɪt<div>（動）全滅させる、負かす、（法律などを）無効にする</div><div><br></div><div>annihilate&nbsp;the enemy's&nbsp;army</div><div>敵軍を全滅させる<br></div>	
 acquit	əkwít<div>（動）無罪を言い渡す、（義務から）解放する</div><div><br></div><div><div><div>acquit&nbsp;a&nbsp;defendant</div><div>被告人を放免する</div></div></div>	
 glutton	glˈʌtn<div>（名）大食漢、熱心な人</div>	
@@ -3475,7 +3475,7 @@ slaughter	slˈɔːṭɚ<div>（動）（動物を）屠殺する</div><div>（�
 rip	ríp<div>（動）切り裂く、引き裂く</div>	
 unwind	`ʌnwάɪnd<div>（動）（巻いたものを）ほどく、巻き戻す</div><div><br></div><div>unwind&nbsp;a&nbsp;bandage</div><div>包帯をほどく<br></div>	
 unravel	`ʌnrˈæv(ə)l<div>（動）ほどく、解く、解明する</div><div><br></div><div>unravel&nbsp;a&nbsp;mystery<br></div><div>神秘を解明する<br></div>	
-vanquish	vˈæŋkwɪʃ<div>（動）征服する、破る、負かす</div>	
+vanquish	vˈæŋkwɪʃ<div>（動）征服する、破る、負かす</div><div><br></div><div>vanquish&nbsp;the enemy</div><div>敵を破る<br></div>	
 warp	wˈɔɚp<div>（動）そらせる、ねじる、ゆがめる</div>	
 rouse	rάʊz<div>（動）（人を）起こす、奮起させる</div>	
 skyrocket（名詞・動詞それぞれ）	<div>ˈskaɪˌɹɒk.ɪt<br></div>（名）打ち上げ花火<div>（動）急騰する</div>	
@@ -4387,3 +4387,17 @@ rain forest	<div>ˈraɪˌnfɔrʌst<br></div>（名）熱帯雨林
 lush	lˈʌʃ<div>（形）青々とした、豪華な</div><div><br></div><div>The&nbsp;mountains&nbsp;are a&nbsp;lush&nbsp;green&nbsp;in&nbsp;summer.<br></div><div>夏の山では目に見えるものはすべて緑一色です。<br></div>	
 cloudburst	ˈklaʊˌdbɝst<div>（名）（突然の）豪雨</div>	
 crusty	krˈʌsti<div>（形）表面が堅い、気難しい</div>	
+firefly	<div>ˈfaɪɝˌflaɪ<br></div>（名）ホタル	
+sophomore	sάfmɔɚ<div>（名）（4年制大学・高校の）2年生</div>	
+seizure	síːʒɚ<div>（名）押収、捕らえること</div>	
+liberation	lìbəréɪʃən<div>（名）解放</div>	
+vivisection	vìvəsékʃən<div>（名）生体解剖</div>	
+toxicity	tɑksísəṭi<div>（名）毒性</div>	
+slug	slˈʌg<div>（名）ナメクジ</div>	
+doorway	dˈɔɚwèɪ<div>（名）戸口、出入り口</div>	
+windowsill	"wíndəusìl<div>（名）窓敷居</div><div><br></div><div><img src=""paste-4e4d1bafa2100b97d19745ce9b599fdbce1d7446.jpg""><br></div>"	
+dust（動詞の意味は？）	<div>dˈʌst<br></div>（動）ほこりを払う<div>（名）ちり、ほこり</div>	
+renew	rɪn(j)úː<div>（動）更新する、期間を延長する</div>	
+luncheon	lˈʌntʃən<div>（名）昼食</div>	
+satellite dish	sˈæṭəlὰɪt<div>（名）衛星アンテナ</div>	
+stairwell	ˈstɛˌrwɛl<div>（名）階段の吹き抜け</div>	
