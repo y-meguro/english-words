@@ -95,7 +95,7 @@ drizzle	<div>drízl<br></div>（名）霧雨<div>（動）霧雨が降る</div>
 immunity	<div>ɪmjúːnəṭi<br></div>免疫	
 pump	<div>pˈʌmp<br></div>（名）ポンプ<div>（動）ポンプで水をくむ</div>	
 undermine	<div>ˈʌndɝˌmaɪn<br></div>（動）侵食する、（名声などを）傷つける、衰えさせる、下を掘る	
-pristine	<div>prístiːn<br></div>（形）損なわれていない、原子の、汚れていない<div><br></div><div>We&nbsp;want to&nbsp;keep&nbsp;this mountain&nbsp;pristine.<br></div><div>私たちはこの山を美しく保ちたいです。<br></div>	
+pristine	<div>prístiːn<br></div>（形）損なわれていない、原始の、汚れていない<div><br></div><div>We&nbsp;want to&nbsp;keep&nbsp;this mountain&nbsp;pristine.<br></div><div>私たちはこの山を美しく保ちたいです。<br></div>	
 cherish	<div>tʃérɪʃ<br></div>（愛情をこめて）大事にする、かわいがる	
 infamous	<div>ínfəməs<br></div>（形）悪名高い、不名誉な	
 resolute	<div>rézəlùːt<br></div>断固とした、固く決心した	
@@ -142,7 +142,7 @@ combustible	<div>kəmbˈʌstəbl<br></div>（形）可燃性の、燃えやす�
 estuary	"<div>éstʃuèri<br></div>（名）河口<div><br></div><div><img src=""paste-02a30e77e1f3122dec30243ba984e3d422b16c4a.jpg""><br></div>"	
 vent	<div>vént<br></div>（名）（液体や気体が抜ける）穴、通気口	
 statutory	<div>stˈætʃʊt`ɔːri<br></div>（形）法定の、法令による<div><br></div><div><div><div>statutory&nbsp;restrictions</div><div>法令による制限</div></div></div>	
-drain	<div>dréɪn<br></div>（動）排水する<div>（名）排水管</div>	
+drain	<div>dréɪn<br></div>（動）排水する、（富・力などを）徐々に消耗させる<div>（名）排水管</div>	
 demanding	<div>dɪˈmændɪŋ<br></div>きつい	
 aquatic	<div>əkwάṭɪk<br></div>（形）水生の、水中の	
 geothermal	<div>dʒìːoʊθˈɚːm(ə)l<br></div>地熱の	
@@ -209,7 +209,7 @@ fictitious	<div>fɪktíʃəs<br></div>創作の、架空の、偽りの
 thermal	<div>θˈɚːm(ə)l<br></div>温泉の、温度（熱）の	
 lavish	<div>lˈævɪʃ<br></div>（動）気前よく与える、浪費する<div>（形）気前のよい、豊富な</div><div><br></div><div>a&nbsp;lavish&nbsp;uncle</div><div>気前のよいおじ<br></div>	
 refugee	<div>rèfjʊdʒíː<br></div>避難民	
-reap	<div>ríːp<br></div>収穫する	
+reap	<div>ríːp<br></div>（動）収穫する、（利益などを）上げる	
 retina	<div>[réṭənə]</div>（目の）網膜	
 cling	<div>klíŋ<br></div>（動）しがみつく、くっつく<div><br></div><div>Her&nbsp;wet clothes&nbsp;clung&nbsp;to&nbsp;her body.</div><div>ぬれた服は彼女の体にくっついた。<br></div>	
 antelope	<div>ˈænṭəlòʊp<br></div>（名）（インパラやガゼルなどのウシ科）アンテロープ	
@@ -287,7 +287,7 @@ curator	<div>kjˈʊ(ə)reɪṭɚ<br></div>（図書館・美術館などの）�
 limb	<div>lím<br></div>（名）手足<div><br></div><div>a tall&nbsp;man&nbsp;with&nbsp;long&nbsp;limbs<br>手足の長い背の高い男<br></div>	
 dim	<div>dím<br></div>かすんだ	
 congest	<div>kəndʒést<br></div>（通例受身形で）混雑する、いっぱいになる	
-dairy	<div>dé(ə)ri<br></div>乳製品、酪農	
+dairy	<div>dé(ə)ri<br></div>（名）乳製品、酪農<div><br></div><div>daily は&nbsp;déɪli<br></div>	
 customary	<div>kˈʌstəmèri<br></div>習慣的な	
 acting	<div>ˈækṭɪŋ<br></div>代理の、活動中の	
 Temperate Zone	<div>témp(ə)rət<br></div>（the〜）温帯	
@@ -555,7 +555,7 @@ insulation	<div>ìnsəléɪʃən<br></div>（名）（音、熱、電気等を�
 intact	<div>ɪntˈækt</div>（形）傷がない<div><br></div><div>The&nbsp;room&nbsp;was&nbsp;left&nbsp;intact after his death.<br>彼の死後も部屋はそのままの形で残されていた。<br></div>	
 turnover	<div>tə'rnòuvər<br></div>離職率、（一定期間の）売上高<div><br></div><div>reduce&nbsp;the&nbsp;labor&nbsp;turnover</div><div>労働者の転職率を下げる<br></div>	
 deteriorate	<div>dɪtí(ə)riərèɪt<br></div>（自）悪化する<div>（他）悪化させる</div>	
-sturdy	<div>stˈɚːdi<br></div>頑丈な、丈夫な	
+sturdy	<div>stˈɚːdi<br></div>（形）頑丈な、丈夫な<div><br></div><div>a&nbsp;sturdy&nbsp;house</div><div>頑丈な造りの家<br></div>	
 adverse	<div>ædvˈɚːs<br></div>（形）有害な、不利な、反対する<div><br></div><div>adverse conditions<br>不利な条件<br></div>	
 bearer	<div>bé(ə)rɚ<br></div>（名）（小切手やクーポンなどの）持参人	
 unprecedented	<div>`ʌnprésədènṭɪd<br></div>前例のない	
@@ -1314,7 +1314,7 @@ thigh	[θάɪ]<div>太もも</div>
 buttocks	[ˈbʌtəks]<div>尻</div><div>※bottomも尻の意味を持つ</div>	
 self-esteem	<div>estíːm<br></div>自尊心	
 furious	<div>fjˈʊ(ə)riəs</div>（形）激怒した、憤慨した<div><br></div><div><div><div>a&nbsp;furious&nbsp;quarrel</div><div>怒り狂った口論</div></div></div>	
-strain（ストレス以外の名詞）	<div>stréɪn<br></div>（名）種族、精神的緊張、ストレス<div>（動）引っ張る、引き締める</div>	
+strain（ストレス以外の名詞）	<div>stréɪn<br></div>（名）種族、精神的緊張、ストレス<div>（動）引っ張る、引き締める、精一杯働かせる</div>	
 overwhelmed	<div>ˌovɝˈwɛlmd<br></div>（形）打ちのめされた、困惑した	
 diversion（転換以外の名詞）	<div>[dɪvˈɚːʒən]</div>（名）気晴らし、気分転換、娯楽、転換	
 day trip	日帰り旅行	
@@ -1325,7 +1325,7 @@ initiation fee	<div>ɪnìʃiéɪʃən<br></div>入会費
 expedition	[èkspədíʃən]<div>（名）小旅行、探検旅行</div>	
 getaway（名詞で逃走以外の意味）	<div>gétəwèi</div>（名）短期の保養、保養地<div><br></div><div>Here is&nbsp;famous as&nbsp;a&nbsp;summer&nbsp;getaway.<br></div><div>ここは夏に避暑地として有名です。<br></div>	
 pageant	"<div>pˈædʒənt</div><div>（名）野外劇、歴史衣装をまとったパレード<br></div><div><br></div><div><img src=""pa.jpeg""><br></div>"	
-concession stand	[kənséʃən]<div>（場内の）売店</div>	
+concession stand	kənséʃən<div>（場内の）売店</div>	
 rain check	雨天順延券、（売り切れ商品の）後日購入券<div>※「次回の機会」という意味で誘いを断る時などに使える</div>	
 blockbuster	<div>[blάkb`ʌstɚ]</div>（映画・音楽・本などの）大ヒット作	
 sequel	<div>síːkwəl</div><div>（名）（映画などの）続編<br></div><div><br></div><div>I am eager&nbsp;to see&nbsp;this&nbsp;movie's&nbsp;sequel!<br></div><div>私はこの映画の続編を熱望しています！<br></div>	
@@ -1426,7 +1426,7 @@ by and large	全体的に、概して
 call it a day	1日の仕事を切り上げる、打ち切る	
 call off	〜を中止する、〜を取り消す	
 call on	〜を訪問する、〜を要請する	
-cash in on	〜から利益を得る、〜につけ込む	
+cash in on	〜から利益を得る、〜につけ込む<div><br></div><div>cash&nbsp;in&nbsp;on&nbsp;an&nbsp;investment<br></div><div>投資でもうける<br></div>	
 be cut out to (be)	〜に適している、〜の素質がある	
 draw up	〜を立案する、（文書などを）作成する<div><br></div><div>I&nbsp;draw&nbsp;up&nbsp;its measures.<br></div><div>私はそれの対策を立案する。<br></div>	
 every inch	隅から隅まで、徹頭徹尾	
@@ -1679,7 +1679,7 @@ pasteurization	[p`æstʃərɪzéɪʃən]<div>（名）低温殺菌、加熱殺�
 hay	héɪ<div>（名）干し草</div><div><br></div><div>make hay<br>干し草を作る<br></div><div>※成句で「チャンスを生かす」の意味もある</div>	
 unearth	[`ʌnˈɚːθ]<div>（動）（事実・証拠などを）明るみに出す、発掘する、掘り出す</div>	
 runoff	[rʌ'nɔ`f]<div>（名）地面を流れる雨水、排水、決勝戦</div>	
-sodium	[sóʊdiəm]<div>（名）ナトリウム</div>	
+sodium	sóʊdiəm<div>（名）ナトリウム</div>	
 oppression	[əpréʃən]<div>（名）圧迫、抑圧</div>	
 enmity	énməṭi<div>（名）敵意、憎しみ</div><div><br></div><div>feel&nbsp;enmity&nbsp;against&nbsp;him<br>彼に敵意を抱く<br></div>	
 bovine	[bóʊvɑɪn]<div>（形）ウシ（属）の、のっそりした</div><div>（名）ウシ科の動物</div>	
@@ -1714,7 +1714,7 @@ foresight	[fˈɔɚsὰɪt]<div>（名）先見、将来への配慮</div>
 clemency	[klémənsi]<div>（名）寛大さ、慈悲</div>	
 methodical	[məθάdɪk(ə)l]<div>（形）秩序だった、（人が）きちんとした</div>	
 rectify	[réktəfὰɪ]<div>（動）改正する、直す</div>	
-scrape	[skréɪp]<div>（動）こすり取る、こすって滑らかにする</div><div>（名）こすること、すり傷</div>	
+scrape	skréɪp<div>（動）こすり取る、こすって滑らかにする</div><div>（名）こすること、すり傷</div>	
 precipitous	prɪsípəṭəs<div>（形）険しい、絶壁のような</div><div><br></div><div>a&nbsp;precipitous&nbsp;cliff<br></div><div>きり立った岩壁<br></div>	
 animate	[ˈænəmèɪt]<div>（動）活気づける</div><div><br></div><div>[ˈænəmət]</div><div>（形）生き生きとした</div>	
 baroque	[bəróʊk]<div>（形）バロック式の、バロックの（特にバッハやヘンデルの音楽に代表される）</div>	
@@ -1817,7 +1817,7 @@ evasion	[ɪvéɪʒən]<div>（名）回避、言い逃れ</div>
 boost	[búːst]<div>（動）（値を）引き上げる、押し上げる</div>	
 remorse	rɪmˈɔɚs<div>（名）深い悔恨、自責の念</div><div><br></div><div>He&nbsp;felt&nbsp;remorse for&nbsp;what&nbsp;he&nbsp;did.<br>彼は自分のしたことに良心のとがめを感じた。<br></div>	
 oust	[άʊst]<div>（動）（権利などを）取り上げる、追放する</div>	
-concession	kənséʃən<div>（名）譲歩</div><div><br></div><div>make&nbsp;a&nbsp;concession&nbsp;to ...<br></div><div>...に譲歩する</div>	
+concession	kənséʃən<div>（名）譲歩、（場内の）売店</div><div><br></div><div>make&nbsp;a&nbsp;concession&nbsp;to ...<br></div><div>...に譲歩する</div>	
 demystify	[dìːmístəfὰɪ]<div>（動）解明する、神秘性を取り除く</div>	
 exhaustive	[ɪgzˈɔːstɪv]<div>（形）完全な、徹底的な</div>	
 testimony	[téstəmòʊni]<div>（名）証明、証言</div>	
@@ -1949,7 +1949,7 @@ timid	tímɪd<div>（形）臆病な</div><div><br></div><div><div><div>He's&nbs
 consonant	[kάnsənənt]<div>（名）子音</div>	
 hoist	[hˈɔɪst]<div>（動）つり上げる、持ち上げる</div>	
 pest	<div>pést<br></div>（名）害虫、疫病	
-obese	[oʊbíːs]<div>（形）肥満した、太り過ぎの</div>	
+obese	oʊbíːs<div>（形）肥満した、太り過ぎの</div><div><br></div><div>She has&nbsp;never&nbsp;been&nbsp;obese.<br></div><div>肥満になったことはない。<br></div>	
 manifest	[mˈænəfèst]<div>（形）明白な、はっきりとした</div><div>（動）明らかにする</div>	
 foreshadow	fɔˈrʃædo<div>（動）〜の前兆となる、前もって示す</div><div><br></div><div>foreshadow&nbsp;the&nbsp;recession<div>景気後退の前兆である</div></div>	
 menace	[ménəs]<div>（名）脅迫、おどし、脅威、危険人物</div>	
@@ -2041,7 +2041,7 @@ scar	[skάɚ]<div>（名）傷跡</div><div>（動）損なう</div>
 debris	[dəbríː]<div>（名）がれき、破片、がらくた</div>	
 ironic	[ɑɪrάnɪk]<div>（形）皮肉な</div>	
 tumor	[t(j)úːmɚ]<div>（名）腫瘍</div>	
-tedious	[tíːdiəs]<div>（形）（長くて）退屈な</div>	
+tedious	tíːdiəs<div>（形）（長くて）退屈な</div><div><br></div><div>a&nbsp;tedious&nbsp;lecture</div><div>退屈な講義<br></div>	
 placid	[plˈæsɪd]<div>（形）穏やかな</div>	
 ethnology	[eθnάlədʒi]<div>（名）民族学</div>	
 profound	prəfάʊnd<div>（形）深い、難解な</div><div><br></div><div>a&nbsp;profound&nbsp;thought<br></div><div>深い考え</div>	
@@ -4401,3 +4401,41 @@ renew	rɪn(j)úː<div>（動）更新する、期間を延長する</div>
 luncheon	lˈʌntʃən<div>（名）昼食</div>	
 satellite dish	sˈæṭəlὰɪt<div>（名）衛星アンテナ</div>	
 stairwell	ˈstɛˌrwɛl<div>（名）階段の吹き抜け</div>	
+decor	deɪkˈɔɚ<div>（名）装飾</div><div><br></div><div>The&nbsp;hotel room&nbsp;was&nbsp;fitted out&nbsp;with&nbsp;a new&nbsp;modern&nbsp;decor.<br></div><div>ホテルの部屋は最新の装飾を施してあった。<br></div>	
+outperform	ˈaʊtpɝˌfɔrm<br><div>（動）よりよい業績を上げる，性能が優れている</div>	
+crisscross	<div>krískr`ɔːs<br></div>（動）〜を縦横に動く	
+dispense	dɪspéns<div>（他）分配する</div><div>（自）なしで済ます</div>	
+regent	ríːdʒənt<div>（名）評議員</div>	
+dingy	díndʒi<div>（形）薄汚い</div>	
+intercollegiate	ˌɪntɝkʌˈlidʒʌt<div>（形）大学間の、大学対抗の</div>	
+surcharge	sˈɚːtʃὰɚdʒ<div>（名）追加料金</div>	
+drab	drˈæb<div>（形）面白みのない、（くすんだ）茶色の</div><div><br></div><div>in a&nbsp;drab&nbsp;manner<br></div><div>冴えない方法で<br></div>	
+outwards	άʊtwɚdz<div>（副）外向きに</div>	
+topmost	<div>tɑ́pmə̀ust<br></div>（形）最上位の、表面の	
+migrate	<div>mάɪgreɪt<br></div>（動）移住する	
+trinket	tríŋkɪt<div>（名）小さな装身具</div>	
+bead	bíːd<div>（名）ビーズ</div>	
+pelt	pélt<div>（名）（動物の）毛皮</div>	
+miner	<div>mάɪnɚ<br></div>（名）坑夫	
+rancher	ˈræntʃɝ<div>（名）牧場主</div>	
+settler	séṭlɚ<div>（名）移住者</div>	
+scallop	skάləp<div>（名）ホタテ貝</div>	
+carbon monoxide	kɑ́rbən mənɑ́ksàid<br>（名）一酸化炭素	
+conservatory	kənsˈɚːvət`ɔːri<div>（名）温室、音楽学校</div>	
+dime a dozen	<div>dάɪm<br></div>掃いて捨てるほど	
+chlorine	klˈɔːriːn<div>（名）塩素</div>	
+bleach	blíːtʃ<div>（動）漂白する</div>	
+immunization	ìmjʊnɪzéɪʃən<div>（名）免疫性を与えること</div>	
+ravage	rˈævɪdʒ<div>（動）破壊する</div><div>（名）破壊</div>	
+child-bearing	ˈtʃaɪˌldbɛrɪŋ<div>（名）出産</div><div>（形）出産可能な</div>	
+dysfunction	dìsfˈʌŋkʃən<div>（名）（身体器官の）機能障害</div>	
+ornithology	`ɔɚnəθάlədʒi<div>（名）鳥類学</div>	
+dosage	dóʊsɪdʒ<div>（名）1回分の投薬量、用量</div>	
+antidote	ˈænṭɪdòʊt<div>（名）解毒剤</div>	
+antivenin	æ̀ntaivε'nin<div>（名）（ヘビやクモなどの毒に対する）抗毒素</div>	
+milk（「乳を絞る」以外の動詞）	mílk<div>（動）毒を抜き取る</div>	
+plasma（「プラズマ」意外の名詞）	plˈæzmə<div>（名）血しょう（血液の液体成分。血液から血球を取り除いた残り）、プラズマ</div>	
+splint	splínt<div>（名）添え木</div><div>（動）添え木を施す</div>	
+wield	wíːld<div>（動）（権力・武力などを）ふるう</div>	
+laymen	léimən<div>（名）素人、門外漢</div>	
+electoral college	<div>əléktərəl&nbsp;kάlɪdʒ<br></div>（大統領）選挙人団	
