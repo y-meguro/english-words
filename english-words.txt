@@ -2600,7 +2600,7 @@ regime	reʒíːm<div>（名）政治体制、政府、政権</div><div><br></div
 astral	ˈæstrəl<div>（形）星の、星形の、星についての</div>	
 lichen	lάɪk(ə)n<div>（名）（岩などに付く）コケ、（植物の）地衣類</div>	
 stammer	stˈæmɚ<div>（動）口ごもる</div><div>（名）口ごもり、どもること</div><div><br></div><div>to&nbsp;stammer&nbsp;out&nbsp;something<br></div><div>どもって言う<br></div>	
-transcribe	trænskrάɪb<div>（動）書き写す、複写する</div><div><br></div><div>transcribe&nbsp;a&nbsp;taped&nbsp;interview<div>録音されたインタビューを文字に書き写す</div></div>	
+transcribe	trænskrάɪb<div>（動）書き写す、編曲する</div><div><br></div><div>transcribe&nbsp;a&nbsp;taped&nbsp;interview<div>録音されたインタビューを文字に書き写す</div></div>	
 incessant	ɪnsésnt<div>（形）絶え間ない、ひっきりなしの</div>	
 moat	móʊt<div>（名）堀</div>	
 checkered	ˈtʃɛkɝd<div>（形）波乱万丈の、変化に富んだ</div>	
@@ -4017,7 +4017,7 @@ cleanse	klénz<div>（動）清潔にする、洗う</div>
 exploitation	èksplɔɪtéɪʃən<div>（名）開発</div>	
 economize	ɪkάnəmὰɪz<div>（動）節約する</div>	
 fatality	feɪtˈæləṭi<div>（名）不運、死亡者</div><div><br></div><div><div><div>Traffic accidents&nbsp;cause&nbsp;many&nbsp;fatalities.</div><div>交通事故で死ぬ者が多い。</div></div></div>	
-coastal	kóʊstl<div>（形）沿岸の</div>	
+coastal	kóʊstl<div>（形）沿岸の</div><div>※沿岸 = 海・川・湖に沿った岸</div>	
 mill（名詞の意味は？）	míl<div>（名）工場</div>	
 DDT	díːdìːtíː<div>（名）ディーディーティー（殺虫剤）</div>	
 PCB（polychlorinated biphenyl）	píːsìːbíː /&nbsp;ˌpɑˌliˈklɔrɪˌnetɪd&nbsp;ˈbɪfʌnʌl<div>（名）ポリ塩化ビフェニール</div><div>※プラスチックの製造などに使われている化合物</div>	
@@ -4439,3 +4439,11 @@ splint	splínt<div>（名）添え木</div><div>（動）添え木を施す</div
 wield	wíːld<div>（動）（権力・武力などを）ふるう</div>	
 laymen	léimən<div>（名）素人、門外漢</div>	
 electoral college	<div>əléktərəl&nbsp;kάlɪdʒ<br></div>（大統領）選挙人団	
+syllabary	síləbèri<div>（名）音節文字表</div><div><br></div><div>the Japanese&nbsp;syllabary</div><div>日本語の五十音図、かな表<br></div>	
+elective subjects	əléktɪv&nbsp;ˈsʌb.dʒɛkts<div>選択科目</div>	
+talkative	tˈɔːkəṭɪv<div>（形）おしゃべりな</div>	
+juncture	dʒˈʌŋ(k)tʃɚ<div>（名）接続</div>	
+tonal range	<div>tóʊnl&nbsp;réɪndʒ<br></div>階調範囲（音階の範囲）	
+rendition	<div>rendíʃən<br></div>（名）演奏	
+virtuosity	v`ɚːtʃuάsəṭi<div>（名）（演奏などの）妙技</div>	
+predate	prìːdéɪt<div>（動）前に来る</div><div><div><div><br></div><div>The&nbsp;building&nbsp;predates&nbsp;World War&nbsp;II.</div><div>その建物は第二次大戦以前に建てられたものだ。</div></div></div>	
