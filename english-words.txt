@@ -700,7 +700,7 @@ vacate	<div>[véɪkeɪt]</div>（動）明け渡す
 relinquish	<div>rɪlíŋkwɪʃ<br></div>（動）放棄する、断念する、緩める<div><br></div><div>relinquish&nbsp;one's&nbsp;claim</div><div>要求を放棄する<br></div>	
 preside	<div>[prɪzάɪd]</div>統括する、議長を務める	
 detain	<div>dɪtéɪn<br></div>（動）拘束する、引き留める<div><br></div><div>The police&nbsp;detained&nbsp;the suspect&nbsp;for&nbsp;further&nbsp;questioning.</div><div>警察はさらに尋問するために容疑者を拘留した。<br></div>	
-detention	<div>dɪténʃən<br></div>拘束	
+detention	<div>dɪténʃən<br></div>（名）拘束	
 tap（軽く叩く以外の意味）	<div>tˈæp<br></div>利用する、開発する	
 reprimand	<div>[réprəm`ænd]</div>（動）（業務上で）叱責する<div>（名）叱責</div>	
 rebuke	<div>rɪbjúːk<br></div>（動）強く非難する、叱責する<div><br></div><div>The president&nbsp;rebuked&nbsp;his&nbsp;secretary&nbsp;for&nbsp;misplacing&nbsp;important&nbsp;papers.</div><div>社長は重要な書類を置き違えたと言って秘書をしかりつけた。<br></div>	
@@ -1615,7 +1615,7 @@ paddy field	<div>pˈædi<br></div>（名）（稲の）水田
 lucid	<div>[lúːsɪd]</div>（形）わかりやすい、明快な、透明な	
 cradle	[kréɪdl]<div>（名）ゆりかご</div>	
 abide	<div>əbάɪd<br></div>（動）（byを伴って）（規則を）守る	
-converge	<div>kənvˈɚːdʒ<br></div>（動）集中する、収束する	
+converge	<div>kənvˈɚːdʒ<br></div>（動）集中する、集まる	
 decomposer	[dìːkəmpóʊzər]<div>（名）（ミミズやバクテリアなどの）分解生物</div>	
 distrust	dìstrˈʌst<div>（名）（a 〜）疑惑</div><div>（動）疑う</div><div><br></div><div>distrust&nbsp;one's own&nbsp;eyes</div><div>自分の目を疑う<br></div>	
 empirical	[empírɪk(ə)l]<div>（形）実験に基づいた、経験を基礎とする</div>	
@@ -1756,7 +1756,7 @@ mediate	[míːdièɪt]<div>（動）仲裁する、和解させる</div><div><br
 coagulate	[koʊˈægjʊlèɪt]<div>（動）（液体が）凝固する、固まる</div>	
 anonymity	[`ænəníməṭi]<div>（名）匿名者、無名であること</div>	
 coniferous tree	[koʊníf(ə)rəs]<div>（名）針葉樹</div>	
-smother	smˈʌðɚ<div>（動）窒息させる、（火などを）消す、（感情などを）抑える</div><div><br></div><div><div><div>She&nbsp;smothered&nbsp;her&nbsp;own&nbsp;baby&nbsp;with a pillow.</div><div>彼女は自分の赤ん坊をまくらで窒息死させた。</div></div></div>	
+smother	smˈʌðɚ<div>（動）窒息させる、たっぷりかける、（火などを）消す、（感情などを）抑える</div><div><br></div><div><div><div>She&nbsp;smothered&nbsp;her&nbsp;own&nbsp;baby&nbsp;with a pillow.</div><div>彼女は自分の赤ん坊をまくらで窒息死させた。</div></div></div>	
 tangle	[tˈæŋgl]<div>（動）紛糾させる</div>	
 celestial	səléstʃəl<div>（形）天の、空の、天体の</div><div><br></div><div>a&nbsp;celestial&nbsp;body</div><div>天体<br></div>	
 dine	<div>dάɪn<br></div>（動）食事する	
@@ -2379,7 +2379,7 @@ malignant	məlígnənt<div>（形）（病気・腫瘍などが）悪性の、�
 hallmark	ˈhɑˌlmɑrk<div>（名）特徴、純度検証刻印、品質保証</div><div>（動）品質を保証する</div>	
 womb	wúːm<div>（名）子宮</div>	
 cog	kάg<div>（名）歯車、（歯車の）歯</div>	
-coax	kóʊks<div>（動）説得して〜させる、なだめる</div>	
+coax	kóʊks<div>（動）説得して〜させる、なだめる、あやす</div>	
 simulated	símjʊlèɪṭɪd<div>（形）模造の、まねた</div>	
 tint	tínt<div>（名）色合い</div><div><br></div><div>autumnal tints</div><div>秋色<br></div>	
 excise	éksɑɪz<div>（動）摘出する、切り取る</div><div><br></div><div>The tumor must be excised and the surrounding tissue removed.&nbsp;</div><div>その腫瘍を摘出し、その周囲組織は切除されなければならない。<br></div>	
@@ -2824,7 +2824,7 @@ leave 〜 undone(unsaid)	〜を放っておく（言わずにおく）
 be devoid of 〜	〜を欠いている	
 crack down	取り締まる	
 bone up on 〜	<div>bóʊn<br></div>〜の詰め込み勉強する	
-above all	とりわけ	
+above all	とりわけ<div><br></div><div>to&nbsp;excel&nbsp;above&nbsp;all&nbsp;others<br></div><div>比類なく優れる<br></div>	
 all along	初めから、ずっと	
 see after 〜	〜の世話をする	
 give the green light to 〜	〜に許可を与える	
@@ -3155,7 +3155,7 @@ prodigious	prədídʒəs<div>（形）素晴らしい、感嘆すべき、巨大
 crevice	krévɪs<div>（名）（岩などの）割れ目</div>	
 duplicity	"d(j)uːplísəṭi<div>（名）二枚舌、不誠実</div><div><br></div><div>Avoid&nbsp;duplicity&nbsp;in&nbsp;speech!<br></div><div><span style=""color: rgb(86, 76, 70);"">舌を二枚に使うな。</span><br></div>"	
 glossy	glάsi<div>（形）つややかな、光沢のある</div>	
-nasal cavity	néɪzl&nbsp;kˈævəṭi<div>（名）鼻腔</div>	
+nasal cavity	"néɪzl&nbsp;kˈævəṭi<div>（名）鼻腔</div><div><br></div><div><img src=""zu.jpg""><br></div>"	
 coup	kúː<div>（名）大当たり、大成功、クーデター</div><div><br></div><div><div><div>make a&nbsp;great&nbsp;coup</div><div>すばらしい当たりを取る</div></div></div>	
 bogus	bóʊgəs<div>（形）偽の</div><div><br></div><div>bogus&nbsp;bills<br>偽札<br></div>	
 malicious	məlíʃəs<div>（形）悪意のある、意地の悪い</div>	
@@ -3356,7 +3356,7 @@ overrule	ˈovɝˌrul<div>（動）（権力で）覆す、却下する、無効�
 cult	kˈʌlt<div>（名）祭儀、崇拝、信仰</div><div><br></div><div>the&nbsp;tea&nbsp;cult</div><div>茶道<br></div>	
 docile	dάsl<div>（形）素直な、従順な</div><div><br></div><div>a docile&nbsp;horse<br>御しやすい馬<br></div>	
 majesty	mˈædʒəsti<div>（名）威厳、荘厳、主権</div><div><br></div><div>I&nbsp;felt&nbsp;majesty&nbsp;from that building.<br></div><div>私はその建物に威厳を感じました。<br></div>	
-ridicule	rídɪkjùːl<div>（動）あざ笑う、ひやかす</div>	
+ridicule	rídɪkjùːl<div>（動）あざ笑う、ひやかす</div><div><br></div><div>The&nbsp;satirists&nbsp;ridiculed&nbsp;the&nbsp;plans&nbsp;for a&nbsp;new opera&nbsp;house.</div><div>風刺家は新しいオペラハウスについての計画を嘲笑した。<br></div>	
 facile	fˈæsl<div>（形）たやすく得られる、安易過ぎる、深みのない</div>	
 tenacious	tənéɪʃəs<div>（形）頑固な、しっかり握って離さない、固執して</div><div><br></div><div>a&nbsp;tenacious&nbsp;grip</div><div>固い握り<br></div>	
 headstrong	ˈhɛˌdstrɔŋ<div>（形）頑固な、わがままな</div>	
@@ -3396,7 +3396,7 @@ implore	ɪmplˈɔɚ<div>（動）懇願する、嘆願する</div><div><br></div
 incense	ínsens<div>（動）ひどく立腹させる</div><div><br></div><div><div><div>She was&nbsp;incensed&nbsp;by&nbsp;his&nbsp;conduct.</div><div>彼女は彼の行為に激怒した。</div></div></div>	
 satirize	sˈæṭərὰɪz<div>（動）風刺する</div><div><br></div><div><div><div>satirize&nbsp;society</div><div>社会を風刺する</div></div></div>	
 wilt	wílt<div>（動）しぼむ、しおれる、元気がなくなる</div><div><br></div><div>the&nbsp;flowers&nbsp;wilted</div><div>しおれた花<br></div>	
-wince	wíns<div>（動）ひるむ、たじろぐ</div><div><br></div><div>He&nbsp;winced&nbsp;at the&nbsp;thought.</div><div>そう思うと彼はひるんだ。<br></div>	
+wince	wíns<div>（動）ひるむ、たじろぐ、顔をしかめる</div><div><br></div><div>He&nbsp;winced&nbsp;at the&nbsp;thought.</div><div>そう思うと彼はひるんだ。<br></div>	
 avaricious	`ævəríʃəs<div>（形）欲の深い、強欲の</div>	
 caustic	kˈɔːstɪk<div>（形）腐食性の、痛烈な</div><div><br></div><div>caustic&nbsp;action<div>腐食作用</div></div>	
 biting（「かみつく」以外の形容詞）	bάɪṭɪŋ<div>（形）鋭い、辛辣な</div>	
@@ -3634,7 +3634,7 @@ petal	péṭl<div>（名）花びら</div>
 pollinate	pάlənèɪt<div>（動）受粉する</div>	
 pistil	pístl<div>（名）雄しべ</div>	
 stamen	stéɪmən<div>（名）雌しべ</div>	
-embryo	émbriòʊ<div>（名）胎芽（人間の受胎後8週以内の個体）、萌芽</div>	
+embryo	"émbriòʊ<div>（名）胎芽（人間の受胎後8週以内の個体）、萌芽</div><div><br></div><div><img src=""topimg_original.jpg""><br></div>"	
 celery	séləri<div>（名）セロリ</div>	
 anther	"ˈænθɚ<div>（名）（花の雄しべの）やく</div><div><img src=""Screen Shot 2020-04-13 at 14.36.00.png""><br></div>"	
 deposit	dɪpάzɪt<div>（動）預ける、置く</div>	
@@ -4565,3 +4565,44 @@ duckling	dˈʌklɪŋ<div>（名）子ガモ</div>
 scurry	skˈɚːri<div>（動）あわてて走る</div><div><br></div><div>Mice&nbsp;are&nbsp;always&nbsp;scurrying&nbsp;about&nbsp;in the&nbsp;wall.</div><div>壁の中でネズミがいつも走り回っている。<br></div>	
 asphalt	ˈæsfɔːlt<div>（名）アスファルト</div>	
 sever	sévɚ<div>（動）切断する、（関係などを）絶つ</div><div><br></div><div><div><div>sever&nbsp;a&nbsp;rope</div><div>ロープを切断する</div></div></div>	
+shuffle（「シャッフルする」以外の動詞）	ʃˈʌfl<div>（動）足を引きずって歩く、シャッフルする</div><div><br></div><div>He&nbsp;shuffled&nbsp;down&nbsp;the street.<br>彼は通りを足を引きずって歩いていった。<br></div>	
+pulpit	"pˈʊlpɪt<div>（名）（教会の）説教壇</div><div><br></div><div><img src=""paste-0568a973bde73b6a22f6a84086ed4019012c1d77.jpg""><br></div>"	
+smear	smíɚ<div>（動）塗りつける、汚す</div><div><br></div><div>smear&nbsp;the surface&nbsp;of a&nbsp;pan&nbsp;with&nbsp;butter<br></div><div>鍋にバターをひく<br></div>	
+margarine	mάɚdʒ(ə)rɪn<div>（名）マーガリン</div>	
+syrup	sˈɚːrəp<div>（名）シロップ、糖蜜</div>	
+snuff	snˈʌf<div>（動）（ろうそくなどを）消す、鼻から吸う</div><div><br></div><div>snuff out a candle</div><div>ろうそくを消す</div>	
+mantelpiece	"ˈmæntlpiːs<div>（名）マントルピース</div><div>※居間やホールの壁につくりつけられた暖炉のまわりに行う装飾</div><div><br></div><div><img src=""paste-d184782ff2651289f9c271aabc838fa0ae0ea81b.jpg""><br></div>"	
+stoke	stóʊk<div>（動）燃料をくべる</div><div><br></div><div>stoke a&nbsp;furnace</div><div>かまに燃料をくべる<br></div>	
+nominee	nὰməníː<div>（名）指名された人、（株券などの）名義人</div><div><br></div><div>The nominee strutted onto the stage.</div><div>指名された人は気取った足取りで舞台に上がった。</div>	
+strut	strˈʌt<div>（動）もったいぶって歩く</div><div><br></div><div>He&nbsp;struts&nbsp;around&nbsp;like a&nbsp;rooster&nbsp;in a&nbsp;hen house.</div><div>雌鳥小屋にいる雄鶏のように気取って歩く。<br></div>	
+convoy	kάnvɔɪ<div>（名）大型トラックの集団、護送</div><div>（動）護送する</div><div><br></div><div>A convoy&nbsp;of&nbsp;trucks&nbsp;left&nbsp;the factory.<br>トラックの一団が工場を出発した。<br></div>	
+swerve	swˈɚːv<div>（動）（まっすぐな進路から急に）それる、車のハンドルを急にきる</div><div><br></div><div>He swerved&nbsp;to&nbsp;miss&nbsp;the dog.</div><div>その犬を避けようと彼はとっさに車の進路を変えた。<br></div>	
+tinker	tíŋkɚ<div>（動）いじくり回す、下手に修繕する</div><div><br></div><div>Can you&nbsp;tinker with&nbsp;the T.V. set--it's&nbsp;not working&nbsp;right.</div><div>テレビをいじってみてくれませんか − ちゃんと動かないのです。<br></div>	
+gadget	gˈædʒɪt<div>（名）（便利な）機械装置、気の利いた道具</div>	
+infantry	ínfəntri<div>（名）歩兵</div><div><br></div><div>two&nbsp;regiments&nbsp;of&nbsp;infantry</div><div>歩兵&nbsp;2 個連隊<br></div>	
+weld	wéld<div>（動）溶接する、結合させる</div><div><br></div><div>weld&nbsp;two&nbsp;metal plates&nbsp;together</div><div>2枚の金属板を溶接する<br></div>	
+wrestle	résl<div>（動）組み伏せる、取っ組み合う、レスリングする</div><div><br></div><div>He&nbsp;began&nbsp;to&nbsp;wrestle&nbsp;with his opponent.</div><div>彼は相手と取っ組み合いを始めた。</div>	
+fugitive	fjúːdʒəṭɪv<div>（名）逃亡者、避難民</div><div><br></div><div>a&nbsp;fugitive&nbsp;from&nbsp;justice</div><div>逃亡犯人<br></div>	
+sloppy	slάpi<div>（形）だらしない、泥んこの</div><div><br></div><div>My family&nbsp;is&nbsp;sloppy.<br></div><div>私の家族はずぼらです。<br></div>	
+fatty	fˈæṭɪ<div>（形）脂肪質の、油っこい</div><div><br></div><div>This&nbsp;meat is&nbsp;too&nbsp;fatty,&nbsp;isn't it?<br></div><div>この肉はずいぶん脂肪が多いね。<br></div>	
+inmate	ˈɪˌnmet<div>（名）（刑務所の）囚人、（精神病院などの）患者</div><div><br></div><div>an&nbsp;prison&nbsp;inmate<br></div><div>囚人</div>	
+baptize	bæptάɪz<div>（動）洗礼を施す</div><div>※キリスト教徒となるために教会が執行する儀式</div><div><br></div><div>The&nbsp;vicar&nbsp;baptized&nbsp;the baby.</div><div>牧師は赤ん坊に洗礼を施した。<br></div>	
+christen	krísn<div>（動）洗礼を施す、（洗礼を施して）〜と命名する</div><div><br></div><div>The&nbsp;child&nbsp;was&nbsp;christened&nbsp;John&nbsp;after his uncle.</div><div>子供は叔父にちなんでジョンという洗礼名をつけられた。<br></div>	
+consign	kənsάɪn<div>（他）渡す、追いやる</div><div><br></div><div>consign a&nbsp;child&nbsp;to&nbsp;his&nbsp;aunt's&nbsp;care<br>子どもの世話を叔母にゆだねる<br></div>	
+deceased	dɪˈsist<div>（形）死去した</div><div><br></div><div>one's&nbsp;deceased&nbsp;father</div><div>亡父<br></div>	
+guiltless	ˈgɪltlɪs<div>（形）潔白な</div><div><br></div><div>a&nbsp;guiltless&nbsp;man</div><div>潔白な人<br></div>	
+premiere（「プレミア」以外の名詞）	prɪmjéɚ<div>（名）初日、初演</div>	
+crucify	krúːsəfὰɪ<div>（他）はりつけにする、厳しく避難する</div><div><br></div><div>The&nbsp;critics&nbsp;crucified&nbsp;the&nbsp;author&nbsp;for&nbsp;plagiarizing&nbsp;a&nbsp;famous&nbsp;passage.</div><div>批評家は、有名な一節の盗用に著者をつるし上げた。<br></div>	
+brigade	brɪgéɪd<div>（名）大部隊、団体</div><div><br></div><div>a&nbsp;mixed&nbsp;brigade</div><div>混成旅団<br></div><div>※旅団は、陸軍編成上の単位のひとつで、師団よりも小さく、連隊と同等又はこれよりも大きい単位で、1,500名から6,000名程度の兵員によって構成される部隊をいう</div>	
+longstanding	ˈlɔˌŋstændɪŋ<div>（形）ずっと昔からの、積年の</div><div><br></div><div>a&nbsp;longstanding&nbsp;friendship<br></div><div>長年の友情<br></div>	
+paramount	pˈærəmὰʊnt<div>（形）最高の、主要な</div><div><br></div><div>Time&nbsp;is&nbsp;of&nbsp;paramount&nbsp;importance.<br></div><div>時間は最も大切である。<br></div>	
+eject	ɪdʒékt<div>（他）追い出す、取り出す</div><div><br></div><div><div><div>He&nbsp;was&nbsp;ejected&nbsp;from the&nbsp;theater&nbsp;for rowdiness.</div><div>彼は騒がしくしたので劇場から追い出された。</div></div></div>	
+elude	əlúːd<div>（他）逃れる、身をかわして避ける</div><div><br></div><div>elude&nbsp;the law<br></div><div>法の網をくぐる<br></div>	
+indictment	ɪndάɪtmənt<div>（名）起訴、告発</div><div><br></div><div>sealed&nbsp;indictment</div><div>極秘起訴<br></div>	
+adoration	`ædəréɪʃən<div>（名）崇拝、熱愛</div><div><br></div><div>showing&nbsp;adoration<br></div><div>崇拝を示すさま<br></div>	
+emulate	émjʊlèɪt<div>（他）見習う、競う</div><div><br></div><div>It's&nbsp;customary for&nbsp;boys&nbsp;to&nbsp;emulate&nbsp;their fathers.</div><div>男の子には父親を見習う習慣がある。<br></div>	
+legislator	lédʒɪslèɪṭɚ<div>（名）立法者、国会議員</div><div><br></div><div>The&nbsp;offence&nbsp;was&nbsp;not&nbsp;contemplated&nbsp;by the&nbsp;legislator.<br></div><div>この犯罪は立法者の予期せざるところであった。<br></div>	
+compliance	kəmplάɪəns<div>（名）（規則・要求などに）従うこと、法令遵守</div><div><br></div><div><div><div>in&nbsp;compliance&nbsp;with&nbsp;the law</div><div>法に従って</div></div></div>	
+feign	féɪn<div>（他）装う</div><div><br></div><div><div><div>feign&nbsp;illness</div><div>仮病をつかう</div></div></div>	
+guild	gíld<div>（名）（同業）組合、ギルド</div>	
+flirt	flˈɚːt<div>（自）浮気する、いちゃつく、もてあそぶ</div><div><br></div><div>Jane&nbsp;flirted&nbsp;with the idea of&nbsp;traveling&nbsp;around the world.<br>ジェーンは世界一周旅行でもしようかとおもしろ半分に考えた。<br></div>	
