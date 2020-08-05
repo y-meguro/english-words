@@ -851,7 +851,7 @@ malnutrition	<div>ˌmælnuˈtrɪʃʌn<br></div>栄養失調
 malpractice	<div>mæˈlpræktʌs<br></div>（名）不正行為、医療過誤<div><br></div><div>a&nbsp;malpractice suit<br>誤診訴訟<br></div>	
 maltreatment	<div>mæˈltritmʌnt<br></div>虐待、冷遇	
 setback	<div>sétbæ`k<br></div>（名）挫折、後退、障害<div><br></div><div>He&nbsp;had a&nbsp;setback&nbsp;in&nbsp;his business.</div><div>彼は商売で挫折した。<br></div>	
-mishap	[mísh`æp]<div>災難、不運</div>	
+mishap	mísh`æp<div>（名）災難、不運</div>	
 outfit	<div>άʊtfìt<br></div>服装（一式）、装備（一式）	
 inception	<div>ɪnsépʃən<br></div>始まり、発端	
 discretion	<div>[dɪskréʃən]</div>（名）裁量、慎重さ	
@@ -4536,7 +4536,7 @@ bash	bˈæʃ<div>（動）ぶん殴る、打ち壊す</div><div><br></div><div>b
 braid	bréɪd<div>（名）お下げ髪、三つ編み、組みひも</div><div><br></div><div>She&nbsp;wears&nbsp;her&nbsp;hair&nbsp;in&nbsp;braids.<br>彼女は髪をお下げにしている。<br></div>	
 boutique	buːtíːk<div>（名）ブティック</div>	
 bustle	bˈʌsl<div>（動）せわしく動き回る</div><div><br></div><div>She was&nbsp;bustling about&nbsp;preparing&nbsp;the dinner.</div><div>彼女は食事の準備にばたばたと走り回っていた。<br></div>	
-chuck（「チャック（名詞）」以外の意味）	tʃˈʌk<div>（動）投げる、捨てる</div><div><br></div><div><div><div>chuck&nbsp;a&nbsp;ball&nbsp;to a&nbsp;person</div><div>人にボールをほうる</div></div></div>	
+chuck（「チャック（名詞）」以外の動詞）	tʃˈʌk<div>（動）投げる、捨てる</div><div><br></div><div><div><div>chuck&nbsp;a&nbsp;ball&nbsp;to a&nbsp;person</div><div>人にボールをほうる</div></div></div>	
 grenade	"grɪnéɪd<div>（名）手榴弾</div><div><br></div><div><img src=""paste-91896acd8d8af29191411b99ecfcb20b6fe2f1c1.jpg""><br></div>"	
 clamber	klˈæm(b)ɚ<div>（動）よじ登る</div><div><br></div><div>clamber over a&nbsp;wall</div><div>塀を乗り越える<br></div>	
 rung（名詞の意味）	rˈʌŋ<div>（名）（はしごの）段</div><div><br></div><div>※ring（鳴る）の過去分詞でもある</div>	
@@ -4606,3 +4606,27 @@ compliance	kəmplάɪəns<div>（名）（規則・要求などに）従うこ�
 feign	féɪn<div>（他）装う</div><div><br></div><div><div><div>feign&nbsp;illness</div><div>仮病をつかう</div></div></div>	
 guild	gíld<div>（名）（同業）組合、ギルド</div>	
 flirt	flˈɚːt<div>（自）浮気する、いちゃつく、もてあそぶ</div><div><br></div><div>Jane&nbsp;flirted&nbsp;with the idea of&nbsp;traveling&nbsp;around the world.<br>ジェーンは世界一周旅行でもしようかとおもしろ半分に考えた。<br></div>	
+binge	bíndʒ<div>（動）慎みなく食べる</div><div><br></div><div><div><div>The&nbsp;kids&nbsp;binged&nbsp;on ice&nbsp;cream.</div><div>子供はアイスクリームを食べすぎた。</div></div></div>	
+overindulge	<div>òuvərindʌ́ldʒ<br></div>（動）慎みなく食べる<div><br></div><div>He&nbsp;overindulges&nbsp;in&nbsp;whiskey.</div><div>彼はウイスキーの飲みすぎだ。<br></div>	
+lipid	lípɪd<div>（名）脂質</div><div><br></div><div>The&nbsp;liver&nbsp;plays&nbsp;a key&nbsp;role&nbsp;in&nbsp;lipid&nbsp;metabolism.<br></div><div>肝臓が脂質代謝において重要な役割を持ちます。<br></div>	
+triglyceride	tɹʌɪˈɡlɪsəɹʌɪd<div>（名）トリグリセリド、中性脂肪</div>	
+ammunition	`æmjʊníʃən<div>（名）弾薬、攻撃手段</div>	
+greyhound	"ˈɡɹeɪhaʊnd<div>（名）グレーハウンド（猟犬）</div><div><br></div><div><img src=""images.jpg""><br></div>"	
+wreckage	rékɪdʒ<div>（名）残骸、漂流物</div><div><br></div><div>a heap&nbsp;of&nbsp;wreckage<br></div><div>瓦礫の山<br></div>	
+hoard	hˈɔɚd<div>（動）蓄える</div><div>（名）貯蔵</div><div><br></div><div>hoard&nbsp;up&nbsp;gold</div><div>金を貯蔵する<br></div>	
+atrocity	ətrάsəṭi<div>（名）残虐、非道</div><div><br></div><div>commit atrocities&nbsp;against&nbsp;civilians</div><div>民間人に残虐行為を行なう<br></div>	
+padding	ˈpædɪŋ<div>（名）詰め物、詰めること</div><div><br></div><div>The wall padding helps insulate your house.</div><div>その壁の詰め物は家の断熱に有効である。</div>	
+throughout	θruːάʊt<div>（前）至るところで</div><div><br></div><div>Her&nbsp;name&nbsp;is&nbsp;famous&nbsp;throughout&nbsp;the world.</div><div>彼女の名は世界中に知れ渡っている。<br></div>	
+parliament	pάɚləmənt<div>（名）議会</div><div><br></div><div>during the present&nbsp;parliament</div><div>今会期中に<br></div>	
+fund	fˈʌnd<div>（名）基金、資金</div><div><br></div><div>a&nbsp;capital&nbsp;fund<br></div><div>資本金</div>	
+estate	estéɪt<div>（名）地所、私有地</div><div><br></div><div>buy&nbsp;an&nbsp;estate</div><div>地所を買う<br></div>	
+treaty	tríːṭi<div>（名）条約</div><div><br></div><div>a&nbsp;peace treaty</div><div>平和条約<br></div>	
+van	"vˈæn<div>（名）（車の）バン</div><div><br></div><div><img src=""paste-e2f015f0d36e97145960599a3f4078c2c527af5c.jpg""><br></div>"	
+pale	péɪl<div>（形）青白い、（色が）薄い</div><div>（動）青ざめる</div><div><br></div><div>She&nbsp;turned&nbsp;pale&nbsp;with fear&nbsp;.<br>彼女は恐怖で青ざめた。<br></div>	
+blowup	bˈlouʌ`p<div>（名）破裂、爆発</div><div><br></div><div>a&nbsp;blowup&nbsp;of a&nbsp;nuclear reactor building<br></div><div>原子炉建屋の爆発<br></div>	
+cottage	"kάṭɪdʒ<div>（名）小家屋、コテージ</div><div><br></div><div><img src=""paste-2ae5164c3f6a95dc2d899051031dc03e3cbbec18.jpg""><br></div>"	
+pat	pˈæt<div>（動）軽く叩く</div><div><br></div><div>pat&nbsp;a&nbsp;ball</div><div>ボールをつく<br></div>	
+folk	fóʊk<div>（名）人々</div><div><br></div><div>Home care&nbsp;has been&nbsp;arranged&nbsp;for the&nbsp;old&nbsp;folks.</div><div>老人のために在宅治療が準備されている。<br></div>	
+grave（名詞の「墓」ではない、形容詞の意味は？）	gréɪv<div>（形）重大な</div><div>（名）墓</div><div><br></div><div>a&nbsp;grave&nbsp;decision</div><div>重大な決定<br></div>	
+strip（「ストリップ（ショー）」以外の名詞の意味は？）	stríp<div>（名）細長いきれ</div><div>（動）はぐ、むく</div><div><div><div><br>a&nbsp;strip&nbsp;of&nbsp;paper</div><div>ひときれの紙</div></div></div>	
+carriage	kˈærɪdʒ<div>（名）乗り物、四輪馬車</div><div><br></div><div>a&nbsp;carriage&nbsp;and&nbsp;pair</div><div>二頭立ての馬車<br></div>	
