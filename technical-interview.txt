@@ -1,0 +1,8 @@
+3の2乗	three squared / the square of three	
+5の3乗	five cubed / the cube of five	
+Xの10乗	X to the 10th power / X to the power of 10	
+時間計算量	time complexity	
+空間計算量	space complexity	
+並び替える	rearrange&nbsp;rìːəréɪndʒ<div>sort&nbsp;sˈɔɚt</div>	
+大文字 / 小文字	大文字<div>capital letter / uppercase letter</div><div><br></div><div>小文字</div><div>small letter / lowercase letter</div>	
+回文	<div>palindrome pˈælɪndròʊm<br></div>	
