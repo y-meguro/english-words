@@ -20,6 +20,11 @@
 - [ドラゴン・イングリッシュ基本英文100](https://amzn.to/3bFlU5d)
 - [TOEFL iBTテスト必修フレーズ100](https://amzn.to/383HRtK)
 
+## IELTS General
+
+- [Complete IELTS Writing](https://www.ieltsanswers.com/books-ielts.html)
+- [IELTS Speaking Success](https://www.ieltsanswers.com/speaking-test-book.html)
+
 ## 動画
 
 - [Fighting COVID-19 with Epidemiology: A Johns Hopkins Teach-Out | Coursera](https://www.coursera.org/learn/covid19-epidemiology)
