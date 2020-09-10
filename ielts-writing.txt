@@ -15,7 +15,7 @@
 私の謝罪を受け入れてくれることを願っています。<br><div><br></div><div>Task1 の making an apology の場合の書き終わりの挨拶<br></div>	I hope that you will accept my apologies.	
 <div>この残念なミスを見過ごしていただきたいと思います。<br></div><br><div>Task1 の making an apology の場合の書き終わりの挨拶<br></div>	I hope that you can overlook this regrettable error.	
 先週の土曜日の夜の誕生日会でお騒がせしたことを心よりお詫び申し上げます。<div><br></div><div>Task1 の making an apology<br></div>	<div><div>I am writing to sincerely apologise for the disturbance caused during my birthday party last Saturday night.</div></div>	
-心よりお詫び申し上げます。<div><br></div><div>Task1 の making an apology<br></div>	Please accept my most sincere apologies.	
+心よりお詫び申し上げます。<div><br></div><div>Task1 の making an apology<br></div><div>my most を使う</div>	Please accept my most sincere apologies.	
 誕生日を覚えていてくれたことに感謝の気持ちを込めて書いています。<br><div><br></div><div>Task1 の thanking someone の書き出し<br></div>	<div><div>I am writing to express my gratitude for remembering my birthday.</div></div>	
 <div>改めて、私の誕生日を覚えていてくれて本当に感謝しています。<br></div><div><br></div>Task1 の thanking someone の締め	<div><div>Once again I really appreciated you remembering my birthday.</div></div>	
 現在、XYZかどうかが議論されています。<div><br></div><div>opinion essayのIntroductionの表現</div><div>whether XYZ を使って</div>	There is currently a contentious argument over whether XYZ	
@@ -28,6 +28,40 @@
 このエッセイの目的は、この議論の双方を分析した上で、私が学校には他の機能があるべきだと考える理由を説明することである。<br><div><br></div><div>Task2 の both sides and opinion essay の場合の Introduction<br></div>	<div><div>The purpose of this essay is to analyse both sides of this argument and then I will explain why I believe the view that schools should have other functions is stronger.</div></div>	
 結論から言うと、賛否両論あると思います。	In conclusion, I believe both sides of the argument have their merits.<div><br></div><div>Task2 の both sides and opinion essay の場合の Conclusion で使う<br></div>	
 <div>今日、非常に論議を呼んでいるのは、xxxを持つべきかどうかということである。このエッセイでは、この問題を両方の視点から検証した上で、この問題についての私の意見を述べたいと思います。<br></div><div><br></div>Task2 の both sides and opinion essay の場合のテンプレート。 Introduction 部分	<div><div>A highly controversial issue today relates to whether to have ...[xxx]... or not. In this essay, I am going to examine this question from both points of view and then give my own opinion on the matter.</div></div>	
-<div>aaaのメリットは、そのデメリットをかなり上回ると主張する人がいます。これを信じる主な理由はbbbです。cccと言うことも可能です。その良い例として、dddがあります。<br></div><div><br></div>Task2 の both sides and opinion essay の場合のテンプレート。 Body1 部分	<div><div>There are people who argue that the benifits of [aaa] considerably outweigh its disadvantages. The main reason for believing this is that [bbb]. It is also possible to say that [ccc]. One good illustration of this is [ddd].</div></div>	
+<div>aaaのメリットは、そのデメリットをかなり上回ると主張する人がいます。これを信じる主な理由はbbbです。cccと言うことも可能です。その良い例として、dddがあります。<br></div><div><br></div>Task2 の both sides and opinion essay の場合のテンプレート。 Body1 部分<div>main reason と illustration を使う<br></div>	<div><div>There are people who argue that the benifits of [aaa] considerably outweigh its disadvantages. The main reason for believing this is that [bbb]. It is also possible to say that [ccc]. One good illustration of this is [ddd].</div></div>	
 <div>一方で、反論することも可能です。それはしばしば、[aaa]と主張されています。人々がよくこのような意見を持つのは、[bbb]だからです。 2つ目のポイントは、[ccc]です。ここで特に良い例が[ddd]です。</div><div><br></div>Task2 の both sides and opinion essay の場合のテンプレート。 Body2 部分	On the other hand, it is also possible to make the opposing case. It is often argued that [aaa]. People often have this opinion because [bbb]. A second point is that [ccc]. A particularly good example here is [ddd].	
 <div>結論から言うと、私はどちらの議論にもメリットがあると考えています。しかしバランス的には、私は[aaa]を感じる。というのも[bbb]のためである。<br></div><div><br></div>Task2 の both sides and opinion essay の場合のテンプレート。 Conclusion 部分	<div><div>In conclusion, I believe both arguments have their merits. On balance, however, I feel that [aaa]. This is because [bbb].</div></div>	
+aaaは多くの国で深刻化しています。bbbは多くの社会を脅かしていますが、その影響をうまく食い止めることもできます。このエッセイでは、社会上のcccによって引き起こされる問題のいくつかを見て、問題のいくつかの解決策を提案しています。<div><br></div><div>Task2 の two question essay の場合のテンプレート。 Introduction 部分<br></div>	[aaa] is becoming increasingly serious in many nations. Although [bbb] threaten many societies, its/their effects can also be combated successfully. This essay looks at some of the problems caused by [ccc] on society, and suggests some solutions to the problems.	
+aaaは複数の問題を引き起こす。bbbの影響は非常に明白です 例えばcccです。dddのようないくつかのケースでは、死にさえつながります。第2の効果はeeeです。fffの人はgggになります。<br><div><br></div><div>Task2 の two question essay の場合のテンプレート。 Body1 部分<br></div>	[aaa] causes multiple problems. The [bbb] effects are very obvious. For example, [ccc] . In some cases, such as [ddd] even leads to death. The second effect is [eee] . People who [fff] become [ggg] .	
+<div>しかし、[aaa]の脅威は戦うことができます。教育は、この問題に取り組むための主な方法です。彼らはこの問題を避けることができるように、人々は効果を認識する必要があります。さらに、政府は[bbb]もできます。これは、[ccc]のための良いアプローチです。<br></div><div><br></div>Task2 の two question essay の場合のテンプレート。 Body2 部分	However, the menace of [aaa] can be fought. Education is the main way to tackle this issue. People need to be aware of the effects so that they can avoid this problem. In addition, the government could also [bbb]. This is a good approach because [ccc].	
+<div>結論から言うと、[aaa]は人々の健康や[bbb]の人々に有害な影響を与えるので、深刻な問題である。この問題に対処するための最善の方法は、人々にその有害な影響について教育することであり、また、政府が[ccc]することです。問題は、短期的に完全に排除される可能性は低いですが、それが現在の社会に与えている影響を軽減するための具体的な手順があります。<br></div><div><br></div>Task2 の two question essay の場合のテンプレート。 Conclusion 部分	In conclusion, [aaa] is a serious issue because it causes harmful effects on people's health and people who are [bbb]. The best approaches to deal with it are to educate people about its damaging effects, and also for the government to [ccc]. Although the problem is unlikely to be entirely eliminated in the short term there are concrete steps to reduce the effects it is having on the current society.	
+childrenのrephrase2つ	<div>ˈdʒuvʌnʌlz<br></div>juveniles<div><br></div><div>ˈjʌŋstɝz<br><div>youngsters</div></div>	
+educationのrephrase3つ	learning / instruction / acquiring knowledge	
+studentsのrephrase1つ	pupils	
+parentsのrephrase3つ	<div>ˈkɛˌrgɪvɝz<br></div>caregivers<div><br></div><div>ˈgɑrdiʌnz<br></div><div>guardians</div><div><br></div><div>mothers and fathers</div>	
+schoolsのrephrase1つ	educational institutions	
+societyのrephrase2つ	community / citizens	
+teachersのrephrase1つ	educators	
+healthのrephrase3つ（健康）	well-being / physical condition / fitness	
+healthyのrephrase2つ（健康な）	fit / in good condition<div><br></div><div>Is&nbsp;she&nbsp;fit&nbsp;to&nbsp;travel?</div><div>彼女はもう元気で旅行ができますか？<br></div>	
+unhealthyのrephrase2つ	unwell / poor medical condition	
+sick peopleのrephrase2つ	patients / people who are unwell	
+treatmentのrephrase2つ（治療）	cure / healing	
+sicknessのrephrase1つ（病気）	medical condition	
+influenceのrephrase1つ（影響）	effect on<div><br></div><div>It&nbsp;had&nbsp;no&nbsp;effect&nbsp;on&nbsp;me.<br></div><div>利き目が無かった<br></div>	
+negative developmentのrephrase1つ	harmful trend	
+internetのrephrase1つ	cyberspace	
+mediaのrephrase1つ	paparazzi（ネガティブな意味）ˌpɑpɑˈrɔˌzi	
+popularityのrephrase2つ（人気）	fame / attractiveness	
+recentのrephrase1つ	contemporary	
+advancesのrephrase1つ	developments	
+improveのrephrase2つ	enhance / progress<div><br></div><div><div><div>Have you&nbsp;progressed&nbsp;in&nbsp;your&nbsp;studies?</div><div>研究は進みましたか。</div></div></div>	
+technologyのrephrase1つ	<div>ʌˈdvænsmʌnts<br></div>scientific advancements	
+punishmentのrephrase1つ	penalty&nbsp;pénlti	
+crimeのrephrase3つ	law-breaking / transgression / offense	
+lawsのrephrase2つ	regulations / rules	
+environmentのrephrase2つ	biosphere / ecosystem	
+damageのrephrase1つ	devastation&nbsp;dèvəstéɪʃən<div>荒廃、惨害</div>	
+pollutionのrephrase1つ	contamination	
+problemsのrephrase1つ	issues	
+solutionsのrephrase2つ	solving / ways to tackle	

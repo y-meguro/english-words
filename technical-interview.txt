@@ -6,3 +6,5 @@ Xの10乗	X to the 10th power / X to the power of 10
 並び替える	rearrange&nbsp;rìːəréɪndʒ<div>sort&nbsp;sˈɔɚt</div>	
 大文字 / 小文字	大文字<div>capital letter / uppercase letter</div><div><br></div><div>小文字</div><div>small letter / lowercase letter</div>	
 回文	<div>palindrome pˈælɪndròʊm<br></div>	
+単方向連結リスト、双方向連結リスト	<div>síŋgli<br></div>singly linked list / doubly linked list	
+平衡二分探索木	self-balancing binary search tree	
